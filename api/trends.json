@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-30T12:16:33.123167+08:00",
-  "total_titles_processed": 1076,
+  "generated_at": "2025-12-30T13:06:33.952571+08:00",
+  "total_titles_processed": 1145,
   "failed_sources": [],
   "trends": [
     {
@@ -26,8 +26,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时07分 ~ 12时16分]"
+          "appearance_count": 6,
+          "time_info": "[08时07分 ~ 13时06分]"
         },
         {
           "title": "特朗普暗示泽连斯基：为了不再失去领土，还是尽快达成协议",
@@ -45,6 +45,19 @@
           "time_info": "[00时03分 ~ 12时16分]"
         },
         {
+          "title": "得知普京官邸遭袭 特朗普：很生气",
+          "url": "https://www.baidu.com/s?wd=%E5%BE%97%E7%9F%A5%E6%99%AE%E4%BA%AC%E5%AE%98%E9%82%B8%E9%81%AD%E8%A2%AD+%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E5%BE%88%E7%94%9F%E6%B0%94",
+          "source": "百度热搜",
+          "ranks": [
+            6,
+            5,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[08时07分 ~ 13时06分]"
+        },
+        {
           "title": "特朗普谈乌克兰试图袭击普京官邸：对此非常愤怒",
           "url": "https://flash.jin10.com/detail/20251230032746103800",
           "source": "金十数据",
@@ -55,19 +68,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时03分 ~ 05时03分]"
-        },
-        {
-          "title": "得知普京官邸遭袭 特朗普：很生气",
-          "url": "https://www.baidu.com/s?wd=%E5%BE%97%E7%9F%A5%E6%99%AE%E4%BA%AC%E5%AE%98%E9%82%B8%E9%81%AD%E8%A2%AD+%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E5%BE%88%E7%94%9F%E6%B0%94",
-          "source": "百度热搜",
-          "ranks": [
-            6,
-            5,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时07分 ~ 12时16分]"
         },
         {
           "title": "特朗普称得知普京官邸遭袭很生气",
@@ -93,15 +93,16 @@
           "time_info": "00时04分"
         },
         {
-          "title": "据悉特朗普及其高级顾问要求内塔尼亚胡调整约旦河西岸政策",
-          "url": "https://flash.jin10.com/detail/20251230114449386800",
-          "source": "金十数据",
+          "title": "俄罗斯称乌91架无人机袭击普京官邸，泽连斯基否认，特朗普“很生气”",
+          "url": "https://wallstreetcn.com/articles/3762268",
+          "source": "华尔街见闻",
           "ranks": [
-            4
+            7,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时16分"
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时31分 ~ 13时06分]"
         },
         {
           "title": "美国总统特朗普：伊朗应当达成一份协议，他们想要那样做。 我听说，（遭受美国+以色列军事袭击之后）伊朗正在重建。 若果真那样，将（再次）袭击伊朗。",
@@ -165,18 +166,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时03分 ~ 05时03分]"
-        },
-        {
-          "title": "俄罗斯称乌91架无人机袭击普京官邸，泽连斯基否认，特朗普“很生气”",
-          "url": "https://wallstreetcn.com/articles/3762268",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时31分 ~ 12时16分]"
         },
         {
           "title": "特朗普：若伊朗发展核武器，支持对伊朗发动快速打击",
@@ -340,6 +329,18 @@
           "time_info": "[06时03分 ~ 07时04分]"
         },
         {
+          "title": "据悉特朗普及其高级顾问要求内塔尼亚胡调整约旦河西岸政策",
+          "url": "https://flash.jin10.com/detail/20251230114449386800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时16分 ~ 13时06分]"
+        },
+        {
           "title": "美国总统特朗普：亚伯拉罕协议将被扩大。",
           "url": "https://flash.jin10.com/detail/20251230051237992800",
           "source": "金十数据",
@@ -374,6 +375,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时03分 ~ 07时04分]"
+        },
+        {
+          "title": "解放军封岛军演，特朗普表态",
+          "url": "https://news.ifeng.com/c/8pV2xI6hHOn",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时31分 ~ 13时06分]"
         },
         {
           "title": "美国总统特朗普：美东时间08:00已经与俄罗斯总统普京通电话。",
@@ -466,6 +478,17 @@
           "time_info": "[03时03分 ~ 05时03分]"
         },
         {
+          "title": "美军首次袭击委内瑞拉陆地目标？特朗普称美军摧毁一“大型设施”",
+          "url": "https://wallstreetcn.com/articles/3762270",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时37分 ~ 13时06分]"
+        },
+        {
           "title": "美国总统特朗普：但哈马斯必须先解除武装。",
           "url": "https://flash.jin10.com/detail/20251230022839740800",
           "source": "金十数据",
@@ -501,17 +524,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时31分 ~ 10时37分]"
-        },
-        {
-          "title": "解放军封岛军演，特朗普表态",
-          "url": "https://news.ifeng.com/c/8pV2xI6hHOn",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时31分 ~ 12时16分]"
         },
         {
           "title": "美国总统特朗普：在与内塔尼亚胡的五分钟会面中，我们解决了三个问题。",
@@ -610,6 +622,18 @@
           "time_info": "[04时03分 ~ 05时03分]"
         },
         {
+          "title": "据AXIOS：特朗普及其高级幕僚已要求内塔尼亚胡改变其在被占领的约旦河西岸所推行的政策。",
+          "url": "https://flash.jin10.com/detail/20251230113213777800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时16分 ~ 13时06分]"
+        },
+        {
           "title": "克里姆林宫助理Ushakov：美国总统特朗普向俄罗斯总统普京介绍了自己与乌克兰总统泽连斯基会谈的情况。（塔斯社）",
           "url": "https://wallstreetcn.com/livenews/3028263",
           "source": "华尔街见闻-快讯",
@@ -644,17 +668,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时03分 ~ 07时04分]"
-        },
-        {
-          "title": "美军首次袭击委内瑞拉陆地目标？特朗普称美军摧毁一“大型设施”",
-          "url": "https://wallstreetcn.com/articles/3762270",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时37分 ~ 12时16分]"
         },
         {
           "title": "美国总统特朗普：俄罗斯总统普京告诉我，他的官邸遭到乌克兰袭击。（就该事件）我不认同此类行为。",
@@ -787,6 +800,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时03分 ~ 02时04分]"
+        },
+        {
+          "title": "特朗普称不担心解放军绕台军演",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E4%B8%8D%E6%8B%85%E5%BF%83%E8%A7%A3%E6%94%BE%E5%86%9B%E7%BB%95%E5%8F%B0%E5%86%9B%E6%BC%94",
+          "source": "百度热搜",
+          "ranks": [
+            19,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时16分 ~ 13时06分]"
         },
         {
           "title": "俄罗斯总统助理乌沙科夫：普京告诉特朗普，俄罗斯有意继续与美国合作以实现和平，但俄罗斯的立场将会有所调整。",
@@ -931,17 +956,6 @@
           "time_info": "06时03分"
         },
         {
-          "title": "据AXIOS：特朗普及其高级幕僚已要求内塔尼亚胡改变其在被占领的约旦河西岸所推行的政策。",
-          "url": "https://flash.jin10.com/detail/20251230113213777800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时16分"
-        },
-        {
           "title": "美国总统特朗普：我们拭目以待黎巴嫩解除真主党武装的努力，真主党一直表现得很糟糕。伊朗的行为或许有些不当，但这尚未得到证实。",
           "url": "https://flash.jin10.com/detail/20251230050729543800",
           "source": "金十数据",
@@ -1028,17 +1042,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时04分"
-        },
-        {
-          "title": "特朗普称不担心解放军绕台军演",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E4%B8%8D%E6%8B%85%E5%BF%83%E8%A7%A3%E6%94%BE%E5%86%9B%E7%BB%95%E5%8F%B0%E5%86%9B%E6%BC%94",
-          "source": "百度热搜",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时16分"
         },
         {
           "title": "美国总统特朗普：我们对约旦河西岸定居者暴力问题的看法并不100%完全一致。",
@@ -1157,6 +1160,30 @@
           "time_info": "[00时03分 ~ 06时03分]"
         },
         {
+          "title": "美股回调，金属全线回落，现货白银重挫8%，沪金跌破千元关口，原油反弹",
+          "url": "https://wallstreetcn.com/articles/3762238",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[08时07分 ~ 13时06分]"
+        },
+        {
+          "title": "美股收盘：贵金属风暴冲击市场情绪 三大指数集体收跌",
+          "url": "https://www.cls.cn/detail/2243401",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[08时07分 ~ 13时06分]"
+        },
+        {
           "title": "美股三大期指集体走低 AI概念股盘前承压 | 今夜看点",
           "url": "https://www.cls.cn/detail/2243270",
           "source": "财联社热门",
@@ -1168,30 +1195,6 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[00时03分 ~ 11时31分]"
-        },
-        {
-          "title": "美股回调，金属全线回落，现货白银重挫8%，沪金跌破千元关口，原油反弹",
-          "url": "https://wallstreetcn.com/articles/3762238",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时07分 ~ 12时16分]"
-        },
-        {
-          "title": "美股收盘：贵金属风暴冲击市场情绪 三大指数集体收跌",
-          "url": "https://www.cls.cn/detail/2243401",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时07分 ~ 12时16分]"
         },
         {
           "title": "“圣诞行情”暂歇，美股回调，金属全线回落，现货白银重挫8%，沪金跌破千元关口",
@@ -1312,7 +1315,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "分析师：金价从历史高位回落 流动性稀薄正放大回调走势",
@@ -1331,11 +1334,23 @@
           "url": "https://www.zhihu.com/question/1989248950952288367",
           "source": "知乎",
           "ranks": [
-            11
+            11,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时16分 ~ 13时06分]"
+        },
+        {
+          "title": "金价暴跌店员称跌幅首次见",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E6%9A%B4%E8%B7%8C%E5%BA%97%E5%91%98%E7%A7%B0%E8%B7%8C%E5%B9%85%E9%A6%96%E6%AC%A1%E8%A7%81%23&t=31&band_rank=7&Refer=top",
+          "source": "微博",
+          "ranks": [
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时16分"
+          "time_info": "13时06分"
         },
         {
           "title": "金十图示：2025年12月30日（周二）上海金早盘价为979.99元/克，较国际金价(980.18元/克)，低0.19元/克",
@@ -1419,8 +1434,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时03分 ~ 12时16分]"
+          "appearance_count": 16,
+          "time_info": "[00时03分 ~ 13时06分]"
         }
       ]
     },
