@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-31T09:31:34.823773+08:00",
-  "total_titles_processed": 827,
+  "generated_at": "2025-12-31T10:36:54.719731+08:00",
+  "total_titles_processed": 911,
   "failed_sources": [],
   "trends": [
     {
@@ -42,8 +42,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时07分 ~ 09时31分]"
+          "appearance_count": 3,
+          "time_info": "[08时07分 ~ 10时36分]"
         },
         {
           "title": "白银价格大幅反弹 美股三大期指微跌 | 今夜看点",
@@ -58,6 +58,18 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时03分 ~ 09时31分]"
+        },
+        {
+          "title": "美股收盘：三大指数携手三连跌 金属上涨潮卷土重来",
+          "url": "https://www.cls.cn/detail/2244733",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时07分 ~ 10时36分]"
         },
         {
           "title": "会议纪要难挽交投情绪，美股指三连跌，Meta涨，黄金反弹后劲不足，白银涨逾5%",
@@ -81,18 +93,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时03分 ~ 07时03分]"
-        },
-        {
-          "title": "美股收盘：三大指数携手三连跌 金属上涨潮卷土重来",
-          "url": "https://www.cls.cn/detail/2244733",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时07分 ~ 09时31分]"
         },
         {
           "title": "金十图示：2025年12月30日（周二）热门中概股行情一览（美股盘中）",
@@ -236,7 +236,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 17,
+      "match_count": 19,
       "titles": [
         {
           "title": "外交部回应特朗普涉中国军演言论",
@@ -429,6 +429,17 @@
           "time_info": "08时07分"
         },
         {
+          "title": "特朗普为何称不担心解放军绕台军演",
+          "url": "https://www.toutiao.com/trending/7589509514882891795/",
+          "source": "今日头条",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时36分"
+        },
+        {
           "title": "乌克兰总统泽连斯基：如果美国总统特朗普访问乌克兰，这将“很有用”。",
           "url": "https://flash.jin10.com/detail/20251230235722002800",
           "source": "金十数据",
@@ -438,6 +449,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时04分"
+        },
+        {
+          "title": "特朗普或已备好关税“B计划”",
+          "url": "https://www.toutiao.com/trending/7589626481093905956/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时36分"
         }
       ]
     },
@@ -688,6 +710,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时03分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "黄金",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "如何看待黄金白银价格波动",
+          "url": "https://www.douyin.com/hot/2351661",
+          "source": "抖音",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时36分"
         }
       ]
     }
