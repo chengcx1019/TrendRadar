@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-01T13:08:51.391299+08:00",
-  "total_titles_processed": 1044,
+  "generated_at": "2026-01-01T14:04:13.159631+08:00",
+  "total_titles_processed": 1104,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[08时08分 ~ 13时08分]"
+          "appearance_count": 11,
+          "time_info": "[08时08分 ~ 14时04分]"
         },
         {
           "title": "中方回应特朗普涉东部战区军演言论",
@@ -237,17 +237,6 @@
           "time_info": "[00时03分 ~ 07时03分]"
         },
         {
-          "title": "美股三大期指小幅走弱 年末获利了结情绪升温 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2245895",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时03分 ~ 07时03分]"
-        },
-        {
           "title": "美股收盘：三大指数低调收官 中国金龙指数全年累计上涨11.33%",
           "url": "https://www.cls.cn/detail/2246008",
           "source": "财联社热门",
@@ -257,8 +246,19 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[08时08分 ~ 13时08分]"
+          "appearance_count": 11,
+          "time_info": "[08时08分 ~ 14时04分]"
+        },
+        {
+          "title": "美股三大期指小幅走弱 年末获利了结情绪升温 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2245895",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时03分 ~ 07时03分]"
         },
         {
           "title": "金十图示：2025年12月31日（周三）美股热门股票行情一览（美股盘中）",
@@ -416,8 +416,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时31分 ~ 13时08分]"
+          "appearance_count": 9,
+          "time_info": "[09时31分 ~ 14时04分]"
         }
       ]
     },
