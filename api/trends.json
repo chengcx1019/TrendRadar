@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-06T02:04:27.196223+08:00",
-  "total_titles_processed": 462,
+  "generated_at": "2026-01-06T03:05:20.864964+08:00",
+  "total_titles_processed": 530,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 25,
+      "match_count": 29,
       "titles": [
         {
           "title": "特朗普接连向6国发出威胁，哥总统强硬表态",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时04分 ~ 02时04分]"
+          "appearance_count": 4,
+          "time_info": "[00时04分 ~ 03时05分]"
         },
         {
           "title": "特朗普对印度买俄石油发出最后通牒",
@@ -30,15 +30,15 @@
           "time_info": "00时04分"
         },
         {
-          "title": "丹麦首相表示，她认真对待美国总统特朗普关于格陵兰岛的威胁。",
-          "url": "https://flash.jin10.com/detail/20260105235811612800",
-          "source": "金十数据",
+          "title": "英国外交大臣Cooper：格陵兰岛的未来由格陵兰岛和丹麦决定，而非（特朗普政府等）其他方面来决定。",
+          "url": "https://wallstreetcn.com/livenews/3031063",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            2
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时04分"
+          "time_info": "03时05分"
         },
         {
           "title": "美国是否会在哥伦比亚开展行动？特朗普：这听上去挺不错的",
@@ -50,8 +50,19 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时04分 ~ 02时04分]"
+          "appearance_count": 4,
+          "time_info": "[00时04分 ~ 03时05分]"
+        },
+        {
+          "title": "丹麦首相表示，她认真对待美国总统特朗普关于格陵兰岛的威胁。",
+          "url": "https://flash.jin10.com/detail/20260105235811612800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时04分"
         },
         {
           "title": "委内瑞拉总统马杜罗的儿子Nicolas Maduro Guerra通过国家电视台表示 ：父亲（被特朗普政府）绑架，他将回国。 美军掳走父亲违反国际法。",
@@ -75,8 +86,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时04分 ~ 02时04分]"
+          "appearance_count": 4,
+          "time_info": "[00时04分 ~ 03时05分]"
         },
         {
           "title": "国际刑事法院原首席检察官：特朗普犯了“侵略罪”",
@@ -86,8 +97,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时04分 ~ 02时04分]"
+          "appearance_count": 4,
+          "time_info": "[00时04分 ~ 03时05分]"
         },
         {
           "title": "中方回应特朗普谈格陵兰岛涉华言论",
@@ -96,11 +107,12 @@
           "ranks": [
             9,
             16,
-            19
+            19,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时04分 ~ 02时04分]"
+          "appearance_count": 4,
+          "time_info": "[00时04分 ~ 03时05分]"
         },
         {
           "title": "特朗普向多个国家发出威胁",
@@ -112,8 +124,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时04分 ~ 02时04分]"
+          "appearance_count": 4,
+          "time_info": "[00时04分 ~ 03时05分]"
         },
         {
           "title": "下一个打击目标？特朗普威胁对哥伦比亚动武 哥方强烈驳斥",
@@ -123,8 +135,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时04分 ~ 02时04分]"
+          "appearance_count": 4,
+          "time_info": "[00时04分 ~ 03时05分]"
         },
         {
           "title": "特朗普宣布美国接管委内瑞拉，将让美石油巨头进入委内瑞拉，意味着什么？委内瑞拉接下来将面临哪些危机？",
@@ -134,8 +146,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时04分 ~ 02时04分]"
+          "appearance_count": 4,
+          "time_info": "[00时04分 ~ 03时05分]"
         },
         {
           "title": "特朗普称格陵兰岛“到处都是中国船只”，外交部驳斥",
@@ -143,11 +155,12 @@
           "source": "澎湃新闻",
           "ranks": [
             20,
-            16
+            16,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时05分 ~ 02时04分]"
+          "appearance_count": 3,
+          "time_info": "[01时05分 ~ 03时05分]"
         },
         {
           "title": "特朗普接连向多国发出威胁",
@@ -157,8 +170,19 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时05分 ~ 02时04分]"
+          "appearance_count": 3,
+          "time_info": "[01时05分 ~ 03时05分]"
+        },
+        {
+          "title": "美国在联合国会议上遭猛烈抨击，美方辩称特朗普无意占领委内瑞拉",
+          "url": "https://wallstreetcn.com/livenews/3031058",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时05分"
         },
         {
           "title": "墨西哥总统强硬回应特朗普：可以合作缉毒 但不准跨界",
@@ -183,6 +207,17 @@
           "time_info": "01时05分"
         },
         {
+          "title": "美国本周将会见石油高管们，讨论（特朗普政府掳走委内瑞拉总统马杜罗之后的）委国“复苏”问题。",
+          "url": "https://wallstreetcn.com/livenews/3031051",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时05分"
+        },
+        {
           "title": "美国驻加拉加斯大使馆的一位高级外交官：我们正在做准备工作，以便在特朗普总统做出相关决定的情况下能够重新开放。",
           "url": "https://flash.jin10.com/detail/20260106004640700800",
           "source": "金十数据",
@@ -194,13 +229,24 @@
           "time_info": "01时05分"
         },
         {
+          "title": "乌克兰外交部长：此类袭击表明俄罗斯总统普京完全无视由美国总统特朗普主导的和平努力。",
+          "url": "https://flash.jin10.com/detail/20260106021438268800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时05分"
+        },
+        {
           "title": "雪佛龙(CVX.N)现涨5%、埃克森美孚石油(XOM.N)涨2.41%，康菲石油(COP.N)现涨3.05%。消息称美国总统特朗普政府未与埃克森、康菲或雪佛龙就委内瑞拉问题进行过任何会谈。",
           "url": "https://flash.jin10.com/detail/20260106011158070800",
           "source": "金十数据",
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时04分"
         },
@@ -222,7 +268,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时04分"
         },
@@ -244,7 +290,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时04分"
         },
@@ -295,58 +341,8 @@
       ]
     },
     {
-      "keyword_group": "伊朗",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "伊朗要求国际原子能机构谴责针对伊朗核设施的犯罪行为",
-          "url": "https://flash.jin10.com/detail/20260106005418032800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时05分"
-        },
-        {
-          "title": "以色列总理内塔尼亚胡：以色列、美国不会让伊朗重建弹道导弹计划。",
-          "url": "https://flash.jin10.com/detail/20260105234925159800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时04分"
-        },
-        {
-          "title": "伊朗向美以发出强硬军事警告",
-          "url": "https://www.toutiao.com/trending/7590735079082819625/",
-          "source": "今日头条",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时05分"
-        },
-        {
-          "title": "以色列总理内塔尼亚胡：如果我们遭到伊朗的攻击，其后果将会极其严重。",
-          "url": "https://flash.jin10.com/detail/20260105232040593800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时04分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美股",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "美股指集体高开，台积电涨超3%再创新高，伦铜触及1.3万美元创新高，现货白银涨6%，现货黄金突破4450美元，原油转涨",
@@ -357,8 +353,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时04分 ~ 02时04分]"
+          "appearance_count": 4,
+          "time_info": "[00时04分 ~ 03时05分]"
         },
         {
           "title": "美股费城银行指数涨超3%，创8月22日以来最佳盘中表现。",
@@ -380,8 +376,81 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时04分 ~ 02时04分]"
+          "appearance_count": 4,
+          "time_info": "[00时04分 ~ 03时05分]"
+        },
+        {
+          "title": "金十图示：2026年01月05日（周一）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260106013941390800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时05分"
+        },
+        {
+          "title": "金十图示：2026年01月05日（周一）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260106013939190800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时05分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "伊朗",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "伊朗要求国际原子能机构谴责针对伊朗核设施的犯罪行为",
+          "url": "https://flash.jin10.com/detail/20260106005418032800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时05分"
+        },
+        {
+          "title": "伊朗向美以发出强硬军事警告",
+          "url": "https://www.toutiao.com/trending/7590735079082819625/",
+          "source": "今日头条",
+          "ranks": [
+            15,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时05分 ~ 03时05分]"
+        },
+        {
+          "title": "以色列总理内塔尼亚胡：以色列、美国不会让伊朗重建弹道导弹计划。",
+          "url": "https://flash.jin10.com/detail/20260105234925159800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时04分"
+        },
+        {
+          "title": "以色列总理内塔尼亚胡：如果我们遭到伊朗的攻击，其后果将会极其严重。",
+          "url": "https://flash.jin10.com/detail/20260105232040593800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时04分"
         }
       ]
     },
@@ -396,7 +465,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时04分"
         }
@@ -413,7 +482,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时04分"
         }
@@ -447,7 +516,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时04分"
         }
