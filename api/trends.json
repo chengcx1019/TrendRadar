@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-08T15:06:35.467311+08:00",
-  "total_titles_processed": 1421,
+  "generated_at": "2026-01-08T16:04:20.415398+08:00",
+  "total_titles_processed": 1534,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 85,
+      "match_count": 92,
       "titles": [
         {
           "title": "特朗普的下一步，难了",
@@ -28,8 +28,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时38分 ~ 15时06分]"
+          "appearance_count": 8,
+          "time_info": "[10时38分 ~ 16时04分]"
         },
         {
           "title": "特朗普称「委内瑞拉临时政府将向美移交 3 千万至 5 千万桶石油」，委内瑞拉妥协了吗？",
@@ -83,8 +83,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时16分 ~ 15时06分]"
+          "appearance_count": 6,
+          "time_info": "[12时16分 ~ 16时04分]"
         },
         {
           "title": "特朗普提出将美军费提至1.5万亿美元",
@@ -97,8 +97,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时31分 ~ 15时06分]"
+          "appearance_count": 7,
+          "time_info": "[11时31分 ~ 16时04分]"
         },
         {
           "title": "特朗普指示美国退出“不再符合美国利益”的66个国际组织",
@@ -107,11 +107,12 @@
           "ranks": [
             16,
             13,
-            14
+            14,
+            15
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时38分 ~ 15时06分]"
+          "appearance_count": 8,
+          "time_info": "[10时38分 ~ 16时04分]"
         },
         {
           "title": "特朗普骂它像沥青，却为它动武，委内瑞拉的「垃圾」石油到底怎么样？",
@@ -123,8 +124,20 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时16分 ~ 15时06分]"
+          "appearance_count": 6,
+          "time_info": "[12时16分 ~ 16时04分]"
+        },
+        {
+          "title": "特朗普威胁吞并格陵兰岛，六种棋局推演",
+          "url": "https://news.ifeng.com/c/8pk5HcG7PZo",
+          "source": "凤凰网",
+          "ranks": [
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时31分 ~ 16时04分]"
         },
         {
           "title": "美国总统特朗普：将在达沃斯谈论美国住房计划和可负担性问题。",
@@ -162,16 +175,15 @@
           "time_info": "[13时05分 ~ 15时06分]"
         },
         {
-          "title": "特朗普威胁吞并格陵兰岛，六种棋局推演",
-          "url": "https://news.ifeng.com/c/8pk5HcG7PZo",
-          "source": "凤凰网",
+          "title": "美国总统特朗普：我已经通过获取受制裁的石油为美国开始赚钱。",
+          "url": "https://flash.jin10.com/detail/20260108153300697800",
+          "source": "金十数据",
           "ranks": [
-            10,
-            11
+            3
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时31分 ~ 15时06分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时04分"
         },
         {
           "title": "当地时间1月7日，哥伦比亚总统佩特罗与美国总统特朗普通电话。（央视）",
@@ -183,6 +195,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时08分"
+        },
+        {
+          "title": "美国总统特朗普：（谈委内瑞拉）我们将向委内瑞拉提供资金，而他们正极度需要这些资金。",
+          "url": "https://flash.jin10.com/detail/20260108153240698800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时04分"
+        },
+        {
+          "title": "美国总统特朗普：我们将利用石油，我们也将夺取石油。",
+          "url": "https://flash.jin10.com/detail/20260108153211843800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时04分"
         },
         {
           "title": "特朗普质疑北约在美国需要时会否给予支持",
@@ -282,6 +316,19 @@
           "time_info": "[04时04分 ~ 05时04分]"
         },
         {
+          "title": "哥伦比亚总统与特朗普通电话",
+          "url": "https://www.baidu.com/s?wd=%E5%93%A5%E4%BC%A6%E6%AF%94%E4%BA%9A%E6%80%BB%E7%BB%9F%E4%B8%8E%E7%89%B9%E6%9C%97%E6%99%AE%E9%80%9A%E7%94%B5%E8%AF%9D",
+          "source": "百度热搜",
+          "ranks": [
+            28,
+            23,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时03分 ~ 16时04分]"
+        },
+        {
           "title": "外媒：特朗普正固化美国全球流氓形象",
           "url": "https://www.toutiao.com/trending/7591748193269137471/",
           "source": "今日头条",
@@ -292,18 +339,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时03分 ~ 05时04分]"
-        },
-        {
-          "title": "哥伦比亚总统与特朗普通电话",
-          "url": "https://www.baidu.com/s?wd=%E5%93%A5%E4%BC%A6%E6%AF%94%E4%BA%9A%E6%80%BB%E7%BB%9F%E4%B8%8E%E7%89%B9%E6%9C%97%E6%99%AE%E9%80%9A%E7%94%B5%E8%AF%9D",
-          "source": "百度热搜",
-          "ranks": [
-            28,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时03分 ~ 15时06分]"
         },
         {
           "title": "特朗普向国防承包商回购股票的做法发出威胁",
@@ -485,6 +520,17 @@
           "time_info": "[08时07分 ~ 08时08分]"
         },
         {
+          "title": "纽约时报：特朗普称美国对委内瑞拉的监督可能持续数年",
+          "url": "https://flash.jin10.com/detail/20260108153129105800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时04分"
+        },
+        {
           "title": "特朗普：委内瑞拉石油收入将只买美国制造的产品",
           "url": "https://flash.jin10.com/detail/20260108062001008800",
           "source": "金十数据",
@@ -516,6 +562,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时08分"
+        },
+        {
+          "title": "据纽约时报：美国总统特朗普表示，美国对委内瑞拉的监督可能持续数年。",
+          "url": "https://flash.jin10.com/detail/20260108153025480800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时04分"
         },
         {
           "title": "贝森特、卢特尼克、Wright、Greer、Sacks和Witkoff将随同特朗普参加达沃斯论坛。（Semafor）",
@@ -670,6 +727,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时04分"
+        },
+        {
+          "title": "美中期选举结果会如何影响特朗普",
+          "url": "https://www.toutiao.com/trending/7592759487010750506/",
+          "source": "今日头条",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时04分"
         },
         {
           "title": "白宫新闻秘书莱维特：特朗普已明确表示，美国将永远支持北约。",
@@ -868,6 +936,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时03分"
+        },
+        {
+          "title": "特朗普表示，美国对委内瑞拉的监管可能会持续多年，美国将在未来数年内开采委内瑞拉石油。（纽约时报）",
+          "url": "https://wallstreetcn.com/livenews/3033071",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时04分"
         },
         {
           "title": "美国单户住宅租赁公司AMH短线下挫触发交易暂停，特朗普称，将禁止大型机构投资者购买更多独栋住宅。",
@@ -1121,7 +1200,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时06分"
         },
@@ -1330,11 +1409,12 @@
           "url": "https://wallstreetcn.com/articles/3762755",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时06分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时06分 ~ 16时04分]"
         },
         {
           "title": "美股七巨头收盘播报｜谷歌A收涨2.4%，Meta跌1.8%",
@@ -1371,7 +1451,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时06分"
         },
@@ -1435,8 +1515,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[08时07分 ~ 15时06分]"
+          "appearance_count": 11,
+          "time_info": "[08时07分 ~ 16时04分]"
         },
         {
           "title": "ADP就业温和复苏，纳指期货跌幅收窄，欧美债价格上行，金银跌幅扩大，油价承压",
@@ -1577,7 +1657,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时06分"
         }
