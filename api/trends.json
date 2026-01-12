@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-12T22:06:17.938363+08:00",
-  "total_titles_processed": 1864,
+  "generated_at": "2026-01-12T23:05:26.963055+08:00",
+  "total_titles_processed": 1967,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 72,
+      "match_count": 76,
       "titles": [
         {
           "title": "特朗普表态让万千台湾民众看清现实",
@@ -44,6 +44,30 @@
           "time_info": "[08时08分 ~ 15时08分]"
         },
         {
+          "title": "特朗普威胁古巴，委内瑞拉发声",
+          "url": "https://news.ifeng.com/c/8pqpuA2I7mV",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[17时07分 ~ 23时05分]"
+        },
+        {
+          "title": "特朗普称中俄只能在美方控制下购买委原油，中方回应",
+          "url": "https://news.ifeng.com/c/8pr7YJccLIS",
+          "source": "凤凰网",
+          "ranks": [
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[17时07分 ~ 23时05分]"
+        },
+        {
           "title": "特朗普再次威胁伊朗，被曝已听取军事打击方案汇报 伊朗军方：团结起来挫败敌人阴谋",
           "url": "https://wallstreetcn.com/articles/3763030",
           "source": "华尔街见闻",
@@ -55,30 +79,6 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[00时03分 ~ 09时32分]"
-        },
-        {
-          "title": "特朗普威胁古巴，委内瑞拉发声",
-          "url": "https://news.ifeng.com/c/8pqpuA2I7mV",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[17时07分 ~ 22时06分]"
-        },
-        {
-          "title": "特朗普称中俄只能在美方控制下购买委原油，中方回应",
-          "url": "https://news.ifeng.com/c/8pr7YJccLIS",
-          "source": "凤凰网",
-          "ranks": [
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[17时07分 ~ 22时06分]"
         },
         {
           "title": "2026最大的交易主题：输不起的特朗普，国际秩序的终结",
@@ -195,6 +195,31 @@
           "time_info": "[00时03分 ~ 07时04分]"
         },
         {
+          "title": "特朗普再放狠话：美国势必拿下格陵兰岛，他们靠狗拉雪橇防卫",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32366593",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            20,
+            17,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[19时03分 ~ 23时05分]"
+        },
+        {
+          "title": "特朗普转发“鲁比奥将成为古巴总统”帖子：听起来不错",
+          "url": "https://news.ifeng.com/c/8pr1vFKruDQ",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时05分 ~ 23时05分]"
+        },
+        {
           "title": "特朗普最新涉台表态：台湾问题是中国自己的事",
           "url": "https://www.cls.cn/detail/2254115",
           "source": "财联社热门",
@@ -209,28 +234,16 @@
           "time_info": "[09时32分 ~ 13时10分]"
         },
         {
-          "title": "特朗普再放狠话：美国势必拿下格陵兰岛，他们靠狗拉雪橇防卫",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32366593",
-          "source": "澎湃新闻",
+          "title": "鲍威尔被诉，共和党关键议员翻脸：我就投反对票，特朗普别想提名新联储主席！",
+          "url": "https://wallstreetcn.com/articles/3763089",
+          "source": "华尔街见闻",
           "ranks": [
-            18,
-            20,
-            17
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[19时03分 ~ 22时06分]"
-        },
-        {
-          "title": "特朗普转发“鲁比奥将成为古巴总统”帖子：听起来不错",
-          "url": "https://news.ifeng.com/c/8pr1vFKruDQ",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时05分 ~ 22时06分]"
+          "appearance_count": 6,
+          "time_info": "[20时04分 ~ 23时05分]"
         },
         {
           "title": "特朗普威胁古巴尽快同美国“达成协议”",
@@ -320,17 +333,6 @@
           "time_info": "[05时03分 ~ 08时09分]"
         },
         {
-          "title": "鲍威尔被诉，共和党关键议员翻脸：我就投反对票，特朗普别想提名新联储主席！",
-          "url": "https://wallstreetcn.com/articles/3763089",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[20时04分 ~ 22时06分]"
-        },
-        {
           "title": "美媒：特朗普将于周二讨论针对伊朗的潜在措施",
           "url": "https://flash.jin10.com/detail/20260112042340511800",
           "source": "金十数据",
@@ -343,6 +345,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[05时03分 ~ 08时09分]"
+        },
+        {
+          "title": "从“架空美联储”到“起诉鲍威尔”--“输不起中选”的特朗普决定“接管美联储”",
+          "url": "https://wallstreetcn.com/articles/3763082",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[21时16分 ~ 23时05分]"
         },
         {
           "title": "特朗普：不会再有委内瑞拉石油与资金流向古巴",
@@ -402,18 +416,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时08分 ~ 16时05分]"
-        },
-        {
-          "title": "从“架空美联储”到“起诉鲍威尔”--“输不起中选”的特朗普决定“接管美联储”",
-          "url": "https://wallstreetcn.com/articles/3763082",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[21时16分 ~ 22时06分]"
         },
         {
           "title": "美企业家：特朗普正在损害美国实力",
@@ -531,7 +533,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时06分"
         },
@@ -553,7 +555,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时06分"
         },
@@ -564,7 +566,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时06分"
         },
@@ -580,13 +582,24 @@
           "time_info": "19时04分"
         },
         {
+          "title": "在美国总统特朗普发出信用卡威胁后，KBW银行指数下跌1.5%。",
+          "url": "https://flash.jin10.com/detail/20260112223310675800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时05分"
+        },
+        {
           "title": "北约秘书长吕特：相信美国总统特朗普为北约做正确的事情。",
           "url": "https://flash.jin10.com/detail/20260112212210051800",
           "source": "金十数据",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时06分"
         },
@@ -619,7 +632,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时06分"
         },
@@ -778,6 +791,17 @@
           "time_info": "11时33分"
         },
         {
+          "title": "墨西哥总统辛鲍姆：与美国总统特朗普进行了“良好的对话”。",
+          "url": "https://flash.jin10.com/detail/20260112221458601800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时05分"
+        },
+        {
           "title": "特朗普称伊朗提议谈判但美国或“先行动”",
           "url": "https://wallstreetcn.com/livenews/3034906",
           "source": "华尔街见闻-快讯",
@@ -787,6 +811,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时33分"
+        },
+        {
+          "title": "墨西哥总统辛鲍姆：与美国总统特朗普讨论贸易、毒品问题和主权问题。",
+          "url": "https://flash.jin10.com/detail/20260112221406155800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时05分"
         },
         {
           "title": "特朗普称信用卡公司若不设定利率上限将违法",
@@ -833,6 +868,17 @@
           "time_info": "21时17分"
         },
         {
+          "title": "市场消息：特朗普赞扬Meta Platforms(META.O)聘用鲍威尔·麦考密克。",
+          "url": "https://flash.jin10.com/detail/20260112220838947800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时05分"
+        },
+        {
           "title": "特朗普转发鲁比奥将成古巴总统贴文",
           "url": "https://www.toutiao.com/trending/7594023533484408838/",
           "source": "今日头条",
@@ -858,7 +904,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 64,
+      "match_count": 70,
       "titles": [
         {
           "title": "伊朗外长：局势目前完全得到控制",
@@ -963,8 +1009,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[15时07分 ~ 22时06分]"
+          "appearance_count": 14,
+          "time_info": "[15时07分 ~ 23时05分]"
         },
         {
           "title": "伊朗哀悼3天",
@@ -976,11 +1022,12 @@
             14,
             25,
             23,
-            18
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[11时33分 ~ 22时06分]"
+          "appearance_count": 18,
+          "time_info": "[11时33分 ~ 23时05分]"
         },
         {
           "title": "伊朗“大量人员”在近期骚乱中死亡",
@@ -995,6 +1042,21 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[01时03分 ~ 08时09分]"
+        },
+        {
+          "title": "伊朗外长：伊朗安全部队已控制全国局势",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32367578",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            14,
+            10,
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[18时04分 ~ 23时05分]"
         },
         {
           "title": "伊朗政府宣布全国哀悼3天",
@@ -1070,21 +1132,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时03分 ~ 07时04分]"
-        },
-        {
-          "title": "伊朗外长：伊朗安全部队已控制全国局势",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32367578",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            14,
-            10,
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[18时04分 ~ 22时06分]"
         },
         {
           "title": "伊朗政府宣布全国哀悼三天",
@@ -1181,6 +1228,17 @@
           "time_info": "15时08分"
         },
         {
+          "title": "伊朗议长：如遭攻击将给美国“永生难忘的教训”",
+          "url": "https://wallstreetcn.com/livenews/3035430",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时05分"
+        },
+        {
           "title": "以色列总理内塔尼亚胡：以色列正密切关注伊朗局势的发展，并希望该国很快就能摆脱“暴政”。",
           "url": "https://flash.jin10.com/detail/20260111220504551800",
           "source": "金十数据",
@@ -1204,6 +1262,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时03分 ~ 05时03分]"
+        },
+        {
+          "title": "伊朗外长称安全部队已控制全国局势，并称美以应对伊朗发生的事件承担「直接责任」，如何理解这一表态？",
+          "url": "https://www.zhihu.com/question/1994070815289918935",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[19时03分 ~ 23时05分]"
         },
         {
           "title": "伊朗全国多地集会谴责外国干涉",
@@ -1251,17 +1320,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[05时03分 ~ 08时09分]"
-        },
-        {
-          "title": "伊朗外长称安全部队已控制全国局势，并称美以应对伊朗发生的事件承担「直接责任」，如何理解这一表态？",
-          "url": "https://www.zhihu.com/question/1994070815289918935",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时03分 ~ 21时17分]"
         },
         {
           "title": "伊朗总统：政府认可和平抗议行为 愿与抗议团体会面",
@@ -1578,6 +1636,17 @@
           "time_info": "09时32分"
         },
         {
+          "title": "外媒：据悉伊朗外长周末与美国特使联系 试图让双边局势降温",
+          "url": "https://flash.jin10.com/detail/20260112223131338800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时05分"
+        },
+        {
           "title": "伊朗司法总监：部分骚乱煽动者居住在境外",
           "url": "https://wallstreetcn.com/livenews/3035195",
           "source": "华尔街见闻-快讯",
@@ -1595,9 +1664,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时06分"
+        },
+        {
+          "title": "伊朗外长与美国特使Witkoff讨论了伊朗发生的抗议活动。 双方讨论了近期举行会议的可能性。（Axios）",
+          "url": "https://wallstreetcn.com/livenews/3035410",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时05分"
         },
         {
           "title": "伊朗或很快遭美国以色列攻击",
@@ -1622,6 +1702,17 @@
           "time_info": "20时04分"
         },
         {
+          "title": "伊朗外长与美国特使威特科夫讨论尽快举行会晤的可能性。",
+          "url": "https://flash.jin10.com/detail/20260112222437222800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时05分"
+        },
+        {
           "title": "伊朗外长：伊朗近期骚乱与以色列摩萨德有关",
           "url": "https://wallstreetcn.com/livenews/3035066",
           "source": "华尔街见闻-快讯",
@@ -1631,6 +1722,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时05分"
+        },
+        {
+          "title": "伊朗外交部长与美国特使威特科夫讨论了伊朗国内的抗议活动。",
+          "url": "https://flash.jin10.com/detail/20260112222310789800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时05分"
         },
         {
           "title": "伊朗外长：互联网服务将在与安全部门协调后恢复",
@@ -1653,12 +1755,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时04分"
+        },
+        {
+          "title": "伊朗外长说已控制全国局势",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%A4%96%E9%95%BF%E8%AF%B4%E5%B7%B2%E6%8E%A7%E5%88%B6%E5%85%A8%E5%9B%BD%E5%B1%80%E5%8A%BF%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时05分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 10,
+      "match_count": 16,
       "titles": [
         {
           "title": "下周重磅日程：美国通胀、中国外贸数据，美股财报季正式开启，美高院关税裁决将出",
@@ -1683,8 +1796,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[09时32分 ~ 22时06分]"
+          "appearance_count": 20,
+          "time_info": "[09时32分 ~ 23时05分]"
         },
         {
           "title": "伊朗局势微妙，鲍威尔被诉，金银再创新高，油价连续走高、美股期货下跌",
@@ -1722,8 +1835,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时05分 ~ 22时06分]"
+          "appearance_count": 3,
+          "time_info": "[22时05分 ~ 23时05分]"
         },
         {
           "title": "报告称2026年中国科技巨头指数将首超美股七巨头",
@@ -1749,6 +1862,28 @@
           "time_info": "[15时08分 ~ 16时05分]"
         },
         {
+          "title": "行业ETF美股盘初普跌",
+          "url": "https://wallstreetcn.com/livenews/3035421",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时05分"
+        },
+        {
+          "title": "美股集体低开 中概股逆势走强",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E9%9B%86%E4%BD%93%E4%BD%8E%E5%BC%80+%E4%B8%AD%E6%A6%82%E8%82%A1%E9%80%86%E5%8A%BF%E8%B5%B0%E5%BC%BA",
+          "source": "百度热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时05分"
+        },
+        {
           "title": "美股三大股指期货小幅低开，纳指期货下跌0.2%。",
           "url": "https://flash.jin10.com/detail/20260112070303731800",
           "source": "金十数据",
@@ -1760,6 +1895,39 @@
           "time_info": "08时09分"
         },
         {
+          "title": "鲍威尔遭调查冲击市场 美股期指集体走低 黄金大涨 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2255324",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时05分"
+        },
+        {
+          "title": "美股财报季拉开序幕之前，特朗普政府起诉美联储主席鲍威尔、并剑指信用卡利率。 花旗跌3.4%，摩根大通、富国银行、美国银行至多跌1.57%，高盛、摩根士丹利至多跌0.73%。 支付公司Visa跌3.6%，万事达卡MasterCard跌3.4%。 Klarna涨3.7%，Affirm Holdings涨3.5%。",
+          "url": "https://wallstreetcn.com/livenews/3035416",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时05分"
+        },
+        {
+          "title": "美股开盘，道指跌300点、标普500指数跌0.4%、纳指跌0.39%。特朗普呼吁将信用卡利率上限设定为10%，银行股下跌，摩根大通(JPM.N)下跌2.2%，花旗集团(C.N)下跌2.9%。纳斯达克中国金龙指数涨1.6%，金山云(KC.O)涨16%、阿里巴巴(BABA.N)涨4.9%。",
+          "url": "https://flash.jin10.com/detail/20260112223038379800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时05分"
+        },
+        {
           "title": "美股盘前，明星科技股普跌，英伟达、甲骨文跌超1%、英特尔跌2%。热门中概股走强，金山云涨13%、阿里巴巴涨超4%、百度涨3%。美股银行股普跌，摩根大通下跌2.4%，花旗下跌3.6%，美国银行下跌1.5%，特朗普呼吁给信用卡利率设“10%上限”。",
           "url": "https://wallstreetcn.com/livenews/3035153",
           "source": "华尔街见闻-快讯",
@@ -1769,6 +1937,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时04分"
+        },
+        {
+          "title": "美联储遭调查消息传出后 摩根大通交易部门对美股持“谨慎”态度",
+          "url": "https://flash.jin10.com/detail/20260112222004705800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时05分"
         },
         {
           "title": "美股三大指数期货小幅低开。纳斯达克100指数期货跌0.2%。",
@@ -1861,7 +2040,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "备受关注的“AI商业模式”：谷歌率先在Gemini中引入广告",
@@ -1874,8 +2053,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[15时07分 ~ 22时06分]"
+          "appearance_count": 14,
+          "time_info": "[15时07分 ~ 23时05分]"
         },
         {
           "title": "市场消息：家得宝与谷歌云联合推出Agentic AI工具，助力顾客与员工将项目从“如何做”转化为“已完成”。",
@@ -1905,6 +2084,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时03分 ~ 07时04分]"
+        },
+        {
+          "title": "蚂蚁国际和谷歌共推“通用商业协议”，打通“AI购物”全流程",
+          "url": "https://wallstreetcn.com/livenews/3035425",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时05分"
         },
         {
           "title": "谷歌联合沃尔玛等零售商扩展AI模型购物功能",
