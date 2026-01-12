@@ -1,24 +1,12 @@
 {
-  "generated_at": "2026-01-12T07:04:03.673040+08:00",
-  "total_titles_processed": 455,
+  "generated_at": "2026-01-12T08:09:03.770109+08:00",
+  "total_titles_processed": 544,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 30,
+      "match_count": 33,
       "titles": [
-        {
-          "title": "伊朗媒体：“大量人员”在近期骚乱中死亡",
-          "url": "https://news.ifeng.com/c/8ppjl3SwLp5",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时03分 ~ 07时04分]"
-        },
         {
           "title": "以色列官员：应做好准备应对伊朗局势，但不应进行干预",
           "url": "https://news.ifeng.com/c/8ppRgtAuFbr",
@@ -27,8 +15,21 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时03分 ~ 07时04分]"
+          "appearance_count": 13,
+          "time_info": "[00时03分 ~ 08时09分]"
+        },
+        {
+          "title": "伊朗媒体：“大量人员”在近期骚乱中死亡",
+          "url": "https://news.ifeng.com/c/8ppjl3SwLp5",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            2,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时03分 ~ 08时09分]"
         },
         {
           "title": "伊朗总统称美国与以色列指使「暴徒」在伊朗制造不稳定局势，透露出哪些信息？",
@@ -38,8 +39,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时03分 ~ 07时04分]"
+          "appearance_count": 13,
+          "time_info": "[00时03分 ~ 08时09分]"
         },
         {
           "title": "伊朗警告美以：若遭攻击必将还击",
@@ -51,8 +52,22 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时03分 ~ 07时04分]"
+          "appearance_count": 13,
+          "time_info": "[00时03分 ~ 08时09分]"
+        },
+        {
+          "title": "伊朗“大量人员”在近期骚乱中死亡",
+          "url": "https://www.toutiao.com/trending/7594047712492830730/",
+          "source": "今日头条",
+          "ranks": [
+            24,
+            30,
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[01时03分 ~ 08时09分]"
         },
         {
           "title": "伊朗政府宣布全国哀悼3天",
@@ -104,20 +119,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时03分 ~ 07时04分]"
-        },
-        {
-          "title": "伊朗“大量人员”在近期骚乱中死亡",
-          "url": "https://www.toutiao.com/trending/7594047712492830730/",
-          "source": "今日头条",
-          "ranks": [
-            24,
-            30,
-            20,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时03分 ~ 07时04分]"
         },
         {
           "title": "据美联社：以色列官员透露，该国总理内塔尼亚胡周六深夜与美国国务卿鲁比奥通话，讨论伊朗局势。",
@@ -199,15 +200,29 @@
           "time_info": "[00时03分 ~ 05时03分]"
         },
         {
-          "title": "伊朗伊斯兰革命卫队：已有数百人在近期骚乱中丧生",
-          "url": "https://flash.jin10.com/detail/20260112053946672800",
+          "title": "伊朗动荡局势威胁供应，油价周一高开",
+          "url": "https://flash.jin10.com/detail/20260112072908316800",
           "source": "金十数据",
           "ranks": [
-            5
+            4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时04分"
+          "time_info": "08时09分"
+        },
+        {
+          "title": "阿联酋多家航司飞往伊朗的航班复航",
+          "url": "https://flash.jin10.com/detail/20260112041621306800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            8,
+            13,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[05时03分 ~ 08时09分]"
         },
         {
           "title": "伊朗总统：政府认可和平抗议行为 愿与抗议团体会面",
@@ -238,11 +253,12 @@
           "source": "金十数据",
           "ranks": [
             1,
-            6
+            6,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时04分 ~ 07时04分]"
+          "appearance_count": 3,
+          "time_info": "[06时04分 ~ 08时09分]"
         },
         {
           "title": "伊朗已有111名安全人员在近期骚乱中丧生",
@@ -257,6 +273,19 @@
           "time_info": "[06时04分 ~ 07时04分]"
         },
         {
+          "title": "伊朗已有111名安全人员在近期骚乱中丧生",
+          "url": "https://flash.jin10.com/detail/20260112052020962800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            7,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时04分 ~ 08时09分]"
+        },
+        {
           "title": "阿联酋多家航司飞往伊朗的航班复航",
           "url": "https://wallstreetcn.com/livenews/3034764",
           "source": "华尔街见闻-快讯",
@@ -264,31 +293,6 @@
             3,
             7,
             12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时03分 ~ 07时04分]"
-        },
-        {
-          "title": "伊朗已有111名安全人员在近期骚乱中丧生",
-          "url": "https://flash.jin10.com/detail/20260112052020962800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时04分 ~ 07时04分]"
-        },
-        {
-          "title": "阿联酋多家航司飞往伊朗的航班复航",
-          "url": "https://flash.jin10.com/detail/20260112041621306800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            8,
-            13
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -313,11 +317,24 @@
           "source": "金十数据",
           "ranks": [
             4,
-            9
+            9,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时04分 ~ 08时09分]"
+        },
+        {
+          "title": "伊朗伊斯兰革命卫队：已有数百人在近期骚乱中丧生",
+          "url": "https://flash.jin10.com/detail/20260112053946672800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            20
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[06时04分 ~ 07时04分]"
+          "time_info": "[07时04分 ~ 08时09分]"
         },
         {
           "title": "据伊朗国家媒体：在抗议者从伊朗伦敦大使馆大楼扯下伊朗国旗后，伊朗召见英国大使。",
@@ -372,6 +389,17 @@
           "time_info": "[05时03分 ~ 07时04分]"
         },
         {
+          "title": "伊朗哀悼3天",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%93%80%E6%82%BC3%E5%A4%A9%23&t=31&band_rank=7&Refer=top",
+          "source": "微博",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时08分 ~ 08时09分]"
+        },
+        {
           "title": "伊朗媒体：“大量人员”在近期骚乱中死亡",
           "url": "https://m.thepaper.cn/newsDetail_forward_32364046",
           "source": "澎湃新闻",
@@ -381,12 +409,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时03分 ~ 07时04分]"
+        },
+        {
+          "title": "伊朗总统：愿与抗议团体会面",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%80%BB%E7%BB%9F%EF%BC%9A%E6%84%BF%E4%B8%8E%E6%8A%97%E8%AE%AE%E5%9B%A2%E4%BD%93%E4%BC%9A%E9%9D%A2",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时08分 ~ 08时09分]"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 17,
+      "match_count": 19,
       "titles": [
         {
           "title": "特朗普表态让万千台湾民众看清现实",
@@ -397,8 +436,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时03分 ~ 07时04分]"
+          "appearance_count": 12,
+          "time_info": "[01时03分 ~ 08时09分]"
         },
         {
           "title": "特朗普再次威胁伊朗，被曝已听取军事打击方案汇报 伊朗军方：团结起来挫败敌人阴谋",
@@ -409,8 +448,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时03分 ~ 07时04分]"
+          "appearance_count": 13,
+          "time_info": "[00时03分 ~ 08时09分]"
         },
         {
           "title": "2026最大的交易主题：输不起的特朗普，国际秩序的终结",
@@ -420,8 +459,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时03分 ~ 07时04分]"
+          "appearance_count": 13,
+          "time_info": "[00时03分 ~ 08时09分]"
         },
         {
           "title": "美银Hartnett谈“一季度策略”：特朗普为中选“压通胀、降利率”，投资者“做多经济繁荣、做空AI泡沫”",
@@ -432,8 +471,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时03分 ~ 07时04分]"
+          "appearance_count": 13,
+          "time_info": "[00时03分 ~ 08时09分]"
         },
         {
           "title": "特朗普被曝已听取军事打击伊朗方案汇报，美伊真的会打起来吗？为何近期美国军事动作频频？",
@@ -444,8 +483,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时03分 ~ 07时04分]"
+          "appearance_count": 13,
+          "time_info": "[00时03分 ~ 08时09分]"
         },
         {
           "title": "全美抗议 特朗普“后院”失火",
@@ -471,6 +510,28 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时03分 ~ 07时04分]"
+        },
+        {
+          "title": "又要动手了？美媒爆料：特朗普或向中东派航母战斗群",
+          "url": "https://news.ifeng.com/c/8ppuy7JPm5z",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时08分 ~ 08时09分]"
+        },
+        {
+          "title": "特朗普，又要“抢东西”？",
+          "url": "https://news.ifeng.com/c/8pqT2PyRVmx",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时08分 ~ 08时09分]"
         },
         {
           "title": "美媒：特朗普政府正考虑多种方案，以支持伊朗抗议活动并削弱该国政权",
@@ -510,6 +571,34 @@
           "time_info": "[00时03分 ~ 05时03分]"
         },
         {
+          "title": "据耶路撒冷邮报：几位熟悉近日会谈细节的消息人士透露，特朗普基本上已经决定帮助伊朗的抗议者，但他还没有决定“如何做”和“何时做”。",
+          "url": "https://flash.jin10.com/detail/20260112043545440800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            6,
+            11,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[05时03分 ~ 08时09分]"
+        },
+        {
+          "title": "美媒：特朗普将于周二讨论针对伊朗的潜在措施",
+          "url": "https://flash.jin10.com/detail/20260112042340511800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            7,
+            12,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[05时03分 ~ 08时09分]"
+        },
+        {
           "title": "特朗普：不会再有委内瑞拉石油与资金流向古巴",
           "url": "https://flash.jin10.com/detail/20260111203618040800",
           "source": "金十数据",
@@ -545,32 +634,6 @@
           "time_info": "[00时03分 ~ 04时03分]"
         },
         {
-          "title": "据耶路撒冷邮报：几位熟悉近日会谈细节的消息人士透露，特朗普基本上已经决定帮助伊朗的抗议者，但他还没有决定“如何做”和“何时做”。",
-          "url": "https://flash.jin10.com/detail/20260112043545440800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            6,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时03分 ~ 07时04分]"
-        },
-        {
-          "title": "美媒：特朗普将于周二讨论针对伊朗的潜在措施",
-          "url": "https://flash.jin10.com/detail/20260112042340511800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            7,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时03分 ~ 07时04分]"
-        },
-        {
           "title": "美国总统特朗普将于周二听取与伊朗相关选项的介绍。 这些考虑还处于早期阶段。（华尔街日报）",
           "url": "https://wallstreetcn.com/livenews/3034760",
           "source": "华尔街见闻-快讯",
@@ -595,6 +658,57 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时03分 ~ 07时04分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "下周重磅日程：美国通胀、中国外贸数据，美股财报季正式开启，美高院关税裁决将出",
+          "url": "https://wallstreetcn.com/articles/3762924",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时03分 ~ 08时09分]"
+        },
+        {
+          "title": "报告称2026年中国科技巨头指数将首超美股七巨头",
+          "url": "https://wallstreetcn.com/livenews/3034810",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时09分"
+        },
+        {
+          "title": "美股三大股指期货小幅低开，纳指期货下跌0.2%。",
+          "url": "https://flash.jin10.com/detail/20260112070303731800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时09分"
+        },
+        {
+          "title": "美股三大指数期货小幅低开。纳斯达克100指数期货跌0.2%。",
+          "url": "https://wallstreetcn.com/livenews/3034791",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时09分"
         }
       ]
     },
@@ -645,8 +759,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时03分 ~ 07时04分]"
+          "appearance_count": 13,
+          "time_info": "[00时03分 ~ 08时09分]"
         }
       ]
     },
@@ -660,29 +774,12 @@
           "source": "金十数据",
           "ranks": [
             5,
-            10
+            10,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时04分 ~ 07时04分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "下周重磅日程：美国通胀、中国外贸数据，美股财报季正式开启，美高院关税裁决将出",
-          "url": "https://wallstreetcn.com/articles/3762924",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时03分 ~ 07时04分]"
+          "appearance_count": 3,
+          "time_info": "[06时04分 ~ 08时09分]"
         }
       ]
     }
