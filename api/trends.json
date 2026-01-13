@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-13T21:16:50.427143+08:00",
-  "total_titles_processed": 2054,
+  "generated_at": "2026-01-13T22:06:00.662342+08:00",
+  "total_titles_processed": 2151,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 104,
+      "match_count": 106,
       "titles": [
         {
           "title": "特朗普威胁古巴，委内瑞拉发声",
@@ -79,6 +79,19 @@
           "time_info": "[11时31分 ~ 16时04分]"
         },
         {
+          "title": "美媒：特朗普政府对伊朗行动选项“远超传统空袭”",
+          "url": "https://news.ifeng.com/c/8pspQ2slRcl",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[17时06分 ~ 22时06分]"
+        },
+        {
           "title": "鲍威尔被诉，共和党关键议员翻脸：我就投反对票，特朗普别想提名新联储主席！",
           "url": "https://wallstreetcn.com/articles/3763089",
           "source": "华尔街见闻",
@@ -104,8 +117,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[09时31分 ~ 21时16分]"
+          "appearance_count": 19,
+          "time_info": "[09时31分 ~ 22时06分]"
         },
         {
           "title": "特朗普：对伊朗贸易伙伴征收25%关税，油价短线走高",
@@ -118,21 +131,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[09时31分 ~ 21时16分]"
-        },
-        {
-          "title": "美媒：特朗普政府对伊朗行动选项“远超传统空袭”",
-          "url": "https://news.ifeng.com/c/8pspQ2slRcl",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时06分 ~ 21时16分]"
+          "appearance_count": 19,
+          "time_info": "[09时31分 ~ 22时06分]"
         },
         {
           "title": "北约秘书长帮腔特朗普：中俄恐将越来越活跃",
@@ -144,8 +144,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[11时31分 ~ 21时16分]"
+          "appearance_count": 17,
+          "time_info": "[11时31分 ~ 22时06分]"
         },
         {
           "title": "从“架空美联储”到“起诉鲍威尔”--“输不起中选”的特朗普决定“接管美联储”",
@@ -172,8 +172,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[09时31分 ~ 21时16分]"
+          "appearance_count": 19,
+          "time_info": "[09时31分 ~ 22时06分]"
         },
         {
           "title": "特朗普：对伊朗贸易伙伴征收25%关税",
@@ -243,6 +243,17 @@
           "time_info": "[10时37分 ~ 15时07分]"
         },
         {
+          "title": "特朗普想对伊朗直接动手，万斯“踩刹车”？",
+          "url": "https://news.ifeng.com/c/8psqYtTK9Dp",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时04分 ~ 22时06分]"
+        },
+        {
           "title": "美国两州把特朗普政府告了",
           "url": "https://news.ifeng.com/c/8pslTiqBz0e",
           "source": "凤凰网",
@@ -252,17 +263,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[17时06分 ~ 19时03分]"
-        },
-        {
-          "title": "特朗普想对伊朗直接动手，万斯“踩刹车”？",
-          "url": "https://news.ifeng.com/c/8psqYtTK9Dp",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时04分 ~ 21时16分]"
         },
         {
           "title": "美国总统特朗普曾多次向助手抱怨邦迪（Bondi），自称倍感挫折。（华尔街日报）",
@@ -282,9 +282,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时16分"
+        },
+        {
+          "title": "特朗普媒体科技集团(DJT.O)盘前股价上涨1.7%，此前该公司推出了四项“美国优先”主题投资策略。",
+          "url": "https://flash.jin10.com/detail/20260113213947724800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时06分"
         },
         {
           "title": "据美媒MS NOW：特朗普政府司法部解雇了拒绝起诉詹姆斯·科米案的检察官。",
@@ -749,6 +760,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时05分"
+        },
+        {
+          "title": "特朗普媒体科技集团推出“美国优先”主题投资工具。",
+          "url": "https://flash.jin10.com/detail/20260113213234623800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时06分"
         },
         {
           "title": "前美联储主席耶伦：对于现任主席鲍威尔的接班人而言，（特朗普政府）的调查让人“极度不寒而栗”，市场应当感到忧心忡忡。",
@@ -1216,7 +1238,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 67,
+      "match_count": 68,
       "titles": [
         {
           "title": "伊朗发动支持政府集会，民众：我们绝不会抛弃哈梅内伊",
@@ -1257,6 +1279,22 @@
           "time_info": "[16时04分 ~ 21时16分]"
         },
         {
+          "title": "外交部回应伊朗局势",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8A%BF",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1,
+            5,
+            11,
+            7,
+            8,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[16时04分 ~ 22时06分]"
+        },
+        {
           "title": "美将对与伊朗开展商业往来的国家征收25%关税，外交部回应",
           "url": "https://www.cls.cn/detail/2256043",
           "source": "财联社热门",
@@ -1270,17 +1308,30 @@
           "time_info": "[17时06分 ~ 21时16分]"
         },
         {
+          "title": "外交部回应伊朗局势",
+          "url": "https://www.douyin.com/hot/2366507",
+          "source": "抖音",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[17时06分 ~ 22时06分]"
+        },
+        {
           "title": "美国、法国开始从伊朗撤离人员，伊朗当前的局势到底有多严峻？是否是军事行动的前兆？",
           "url": "https://www.zhihu.com/question/1994338886751625788",
           "source": "知乎",
           "ranks": [
             9,
             6,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[11时31分 ~ 21时16分]"
+          "appearance_count": 17,
+          "time_info": "[11时31分 ~ 22时06分]"
         },
         {
           "title": "伊朗外长：伊朗安全部队已控制全国局势",
@@ -1309,11 +1360,12 @@
             11,
             10,
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[10时37分 ~ 21时16分]"
+          "appearance_count": 18,
+          "time_info": "[10时37分 ~ 22时06分]"
         },
         {
           "title": "伊朗外长说已控制全国局势",
@@ -1343,6 +1395,18 @@
           "time_info": "[00时05分 ~ 08时07分]"
         },
         {
+          "title": "伊朗议长：若美“误判”形势，美基地将遭打击",
+          "url": "https://news.ifeng.com/c/8psvSf2W4qr",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时03分 ~ 22时06分]"
+        },
+        {
           "title": "是否对伊朗采取军事打击？白宫回应",
           "url": "https://www.toutiao.com/trending/7594674664643759657/",
           "source": "今日头条",
@@ -1355,21 +1419,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[12时17分 ~ 16时04分]"
-        },
-        {
-          "title": "外交部回应伊朗局势",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8A%BF",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1,
-            5,
-            11,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时04分 ~ 21时16分]"
         },
         {
           "title": "中方回应美对伊朗贸易伙伴加税25%",
@@ -1385,30 +1434,6 @@
           "time_info": "[16时04分 ~ 21时16分]"
         },
         {
-          "title": "外交部回应伊朗局势",
-          "url": "https://www.douyin.com/hot/2366507",
-          "source": "抖音",
-          "ranks": [
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时06分 ~ 21时16分]"
-        },
-        {
-          "title": "伊朗议长：若美“误判”形势，美基地将遭打击",
-          "url": "https://news.ifeng.com/c/8psvSf2W4qr",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时03分 ~ 21时16分]"
-        },
-        {
           "title": "伊朗外长：伊朗不寻求战争，但已做好战争准备",
           "url": "https://m.thepaper.cn/newsDetail_forward_32368032",
           "source": "澎湃新闻",
@@ -1422,6 +1447,17 @@
           "time_info": "[11时31分 ~ 17时06分]"
         },
         {
+          "title": "伊朗声称查获包括星链在内的“间谍”设备。",
+          "url": "https://flash.jin10.com/detail/20260113214039477800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时06分"
+        },
+        {
           "title": "伊朗议长：若美“误判”形势 美基地将遭打击",
           "url": "https://wallstreetcn.com/livenews/3036019",
           "source": "华尔街见闻-快讯",
@@ -1433,17 +1469,6 @@
           "time_info": "18时04分"
         },
         {
-          "title": "伊朗称抓捕多名“恐怖组织”成员 查获美制武器",
-          "url": "https://wallstreetcn.com/livenews/3036182",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时16分"
-        },
-        {
           "title": "伊朗议长：若美“误判”形势 美基地将遭打击",
           "url": "https://flash.jin10.com/detail/20260113175857665800",
           "source": "金十数据",
@@ -1453,6 +1478,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时04分"
+        },
+        {
+          "title": "伊朗称抓捕多名“恐怖组织”成员 查获美制武器",
+          "url": "https://wallstreetcn.com/livenews/3036182",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时16分 ~ 22时06分]"
         },
         {
           "title": "土耳其执政党：伊朗问题“应由伊朗政府自己解决”",
@@ -1962,7 +1999,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时16分"
         },
@@ -2014,7 +2051,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 24,
+      "match_count": 25,
       "titles": [
         {
           "title": "伊朗局势微妙、鲍威尔被诉，美股债汇三杀，黄金突破4620美元，现货白银涨超6%，铜逼近新高，油价回调",
@@ -2100,6 +2137,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时07分"
+        },
+        {
+          "title": "美国CPI数据公布后，美股股指期货短线拉升",
+          "url": "https://wallstreetcn.com/livenews/3036204",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时06分"
         },
         {
           "title": "美股集体低开 中概股逆势走强",
@@ -2303,8 +2351,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[08时07分 ~ 21时16分]"
+          "appearance_count": 20,
+          "time_info": "[08时07分 ~ 22时06分]"
         },
         {
           "title": "苹果选中Gemini，谷歌登上“4万亿”",
@@ -2317,8 +2365,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[09时31分 ~ 21时16分]"
+          "appearance_count": 19,
+          "time_info": "[09时31分 ~ 22时06分]"
         },
         {
           "title": "备受关注的“AI商业模式”：谷歌率先在Gemini中引入广告",
@@ -2392,6 +2440,18 @@
           "time_info": "[10时37分 ~ 11时31分]"
         },
         {
+          "title": "UP主锐评苹果谷歌合作",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E9%94%90%E8%AF%84%E8%8B%B9%E6%9E%9C%E8%B0%B7%E6%AD%8C%E5%90%88%E4%BD%9C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时16分 ~ 22时06分]"
+        },
+        {
           "title": "美股七巨头收盘播报｜谷歌涨1%，收盘市值达到4万亿美元，Meta跌1.7%",
           "url": "https://wallstreetcn.com/livenews/3035583",
           "source": "华尔街见闻-快讯",
@@ -2402,17 +2462,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时03分 ~ 07时03分]"
-        },
-        {
-          "title": "UP主锐评苹果谷歌合作",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E9%94%90%E8%AF%84%E8%8B%B9%E6%9E%9C%E8%B0%B7%E6%AD%8C%E5%90%88%E4%BD%9C",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时16分"
         },
         {
           "title": "苹果选择谷歌Gemini驱动将于今年面世的AI版Siri",
@@ -2544,8 +2593,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[11时31分 ~ 21时16分]"
+          "appearance_count": 17,
+          "time_info": "[11时31分 ~ 22时06分]"
         },
         {
           "title": "DeepSeek发布梁文锋署名新论文",
@@ -2570,8 +2619,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时06分 ~ 21时16分]"
+          "appearance_count": 8,
+          "time_info": "[17时06分 ~ 22时06分]"
         },
         {
           "title": "DeepSeek开源大模型记忆模块！梁文锋署名新论文，下一代稀疏模型提前剧透",
@@ -2650,7 +2699,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时16分"
         },
@@ -2673,7 +2722,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时16分"
         },
@@ -2692,7 +2741,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "美元指数12日下跌",
@@ -2717,13 +2766,35 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时04分 ~ 06时03分]"
+        },
+        {
+          "title": "美元指数DXY短线下挫 非美货币集体走高",
+          "url": "https://flash.jin10.com/detail/20260113213309385800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时06分"
         }
       ]
     },
     {
       "keyword_group": "金价",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "金价为何持续走强",
+          "url": "https://www.toutiao.com/trending/7594774199927836179/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时05分 ~ 22时06分]"
+        },
         {
           "title": "花旗预测三个月内金价将达到每盎司5000美元，银价达到100美元。",
           "url": "https://wallstreetcn.com/livenews/3035626",
