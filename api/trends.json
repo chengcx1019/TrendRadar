@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-16T12:25:43.470947+08:00",
-  "total_titles_processed": 1213,
+  "generated_at": "2026-01-16T13:06:24.123414+08:00",
+  "total_titles_processed": 1268,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 93,
+      "match_count": 94,
       "titles": [
         {
           "title": "美军航母开往中东，特朗普要“速战速决”？",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时06分 ~ 12时25分]"
+          "appearance_count": 21,
+          "time_info": "[00时06分 ~ 13时06分]"
         },
         {
           "title": "特朗普：我会去委内瑞拉，委代总统将访美",
@@ -38,8 +38,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时07分 ~ 12时25分]"
+          "appearance_count": 9,
+          "time_info": "[08时07分 ~ 13时06分]"
         },
         {
           "title": "她给特朗普献了份大礼，诺奖气坏了",
@@ -49,8 +49,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时31分 ~ 12时25分]"
+          "appearance_count": 7,
+          "time_info": "[09时31分 ~ 13时06分]"
         },
         {
           "title": "航母打击群开往中东，特朗普：希望“速战速决”！伊朗进入最高战备状态，约2000枚导弹可覆盖美以基地！多国航班绕飞伊领空",
@@ -62,8 +62,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时07分 ~ 12时25分]"
+          "appearance_count": 9,
+          "time_info": "[08时07分 ~ 13时06分]"
         },
         {
           "title": "特朗普暂缓对伊朗动武决定",
@@ -73,8 +73,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时31分 ~ 12时25分]"
+          "appearance_count": 4,
+          "time_info": "[11时31分 ~ 13时06分]"
         },
         {
           "title": "特朗普称将“观望”伊朗局势发展，美油盘中跌3%",
@@ -267,6 +267,18 @@
           "time_info": "[07时04分 ~ 08时08分]"
         },
         {
+          "title": "白银狂欢暂歇，特朗普暂未对关键矿产征关税，现货银价一度跌超7%后V字反弹",
+          "url": "https://wallstreetcn.com/articles/3763411",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时31分 ~ 13时06分]"
+        },
+        {
           "title": "白宫新闻秘书Leavitt：美国总统特朗普愿意与任何人共同解决信用卡利率上限问题。",
           "url": "https://wallstreetcn.com/livenews/3038171",
           "source": "华尔街见闻-快讯",
@@ -278,18 +290,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时08分 ~ 05时03分]"
-        },
-        {
-          "title": "白银狂欢暂歇，特朗普暂未对关键矿产征关税，现货银价一度跌超7%后V字反弹",
-          "url": "https://wallstreetcn.com/articles/3763411",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时31分 ~ 12时25分]"
         },
         {
           "title": "特朗普直播打瞌睡被小女孩发现",
@@ -413,6 +413,18 @@
           "time_info": "[11时32分 ~ 12时25分]"
         },
         {
+          "title": "“特朗普级”军舰造价或创美历史新高，高达220亿美元",
+          "url": "https://wallstreetcn.com/livenews/3038447",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时25分 ~ 13时06分]"
+        },
+        {
           "title": "马查多把诺贝尔和平奖颁给特朗普",
           "url": "https://wallstreetcn.com/livenews/3038384",
           "source": "华尔街见闻-快讯",
@@ -529,6 +541,17 @@
           "time_info": "10时39分"
         },
         {
+          "title": "特朗普暂缓对伊朗动武决定",
+          "url": "https://www.douyin.com/hot/2369152",
+          "source": "抖音",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时06分"
+        },
+        {
           "title": "美国总统特朗普：我们已经正式进入加沙“20点和平计划”的下一阶段。",
           "url": "https://flash.jin10.com/detail/20260116085218464800",
           "source": "金十数据",
@@ -606,17 +629,6 @@
           "time_info": "07时04分"
         },
         {
-          "title": "“特朗普级”军舰造价或创美历史新高，高达220亿美元",
-          "url": "https://wallstreetcn.com/livenews/3038447",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时25分"
-        },
-        {
           "title": "美国白宫：美国总统特朗普的医疗计划旨在针对药房福利管理机构的支付。",
           "url": "https://flash.jin10.com/detail/20260116002858964800",
           "source": "金十数据",
@@ -678,7 +690,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时25分"
         },
@@ -1095,8 +1107,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[01时10分 ~ 12时25分]"
+          "appearance_count": 19,
+          "time_info": "[01时10分 ~ 13时06分]"
         },
         {
           "title": "王毅同伊朗外长通电话",
@@ -1105,11 +1117,12 @@
           "ranks": [
             6,
             5,
-            7
+            7,
+            16
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时06分 ~ 12时25分]"
+          "appearance_count": 21,
+          "time_info": "[00时06分 ~ 13时06分]"
         },
         {
           "title": "王毅同伊朗外长阿拉格齐通电话",
@@ -1123,8 +1136,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时06分 ~ 12时25分]"
+          "appearance_count": 21,
+          "time_info": "[00时06分 ~ 13时06分]"
         },
         {
           "title": "美国宣布对伊朗实施新制裁",
@@ -1235,8 +1248,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时31分 ~ 12时25分]"
+          "appearance_count": 7,
+          "time_info": "[09时31分 ~ 13时06分]"
         },
         {
           "title": "伊朗常驻联合国副代表：任何直接或间接的侵略行为都将遭到果断、相称、合法的回应。",
@@ -1261,6 +1274,32 @@
           "time_info": "00时07分"
         },
         {
+          "title": "美国财政部对伊朗实施新制裁 马士基宣布将恢复红海航线 | 环球市场",
+          "url": "https://www.cls.cn/detail/2259666",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时39分 ~ 13时06分]"
+        },
+        {
+          "title": "中方呼吁美方对伊朗放下武力执念",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%91%BC%E5%90%81%E7%BE%8E%E6%96%B9%E5%AF%B9%E4%BC%8A%E6%9C%97%E6%94%BE%E4%B8%8B%E6%AD%A6%E5%8A%9B%E6%89%A7%E5%BF%B5",
+          "source": "百度热搜",
+          "ranks": [
+            12,
+            18,
+            20,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时39分 ~ 13时06分]"
+        },
+        {
           "title": "美国停办 75 国签证，其中包括巴西、伊朗、埃及，这在未来会影响 2026 年世界杯正常举办吗？",
           "url": "https://www.zhihu.com/question/1995083094298944420",
           "source": "知乎",
@@ -1272,31 +1311,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时06分 ~ 03时08分]"
-        },
-        {
-          "title": "美国财政部对伊朗实施新制裁 马士基宣布将恢复红海航线 | 环球市场",
-          "url": "https://www.cls.cn/detail/2259666",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时39分 ~ 12时25分]"
-        },
-        {
-          "title": "中方呼吁美方对伊朗放下武力执念",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%91%BC%E5%90%81%E7%BE%8E%E6%96%B9%E5%AF%B9%E4%BC%8A%E6%9C%97%E6%94%BE%E4%B8%8B%E6%AD%A6%E5%8A%9B%E6%89%A7%E5%BF%B5",
-          "source": "百度热搜",
-          "ranks": [
-            12,
-            18,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时39分 ~ 12时25分]"
         },
         {
           "title": "中方呼吁美方对伊朗放下武力执念",
@@ -1347,6 +1361,18 @@
           "time_info": "[09时32分 ~ 10时39分]"
         },
         {
+          "title": "新西兰驻伊朗大使馆因“安全形势恶化”暂时关闭",
+          "url": "https://wallstreetcn.com/livenews/3038448",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时25分 ~ 13时06分]"
+        },
+        {
           "title": "中方呼吁美方对伊朗放下武力执念",
           "url": "https://wallstreetcn.com/livenews/3038378",
           "source": "华尔街见闻-快讯",
@@ -1379,17 +1405,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时06分"
-        },
-        {
-          "title": "新西兰驻伊朗大使馆因“安全形势恶化”暂时关闭",
-          "url": "https://wallstreetcn.com/livenews/3038448",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时25分"
         },
         {
           "title": "伊朗外长与联合国秘书长通话 讨论当前形势",
@@ -1505,7 +1520,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "科技股下挫拖累美股，金银铜锡盘中齐创新高，金银比跌破50，原油重挫",
@@ -1532,6 +1547,17 @@
           "time_info": "[00时06分 ~ 06时04分]"
         },
         {
+          "title": "台积电带飞芯片股，力撑美股指反弹，白银一度跌逾7%后走V，原油大跌",
+          "url": "https://wallstreetcn.com/articles/3763348",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[08时07分 ~ 13时06分]"
+        },
+        {
           "title": "美股收盘：台积电财报点燃AI行情 银行股强势回暖 三大指数集体收涨",
           "url": "https://www.cls.cn/detail/2259656",
           "source": "财联社热门",
@@ -1541,19 +1567,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时03分 ~ 12时25分]"
-        },
-        {
-          "title": "台积电带飞芯片股，力撑美股指反弹，白银一度跌逾7%后走V，原油大跌",
-          "url": "https://wallstreetcn.com/articles/3763348",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时07分 ~ 12时25分]"
+          "appearance_count": 11,
+          "time_info": "[07时03分 ~ 13时06分]"
         },
         {
           "title": "台积电季报提振市场信心 芯片股美股盘前集体上涨 | 今夜看点",
@@ -1625,6 +1640,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时06分"
+        },
+        {
+          "title": "台积电财报引爆AI行情：美股芯片股普涨 阿斯麦市值突破5000亿美元",
+          "url": "https://www.cls.cn/detail/2259861",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时06分"
         },
         {
           "title": "美股七巨头收盘播报｜周四（1月15日），美国科技股七巨头（Magnificent 7）指数涨0.21%，报205.20点，跳空高开之后，至北京时间03:00高位震荡、之后持续回落并四度转跌。 “超大”市值科技股指数涨0.20%，报392.34点，跳空高开之后高位持稳，03:00开始逐步回吐涨幅。",
@@ -1719,11 +1745,12 @@
             3,
             1,
             15,
-            12
+            12,
+            14
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时06分 ~ 12时25分]"
+          "appearance_count": 21,
+          "time_info": "[00时06分 ~ 13时06分]"
         },
         {
           "title": "OpenAI：发布提案请求，重点关注人工智能供应链关键环节中的美国本土制造业。",
@@ -1759,6 +1786,18 @@
           "time_info": "02时06分"
         },
         {
+          "title": "清华姚班陈立杰加入OpenAI",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B8%85%E5%8D%8E%E5%A7%9A%E7%8F%AD%E9%99%88%E7%AB%8B%E6%9D%B0%E5%8A%A0%E5%85%A5OpenAI",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时39分 ~ 13时06分]"
+        },
+        {
           "title": "OpenAI寻求美国供应商，推动机器人与AI设备计划",
           "url": "https://wallstreetcn.com/livenews/3038124",
           "source": "华尔街见闻-快讯",
@@ -1769,17 +1808,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时10分 ~ 02时06分]"
-        },
-        {
-          "title": "清华姚班陈立杰加入OpenAI",
-          "url": "https://search.bilibili.com/all?keyword=%E6%B8%85%E5%8D%8E%E5%A7%9A%E7%8F%AD%E9%99%88%E7%AB%8B%E6%9D%B0%E5%8A%A0%E5%85%A5OpenAI",
-          "source": "bilibili 热搜",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时39分"
         },
         {
           "title": "马斯克诉OpenAI案将进入陪审团审判",
