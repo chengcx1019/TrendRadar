@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-01-17T07:03:52.937514+08:00",
-  "total_titles_processed": 656,
+  "generated_at": "2026-01-17T08:07:54.142852+08:00",
+  "total_titles_processed": 706,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 55,
+      "match_count": 61,
       "titles": [
+        {
+          "title": "白银狂欢暂歇，特朗普暂未对关键矿产征关税，现货银价一度跌超7%后V字反弹",
+          "url": "https://wallstreetcn.com/articles/3763411",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时04分 ~ 08时07分]"
+        },
         {
           "title": "特朗普威胁：对不支持的国家加征关税",
           "url": "https://news.ifeng.com/c/8pyLh0hhSlp",
@@ -19,28 +32,17 @@
           "time_info": "[02时04分 ~ 07时03分]"
         },
         {
-          "title": "白银狂欢暂歇，特朗普暂未对关键矿产征关税，现货银价一度跌超7%后V字反弹",
-          "url": "https://wallstreetcn.com/articles/3763411",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时04分 ~ 07时03分]"
-        },
-        {
           "title": "特朗普拟紧急干预电力市场：强压AI巨头签15年长约，为150亿美元新电厂买单",
           "url": "https://wallstreetcn.com/articles/3763449",
           "source": "华尔街见闻",
           "ranks": [
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时04分 ~ 07时03分]"
+          "appearance_count": 9,
+          "time_info": "[00时04分 ~ 08时07分]"
         },
         {
           "title": "梦想成真!特朗普喜提二手诺奖",
@@ -51,8 +53,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时04分 ~ 07时03分]"
+          "appearance_count": 9,
+          "time_info": "[00时04分 ~ 08时07分]"
         },
         {
           "title": "特朗普笑纳“二手”诺贝尔和平奖奖章，诺奖委员会发声明",
@@ -63,8 +65,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时04分 ~ 07时03分]"
+          "appearance_count": 9,
+          "time_info": "[00时04分 ~ 08时07分]"
         },
         {
           "title": "释新闻｜特朗普为何暂缓对伊朗动武？",
@@ -75,8 +77,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时04分 ~ 07时03分]"
+          "appearance_count": 9,
+          "time_info": "[00时04分 ~ 08时07分]"
         },
         {
           "title": "特朗普暂缓对伊朗发动军事打击，此举出于什么考虑？其后续可能有什么新动作？",
@@ -86,8 +88,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时04分 ~ 07时03分]"
+          "appearance_count": 9,
+          "time_info": "[00时04分 ~ 08时07分]"
         },
         {
           "title": "特朗普希望哈塞特留在原岗位 现货金银短线跳水",
@@ -112,6 +114,17 @@
           "time_info": "00时04分"
         },
         {
+          "title": "特朗普：这是卡尼该做的事，签协议是好事",
+          "url": "https://news.ifeng.com/c/8pyqg7dqBOh",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时07分"
+        },
+        {
           "title": "美国总统特朗普称赞礼来公司。",
           "url": "https://flash.jin10.com/detail/20260116233428429800",
           "source": "金十数据",
@@ -121,6 +134,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时04分"
+        },
+        {
+          "title": "特朗普为夺岛发出关税威胁，美议员组队唱反调",
+          "url": "https://news.ifeng.com/c/8pyaPdxiAtr",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时07分"
         },
         {
           "title": "美国法官：Dominion Energy可会恢复被总统特朗普叫停的风电项目。",
@@ -277,8 +301,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时04分 ~ 07时03分]"
+          "appearance_count": 4,
+          "time_info": "[05时04分 ~ 08时07分]"
         },
         {
           "title": "特朗普关税案迎来关键窗口 1月20日或见分晓",
@@ -400,6 +424,40 @@
           "time_info": "[01时06分 ~ 02时04分]"
         },
         {
+          "title": "周五（1月16日）纽约尾盘，现货黄金跌0.44%，报4595.23美元/盎司，特朗普淡化白宫顾问贝森特担任美联储主席可能性之后快速跳水，本周累计上涨1.91%，绝大部分时间高位震荡。 COMEX黄金期货跌0.57%，报4597美元/盎司，本周累涨2.12%。",
+          "url": "https://wallstreetcn.com/livenews/3039034",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时03分 ~ 08时07分]"
+        },
+        {
+          "title": "特朗普称或对反格陵兰岛计划国加关税",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E6%88%96%E5%AF%B9%E5%8F%8D%E6%A0%BC%E9%99%B5%E5%85%B0%E5%B2%9B%E8%AE%A1%E5%88%92%E5%9B%BD%E5%8A%A0%E5%85%B3%E7%A8%8E%23&t=31&band_rank=6&Refer=top",
+          "source": "微博",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时07分"
+        },
+        {
+          "title": "美国总统特朗普购买100万美元奈飞和华纳兄弟探索公司的债券。 此举是在宣布两家公司有望合并的消息之后。（华盛顿邮报）",
+          "url": "https://wallstreetcn.com/livenews/3039055",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时07分"
+        },
+        {
           "title": "美国总统特朗普表示希望哈塞特留在全美经济顾问委员会（NEC）后，美国两年期国债收益率上升。",
           "url": "https://flash.jin10.com/detail/20260116232949532800",
           "source": "金十数据",
@@ -433,6 +491,17 @@
           "time_info": "02时04分"
         },
         {
+          "title": "特朗普威胁：若他国不支持美国控制格陵兰岛，可能对其加征关税",
+          "url": "https://www.cls.cn/detail/2260948",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时07分"
+        },
+        {
           "title": "特朗普：想让白宫顾问哈塞特留任",
           "url": "https://wallstreetcn.com/livenews/3038903",
           "source": "华尔街见闻-快讯",
@@ -464,17 +533,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时03分"
-        },
-        {
-          "title": "周五（1月16日）纽约尾盘，现货黄金跌0.44%，报4595.23美元/盎司，特朗普淡化白宫顾问贝森特担任美联储主席可能性之后快速跳水，本周累计上涨1.91%，绝大部分时间高位震荡。 COMEX黄金期货跌0.57%，报4597美元/盎司，本周累涨2.12%。",
-          "url": "https://wallstreetcn.com/livenews/3039034",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时03分"
         },
         {
           "title": "美国总统特朗普：美联储官员不怎么说话，哈塞特很会说话。",
@@ -620,6 +678,17 @@
           "time_info": "01时06分"
         },
         {
+          "title": "特朗普自称是个有道德的人",
+          "url": "https://www.toutiao.com/trending/7595171923328827402/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时07分"
+        },
+        {
           "title": "美国总统特朗普：现在没有理由在明尼苏达州使用叛乱法。",
           "url": "https://flash.jin10.com/detail/20260117014827166800",
           "source": "金十数据",
@@ -645,7 +714,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "上合组织就伊朗局势发布声明",
@@ -667,8 +736,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时04分 ~ 07时03分]"
+          "appearance_count": 9,
+          "time_info": "[00时04分 ~ 08时07分]"
         },
         {
           "title": "美以领导人被曝再次通话，讨论伊朗局势",
@@ -679,8 +748,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时05分 ~ 07时03分]"
+          "appearance_count": 6,
+          "time_info": "[03时05分 ~ 08时07分]"
         },
         {
           "title": "上海合作组织发表关于伊朗局势的声明",
@@ -693,22 +762,23 @@
             16,
             17,
             13,
-            14
+            14,
+            20
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时06分 ~ 07时03分]"
+          "appearance_count": 8,
+          "time_info": "[01时06分 ~ 08时07分]"
         },
         {
-          "title": "伊朗谴责七国集团发表干涉伊朗内政言论",
-          "url": "https://wallstreetcn.com/livenews/3039047",
+          "title": "伊朗手机用户发送短信功能恢复",
+          "url": "https://wallstreetcn.com/livenews/3039060",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时03分"
+          "time_info": "08时07分"
         },
         {
           "title": "欧盟航空安全局建议航空运营商避开伊朗空域",
@@ -721,6 +791,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时03分 ~ 07时03分]"
+        },
+        {
+          "title": "伊朗谴责七国集团发表干涉伊朗内政言论",
+          "url": "https://wallstreetcn.com/livenews/3039047",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时03分 ~ 08时07分]"
         },
         {
           "title": "欧洲航空安全局：伊朗存在以及可能使用多种武器和防空系统，对在各高度运行的民用航班构成高风险。",
@@ -783,6 +865,18 @@
           "time_info": "[03时05分 ~ 04时03分]"
         },
         {
+          "title": "伊朗警方破获一起重大武器走私案",
+          "url": "https://wallstreetcn.com/livenews/3039032",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时03分 ~ 08时07分]"
+        },
+        {
           "title": "惠誉：全球石油供应过剩可抵消伊朗和委内瑞拉的产量不确定性。",
           "url": "https://flash.jin10.com/detail/20260117020120423800",
           "source": "金十数据",
@@ -815,17 +909,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时04分"
-        },
-        {
-          "title": "伊朗警方破获一起重大武器走私案",
-          "url": "https://wallstreetcn.com/livenews/3039032",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时03分"
         },
         {
           "title": "以官员透露摩萨德局长已抵美，将与美方讨论伊朗局势",
@@ -877,8 +960,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时03分 ~ 07时03分]"
+          "appearance_count": 3,
+          "time_info": "[06时03分 ~ 08时07分]"
         },
         {
           "title": "科技股助推美股指全线上涨，纳指涨0.5%，白银价格逆势重挫5%",
@@ -905,6 +988,18 @@
           "time_info": "02时04分"
         },
         {
+          "title": "美股收盘：三大指数微幅下跌 财报季开局谨慎 美光科技涨超7%市值破4000亿",
+          "url": "https://www.cls.cn/detail/2260993",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时03分 ~ 08时07分]"
+        },
+        {
           "title": "美股七巨头收盘播报｜周五（1月16日），美国科技股七巨头（Magnificent 7）指数跌0.30%，报204.59点，本周累计下跌1.58%。 “超大”市值科技股指数涨0.12%，报392.82点，本周累跌0.54%。",
           "url": "https://wallstreetcn.com/livenews/3039026",
           "source": "华尔街见闻-快讯",
@@ -924,8 +1019,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时03分 ~ 07时03分]"
+          "appearance_count": 3,
+          "time_info": "[06时03分 ~ 08时07分]"
         },
         {
           "title": "美股三大指数小幅收跌 美光收涨近8%",
@@ -935,8 +1030,20 @@
             11
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时03分 ~ 08时07分]"
+        },
+        {
+          "title": "（美股）费城金银指数收涨0.06%，报395.01点，本周累计上涨5.47%。 （全球时段）纽约证交所ARCA金矿开采商指数收跌0.06%，报2760.43点，特朗普谈论哈塞特带来一波尖锐的V形走势，本周累涨5.38%。 （美股）原材料指数收跌0.21%，报252.23点，本周累涨2.89%。 （美股）金属与矿业指数收跌1.09%，报241.90点，本周累涨4.46%。",
+          "url": "https://wallstreetcn.com/livenews/3039039",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            24
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[06时03分 ~ 07时03分]"
+          "time_info": "[07时03分 ~ 08时07分]"
         },
         {
           "title": "金十图示：2026年01月16日（周五）热门中概股行情一览（美股盘中）",
@@ -948,28 +1055,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时04分"
-        },
-        {
-          "title": "（美股）费城金银指数收涨0.06%，报395.01点，本周累计上涨5.47%。 （全球时段）纽约证交所ARCA金矿开采商指数收跌0.06%，报2760.43点，特朗普谈论哈塞特带来一波尖锐的V形走势，本周累涨5.38%。 （美股）原材料指数收跌0.21%，报252.23点，本周累涨2.89%。 （美股）金属与矿业指数收跌1.09%，报241.90点，本周累涨4.46%。",
-          "url": "https://wallstreetcn.com/livenews/3039039",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时03分"
-        },
-        {
-          "title": "美股收盘：三大指数微幅下跌 财报季开局谨慎 美光科技涨超7%市值破4000亿",
-          "url": "https://www.cls.cn/detail/2260993",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时03分"
         },
         {
           "title": "网络股ETF收跌将近0.9%，领跌美股行业ETF，半导体ETF涨1%",
@@ -997,8 +1082,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时04分 ~ 07时03分]"
+          "appearance_count": 9,
+          "time_info": "[00时04分 ~ 08时07分]"
         },
         {
           "title": "OpenAI推出ChatGPT Go，美国订阅费用为每个月8美元。 在全球范围内对ChatGPT提供三层订阅方案。 ChatGPT Plus月租20美元，ChatGPT Pro月租200美元。 Plus、Pro、Bussiness、Enterprise都不包含广告。 还没有在ChatGPT推出广告。 将免费测试广告功能，将在成年人群体实施分层订阅方案。 未来数周将开始测试第一批广告格式。 将在ChatGPT答案的底部测试广告。 广告将有清晰的标签，与答案有分隔。",
@@ -1087,8 +1172,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时04分 ~ 07时03分]"
+          "appearance_count": 4,
+          "time_info": "[05时04分 ~ 08时07分]"
         },
         {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌0.58%，暂报4084.85点，最近连续天累计上涨0.07%，整体大致持稳，1月11日北京时间22:10前后出现一波尖锐的冲高回落行情——最高达到6268.44点。 MarketVectorTM数字资产100中盘指数跌2.22%，报3725.95点，最近七天累跌1.99%，整体冲高回落。 MarketVector数字资产100指数跌1.72%，报19592.12点，最近七天累涨2.99%。 最近七天，比特币累涨4.92%，目前报94872美元；以太坊累涨6.40%，暂报3279美元；Solana累涨4.40%，狗狗币累跌2.99%，XRP累跌2.22%。",
@@ -1139,7 +1224,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "谷歌提交通知，就司法部搜索裁决提起上诉。",
@@ -1149,19 +1234,31 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时03分 ~ 07时03分]"
+          "appearance_count": 3,
+          "time_info": "[06时03分 ~ 08时07分]"
         },
         {
           "title": "谷歌公司将针对美国法院判决“搜索中出现的非法操纵”提出上诉。",
           "url": "https://wallstreetcn.com/livenews/3039041",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            9,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时03分 ~ 08时07分]"
+        },
+        {
+          "title": "字节跳动发布SeedFold，蛋白质结构预测相关多任务超越谷歌AlphaFold 3，揭示大模型缩放新秘诀",
+          "url": "https://wallstreetcn.com/livenews/3039053",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时03分"
+          "time_info": "08时07分"
         }
       ]
     },
