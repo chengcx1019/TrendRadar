@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-20T12:19:52.194422+08:00",
-  "total_titles_processed": 1113,
+  "generated_at": "2026-01-20T13:09:07.732217+08:00",
+  "total_titles_processed": 1192,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 48,
+      "match_count": 59,
       "titles": [
         {
           "title": "会武力夺岛？特朗普：无可奉告",
@@ -54,21 +54,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时04分 ~ 12时19分]"
-        },
-        {
-          "title": "特朗普为何强夺格陵兰岛？贝森特：因为欧洲“软弱”",
-          "url": "https://wallstreetcn.com/articles/3763548",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时04分 ~ 08时07分]"
+          "appearance_count": 21,
+          "time_info": "[00时04分 ~ 13时09分]"
         },
         {
           "title": "特朗普再掀贸易摩擦 黄金白银大涨 全球股市承压 | 环球市场",
@@ -82,8 +69,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时03分 ~ 12时19分]"
+          "appearance_count": 10,
+          "time_info": "[07时03分 ~ 13时09分]"
         },
         {
           "title": "特朗普写了一封信，杀气腾腾，槽点满满",
@@ -93,8 +80,21 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时31分 ~ 12时19分]"
+          "appearance_count": 8,
+          "time_info": "[09时31分 ~ 13时09分]"
+        },
+        {
+          "title": "特朗普为何强夺格陵兰岛？贝森特：因为欧洲“软弱”",
+          "url": "https://wallstreetcn.com/articles/3763548",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时04分 ~ 08时07分]"
         },
         {
           "title": "普京被邀请加入特朗普“和平委员会”",
@@ -131,19 +131,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时07分 ~ 12时19分]"
-        },
-        {
-          "title": "欧洲8国集体回应特朗普关税威胁",
-          "url": "https://news.ifeng.com/c/8q27ChONuGJ",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时04分 ~ 01时06分]"
+          "appearance_count": 9,
+          "time_info": "[08时07分 ~ 13时09分]"
         },
         {
           "title": "美联储独立性的分水岭！明天，美国最高法院审“特朗普诉库克案”",
@@ -155,8 +144,19 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时31分 ~ 12时19分]"
+          "appearance_count": 8,
+          "time_info": "[09时31分 ~ 13时09分]"
+        },
+        {
+          "title": "欧洲8国集体回应特朗普关税威胁",
+          "url": "https://news.ifeng.com/c/8q27ChONuGJ",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时04分 ~ 01时06分]"
         },
         {
           "title": "克罗地亚总统乱抖包袱：特朗普还不如占领斯瓦尔巴群岛",
@@ -181,6 +181,40 @@
           "time_info": "10时40分"
         },
         {
+          "title": "特朗普：我将对法国葡萄酒和香槟征收200%的关税，届时马克龙将加入 “和平委员会”。",
+          "url": "https://wallstreetcn.com/livenews/3040147",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时09分"
+        },
+        {
+          "title": "关于美联储主席人选，特朗普表示，知道自己想要的是谁。",
+          "url": "https://wallstreetcn.com/livenews/3040144",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时09分"
+        },
+        {
+          "title": "又会是“极限施压、最后时刻妥协”剧本？市场“很懂”特朗普",
+          "url": "https://wallstreetcn.com/articles/3763642",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时32分 ~ 13时09分]"
+        },
+        {
           "title": "据NBC新闻：特朗普拒绝表态是否会动用武力夺取格陵兰岛。",
           "url": "https://flash.jin10.com/detail/20260119233812359800",
           "source": "金十数据",
@@ -190,6 +224,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时04分"
+        },
+        {
+          "title": "美国总统特朗普：我将对法国葡萄酒和香槟征收200%的关税，法国总统马克龙将加入和平委员会。",
+          "url": "https://flash.jin10.com/detail/20260120125358466800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时09分"
+        },
+        {
+          "title": "美国总统特朗普：我们必须拥有格陵兰岛。 我们将在达沃斯讨论格陵兰岛问题。 在达沃斯我们安排了很多次会议。 不认为欧盟会在格陵兰岛问题上过度抵制。 不关心诺贝尔和平奖。我关心的是拯救生命。 已经邀请普京加入和平理事会。 达沃斯之行会非常有趣。 20年来北约一直在警告丹麦来自俄罗斯的威胁。",
+          "url": "https://wallstreetcn.com/livenews/3040143",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时09分"
         },
         {
           "title": "欧盟将召开特别峰会应对特朗普“夺岛”关税",
@@ -278,18 +334,6 @@
           "time_info": "[11时33分 ~ 12时19分]"
         },
         {
-          "title": "又会是“极限施压、最后时刻妥协”剧本？市场“很懂”特朗普",
-          "url": "https://wallstreetcn.com/articles/3763642",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时32分 ~ 12时19分]"
-        },
-        {
           "title": "特朗普嫉妒中国已是公开秘密",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%AB%89%E5%A6%92%E4%B8%AD%E5%9B%BD%E5%B7%B2%E6%98%AF%E5%85%AC%E5%BC%80%E7%A7%98%E5%AF%86%23&t=31&band_rank=7&Refer=top",
           "source": "微博",
@@ -328,6 +372,17 @@
           "time_info": "[02时04分 ~ 04时04分]"
         },
         {
+          "title": "特朗普关税威胁引发欧股抛售 奢侈品股全线大跌",
+          "url": "https://www.cls.cn/detail/2262836",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时19分 ~ 13时09分]"
+        },
+        {
           "title": "特朗普打关税牌吞格陵兰能得逞吗",
           "url": "https://www.toutiao.com/trending/7597071517846867510/",
           "source": "今日头条",
@@ -349,6 +404,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时04分 ~ 05时04分]"
+        },
+        {
+          "title": "手握“10万亿美元武器”！分析师热议：欧洲是否会祭出“资本战”反击特朗普？",
+          "url": "https://www.cls.cn/detail/2263060",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时08分 ~ 13时09分]"
         },
         {
           "title": "摩洛哥外交部：摩洛哥接受特朗普邀请，加入加沙和平委员会。",
@@ -463,9 +529,53 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时19分"
+        },
+        {
+          "title": "美国总统特朗普：我们必须拥有格陵兰岛。",
+          "url": "https://flash.jin10.com/detail/20260120124843193800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时09分"
+        },
+        {
+          "title": "美国总统特朗普：北约20年来一直在就俄罗斯威胁向丹麦发出警告。",
+          "url": "https://flash.jin10.com/detail/20260120124833622800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时09分"
+        },
+        {
+          "title": "美国总统特朗普：（谈美联储）我知道我想要谁担任美联储主席。",
+          "url": "https://flash.jin10.com/detail/20260120124746796800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时09分"
+        },
+        {
+          "title": "美国总统特朗普：别指望欧盟会在格陵兰问题上做出太大让步。",
+          "url": "https://flash.jin10.com/detail/20260120124616765800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时09分"
         },
         {
           "title": "芬兰总统：欧盟拥有多种工具说服特朗普撤销格陵兰岛威胁",
@@ -479,15 +589,26 @@
           "time_info": "06时04分"
         },
         {
-          "title": "特朗普关税威胁引发欧股抛售 奢侈品股全线大跌",
-          "url": "https://www.cls.cn/detail/2262836",
-          "source": "财联社热门",
+          "title": "美国总统特朗普：我们将在达沃斯讨论格陵兰岛。",
+          "url": "https://flash.jin10.com/detail/20260120124535908800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时09分"
+        },
+        {
+          "title": "美国总统特朗普：俄罗斯总统普京已被邀请加入和平委员会。",
+          "url": "https://flash.jin10.com/detail/20260120124527360800",
+          "source": "金十数据",
           "ranks": [
             12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时19分"
+          "time_info": "13时09分"
         },
         {
           "title": "丹麦外交部长：相信英国首相斯塔默已与美国总统特朗普直接通话。",
@@ -693,8 +814,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时31分 ~ 12时19分]"
+          "appearance_count": 8,
+          "time_info": "[09时31分 ~ 13时09分]"
         },
         {
           "title": "三年10倍！OpenAI年化营收突破200亿美元 今年重点推实际应用",
@@ -703,11 +824,12 @@
           "ranks": [
             12,
             9,
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时40分 ~ 12时19分]"
+          "appearance_count": 6,
+          "time_info": "[10时40分 ~ 13时09分]"
         },
         {
           "title": "OpenAI政策主管Lehane在达沃斯接受采访时说，该公司计划2026年发布第一款设备。（Axios）",
@@ -780,8 +902,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时07分 ~ 12时19分]"
+          "appearance_count": 9,
+          "time_info": "[08时07分 ~ 13时09分]"
         },
         {
           "title": "格陵兰引发关税战风险，美股债休市，欧股重创，美元走低，金银再创新高",
@@ -856,7 +978,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时19分"
         }
@@ -878,8 +1000,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[01时06分 ~ 12时19分]"
+          "appearance_count": 20,
+          "time_info": "[01时06分 ~ 13时09分]"
         },
         {
           "title": "决定黄金价格的三大属性",
