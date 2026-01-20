@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-20T15:08:54.009145+08:00",
-  "total_titles_processed": 1371,
+  "generated_at": "2026-01-20T16:04:43.767704+08:00",
+  "total_titles_processed": 1487,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 80,
+      "match_count": 85,
       "titles": [
         {
           "title": "会武力夺岛？特朗普：无可奉告",
@@ -41,8 +41,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时31分 ~ 15时08分]"
+          "appearance_count": 11,
+          "time_info": "[09时31分 ~ 16时04分]"
         },
         {
           "title": "反制特朗普，马克龙冲最猛，默茨想拉住他",
@@ -63,11 +63,12 @@
             7,
             5,
             4,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时04分 ~ 15时08分]"
+          "appearance_count": 24,
+          "time_info": "[00时04分 ~ 16时04分]"
         },
         {
           "title": "特朗普再掀贸易摩擦 黄金白银大涨 全球股市承压 | 环球市场",
@@ -133,8 +134,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时31分 ~ 15时08分]"
+          "appearance_count": 11,
+          "time_info": "[09时31分 ~ 16时04分]"
         },
         {
           "title": "特朗普重返白宫一周年，怎样评价他这一年的执政成绩？给美国带来了什么？",
@@ -146,8 +147,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[08时07分 ~ 15时08分]"
+          "appearance_count": 12,
+          "time_info": "[08时07分 ~ 16时04分]"
         },
         {
           "title": "又会是“极限施压、最后时刻妥协”剧本？市场“很懂”特朗普",
@@ -159,8 +160,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时32分 ~ 15时08分]"
+          "appearance_count": 8,
+          "time_info": "[11时32分 ~ 16时04分]"
         },
         {
           "title": "特朗普继续威胁，“100%加税，欧洲等着吧”",
@@ -170,8 +171,21 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时05分 ~ 15时08分]"
+          "appearance_count": 3,
+          "time_info": "[14时05分 ~ 16时04分]"
+        },
+        {
+          "title": "手握“10万亿美元武器”！分析师热议：欧洲是否会祭出“资本战”反击特朗普？",
+          "url": "https://www.cls.cn/detail/2263060",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时08分 ~ 16时04分]"
         },
         {
           "title": "欧洲8国集体回应特朗普关税威胁",
@@ -224,7 +238,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时08分"
         },
@@ -235,7 +249,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时08分"
         },
@@ -246,7 +260,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时08分"
         },
@@ -279,7 +293,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时08分"
         },
@@ -332,18 +346,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时04分 ~ 04时04分]"
-        },
-        {
-          "title": "手握“10万亿美元武器”！分析师热议：欧洲是否会祭出“资本战”反击特朗普？",
-          "url": "https://www.cls.cn/detail/2263060",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时08分 ~ 15时08分]"
         },
         {
           "title": "美国总统特朗普：尽管他们嘴上这么说，挪威完全掌控着诺贝尔和平奖的评选。",
@@ -661,7 +663,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时08分"
         },
@@ -683,7 +685,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时08分"
         },
@@ -716,7 +718,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时08分"
         },
@@ -730,6 +732,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时05分"
+        },
+        {
+          "title": "是否会武力夺取格陵兰岛？特朗普回应：无可奉告！",
+          "url": "https://www.cls.cn/detail/2262925",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时04分"
         },
         {
           "title": "美国总统特朗普：别指望欧盟会在格陵兰问题上做出太大让步。",
@@ -749,7 +762,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时08分"
         },
@@ -763,6 +776,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时05分"
+        },
+        {
+          "title": "俄方证实：普京获邀加入特朗普主导的“和平委员会” 正审议细节",
+          "url": "https://www.cls.cn/detail/2262948",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时04分"
         },
         {
           "title": "芬兰总统：欧盟拥有多种工具说服特朗普撤销格陵兰岛威胁",
@@ -785,6 +809,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时09分"
+        },
+        {
+          "title": "特朗普发布登上格陵兰岛图片",
+          "url": "https://wallstreetcn.com/livenews/3040278",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时04分"
         },
         {
           "title": "美国总统特朗普：俄罗斯总统普京已被邀请加入和平委员会。",
@@ -826,7 +861,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时08分"
         },
@@ -870,9 +905,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时08分"
+        },
+        {
+          "title": "特朗普计划于今年4月访华一事，中方能否提供更多细节？外交部回应",
+          "url": "https://wallstreetcn.com/livenews/3040264",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时04分"
         },
         {
           "title": "特朗普：“解决俄罗斯对格陵兰岛威胁”时机已到",
@@ -908,6 +954,17 @@
           "time_info": "00时04分"
         },
         {
+          "title": "美国财长贝森特：特朗普在格陵兰岛问题上的威胁与其他贸易协议大不相同。",
+          "url": "https://flash.jin10.com/detail/20260120153402634800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时04分"
+        },
+        {
           "title": "美国总统特朗普：（当被问及在未能达成格陵兰岛协议的情况下，是否会落实对欧洲国家加征关税的计划时）我会的，百分之百！",
           "url": "https://flash.jin10.com/detail/20260119235643384800",
           "source": "金十数据",
@@ -925,7 +982,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时08分"
         },
@@ -936,7 +993,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时08分"
         }
@@ -1047,6 +1104,21 @@
       "match_count": 6,
       "titles": [
         {
+          "title": "三年10倍！OpenAI年化营收突破200亿美元 今年重点推实际应用",
+          "url": "https://www.cls.cn/detail/2262946",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            9,
+            7,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[10时40分 ~ 16时04分]"
+        },
+        {
           "title": "OpenAI高管：首款硬件设备有望于2026年下半年亮相",
           "url": "https://www.cls.cn/detail/2262848",
           "source": "财联社热门",
@@ -1058,20 +1130,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[09时31分 ~ 15时08分]"
-        },
-        {
-          "title": "三年10倍！OpenAI年化营收突破200亿美元 今年重点推实际应用",
-          "url": "https://www.cls.cn/detail/2262946",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            9,
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时40分 ~ 15时08分]"
         },
         {
           "title": "OpenAI政策主管Lehane在达沃斯接受采访时说，该公司计划2026年发布第一款设备。（Axios）",
@@ -1130,11 +1188,12 @@
           "url": "https://wallstreetcn.com/articles/3763546",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[08时07分 ~ 15时08分]"
+          "appearance_count": 12,
+          "time_info": "[08时07分 ~ 16时04分]"
         },
         {
           "title": "格陵兰引发关税战风险，欧美股齐跌，“马丁·路德·金纪念日”美股债休市，金银再创新高，铜价逼近13000",
@@ -1176,7 +1235,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时08分"
         }
@@ -1254,8 +1313,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[01时06分 ~ 15时08分]"
+          "appearance_count": 23,
+          "time_info": "[01时06分 ~ 16时04分]"
         },
         {
           "title": "决定黄金价格的三大属性",
