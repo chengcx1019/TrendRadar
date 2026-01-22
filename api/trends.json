@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-22T17:09:42.866054+08:00",
-  "total_titles_processed": 1676,
+  "generated_at": "2026-01-22T18:06:20.658898+08:00",
+  "total_titles_processed": 1762,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 184,
+      "match_count": 192,
       "titles": [
         {
           "title": "泽连斯基将出席达沃斯论坛并与特朗普会面",
@@ -101,8 +101,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时07分 ~ 17时09分]"
+          "appearance_count": 21,
+          "time_info": "[00时07分 ~ 18时06分]"
         },
         {
           "title": "特朗普达沃斯演讲：格陵兰岛是美国核心安全利益，但美不会武力夺取，寻求立即谈判",
@@ -113,11 +113,12 @@
             7,
             6,
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[08时08分 ~ 17时09分]"
+          "appearance_count": 12,
+          "time_info": "[08时08分 ~ 18时06分]"
         },
         {
           "title": "特朗普达沃斯演讲：炮轰欧洲和加拿大 支持发展核能为AI供能",
@@ -166,23 +167,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[08时08分 ~ 17时09分]"
-        },
-        {
-          "title": "特朗普称「和平委员会」可能取代联合国，「和平委员会」到底是什么？特朗普成立该机构的真实意图是什么？",
-          "url": "https://www.zhihu.com/question/1997263966708196399",
-          "source": "知乎",
-          "ranks": [
-            6,
-            9,
-            14,
-            11,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时31分 ~ 17时09分]"
+          "appearance_count": 12,
+          "time_info": "[08时08分 ~ 18时06分]"
         },
         {
           "title": "特朗普达沃斯演讲再提“收购格陵兰岛” 否认会动武强夺 现货黄金短线震荡",
@@ -196,6 +182,22 @@
           "is_new": false,
           "appearance_count": 15,
           "time_info": "[01时21分 ~ 13时09分]"
+        },
+        {
+          "title": "特朗普称「和平委员会」可能取代联合国，「和平委员会」到底是什么？特朗普成立该机构的真实意图是什么？",
+          "url": "https://www.zhihu.com/question/1997263966708196399",
+          "source": "知乎",
+          "ranks": [
+            6,
+            9,
+            14,
+            11,
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[09时31分 ~ 18时06分]"
         },
         {
           "title": "特朗普再提收购格陵兰岛 奈飞绩后大跌超7% | 今夜看点",
@@ -234,8 +236,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时04分 ~ 17时09分]"
+          "appearance_count": 5,
+          "time_info": "[14时04分 ~ 18时06分]"
         },
         {
           "title": "伊朗警告特朗普",
@@ -252,6 +254,19 @@
           "time_info": "[01时21分 ~ 07时05分]"
         },
         {
+          "title": "观察｜夺岛风波中集体炮轰特朗普，欧洲这次真要硬刚美国？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32434094",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            13,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[11时32分 ~ 18时06分]"
+        },
+        {
           "title": "特朗普对贸易战“踩刹车” 马斯克据悉希望在7月前让SpaceX上市 | 环球市场",
           "url": "https://www.cls.cn/detail/2265774",
           "source": "财联社热门",
@@ -264,17 +279,15 @@
           "time_info": "[10时42分 ~ 15时07分]"
         },
         {
-          "title": "观察｜夺岛风波中集体炮轰特朗普，欧洲这次真要硬刚美国？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32434094",
-          "source": "澎湃新闻",
+          "title": "在中国大量采购之下，拉美多国挺过特朗普关税冲击",
+          "url": "https://news.ifeng.com/c/8q7kEg1He8Y",
+          "source": "凤凰网",
           "ranks": [
-            12,
-            13,
-            15
+            2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时32分 ~ 17时09分]"
+          "appearance_count": 2,
+          "time_info": "[17时09分 ~ 18时06分]"
         },
         {
           "title": "特朗普：已就格陵兰岛问题形成了协议框架 有关关税不会生效",
@@ -299,6 +312,17 @@
           "time_info": "07时05分"
         },
         {
+          "title": "北约秘书长吕特：与美国总统特朗普达成的框架协议意味着北约盟友必须在北极安全问题上加大投入。",
+          "url": "https://flash.jin10.com/detail/20260122174849976800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时06分"
+        },
+        {
           "title": "美国总统特朗普周四将在达沃斯会见北约主管吕特。",
           "url": "https://wallstreetcn.com/livenews/3041412",
           "source": "华尔街见闻-快讯",
@@ -308,17 +332,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时07分"
-        },
-        {
-          "title": "美特使称特朗普提议为乌克兰设立免关税自由贸易区",
-          "url": "https://wallstreetcn.com/livenews/3041944",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时09分"
         },
         {
           "title": "中方回应特朗普称联合国或被取代",
@@ -346,17 +359,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时21分 ~ 07时05分]"
-        },
-        {
-          "title": "在中国大量采购之下，拉美多国挺过特朗普关税冲击",
-          "url": "https://news.ifeng.com/c/8q7kEg1He8Y",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时09分"
         },
         {
           "title": "白宫“人工智能沙皇”萨克斯：特朗普希望为人工智能监管建立单一的联邦框架。",
@@ -414,6 +416,32 @@
           "time_info": "07时05分"
         },
         {
+          "title": "不动武了、也不加税了！特朗普达沃斯上演“格陵兰TACO”",
+          "url": "https://wallstreetcn.com/articles/3763883",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时04分 ~ 18时06分]"
+        },
+        {
+          "title": "“阻击”特朗普，国会横插一脚：中国用三流芯片都能击败我们",
+          "url": "https://news.ifeng.com/c/8q7ObeyfwPG",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时04分 ~ 18时06分]"
+        },
+        {
           "title": "特朗普称与北约达成格陵兰合作框架",
           "url": "https://www.douyin.com/hot/2375664",
           "source": "抖音",
@@ -436,17 +464,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时13分 ~ 04时06分]"
-        },
-        {
-          "title": "“阻击”特朗普，国会横插一脚：中国用三流芯片都能击败我们",
-          "url": "https://news.ifeng.com/c/8q7ObeyfwPG",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时04分 ~ 17时09分]"
         },
         {
           "title": "拼中期选举 特朗普将“每周”登台演说经济政策",
@@ -473,6 +490,18 @@
           "time_info": "[06时04分 ~ 07时05分]"
         },
         {
+          "title": "美特使称特朗普提议为乌克兰设立免关税自由贸易区",
+          "url": "https://wallstreetcn.com/livenews/3041944",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时09分 ~ 18时06分]"
+        },
+        {
           "title": "特朗普称暂时不会对欧洲8国加征关税",
           "url": "https://wallstreetcn.com/livenews/3041486",
           "source": "华尔街见闻-快讯",
@@ -495,19 +524,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时07分 ~ 06时04分]"
-        },
-        {
-          "title": "不动武了、也不加税了！特朗普达沃斯上演“格陵兰TACO”",
-          "url": "https://wallstreetcn.com/articles/3763883",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时04分 ~ 17时09分]"
         },
         {
           "title": "俄罗斯总统普京：俄罗斯外交部正在研究美国总统特朗普加入“和平委员会”的提议，并将在适当的时候作出回应。",
@@ -667,6 +683,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时06分 ~ 07时05分]"
+        },
+        {
+          "title": "美国底层活不起，特朗普却在达沃斯炫耀“让富人更富”",
+          "url": "https://news.ifeng.com/c/8q7huMODUfi",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时09分 ~ 18时06分]"
         },
         {
           "title": "特朗普称不武夺格陵兰岛",
@@ -895,6 +923,18 @@
           "time_info": "[05时07分 ~ 06时04分]"
         },
         {
+          "title": "泽连斯基将于欧洲中部时间下午1点在达沃斯与特朗普会面。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3041932",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时09分 ~ 18时06分]"
+        },
+        {
           "title": "美国总统特朗普：（就鲍威尔在主席任期结束后继续留在美联储一事表示）我们将拭目以待。",
           "url": "https://flash.jin10.com/detail/20260122042355725800",
           "source": "金十数据",
@@ -1015,15 +1055,15 @@
           "time_info": "[03时10分 ~ 04时06分]"
         },
         {
-          "title": "美国底层活不起，特朗普却在达沃斯炫耀“让富人更富”",
-          "url": "https://news.ifeng.com/c/8q7huMODUfi",
+          "title": "特朗普达沃斯演讲，被群嘲了",
+          "url": "https://news.ifeng.com/c/8q7oOaAst69",
           "source": "凤凰网",
           "ranks": [
             6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时09分"
+          "time_info": "18时06分"
         },
         {
           "title": "美国总统特朗普：明天会见乌克兰总统泽连斯基。",
@@ -1257,17 +1297,6 @@
           "time_info": "00时07分"
         },
         {
-          "title": "泽连斯基将于欧洲中部时间下午1点在达沃斯与特朗普会面。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3041932",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时09分"
-        },
-        {
           "title": "特朗普称上周获取5000万桶原油",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E4%B8%8A%E5%91%A8%E8%8E%B7%E5%8F%965000%E4%B8%87%E6%A1%B6%E5%8E%9F%E6%B2%B9%23&t=31&band_rank=10&Refer=top",
           "source": "微博",
@@ -1299,6 +1328,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时04分"
+        },
+        {
+          "title": "金十整理：特朗普打造“付费和平圈”，中东多国入群、西方谨慎、多数以静制动",
+          "url": "https://flash.jin10.com/detail/20260122172746342800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时06分"
         },
         {
           "title": "特朗普称暂不对欧洲8国加关税，现货黄金、现货白银依然多头占优。后市市场情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
@@ -1354,6 +1394,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时43分"
+        },
+        {
+          "title": "北约秘书长马克·吕特：昨天与美国总统特朗普在会谈中没有讨论格陵兰主权问题。",
+          "url": "https://wallstreetcn.com/livenews/3041946",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时06分"
         },
         {
           "title": "美国总统特朗普：将继续对与伊朗开展业务的国家实施关税和制裁。",
@@ -1464,6 +1515,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时04分"
+        },
+        {
+          "title": "北约秘书长吕特：未与特朗普就格陵兰岛主权问题进行讨论",
+          "url": "https://flash.jin10.com/detail/20260122171700727800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时06分"
         },
         {
           "title": "丹麦：拒绝美国总统特朗普就吞并格陵兰“立即进行谈判”的要求。",
@@ -1884,6 +1946,17 @@
           "time_info": "01时22分"
         },
         {
+          "title": "专家：特朗普演讲是混世魔王行为",
+          "url": "https://www.toutiao.com/trending/7598070595607072310/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时06分"
+        },
+        {
           "title": "美国总统特朗普即将在达沃斯会见北约主管吕特。 在那之前，特朗普将在达沃斯对企业主管们讲话。",
           "url": "https://wallstreetcn.com/livenews/3041412",
           "source": "华尔街见闻-快讯",
@@ -1994,6 +2067,17 @@
           "time_info": "00时07分"
         },
         {
+          "title": "中方回应特朗普达沃斯涉华言论",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E8%BE%BE%E6%B2%83%E6%96%AF%E6%B6%89%E5%8D%8E%E8%A8%80%E8%AE%BA",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时06分"
+        },
+        {
           "title": "法国推迟举行可能讨论美国关税威胁的G7财长会议，此前特朗普拒绝参加G7紧急会议的邀请",
           "url": "https://wallstreetcn.com/livenews/3041384",
           "source": "华尔街见闻-快讯",
@@ -2025,6 +2109,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时32分"
+        },
+        {
+          "title": "特朗普自创和平委员会藏着什么心思",
+          "url": "https://www.toutiao.com/trending/7597811815531348009/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时06分"
         },
         {
           "title": "金十提示：美国总统特朗普结束达沃斯问答环节。",
@@ -2129,7 +2224,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 28,
+      "match_count": 29,
       "titles": [
         {
           "title": "日债风暴叠加格陵兰危机，“抛售美国”重现，美股债汇三杀，黄金再新高，加密货币重挫",
@@ -2177,8 +2272,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时31分 ~ 17时09分]"
+          "appearance_count": 11,
+          "time_info": "[09时31分 ~ 18时06分]"
         },
         {
           "title": "寄望达沃斯“降温地缘局势”，美股指期货齐涨，纳指期货涨0.4%，黄金新高后回落，日债大幅反弹",
@@ -2250,6 +2345,31 @@
           "time_info": "[06时04分 ~ 07时05分]"
         },
         {
+          "title": "又来喊多？特朗普放话：美股抛售“不值一提” 未来一年将翻倍",
+          "url": "https://www.cls.cn/detail/2266096",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时04分 ~ 18时06分]"
+        },
+        {
+          "title": "美股盘前，阿里巴巴涨超5%。",
+          "url": "https://wallstreetcn.com/livenews/3041934",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时09分 ~ 18时06分]"
+        },
+        {
           "title": "金十图示：2026年01月21日（周三）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260122050522975800",
           "source": "金十数据",
@@ -2260,18 +2380,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时04分 ~ 07时05分]"
-        },
-        {
-          "title": "又来喊多？特朗普放话：美股抛售“不值一提” 未来一年将翻倍",
-          "url": "https://www.cls.cn/detail/2266096",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时04分 ~ 17时09分]"
         },
         {
           "title": "金十图示：2026年01月21日（周三）热门中概股行情一览（美股收盘）",
@@ -2367,15 +2475,15 @@
           "time_info": "02时13分"
         },
         {
-          "title": "美股盘前，阿里巴巴涨超5%。",
-          "url": "https://wallstreetcn.com/livenews/3041934",
+          "title": "格陵兰养老基金考虑因特朗普“夺岛”言论撤出美股投资",
+          "url": "https://wallstreetcn.com/livenews/3041951",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时09分"
+          "time_info": "18时06分"
         },
         {
           "title": "特朗普称不想“动武”夺取格陵兰岛 美股、黄金短线震荡",
@@ -2395,7 +2503,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时09分"
         },
@@ -2417,7 +2525,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时09分"
         },
@@ -2428,7 +2536,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时09分"
         },
@@ -2439,7 +2547,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时09分"
         },
@@ -2525,6 +2633,18 @@
           "time_info": "[11时32分 ~ 12时21分]"
         },
         {
+          "title": "男子趁金价高涨出手500克金条",
+          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%B6%81%E9%87%91%E4%BB%B7%E9%AB%98%E6%B6%A8%E5%87%BA%E6%89%8B500%E5%85%8B%E9%87%91%E6%9D%A1",
+          "source": "百度热搜",
+          "ranks": [
+            24,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时09分 ~ 18时06分]"
+        },
+        {
           "title": "金十图示：2026年01月22日（周四）上海金午盘价为1082.97元/克，较国际金价(1081.62元/克)，高1.35元/克",
           "url": "https://flash.jin10.com/detail/20260122155121930800",
           "source": "金十数据",
@@ -2567,17 +2687,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时05分"
-        },
-        {
-          "title": "男子趁金价高涨出手500克金条",
-          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%B6%81%E9%87%91%E4%BB%B7%E9%AB%98%E6%B6%A8%E5%87%BA%E6%89%8B500%E5%85%8B%E9%87%91%E6%9D%A1",
-          "source": "百度热搜",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时09分"
         }
       ]
     },
@@ -2593,8 +2702,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[08时08分 ~ 17时09分]"
+          "appearance_count": 12,
+          "time_info": "[08时08分 ~ 18时06分]"
         },
         {
           "title": "特朗普上演“TACO”式反转，美股收复昨日失地，美元美债反弹，黄金冲高回落仍收涨",
