@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-23T10:40:05.800092+08:00",
-  "total_titles_processed": 1037,
+  "generated_at": "2026-01-23T11:32:06.615524+08:00",
+  "total_titles_processed": 1147,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 80,
+      "match_count": 83,
       "titles": [
         {
           "title": "在中国大量采购之下，拉美多国挺过特朗普关税冲击",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时06分 ~ 10时40分]"
+          "appearance_count": 16,
+          "time_info": "[00时06分 ~ 11时32分]"
         },
         {
           "title": "不动武了、也不加税了！特朗普达沃斯上演“格陵兰TACO”",
@@ -43,8 +43,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时06分 ~ 10时40分]"
+          "appearance_count": 16,
+          "time_info": "[00时06分 ~ 11时32分]"
         },
         {
           "title": "特朗普达沃斯演讲，被群嘲了",
@@ -54,8 +54,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时06分 ~ 10时40分]"
+          "appearance_count": 16,
+          "time_info": "[00时06分 ~ 11时32分]"
         },
         {
           "title": "“我们已没有足够能力”，“特朗普”级战列舰遭唱衰",
@@ -66,8 +66,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时06分 ~ 10时40分]"
+          "appearance_count": 16,
+          "time_info": "[00时06分 ~ 11时32分]"
         },
         {
           "title": "美国底层活不起，特朗普却在达沃斯炫耀“让富人更富”",
@@ -95,6 +95,17 @@
           "time_info": "[01时08分 ~ 08时08分]"
         },
         {
+          "title": "特朗普称加拿大因美国而存在，加总理回应",
+          "url": "https://news.ifeng.com/c/8q8mPoxeaJ8",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时31分 ~ 11时32分]"
+        },
+        {
           "title": "特朗普执政一年把美国推向何方",
           "url": "https://www.douyin.com/hot/2376099",
           "source": "抖音",
@@ -118,8 +129,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时06分 ~ 10时40分]"
+          "appearance_count": 16,
+          "time_info": "[00时06分 ~ 11时32分]"
         },
         {
           "title": "特朗普称「和平委员会」可能取代联合国，「和平委员会」到底是什么？特朗普成立该机构的真实意图是什么？",
@@ -169,17 +180,6 @@
           "time_info": "[01时08分 ~ 09时31分]"
         },
         {
-          "title": "特朗普称加拿大因美国而存在，加总理回应",
-          "url": "https://news.ifeng.com/c/8q8mPoxeaJ8",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时31分 ~ 10时40分]"
-        },
-        {
           "title": "释新闻｜特朗普“和平委员会”即将举行签约仪式，哪些国家已经拒绝？",
           "url": "https://m.thepaper.cn/newsDetail_forward_32440234",
           "source": "澎湃新闻",
@@ -203,6 +203,28 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时06分 ~ 02时06分]"
+        },
+        {
+          "title": "泽连斯基批欧对俄施压不够：特朗普能拦截影子舰队，你们不能？",
+          "url": "https://news.ifeng.com/c/8q8xOf6LCUH",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时31分 ~ 11时32分]"
+        },
+        {
+          "title": "马斯克用谐音梗暗讽特朗普的“和平委员会”",
+          "url": "https://v.ifeng.com/c/8q8wrrYsxgK",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时31分 ~ 11时32分]"
         },
         {
           "title": "克里姆林宫：俄罗斯总统普京与美国总统特使威特科夫和特朗普女婿库什纳展开会谈。",
@@ -304,6 +326,19 @@
           "time_info": "08时08分"
         },
         {
+          "title": "特朗普警告：若欧洲抛售美国资产 将实施“猛烈报复”",
+          "url": "https://www.cls.cn/detail/2267060",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时31分 ~ 11时32分]"
+        },
+        {
           "title": "摩根大通：我们尊重美国总统特朗普起诉我们的权利。 然而，公司并没有因各种政治理由而关闭某些账户。",
           "url": "https://wallstreetcn.com/livenews/3042262",
           "source": "华尔街见闻-快讯",
@@ -352,18 +387,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时06分 ~ 03时07分]"
-        },
-        {
-          "title": "特朗普警告：若欧洲抛售美国资产 将实施“猛烈报复”",
-          "url": "https://www.cls.cn/detail/2267060",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时31分 ~ 10时40分]"
         },
         {
           "title": "特朗普要败诉？美最高法对罢免美联储理事库克态度谨慎，大法官警告“粉碎”央行独立性",
@@ -570,7 +593,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时40分"
         },
@@ -636,7 +659,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时40分"
         },
@@ -658,7 +681,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时40分"
         },
@@ -680,7 +703,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时40分"
         },
@@ -828,6 +851,17 @@
           "time_info": "07时04分"
         },
         {
+          "title": "特朗普左手背再现新瘀青，最新回应：吃药副作用，磕到桌子容易青",
+          "url": "https://wallstreetcn.com/livenews/3042505",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时32分"
+        },
+        {
           "title": "美国总统特朗普：很快就会宣布美联储主席人选。",
           "url": "https://flash.jin10.com/detail/20260123060127994800",
           "source": "金十数据",
@@ -952,8 +986,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时08分 ~ 10时40分]"
+          "appearance_count": 6,
+          "time_info": "[08时08分 ~ 11时32分]"
         },
         {
           "title": "存储“涨飞”！“美股最强”闪迪涨超10%，美光、西部数据、希捷科技等全线大涨",
@@ -1295,11 +1329,12 @@
           "source": "抖音",
           "ranks": [
             16,
-            13
+            13,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时08分 ~ 09时31分]"
+          "appearance_count": 4,
+          "time_info": "[08时08分 ~ 11时32分]"
         },
         {
           "title": "土耳其与伊朗两国总统通电话 强调反对外部干涉伊朗局势",
@@ -1325,7 +1360,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时40分"
         },
@@ -1448,8 +1483,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时31分 ~ 10时40分]"
+          "appearance_count": 5,
+          "time_info": "[09时31分 ~ 11时32分]"
         }
       ]
     }
