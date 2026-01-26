@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-26T10:48:00.060590+08:00",
-  "total_titles_processed": 810,
+  "generated_at": "2026-01-26T11:37:54.424860+08:00",
+  "total_titles_processed": 898,
   "failed_sources": [],
   "trends": [
     {
@@ -41,8 +41,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时03分 ~ 10时48分]"
+          "appearance_count": 14,
+          "time_info": "[00时03分 ~ 11时37分]"
         },
         {
           "title": "白宫发布“特朗普和企鹅漫步格陵兰岛”图，遭群嘲",
@@ -56,8 +56,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时03分 ~ 10时48分]"
+          "appearance_count": 14,
+          "time_info": "[00时03分 ~ 11时37分]"
         },
         {
           "title": "特朗普施压后，英国突然叫停",
@@ -119,6 +119,17 @@
           "time_info": "[00时03分 ~ 06时03分]"
         },
         {
+          "title": "一天过去，特朗普从愤怒变成“非常难过”",
+          "url": "https://news.ifeng.com/c/8qDlBtHaTST",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时32分 ~ 11时37分]"
+        },
+        {
           "title": "美国财长贝森特：特朗普很看重北约。",
           "url": "https://flash.jin10.com/detail/20260125225503860800",
           "source": "金十数据",
@@ -147,17 +158,6 @@
           "time_info": "[00时03分 ~ 06时03分]"
         },
         {
-          "title": "一天过去，特朗普从愤怒变成“非常难过”",
-          "url": "https://news.ifeng.com/c/8qDlBtHaTST",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时32分 ~ 10时48分]"
-        },
-        {
           "title": "市场消息：俄罗斯副外长里亚布科夫证实，特朗普已收到访俄邀请。",
           "url": "https://flash.jin10.com/detail/20260125223326726800",
           "source": "金十数据",
@@ -179,8 +179,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时47分 ~ 10时48分]"
+          "appearance_count": 3,
+          "time_info": "[10时47分 ~ 11时37分]"
         },
         {
           "title": "美国总统特使威特科夫：美国总统特朗普与以色列总理内塔尼亚胡就加沙举行的会谈富有建设性且积极。",
@@ -351,7 +351,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "波斯湾的“极限施压”：美国为何总对伊朗“开剧场”？",
@@ -423,11 +423,12 @@
           "source": "百度热搜",
           "ranks": [
             17,
-            23
+            23,
+            22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时32分 ~ 10时48分]"
+          "appearance_count": 4,
+          "time_info": "[09时32分 ~ 11时37分]"
         },
         {
           "title": "美国国务院：鲁比奥告诉伊拉克总理，一个受伊朗控制的政府不可能成功地把伊拉克自身的利益放在首位。",
@@ -461,12 +462,84 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时04分"
+        },
+        {
+          "title": "伊朗对美发出警告：若遭军事打击将袭击美航母",
+          "url": "https://flash.jin10.com/detail/20260126104803956800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时37分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "金十图示：2026年01月26日（周一）上海金早盘价为1138.96元/克，较国际金价(1133.69元/克)，高5.27元/克",
+          "url": "https://flash.jin10.com/detail/20260126110251702800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时37分"
+        },
+        {
+          "title": "国际金价突破5000美元关口",
+          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E9%99%85%E9%87%91%E4%BB%B7%E7%AA%81%E7%A0%B45000%E7%BE%8E%E5%85%83%E5%85%B3%E5%8F%A3",
+          "source": "百度热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时32分 ~ 11时37分]"
+        },
+        {
+          "title": "国际金价疯涨原因",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%9B%BD%E9%99%85%E9%87%91%E4%BB%B7%E7%96%AF%E6%B6%A8%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=25&Refer=top",
+          "source": "微博",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时47分 ~ 10时48分]"
+        },
+        {
+          "title": "现货黄金价格首次突破 5000 美元 / 盎司，创历史新高，如何评价这轮涨势？后续走势会如何？",
+          "url": "https://www.zhihu.com/question/1999025860699710314",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时37分"
+        },
+        {
+          "title": "突破5000美元大关！现货黄金价格年内已涨超16%",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32448436",
+          "source": "澎湃新闻",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时37分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "从“七巨头信仰”到“用表现说话” 下周美股面临财报生死局",
@@ -481,6 +554,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时03分 ~ 06时03分]"
+        },
+        {
+          "title": "美日干预叠加政府关门预期，金银新高、白银飙涨6%，日元大涨1%，非美货币全线爆发，日美股市下挫",
+          "url": "https://wallstreetcn.com/articles/3764111",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时37分"
         },
         {
           "title": "本周重要事件与数据预告：美联储决议，美股巨头财报相继发布",
@@ -503,34 +587,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时09分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "国际金价突破5000美元关口",
-          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E9%99%85%E9%87%91%E4%BB%B7%E7%AA%81%E7%A0%B45000%E7%BE%8E%E5%85%83%E5%85%B3%E5%8F%A3",
-          "source": "百度热搜",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时32分 ~ 10时48分]"
-        },
-        {
-          "title": "国际金价疯涨原因",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%9B%BD%E9%99%85%E9%87%91%E4%BB%B7%E7%96%AF%E6%B6%A8%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=25&Refer=top",
-          "source": "微博",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时47分 ~ 10时48分]"
         }
       ]
     },
