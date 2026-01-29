@@ -1,12 +1,57 @@
 {
-  "generated_at": "2026-01-30T03:13:27.677331+08:00",
-  "total_titles_processed": 498,
+  "generated_at": "2026-01-30T04:06:05.165551+08:00",
+  "total_titles_processed": 529,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 51,
+      "match_count": 56,
       "titles": [
+        {
+          "title": "打击伊朗的机会窗口未到，特朗普在等什么？",
+          "url": "https://v.ifeng.com/c/8qJY5CqQQ7n",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时10分 ~ 04时06分]"
+        },
+        {
+          "title": "释新闻｜特朗普连续第三天施压伊朗再提核计划，美国要开打了吗？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32488307",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时10分 ~ 04时06分]"
+        },
+        {
+          "title": "分析：弱美元可能成为特朗普和下一任美联储主席的麻烦",
+          "url": "https://flash.jin10.com/detail/20260130035139767800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时06分"
+        },
+        {
+          "title": "金十数据1月30日讯，美国总统特朗普在Truth Social上置顶了他威胁打击伊朗的帖文。",
+          "url": "https://flash.jin10.com/detail/20260130032628040800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时06分"
+        },
         {
           "title": "特朗普称美方计划重新开放委内瑞拉领空",
           "url": "https://wallstreetcn.com/livenews/3046619",
@@ -21,15 +66,30 @@
           "time_info": "[01时13分 ~ 03时13分]"
         },
         {
-          "title": "打击伊朗的机会窗口未到，特朗普在等什么？",
-          "url": "https://v.ifeng.com/c/8qJY5CqQQ7n",
-          "source": "凤凰网",
+          "title": "美国总统特朗普谈及发电站，称：我们不需要电网。",
+          "url": "https://wallstreetcn.com/livenews/3046634",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            1,
+            17,
+            26
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时10分 ~ 03时13分]"
+          "appearance_count": 3,
+          "time_info": "[02时09分 ~ 04时06分]"
+        },
+        {
+          "title": "美国总统特朗普：（谈及发电站）我们不需要电网。",
+          "url": "https://flash.jin10.com/detail/20260130014330273800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            15,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时09分 ~ 04时06分]"
         },
         {
           "title": "美国总统特朗普：福特和通用汽车的表现比以往任何时候都好。",
@@ -44,18 +104,6 @@
           "time_info": "[01时13分 ~ 02时09分]"
         },
         {
-          "title": "美国总统特朗普谈及发电站，称：我们不需要电网。",
-          "url": "https://wallstreetcn.com/livenews/3046634",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时09分 ~ 03时13分]"
-        },
-        {
           "title": "分析：政府面临停摆风险，特朗普改变其策略",
           "url": "https://flash.jin10.com/detail/20260130005504932800",
           "source": "金十数据",
@@ -68,16 +116,17 @@
           "time_info": "[01时13分 ~ 02时09分]"
         },
         {
-          "title": "美国总统特朗普：（谈及发电站）我们不需要电网。",
-          "url": "https://flash.jin10.com/detail/20260130014330273800",
-          "source": "金十数据",
+          "title": "美国总统特朗普：将推高现存房主的住宅价值。 不希望住房价值缩水。",
+          "url": "https://wallstreetcn.com/livenews/3046629",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            2,
-            15
+            5,
+            21,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时09分 ~ 03时13分]"
+          "appearance_count": 3,
+          "time_info": "[02时09分 ~ 04时06分]"
         },
         {
           "title": "美国总统特朗普：希望我们不会出现政府停摆，民主党人也不希望政府停摆。",
@@ -140,30 +189,6 @@
           "time_info": "[02时09分 ~ 03时13分]"
         },
         {
-          "title": "美国总统特朗普：将推高现存房主的住宅价值。 不希望住房价值缩水。",
-          "url": "https://wallstreetcn.com/livenews/3046629",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时09分 ~ 03时13分]"
-        },
-        {
-          "title": "释新闻｜特朗普连续第三天施压伊朗再提核计划，美国要开打了吗？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32488307",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时10分 ~ 03时13分]"
-        },
-        {
           "title": "美国总统特朗普：与礼来制药老板对话。",
           "url": "https://wallstreetcn.com/livenews/3046628",
           "source": "华尔街见闻-快讯",
@@ -174,6 +199,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时09分 ~ 03时13分]"
+        },
+        {
+          "title": "金十提示：美国总统特朗普在结束内阁会议前，没有回答任何问题。",
+          "url": "https://flash.jin10.com/detail/20260130020218038800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时13分 ~ 04时06分]"
         },
         {
           "title": "美国总统特朗普：通用汽车、福特汽车的表现是它们从未有过的。",
@@ -248,6 +285,18 @@
           "time_info": "[01时13分 ~ 02时09分]"
         },
         {
+          "title": "特朗普：普京同意停火一周，以便乌方渡过严寒",
+          "url": "https://wallstreetcn.com/livenews/3046644",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时13分 ~ 04时06分]"
+        },
+        {
           "title": "美国总统特朗普讲话期间，现货黄金走高，回升至5330美元/盎司上方。",
           "url": "https://flash.jin10.com/detail/20260130011936072800",
           "source": "金十数据",
@@ -258,6 +307,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时09分 ~ 03时13分]"
+        },
+        {
+          "title": "金十数据1月30日讯，美国总统特朗普结束内阁会议。",
+          "url": "https://flash.jin10.com/detail/20260130020053884800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时13分 ~ 04时06分]"
         },
         {
           "title": "美国总统特朗普：希望我们不会（在1月30日）发生政府停摆。 （白宫）正努力避免政府关门。 （国会山的）民主党也不希望政府关门。",
@@ -284,6 +345,18 @@
           "time_info": "[02时09分 ~ 03时13分]"
         },
         {
+          "title": "美国总统特朗普：我们将开始打击陆路入境的毒品，你们很快就会看到。",
+          "url": "https://flash.jin10.com/detail/20260130015932428800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时13分 ~ 04时06分]"
+        },
+        {
           "title": "美国财长贝森特：100人已经签字申请“特朗普账户”（Trump Accounts）。",
           "url": "https://wallstreetcn.com/livenews/3046620",
           "source": "华尔街见闻-快讯",
@@ -294,6 +367,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时09分 ~ 03时13分]"
+        },
+        {
+          "title": "美国总统特朗普声称：将索马里海盗列入“类似贩毒船只”清单。",
+          "url": "https://wallstreetcn.com/livenews/3046641",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时13分 ~ 04时06分]"
+        },
+        {
+          "title": "美国总统特朗普：一支庞大的舰队正驶往中东。",
+          "url": "https://flash.jin10.com/detail/20260130015749406800",
+          "source": "金十数据",
+          "ranks": [
+            13,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时13分 ~ 04时06分]"
         },
         {
           "title": "美国总统特朗普：石油公司将为美国和委内瑞拉带来财富。 今天将开放委内瑞拉所有商业空域。",
@@ -343,17 +440,6 @@
           "time_info": "01时13分"
         },
         {
-          "title": "金十提示：美国总统特朗普在结束内阁会议前，没有回答任何问题。",
-          "url": "https://flash.jin10.com/detail/20260130020218038800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时13分"
-        },
-        {
           "title": "美国总统特朗普：（谈政府停摆）将采取两党合作的方式避免停摆。",
           "url": "https://flash.jin10.com/detail/20260130004643218800",
           "source": "金十数据",
@@ -376,6 +462,17 @@
           "time_info": "01时13分"
         },
         {
+          "title": "美防长称五角大楼准备执行特朗普对伊朗的任何决定",
+          "url": "https://flash.jin10.com/detail/20260130031940786800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时06分"
+        },
+        {
           "title": "美国总统特朗普：（谈委内瑞拉）已让大型石油公司前往勘察地点。",
           "url": "https://flash.jin10.com/detail/20260130004406228800",
           "source": "金十数据",
@@ -385,6 +482,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时13分"
+        },
+        {
+          "title": "乌克兰总统泽连斯基：（回应特朗普关于普京同意停火一周的声明）我们期待协议得到落实，缓和举措有助于在结束战争方面取得进展。",
+          "url": "https://flash.jin10.com/detail/20260130031506457800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时06分"
         },
         {
           "title": "美国参议院多数党领袖约翰·图恩（John Thune）：更加接近避免美国发生政府关门。 总统特朗普的白宫正与民主党研究（与移民海关执法部门ICE/国土安全部HSD相关）的预算拨款方案。 国土安全部将根据应急方案获得临时性的资金支持。 但愿、希望众议院复会，帮助避免特朗普政府自去年10月1日以来再次发生停摆。",
@@ -398,17 +506,6 @@
           "time_info": "00时10分"
         },
         {
-          "title": "特朗普：普京同意停火一周，以便乌方渡过严寒",
-          "url": "https://wallstreetcn.com/livenews/3046644",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时13分"
-        },
-        {
           "title": "金十数据1月30日讯，美国总统特朗普正召开其第二任期第十次内阁会议。",
           "url": "https://flash.jin10.com/detail/20260130004330980800",
           "source": "金十数据",
@@ -420,48 +517,15 @@
           "time_info": "01时13分"
         },
         {
-          "title": "金十数据1月30日讯，美国总统特朗普结束内阁会议。",
-          "url": "https://flash.jin10.com/detail/20260130020053884800",
+          "title": "加拿大总理卡尼：希望美国政府尊重加拿大主权。美国总统特朗普从未向我提及阿尔伯塔省或魁北克省分离主义的可能性。",
+          "url": "https://flash.jin10.com/detail/20260130031318071800",
           "source": "金十数据",
           "ranks": [
             11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时13分"
-        },
-        {
-          "title": "美国总统特朗普：我们将开始打击陆路入境的毒品，你们很快就会看到。",
-          "url": "https://flash.jin10.com/detail/20260130015932428800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时13分"
-        },
-        {
-          "title": "美国总统特朗普声称：将索马里海盗列入“类似贩毒船只”清单。",
-          "url": "https://wallstreetcn.com/livenews/3046641",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时13分"
-        },
-        {
-          "title": "美国总统特朗普：一支庞大的舰队正驶往中东。",
-          "url": "https://flash.jin10.com/detail/20260130015749406800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时13分"
+          "time_info": "04时06分"
         },
         {
           "title": "特朗普称美方计划重新开放委内瑞拉领空",
@@ -599,8 +663,22 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
+        {
+          "title": "普京表示正密切关注伊朗问题相关进展",
+          "url": "https://www.toutiao.com/trending/7600644867940974598/",
+          "source": "今日头条",
+          "ranks": [
+            24,
+            20,
+            18,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时10分 ~ 04时06分]"
+        },
         {
           "title": "伊朗外交部长：欧洲将伊朗革命卫队列为“恐怖组织”是重大战略失误。",
           "url": "https://flash.jin10.com/detail/20260129235605039800",
@@ -618,24 +696,12 @@
           "source": "金十数据",
           "ranks": [
             1,
-            14
+            14,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时09分 ~ 03时13分]"
-        },
-        {
-          "title": "普京表示正密切关注伊朗问题相关进展",
-          "url": "https://www.toutiao.com/trending/7600644867940974598/",
-          "source": "今日头条",
-          "ranks": [
-            24,
-            20,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时10分 ~ 03时13分]"
+          "appearance_count": 3,
+          "time_info": "[02时09分 ~ 04时06分]"
         },
         {
           "title": "伊朗：美若动武 伊将打击以色列",
@@ -643,11 +709,23 @@
           "source": "抖音",
           "ranks": [
             13,
-            6
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时10分 ~ 04时06分]"
+        },
+        {
+          "title": "伊朗足协：无人能将伊朗排除出世界杯",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E8%B6%B3%E5%8D%8F%EF%BC%9A%E6%97%A0%E4%BA%BA%E8%83%BD%E5%B0%86%E4%BC%8A%E6%9C%97%E6%8E%92%E9%99%A4%E5%87%BA%E4%B8%96%E7%95%8C%E6%9D%AF",
+          "source": "百度热搜",
+          "ranks": [
+            27
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时10分 ~ 03时13分]"
+          "time_info": "[04时05分 ~ 04时06分]"
         },
         {
           "title": "伊朗被曝将在霍尔木兹海峡举行实弹军事演习",
@@ -730,8 +808,69 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时13分 ~ 03时13分]"
+          "appearance_count": 5,
+          "time_info": "[01时13分 ~ 04时06分]"
+        },
+        {
+          "title": "金价",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=6&Refer=top",
+          "source": "微博",
+          "ranks": [
+            6,
+            21,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时10分 ~ 04时06分]"
+        },
+        {
+          "title": "金价上涨打金店2天亏5万",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E4%B8%8A%E6%B6%A8%E6%89%93%E9%87%91%E5%BA%972%E5%A4%A9%E4%BA%8F5%E4%B8%87%23&t=31&band_rank=7&Refer=top",
+          "source": "微博",
+          "ranks": [
+            7,
+            25,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时10分 ~ 04时06分]"
+        },
+        {
+          "title": "金价上涨的第一批受害者出现了",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E4%B8%8A%E6%B6%A8%E7%9A%84%E7%AC%AC%E4%B8%80%E6%89%B9%E5%8F%97%E5%AE%B3%E8%80%85%E5%87%BA%E7%8E%B0%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时10分 ~ 04时06分]"
+        },
+        {
+          "title": "黄金价格为何一路猛涨",
+          "url": "https://search.bilibili.com/all?keyword=%E9%BB%84%E9%87%91%E4%BB%B7%E6%A0%BC%E4%B8%BA%E4%BD%95%E4%B8%80%E8%B7%AF%E7%8C%9B%E6%B6%A8",
+          "source": "bilibili 热搜",
+          "ranks": [
+            21,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时10分 ~ 04时06分]"
+        },
+        {
+          "title": "金价暴涨第一批受害者出现",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E6%9A%B4%E6%B6%A8%E7%AC%AC%E4%B8%80%E6%89%B9%E5%8F%97%E5%AE%B3%E8%80%85%E5%87%BA%E7%8E%B0%23&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时10分 ~ 04时06分]"
         },
         {
           "title": "金价跌幅扩大至5%。",
@@ -746,74 +885,13 @@
           "time_info": "[00时10分 ~ 01时13分]"
         },
         {
-          "title": "金价",
-          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=6&Refer=top",
-          "source": "微博",
-          "ranks": [
-            6,
-            21,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时10分 ~ 03时13分]"
-        },
-        {
-          "title": "金价上涨打金店2天亏5万",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E4%B8%8A%E6%B6%A8%E6%89%93%E9%87%91%E5%BA%972%E5%A4%A9%E4%BA%8F5%E4%B8%87%23&t=31&band_rank=7&Refer=top",
-          "source": "微博",
-          "ranks": [
-            7,
-            25,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时10分 ~ 03时13分]"
-        },
-        {
-          "title": "金价上涨的第一批受害者出现了",
-          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E4%B8%8A%E6%B6%A8%E7%9A%84%E7%AC%AC%E4%B8%80%E6%89%B9%E5%8F%97%E5%AE%B3%E8%80%85%E5%87%BA%E7%8E%B0%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时10分 ~ 03时13分]"
-        },
-        {
-          "title": "黄金价格为何一路猛涨",
-          "url": "https://search.bilibili.com/all?keyword=%E9%BB%84%E9%87%91%E4%BB%B7%E6%A0%BC%E4%B8%BA%E4%BD%95%E4%B8%80%E8%B7%AF%E7%8C%9B%E6%B6%A8",
-          "source": "bilibili 热搜",
-          "ranks": [
-            21,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时10分 ~ 03时13分]"
-        },
-        {
-          "title": "金价暴涨第一批受害者出现",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E6%9A%B4%E6%B6%A8%E7%AC%AC%E4%B8%80%E6%89%B9%E5%8F%97%E5%AE%B3%E8%80%85%E5%87%BA%E7%8E%B0%23&t=31&band_rank=21&Refer=top",
-          "source": "微博",
-          "ranks": [
-            21,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时10分 ~ 03时13分]"
-        },
-        {
           "title": "一口气看懂金价涨跌的底层逻辑",
           "url": "https://www.douyin.com/hot/2383551",
           "source": "抖音",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时13分"
         }
@@ -831,8 +909,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时10分 ~ 03时13分]"
+          "appearance_count": 6,
+          "time_info": "[00时10分 ~ 04时06分]"
+        },
+        {
+          "title": "美股期指小幅走高 金银铜等集体大涨 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2274635",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时10分 ~ 04时06分]"
         },
         {
           "title": "纳斯达克金龙中国指数跌超1%，彭博数据显示，美股盘初一度涨约2%。",
@@ -845,18 +935,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时10分 ~ 01时13分]"
-        },
-        {
-          "title": "美股期指小幅走高 金银铜等集体大涨 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2274635",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时10分 ~ 03时13分]"
         },
         {
           "title": "金十图示：2026年01月29日（周四）美股热门股票行情一览（美股盘中）",
@@ -917,11 +995,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             3,
-            1
+            1,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时10分 ~ 03时13分]"
+          "appearance_count": 6,
+          "time_info": "[00时10分 ~ 04时06分]"
         }
       ]
     },
@@ -936,11 +1015,12 @@
           "ranks": [
             5,
             8,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时10分 ~ 03时13分]"
+          "appearance_count": 6,
+          "time_info": "[00时10分 ~ 04时06分]"
         }
       ]
     },
