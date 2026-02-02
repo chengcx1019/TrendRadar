@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-02T19:15:09.563231+08:00",
-  "total_titles_processed": 1639,
+  "generated_at": "2026-02-02T20:07:37.116236+08:00",
+  "total_titles_processed": 1726,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 45,
+      "match_count": 56,
       "titles": [
         {
           "title": "武契奇预判48小时内伊朗将遭到美国袭击",
@@ -57,6 +57,17 @@
           "time_info": "[00时04分 ~ 03时07分]"
         },
         {
+          "title": "已紧扣扳机！美军打击伊朗所需装备已部署齐全",
+          "url": "https://news.ifeng.com/c/8qQ4FwgNOwT",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时15分 ~ 20时07分]"
+        },
+        {
           "title": "伊朗官员：有关伊斯兰革命卫队计划在霍尔木兹海峡举行军事演习的媒体报道是错误的。伊斯兰革命卫队并未就将在霍尔木兹海峡举行军事演习发布任何官方公告。（路透）",
           "url": "https://wallstreetcn.com/livenews/3047820",
           "source": "华尔街见闻-快讯",
@@ -81,15 +92,18 @@
           "time_info": "[00时05分 ~ 07时05分]"
         },
         {
-          "title": "已紧扣扳机！美军打击伊朗所需装备已部署齐全",
-          "url": "https://news.ifeng.com/c/8qQ4FwgNOwT",
-          "source": "凤凰网",
+          "title": "懂了｜美国亲手埋下“核种子”：6分钟看伊朗核问题的前世今生",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32498721",
+          "source": "澎湃新闻",
           "ranks": [
-            5
+            12,
+            10,
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时15分 ~ 19时15分]"
+          "appearance_count": 7,
+          "time_info": "[16时10分 ~ 20时07分]"
         },
         {
           "title": "伊朗局势现转机 贵金属原油集体跳水",
@@ -140,18 +154,15 @@
           "time_info": "[08时10分 ~ 09时33分]"
         },
         {
-          "title": "懂了｜美国亲手埋下“核种子”：6分钟看伊朗核问题的前世今生",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32498721",
-          "source": "澎湃新闻",
+          "title": "伊朗总统已下令启动核谈判",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BC%8A%E6%9C%97%E6%80%BB%E7%BB%9F%E5%B7%B2%E4%B8%8B%E4%BB%A4%E5%90%AF%E5%8A%A8%E6%A0%B8%E8%B0%88%E5%88%A4",
+          "source": "bilibili 热搜",
           "ranks": [
-            12,
-            10,
-            9,
-            7
+            1
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时10分 ~ 19时15分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时07分"
         },
         {
           "title": "以美军方高层被曝本周末密集会谈 讨论对伊朗打击行动",
@@ -180,6 +191,17 @@
           "time_info": "[00时05分 ~ 05时05分]"
         },
         {
+          "title": "伊朗总统已下令启动核谈判",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E6%80%BB%E7%BB%9F%E5%B7%B2%E4%B8%8B%E4%BB%A4%E5%90%AF%E5%8A%A8%E6%A0%B8%E8%B0%88%E5%88%A4%23&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时07分"
+        },
+        {
           "title": "美官员称美政府已通过多渠道向伊朗传达谈判意向",
           "url": "https://wallstreetcn.com/livenews/3047840",
           "source": "华尔街见闻-快讯",
@@ -191,26 +213,15 @@
           "time_info": "07时05分"
         },
         {
-          "title": "伊朗总统已下令开启核谈判",
-          "url": "https://wallstreetcn.com/livenews/3048321",
-          "source": "华尔街见闻-快讯",
+          "title": "伊朗外长：我们始终愿意进行外交努力，前提是双方地位平等。",
+          "url": "https://flash.jin10.com/detail/20260202193358201800",
+          "source": "金十数据",
           "ranks": [
-            2
+            5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时15分"
-        },
-        {
-          "title": "伊朗军方将在边境地区举行军事演习",
-          "url": "https://wallstreetcn.com/livenews/3048318",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时15分"
+          "time_info": "20时07分"
         },
         {
           "title": "美方释放与伊朗谈判信号 双方或在土耳其举行会晤",
@@ -226,6 +237,18 @@
           "time_info": "[05时05分 ~ 07时05分]"
         },
         {
+          "title": "伊朗总统已下令开启核谈判",
+          "url": "https://wallstreetcn.com/livenews/3048321",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时15分 ~ 20时07分]"
+        },
+        {
           "title": "伊朗外长分别与埃及沙特土耳其外长通电话",
           "url": "https://wallstreetcn.com/livenews/3048288",
           "source": "华尔街见闻-快讯",
@@ -238,6 +261,18 @@
           "time_info": "[18时15分 ~ 19时15分]"
         },
         {
+          "title": "伊朗军方将在边境地区举行军事演习",
+          "url": "https://wallstreetcn.com/livenews/3048318",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时15分 ~ 20时07分]"
+        },
+        {
           "title": "伊朗总统已下令启动核谈判",
           "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%80%BB%E7%BB%9F%E5%B7%B2%E4%B8%8B%E4%BB%A4%E5%90%AF%E5%8A%A8%E6%A0%B8%E8%B0%88%E5%88%A4",
           "source": "百度热搜",
@@ -245,8 +280,30 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时14分 ~ 19时15分]"
+          "appearance_count": 3,
+          "time_info": "[19时14分 ~ 20时07分]"
+        },
+        {
+          "title": "伊朗总统已下令启动核谈判",
+          "url": "https://www.douyin.com/hot/2387489",
+          "source": "抖音",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时14分 ~ 20时07分]"
+        },
+        {
+          "title": "伊朗总统已下令启动核谈判",
+          "url": "https://www.toutiao.com/trending/7602220975286914602/",
+          "source": "今日头条",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时14分 ~ 20时07分]"
         },
         {
           "title": "外媒：伊朗官员否认计划在霍尔木兹海峡举行军演",
@@ -271,28 +328,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时15分 ~ 18时15分]"
-        },
-        {
-          "title": "伊朗总统已下令启动核谈判",
-          "url": "https://www.douyin.com/hot/2387489",
-          "source": "抖音",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时14分 ~ 19时15分]"
-        },
-        {
-          "title": "伊朗总统已下令启动核谈判",
-          "url": "https://www.toutiao.com/trending/7602220975286914602/",
-          "source": "今日头条",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时14分 ~ 19时15分]"
         },
         {
           "title": "伊朗召见欧洲国家所有驻伊大使抗议",
@@ -339,6 +374,17 @@
           "time_info": "18时15分"
         },
         {
+          "title": "伊朗外交部发言人：与美会谈细节仍处于决策阶段",
+          "url": "https://wallstreetcn.com/livenews/3048340",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时07分"
+        },
+        {
           "title": "伊朗政府公布近期骚乱事件遇难者名单",
           "url": "https://news.ifeng.com/c/8qNpkce6tvU",
           "source": "凤凰网",
@@ -356,7 +402,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时15分"
         },
@@ -389,7 +435,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时15分"
         },
@@ -411,7 +457,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时15分"
         },
@@ -422,9 +468,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时15分"
+        },
+        {
+          "title": "伊朗外长：外交与威胁不相容。",
+          "url": "https://flash.jin10.com/detail/20260202192216231800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时07分"
         },
         {
           "title": "伊朗",
@@ -449,6 +506,17 @@
           "time_info": "16时10分"
         },
         {
+          "title": "伊朗外长：外交与威胁不可兼容。",
+          "url": "https://wallstreetcn.com/livenews/3048329",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时07分"
+        },
+        {
           "title": "UP主记录动荡中的伊朗",
           "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%AE%B0%E5%BD%95%E5%8A%A8%E8%8D%A1%E4%B8%AD%E7%9A%84%E4%BC%8A%E6%9C%97",
           "source": "bilibili 热搜",
@@ -471,6 +539,28 @@
           "time_info": "14时21分"
         },
         {
+          "title": "伊朗拘捕4名参与骚乱的外籍人员",
+          "url": "https://wallstreetcn.com/livenews/3048326",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时07分"
+        },
+        {
+          "title": "伊朗外长：敌方重型武器可以通过抵抗来击败。",
+          "url": "https://flash.jin10.com/detail/20260202191135715800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时07分"
+        },
+        {
           "title": "伊朗官员否认计划在霍尔木兹海峡实弹演习",
           "url": "https://wallstreetcn.com/livenews/3047908",
           "source": "华尔街见闻-快讯",
@@ -488,9 +578,20 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时15分"
+        },
+        {
+          "title": "伊朗总统已下令开启核谈判",
+          "url": "https://flash.jin10.com/detail/20260202190502611800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时07分"
         },
         {
           "title": "克里姆林宫：（在伊朗局势和铀问题上）早在很久以前俄方就曾提供过相关服务，以消除“干扰因素”。",
@@ -499,9 +600,20 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时15分"
+        },
+        {
+          "title": "据伊朗法尔斯通讯社2日报道，伊朗总统已下令启动核谈判。 ​​​",
+          "url": "https://flash.jin10.com/detail/20260202190341422800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时07分"
         },
         {
           "title": "伊朗外交部发言人：正在审议同美国谈判细节",
@@ -513,6 +625,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时15分"
+        },
+        {
+          "title": "伊朗军方将在边境地区举行军事演习",
+          "url": "https://flash.jin10.com/detail/20260202185452907800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时07分"
         },
         {
           "title": "伊朗外交部发言人：伊朗已召见欧洲国家所有驻伊大使发出书面抗议",
@@ -933,7 +1056,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时15分"
         },
@@ -966,7 +1089,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时15分"
         }
@@ -974,7 +1097,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 24,
+      "match_count": 25,
       "titles": [
         {
           "title": "金价暴跌，深圳水贝挤满了人，扎堆买金；演员自曝4元/克买的白银，13年前存在银行保险箱忘了，逾期需补交7000多元",
@@ -1266,12 +1389,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时15分"
+        },
+        {
+          "title": "金价大跌金店回收挤爆了",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E5%A4%A7%E8%B7%8C%E9%87%91%E5%BA%97%E5%9B%9E%E6%94%B6%E6%8C%A4%E7%88%86%E4%BA%86%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时07分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "金银深V遭沪盘打压，现货黄金跌破4600美元关口、沪银跌17%、沪金跌超10%，美股期货、原油走低",
@@ -1297,13 +1431,24 @@
           "time_info": "17时15分"
         },
         {
+          "title": "迪士尼美股盘前转涨，现涨超3%，公司第一季度调整后每股收益超市场预期。",
+          "url": "https://wallstreetcn.com/livenews/3048339",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时07分"
+        },
+        {
           "title": "贵金属普遍遭抛售，美股锂矿商盘前下跌。",
           "url": "https://flash.jin10.com/detail/20260202180049726800",
           "source": "金十数据",
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时15分"
         },
@@ -1343,6 +1488,85 @@
       ]
     },
     {
+      "keyword_group": "黄金",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "市场消息：土耳其提高部分黄金、白银基金的最低价格限制。",
+          "url": "https://flash.jin10.com/detail/20260202154640063800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时10分"
+        },
+        {
+          "title": "土耳其提高部分黄金、白银基金的最低价格限制。",
+          "url": "https://wallstreetcn.com/livenews/3048241",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时15分 ~ 18时15分]"
+        },
+        {
+          "title": "独家|担忧价格与交割风险，多家黄金供应商暂停春节前银行现货金条供应",
+          "url": "https://www.cls.cn/detail/2278016",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时07分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "盛宝银行：美债收益率回落 沃什提名与避险需求提供支撑",
+          "url": "https://flash.jin10.com/detail/20260202192944243800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时07分"
+        },
+        {
+          "title": "10年期美债期货下跌1个点，30年期期货下跌7个点。",
+          "url": "https://flash.jin10.com/detail/20260202070317059800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时10分"
+        },
+        {
+          "title": "沃什提名震荡余波未平 市场静待再融资公告开启美债新变局",
+          "url": "https://flash.jin10.com/detail/20260202145814081800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时21分"
+        }
+      ]
+    },
+    {
       "keyword_group": "chatgpt openai",
       "match_count": 2,
       "titles": [
@@ -1374,63 +1598,6 @@
       ]
     },
     {
-      "keyword_group": "黄金",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "市场消息：土耳其提高部分黄金、白银基金的最低价格限制。",
-          "url": "https://flash.jin10.com/detail/20260202154640063800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时10分"
-        },
-        {
-          "title": "土耳其提高部分黄金、白银基金的最低价格限制。",
-          "url": "https://wallstreetcn.com/livenews/3048241",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时15分 ~ 18时15分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "10年期美债期货下跌1个点，30年期期货下跌7个点。",
-          "url": "https://flash.jin10.com/detail/20260202070317059800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时10分"
-        },
-        {
-          "title": "沃什提名震荡余波未平 市场静待再融资公告开启美债新变局",
-          "url": "https://flash.jin10.com/detail/20260202145814081800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时21分"
-        }
-      ]
-    },
-    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 1,
       "titles": [
@@ -1446,8 +1613,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 30,
-          "time_info": "[00时04分 ~ 19时15分]"
+          "appearance_count": 31,
+          "time_info": "[00时04分 ~ 20时07分]"
         }
       ]
     },
