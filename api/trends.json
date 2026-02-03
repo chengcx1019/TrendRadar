@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-02-03T08:11:48.465005+08:00",
-  "total_titles_processed": 643,
+  "generated_at": "2026-02-03T09:33:25.268212+08:00",
+  "total_titles_processed": 773,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 40,
+      "match_count": 42,
       "titles": [
+        {
+          "title": "美媒：欧洲领导人曾熬夜开会，制定应对特朗普的“作战手册”",
+          "url": "https://news.ifeng.com/c/8qQSV7gn6mY",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时11分 ~ 09时33分]"
+        },
         {
           "title": "特朗普再次否认关联爱泼斯坦案",
           "url": "https://wallstreetcn.com/livenews/3048603",
@@ -14,18 +26,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时11分"
-        },
-        {
-          "title": "美媒：欧洲领导人曾熬夜开会，制定应对特朗普的“作战手册”",
-          "url": "https://news.ifeng.com/c/8qQSV7gn6mY",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时11分"
         },
@@ -39,6 +40,29 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时11分"
+        },
+        {
+          "title": "美联邦法官阻止特朗普政府终止海地移民临时保护身份",
+          "url": "https://wallstreetcn.com/livenews/3048649",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时33分"
+        },
+        {
+          "title": "特朗普：美印达成贸易协议 印度同意停购俄油+5000亿商品采购",
+          "url": "https://www.cls.cn/detail/2278350",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时11分 ~ 09时33分]"
         },
         {
           "title": "特朗普就伊朗问题表态：将观察事态如何发展",
@@ -110,6 +134,17 @@
           "time_info": "07时06分"
         },
         {
+          "title": "特朗普称美印达成贸易协议 Waymo估值超千亿美元 | 环球市场",
+          "url": "https://www.cls.cn/detail/2278428",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时33分"
+        },
+        {
           "title": "据AXIOS网站：一位美国官员表示，伊斯坦布尔峰会将重点讨论如何达成一揽子协议以避免战争。这位官员强调，特朗普政府希望伊朗方面做好在会上做出必要妥协的准备。",
           "url": "https://flash.jin10.com/detail/20260203013622018800",
           "source": "金十数据",
@@ -127,18 +162,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时11分"
-        },
-        {
-          "title": "特朗普：美印达成贸易协议 印度同意停购俄油+5000亿商品采购",
-          "url": "https://www.cls.cn/detail/2278350",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时11分"
         },
@@ -454,7 +478,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 18,
+      "match_count": 20,
       "titles": [
         {
           "title": "伊朗否认收到美“最后通牒”，总统下令启动核谈判",
@@ -518,13 +542,35 @@
           "time_info": "[00时08分 ~ 08时11分]"
         },
         {
+          "title": "美伊或开启核谈判，伊朗释放双重信号",
+          "url": "https://news.ifeng.com/c/8qR1zmFfMjv",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时33分"
+        },
+        {
+          "title": "伊朗总统已下令与美开展核问题专项谈判，有何考量？此次外交行动会打破僵局吗？",
+          "url": "https://www.zhihu.com/question/2001732629960081618",
+          "source": "知乎",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时33分"
+        },
+        {
           "title": "乌克兰将伊朗伊斯兰革命卫队列为“恐怖组织”",
           "url": "https://news.ifeng.com/c/8qPWYV4KCzQ",
           "source": "凤凰网",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时11分"
         },
@@ -618,7 +664,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时11分"
         },
@@ -651,7 +697,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时11分"
         },
@@ -670,7 +716,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "商品暴跌震动市场！美股指集体低开，纳指跌0.4%，甲骨文逆势涨4%，现货金银“V”型反转，布油跌5%",
@@ -682,6 +728,34 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时08分 ~ 02时11分]"
+        },
+        {
+          "title": "美股收盘：标普低开高走迫近新高 存储板块又迎热钱流入",
+          "url": "https://www.cls.cn/detail/2278378",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时11分 ~ 09时33分]"
+        },
+        {
+          "title": "黄金白银剧烈波动 美股三大期指集体下跌 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2278222",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            13,
+            12,
+            10,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时08分 ~ 09时33分]"
         },
         {
           "title": "美制造业数据托底风险偏好，美股反弹、美元续涨，黄金跌5%，白银跌至80关口下方",
@@ -701,20 +775,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时11分"
         },
         {
-          "title": "美股收盘：标普低开高走迫近新高 存储板块又迎热钱流入",
-          "url": "https://www.cls.cn/detail/2278378",
-          "source": "财联社热门",
+          "title": "美制造业数据托底风险偏好，美股、加密货币齐反弹、美元续涨，金银企稳，原油重挫",
+          "url": "https://wallstreetcn.com/articles/3764730",
+          "source": "华尔街见闻",
           "ranks": [
-            5
+            2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时11分"
+          "time_info": "09时33分"
         },
         {
           "title": "金十图示：2026年02月02日（周一）美股热门股票行情一览（美股盘中）",
@@ -728,21 +802,6 @@
           "time_info": "02时11分"
         },
         {
-          "title": "黄金白银剧烈波动 美股三大期指集体下跌 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2278222",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            13,
-            12,
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时08分 ~ 08时11分]"
-        },
-        {
           "title": "美股稀土板块盘前走强 据称美国拟启动“金库计划” 复制石油储备模式",
           "url": "https://www.cls.cn/detail/2278170",
           "source": "财联社热门",
@@ -750,11 +809,24 @@
             12,
             11,
             9,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时14分 ~ 08时11分]"
+          "appearance_count": 5,
+          "time_info": "[01时14分 ~ 09时33分]"
+        },
+        {
+          "title": "美股三大指数集体收涨",
+          "url": "https://www.toutiao.com/trending/7602410616837377590/",
+          "source": "今日头条",
+          "ranks": [
+            18,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时11分 ~ 09时33分]"
         },
         {
           "title": "金十图示：2026年02月02日（周一）热门中概股行情一览（美股盘中）",
@@ -774,18 +846,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时11分"
-        },
-        {
-          "title": "美股三大指数集体收涨",
-          "url": "https://www.toutiao.com/trending/7602410616837377590/",
-          "source": "今日头条",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时11分"
         },
@@ -869,7 +930,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "金价暴跌后黄金市场挤满顾客",
@@ -895,13 +956,24 @@
           "time_info": "07时06分"
         },
         {
+          "title": "金价银价反弹",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E9%93%B6%E4%BB%B7%E5%8F%8D%E5%BC%B9%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时33分"
+        },
+        {
           "title": "金价累计跌幅约20%",
           "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E7%B4%AF%E8%AE%A1%E8%B7%8C%E5%B9%85%E7%BA%A620%25%23&t=31&band_rank=29&Refer=top",
           "source": "微博",
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时11分"
         }
