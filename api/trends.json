@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-05T20:08:23.150558+08:00",
-  "total_titles_processed": 1971,
+  "generated_at": "2026-02-05T21:27:49.520737+08:00",
+  "total_titles_processed": 2094,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 47,
+      "match_count": 50,
       "titles": [
         {
           "title": "习近平同特朗普通电话",
@@ -62,8 +62,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 28,
-          "time_info": "[00时14分 ~ 20时08分]"
+          "appearance_count": 29,
+          "time_info": "[00时14分 ~ 21时27分]"
         },
         {
           "title": "降息快了？特朗普直言：若沃什表达过加息意愿 就不会获提名！",
@@ -92,8 +92,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 27,
-          "time_info": "[01时16分 ~ 20时08分]"
+          "appearance_count": 28,
+          "time_info": "[01时16分 ~ 21时27分]"
         },
         {
           "title": "习近平同特朗普通电话",
@@ -152,6 +152,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时11分"
+        },
+        {
+          "title": "据CNN：美国总统特朗普将于当地时间5日推出TruMPRx药品定价网站。",
+          "url": "https://flash.jin10.com/detail/20260205211058930800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时27分"
         },
         {
           "title": "美国众议院议长约翰逊计划今天下午会见总统特朗普。（Politico）",
@@ -347,6 +358,17 @@
           "time_info": "[04时07分 ~ 05时08分]"
         },
         {
+          "title": "是否谋求第三任期？特朗普：告诉你就太无聊了",
+          "url": "https://news.ifeng.com/c/8qUsyGpiCYu",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时27分"
+        },
+        {
           "title": "美国国务卿鲁比奥：美国总统特使威特科夫和特朗普女婿库什纳将出席有关乌克兰会议的部分议程。",
           "url": "https://flash.jin10.com/detail/20260204233806408800",
           "source": "金十数据",
@@ -422,6 +444,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时17分"
+        },
+        {
+          "title": "特朗普建“金库”：欲囤货银、铜等关键矿产丨Hi，今天怎么看？",
+          "url": "https://flash.jin10.com/detail/20260205210036976800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时27分"
         },
         {
           "title": "据华尔街日报：美国众议院民主党议员启动一项调查，内容涉及阿布扎比王室成员向特朗普家族旗下的世界自由金融公司注资5亿美元的交易，并正敦促美国检察官同步调查此事。",
@@ -586,18 +619,6 @@
           "time_info": "[00时14分 ~ 10时57分]"
         },
         {
-          "title": "鲁比奥否认向伊朗让步，透露美方条件",
-          "url": "https://news.ifeng.com/c/8qUUgmewA1z",
-          "source": "凤凰网",
-          "ranks": [
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[10时56分 ~ 20时08分]"
-        },
-        {
           "title": "一图看懂｜调重兵前往中东，美军目前在伊朗周边军事集结如何？",
           "url": "https://m.thepaper.cn/newsDetail_forward_32533277",
           "source": "澎湃新闻",
@@ -606,11 +627,24 @@
             14,
             13,
             11,
-            12
+            12,
+            9
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[11时49分 ~ 20时08分]"
+          "appearance_count": 15,
+          "time_info": "[11时49分 ~ 21时27分]"
+        },
+        {
+          "title": "鲁比奥否认向伊朗让步，透露美方条件",
+          "url": "https://news.ifeng.com/c/8qUUgmewA1z",
+          "source": "凤凰网",
+          "ranks": [
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 17,
+          "time_info": "[10时56分 ~ 21时27分]"
         },
         {
           "title": "美国国务卿鲁比奥：如果伊朗方面想在星期五会面，我们已经准备好了。",
@@ -880,7 +914,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时08分"
         },
@@ -954,7 +988,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 28,
+      "match_count": 30,
       "titles": [
         {
           "title": "美股收盘：纳指跌破100日线 光伏板块全面爆发",
@@ -1047,6 +1081,17 @@
           "time_info": "[16时10分 ~ 20时08分]"
         },
         {
+          "title": "美股盘前三大股指齐跌，纳指期货跌逾1%，比特币跌破7万关键心理位，VIX指数飙升7%，白银再度暴跌10%",
+          "url": "https://wallstreetcn.com/articles/3765023",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时27分"
+        },
+        {
           "title": "周三（2月4日）美股尾盘，彭博电动汽车价格回报指数涨0.65%，报3533.63点。 该指数全天处于上涨状态，整体呈现出“几”形走势，北京时间14:00-00:00高位震荡，最高在美股盘初达到3561.87点。 成分股宝马收涨3.88%，Ola Electric Mobility Ltd.涨3.6%，意法半导体收涨3.6%，保时捷P911涨3.5%，理想汽车H股收涨3.43%，浙江零跑科技H股收涨2.88%表现第六，智利化工矿业公司（SQM）则跌5.3%，MP材料跌6.2%，文远知行跌7.2%，Solid Power跌9.5%。",
           "url": "https://wallstreetcn.com/livenews/3050096",
           "source": "华尔街见闻-快讯",
@@ -1057,6 +1102,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时08分 ~ 06时04分]"
+        },
+        {
+          "title": "美股科技股抛售蔓延，闪迪跌近 16%，AMD 跌超 17% 创八年多来最大单日跌幅，光伏板块爆发，如何解读？",
+          "url": "https://www.zhihu.com/question/2002675555208803379",
+          "source": "知乎",
+          "ranks": [
+            9,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时08分 ~ 21时27分]"
         },
         {
           "title": "相干公司Coherent Corp.（COHR）美股盘后跌19%。",
@@ -1102,17 +1159,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时05分"
-        },
-        {
-          "title": "美股科技股抛售蔓延，闪迪跌近 16%，AMD 跌超 17% 创八年多来最大单日跌幅，光伏板块爆发，如何解读？",
-          "url": "https://www.zhihu.com/question/2002675555208803379",
-          "source": "知乎",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时08分"
         },
         {
           "title": "Arm(ARM.O)美股盘后跌超10%。",
@@ -1225,6 +1271,17 @@
           "time_info": "01时17分"
         },
         {
+          "title": "美股股指期货跌幅扩大，纳斯达克100指数期货盘中跌逾1%，标普500指数期货跌0.66%，道指期货跌0.35%。",
+          "url": "https://wallstreetcn.com/livenews/3050680",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时27分"
+        },
+        {
           "title": "美股半导体和芯片设备股票盘前上涨，因Alphabet(GOOG.O)表示其2026年的资本支出可能翻一番。博通(AVGO.O)涨5%，AMD(AMD.O)、英伟达(NVDA.O)涨超2%。",
           "url": "https://flash.jin10.com/detail/20260205173627035800",
           "source": "金十数据",
@@ -1275,7 +1332,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时08分"
         }
@@ -1294,8 +1351,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[09时32分 ~ 20时08分]"
+          "appearance_count": 18,
+          "time_info": "[09时32分 ~ 21时27分]"
         },
         {
           "title": "谷歌ALL in AI！Q4云业务激增48% 2026“烧钱”速度翻倍",
@@ -1334,8 +1391,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时21分 ~ 20时08分]"
+          "appearance_count": 9,
+          "time_info": "[15时21分 ~ 21时27分]"
         },
         {
           "title": "谷歌母公司Alphabet（GOOGL）美股盘后跌1.69%，该公司分析师电话会已经结束。",
@@ -1614,7 +1671,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时08分"
         },
@@ -1665,7 +1722,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时08分"
         },
@@ -1676,7 +1733,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时08分"
         }
@@ -1764,8 +1821,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时10分 ~ 20时08分]"
+          "appearance_count": 8,
+          "time_info": "[16时10分 ~ 21时27分]"
         }
       ]
     }
