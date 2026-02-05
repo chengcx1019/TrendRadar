@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-05T12:34:02.788512+08:00",
-  "total_titles_processed": 1238,
+  "generated_at": "2026-02-05T13:25:08.829545+08:00",
+  "total_titles_processed": 1306,
   "failed_sources": [],
   "trends": [
     {
@@ -51,8 +51,19 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时14分 ~ 12时34分]"
+          "appearance_count": 19,
+          "time_info": "[00时14分 ~ 13时25分]"
+        },
+        {
+          "title": "特朗普：中美元首通话内容详实，气氛积极",
+          "url": "https://news.ifeng.com/c/8qUQ05iiX1G",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时32分 ~ 13时25分]"
         },
         {
           "title": "详讯丨习近平同美国总统特朗普通电话",
@@ -67,8 +78,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[01时16分 ~ 12时34分]"
+          "appearance_count": 18,
+          "time_info": "[01时16分 ~ 13时25分]"
         },
         {
           "title": "习近平同特朗普通电话",
@@ -82,17 +93,6 @@
           "time_info": "[08时10分 ~ 11时49分]"
         },
         {
-          "title": "特朗普：中美元首通话内容详实，气氛积极",
-          "url": "https://news.ifeng.com/c/8qUQ05iiX1G",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时32分 ~ 12时34分]"
-        },
-        {
           "title": "习近平同美国总统特朗普通电话",
           "url": "https://m.thepaper.cn/newsDetail_forward_32534170",
           "source": "澎湃新闻",
@@ -104,6 +104,19 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[00时14分 ~ 10时57分]"
+        },
+        {
+          "title": "降息快了？特朗普直言：若沃什表达过加息意愿 就不会获提名！",
+          "url": "https://www.cls.cn/detail/2281033",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时49分 ~ 13时25分]"
         },
         {
           "title": "企图在高尔夫球场刺杀特朗普的枪手被判终身监禁",
@@ -138,18 +151,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时11分"
-        },
-        {
-          "title": "降息快了？特朗普直言：若沃什表达过加息意愿 就不会获提名！",
-          "url": "https://www.cls.cn/detail/2281033",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时49分 ~ 12时34分]"
         },
         {
           "title": "美国众议院议长约翰逊计划今天下午会见总统特朗普。（Politico）",
@@ -449,7 +450,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时34分"
         },
@@ -561,6 +562,17 @@
           "time_info": "[00时14分 ~ 10时57分]"
         },
         {
+          "title": "鲁比奥否认向伊朗让步，透露美方条件",
+          "url": "https://news.ifeng.com/c/8qUUgmewA1z",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时56分 ~ 13时25分]"
+        },
+        {
           "title": "美国国务卿鲁比奥：如果伊朗方面想在星期五会面，我们已经准备好了。",
           "url": "https://flash.jin10.com/detail/20260204234340449800",
           "source": "金十数据",
@@ -605,15 +617,17 @@
           "time_info": "00时14分"
         },
         {
-          "title": "鲁比奥否认向伊朗让步，透露美方条件",
-          "url": "https://news.ifeng.com/c/8qUUgmewA1z",
-          "source": "凤凰网",
+          "title": "一图看懂｜调重兵前往中东，美军目前在伊朗周边军事集结如何？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32533277",
+          "source": "澎湃新闻",
           "ranks": [
-            10
+            16,
+            14,
+            13
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[10时56分 ~ 12时34分]"
+          "time_info": "[11时49分 ~ 13时25分]"
         },
         {
           "title": "伊朗消息人士：美方泄露谈判取消表明其缺乏诚意",
@@ -686,18 +700,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时14分 ~ 01时17分]"
-        },
-        {
-          "title": "一图看懂｜调重兵前往中东，美军目前在伊朗周边军事集结如何？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32533277",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时49分 ~ 12时34分]"
         },
         {
           "title": "伊朗议员喊话对美以先发制人打击",
@@ -848,7 +850,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 21,
+      "match_count": 22,
       "titles": [
         {
           "title": "谷歌All in AI：Q4云收入猛增48%，今年支出指引接近翻倍大超预期，盘后巨震 | 财报见闻",
@@ -858,8 +860,22 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时32分 ~ 12时34分]"
+          "appearance_count": 8,
+          "time_info": "[09时32分 ~ 13时25分]"
+        },
+        {
+          "title": "谷歌ALL in AI！Q4云业务激增48% 2026“烧钱”速度翻倍",
+          "url": "https://www.cls.cn/detail/2281032",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            9,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时56分 ~ 13时25分]"
         },
         {
           "title": "谷歌母公司Alphabet（GOOGL）美股盘后跌1.69%，该公司分析师电话会已经结束。",
@@ -882,19 +898,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时05分"
-        },
-        {
-          "title": "谷歌ALL in AI！Q4云业务激增48% 2026“烧钱”速度翻倍",
-          "url": "https://www.cls.cn/detail/2281032",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时56分 ~ 12时34分]"
         },
         {
           "title": "Alphabet(GOOG.O)CEO皮查伊：苹果(AAPL.O)选择谷歌云作为其首选云服务提供商。",
@@ -955,6 +958,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时04分 ~ 07时05分]"
+        },
+        {
+          "title": "谷歌财报电话会实录：首要任务是提高算力 否认“AI取代软件”担忧",
+          "url": "https://www.cls.cn/detail/2281205",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时24分 ~ 13时25分]"
         },
         {
           "title": "谷歌营收业绩超预期，2026年资本开支超预期",
@@ -1096,6 +1110,18 @@
       "match_count": 21,
       "titles": [
         {
+          "title": "美股收盘：纳指跌破100日线 光伏板块全面爆发",
+          "url": "https://www.cls.cn/detail/2280969",
+          "source": "财联社热门",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[08时10分 ~ 13时25分]"
+        },
+        {
           "title": "软件股重挫打压美股，纳指跌超1%，黄金一度重回5000关口，白银涨逾7%，比特币曾跌超7%",
           "url": "https://wallstreetcn.com/articles/3764793",
           "source": "华尔街见闻",
@@ -1106,18 +1132,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时14分 ~ 07时05分]"
-        },
-        {
-          "title": "美股收盘：纳指跌破100日线 光伏板块全面爆发",
-          "url": "https://www.cls.cn/detail/2280969",
-          "source": "财联社热门",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时10分 ~ 12时34分]"
         },
         {
           "title": "美股爆发 AI 恐慌性抛售，英伟达市值一夜蒸发超 8000 亿元，发生了什么？如何解读？",
