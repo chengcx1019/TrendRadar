@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-05T10:57:14.932934+08:00",
-  "total_titles_processed": 1059,
+  "generated_at": "2026-02-05T11:49:33.095844+08:00",
+  "total_titles_processed": 1157,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 43,
+      "match_count": 44,
       "titles": [
         {
           "title": "习近平同特朗普通电话",
@@ -51,8 +51,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时14分 ~ 10时57分]"
+          "appearance_count": 15,
+          "time_info": "[00时14分 ~ 11时49分]"
         },
         {
           "title": "详讯丨习近平同美国总统特朗普通电话",
@@ -63,11 +63,12 @@
             15,
             9,
             6,
-            3
+            3,
+            1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时16分 ~ 10时57分]"
+          "appearance_count": 14,
+          "time_info": "[01时16分 ~ 11时49分]"
         },
         {
           "title": "习近平同特朗普通电话",
@@ -77,8 +78,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时10分 ~ 10时57分]"
+          "appearance_count": 6,
+          "time_info": "[08时10分 ~ 11时49分]"
         },
         {
           "title": "习近平同美国总统特朗普通电话",
@@ -101,8 +102,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时32分 ~ 10时57分]"
+          "appearance_count": 4,
+          "time_info": "[09时32分 ~ 11时49分]"
         },
         {
           "title": "企图在高尔夫球场刺杀特朗普的枪手被判终身监禁",
@@ -320,6 +321,17 @@
           "time_info": "[04时07分 ~ 05时08分]"
         },
         {
+          "title": "降息快了？特朗普直言：若沃什表达过加息意愿 就不会获提名！",
+          "url": "https://www.cls.cn/detail/2281033",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时49分"
+        },
+        {
           "title": "美国国务卿鲁比奥：美国总统特使威特科夫和特朗普女婿库什纳将出席有关乌克兰会议的部分议程。",
           "url": "https://flash.jin10.com/detail/20260204233806408800",
           "source": "金十数据",
@@ -510,7 +522,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 26,
+      "match_count": 27,
       "titles": [
         {
           "title": "美军称击落伊朗无人机，双方在危险的边缘互相试探？",
@@ -653,6 +665,29 @@
           "time_info": "[00时14分 ~ 01时17分]"
         },
         {
+          "title": "鲁比奥否认向伊朗让步，透露美方条件",
+          "url": "https://news.ifeng.com/c/8qUUgmewA1z",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时56分 ~ 11时49分]"
+        },
+        {
+          "title": "伊朗议员喊话对美以先发制人打击",
+          "url": "https://www.toutiao.com/trending/7602104713643474982/",
+          "source": "今日头条",
+          "ranks": [
+            28,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时56分 ~ 11时49分]"
+        },
+        {
           "title": "伊朗消息人士：原定6日举行的伊美谈判已取消",
           "url": "https://flash.jin10.com/detail/20260205031941337800",
           "source": "金十数据",
@@ -663,28 +698,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时07分 ~ 05时08分]"
-        },
-        {
-          "title": "鲁比奥否认向伊朗让步，透露美方条件",
-          "url": "https://news.ifeng.com/c/8qUUgmewA1z",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时56分 ~ 10时57分]"
-        },
-        {
-          "title": "伊朗议员喊话对美以先发制人打击",
-          "url": "https://www.toutiao.com/trending/7602104713643474982/",
-          "source": "今日头条",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时56分 ~ 10时57分]"
         },
         {
           "title": "美国国务卿鲁比奥：与伊朗的谈判若要取得有意义的成果，就必须包括弹道导弹议题。",
@@ -737,7 +750,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时57分"
         },
@@ -773,6 +786,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时13分"
+        },
+        {
+          "title": "一图看懂｜调重兵前往中东，美军目前在伊朗周边军事集结如何？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32533277",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时49分"
         },
         {
           "title": "市场消息：一位伊朗高级消息人士表示，此次谈判结果取决于美国是否改变目前的做法。目前正在就周五谈判的最终安排以及能否直接举行谈判进行磋商。",
@@ -821,8 +845,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时32分 ~ 10时57分]"
+          "appearance_count": 4,
+          "time_info": "[09时32分 ~ 11时49分]"
         },
         {
           "title": "谷歌母公司Alphabet（GOOGL）美股盘后跌1.69%，该公司分析师电话会已经结束。",
@@ -859,6 +883,18 @@
           "time_info": "[06时04分 ~ 07时05分]"
         },
         {
+          "title": "谷歌ALL in AI！Q4云业务激增48% 2026“烧钱”速度翻倍",
+          "url": "https://www.cls.cn/detail/2281032",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时56分 ~ 11时49分]"
+        },
+        {
           "title": "谷歌母公司Alphabet：所搜同比增长17%。 YouTube 9%的增长来自直接响应的广告。 公司在AI模型中测试广告。",
           "url": "https://wallstreetcn.com/livenews/3050117",
           "source": "华尔街见闻-快讯",
@@ -893,17 +929,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时04分 ~ 07时05分]"
-        },
-        {
-          "title": "谷歌ALL in AI！Q4云业务激增48% 2026“烧钱”速度翻倍",
-          "url": "https://www.cls.cn/detail/2281032",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时56分 ~ 10时57分]"
         },
         {
           "title": "谷歌A美股盘后转涨，此前一度重挫超7%。",
@@ -1115,11 +1140,12 @@
           "ranks": [
             7,
             8,
-            10
+            10,
+            5
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时14分 ~ 10时57分]"
+          "appearance_count": 15,
+          "time_info": "[00时14分 ~ 11时49分]"
         },
         {
           "title": "美股收盘：纳指跌破100日线 光伏板块全面爆发",
@@ -1130,8 +1156,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时10分 ~ 10时57分]"
+          "appearance_count": 6,
+          "time_info": "[08时10分 ~ 11时49分]"
         },
         {
           "title": "周三（2月4日）美股尾盘，彭博电动汽车价格回报指数涨0.65%，报3533.63点。 该指数全天处于上涨状态，整体呈现出“几”形走势，北京时间14:00-00:00高位震荡，最高在美股盘初达到3561.87点。 成分股宝马收涨3.88%，Ola Electric Mobility Ltd.涨3.6%，意法半导体收涨3.6%，保时捷P911涨3.5%，理想汽车H股收涨3.43%，浙江零跑科技H股收涨2.88%表现第六，智利化工矿业公司（SQM）则跌5.3%，MP材料跌6.2%，文远知行跌7.2%，Solid Power跌9.5%。",
@@ -1307,6 +1333,18 @@
       "match_count": 3,
       "titles": [
         {
+          "title": "OpenAI正在为其咨询团队招聘数百名员工。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3050279",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时57分 ~ 11时49分]"
+        },
+        {
           "title": "网络状况监测网站DownDetector：用户报告显示，OpenAI在美国的使用出现问题。",
           "url": "https://flash.jin10.com/detail/20260205013400830800",
           "source": "金十数据",
@@ -1318,24 +1356,13 @@
           "time_info": "02时13分"
         },
         {
-          "title": "OpenAI正在为其咨询团队招聘数百名员工。（The Information）",
-          "url": "https://wallstreetcn.com/livenews/3050279",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时57分"
-        },
-        {
           "title": "据The Information：OpenAI正在招聘数百名“前沿部署工程师”以赢得大型企业业务。",
           "url": "https://flash.jin10.com/detail/20260205101900383800",
           "source": "金十数据",
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时57分"
         }
@@ -1352,22 +1379,24 @@
           "ranks": [
             10,
             9,
-            6
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时16分 ~ 10时57分]"
+          "appearance_count": 14,
+          "time_info": "[01时16分 ~ 11时49分]"
         },
         {
           "title": "金价波动",
           "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E6%B3%A2%E5%8A%A8&t=31&band_rank=17&Refer=top",
           "source": "微博",
           "ranks": [
-            17
+            17,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时56分 ~ 10时57分]"
+          "appearance_count": 3,
+          "time_info": "[10时56分 ~ 11时49分]"
         },
         {
           "title": "金十图示：2026年02月05日（周四）上海金早盘价为1108.05元/克，较国际金价(1101.77元/克)，高6.28元/克",
@@ -1376,7 +1405,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时57分"
         }
