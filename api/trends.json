@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-05T19:15:44.885206+08:00",
-  "total_titles_processed": 1879,
+  "generated_at": "2026-02-05T20:08:23.150558+08:00",
+  "total_titles_processed": 1971,
   "failed_sources": [],
   "trends": [
     {
@@ -62,8 +62,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 27,
-          "time_info": "[00时14分 ~ 19时15分]"
+          "appearance_count": 28,
+          "time_info": "[00时14分 ~ 20时08分]"
         },
         {
           "title": "降息快了？特朗普直言：若沃什表达过加息意愿 就不会获提名！",
@@ -92,8 +92,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[01时16分 ~ 19时15分]"
+          "appearance_count": 27,
+          "time_info": "[01时16分 ~ 20时08分]"
         },
         {
           "title": "习近平同特朗普通电话",
@@ -364,7 +364,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时15分"
         },
@@ -559,7 +559,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 33,
+      "match_count": 34,
       "titles": [
         {
           "title": "美军称击落伊朗无人机，双方在危险的边缘互相试探？",
@@ -594,8 +594,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[10时56分 ~ 19时15分]"
+          "appearance_count": 16,
+          "time_info": "[10时56分 ~ 20时08分]"
         },
         {
           "title": "一图看懂｜调重兵前往中东，美军目前在伊朗周边军事集结如何？",
@@ -609,8 +609,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[11时49分 ~ 19时15分]"
+          "appearance_count": 14,
+          "time_info": "[11时49分 ~ 20时08分]"
         },
         {
           "title": "美国国务卿鲁比奥：如果伊朗方面想在星期五会面，我们已经准备好了。",
@@ -674,7 +674,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时15分"
         },
@@ -792,7 +792,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时15分"
         },
@@ -874,6 +874,17 @@
           "time_info": "05时08分"
         },
         {
+          "title": "伊朗扣押两艘燃油走私船",
+          "url": "https://wallstreetcn.com/livenews/3050623",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时08分"
+        },
+        {
           "title": "据伊朗媒体援引俄罗斯驻联合国代表的话表示，对伊朗使用武力可能会对整个地区造成严重后果。",
           "url": "https://flash.jin10.com/detail/20260205165258056800",
           "source": "金十数据",
@@ -943,7 +954,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 26,
+      "match_count": 28,
       "titles": [
         {
           "title": "美股收盘：纳指跌破100日线 光伏板块全面爆发",
@@ -1032,8 +1043,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时10分 ~ 19时15分]"
+          "appearance_count": 7,
+          "time_info": "[16时10分 ~ 20时08分]"
         },
         {
           "title": "周三（2月4日）美股尾盘，彭博电动汽车价格回报指数涨0.65%，报3533.63点。 该指数全天处于上涨状态，整体呈现出“几”形走势，北京时间14:00-00:00高位震荡，最高在美股盘初达到3561.87点。 成分股宝马收涨3.88%，Ola Electric Mobility Ltd.涨3.6%，意法半导体收涨3.6%，保时捷P911涨3.5%，理想汽车H股收涨3.43%，浙江零跑科技H股收涨2.88%表现第六，智利化工矿业公司（SQM）则跌5.3%，MP材料跌6.2%，文远知行跌7.2%，Solid Power跌9.5%。",
@@ -1091,6 +1102,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时05分"
+        },
+        {
+          "title": "美股科技股抛售蔓延，闪迪跌近 16%，AMD 跌超 17% 创八年多来最大单日跌幅，光伏板块爆发，如何解读？",
+          "url": "https://www.zhihu.com/question/2002675555208803379",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时08分"
         },
         {
           "title": "Arm(ARM.O)美股盘后跌超10%。",
@@ -1176,7 +1198,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时15分"
         },
@@ -1220,7 +1242,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时15分"
         },
@@ -1231,7 +1253,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时15分"
         },
@@ -1245,6 +1267,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时04分"
+        },
+        {
+          "title": "雅诗兰黛第二季度调整后EPS为0.89美元，市场预期为0.84美元。 第二季度净销售额为42.3亿美元，同比增长5.6%，市场预期为42.2亿美元。 第二季度调整后毛利率为76.5%，去年同期为76.1%，市场预期为76.2%。 第二季度有机净销售额同比增长4%，去年同期为下降6%，市场预期为增长3.41%。 预计全年有机净销售额同比增长1%至3%，此前预期为0%至3%，市场预期为增长2.91%。 预计全年净销售额同比增长3%至5%。 雅诗兰黛美股盘前跌超3%。",
+          "url": "https://wallstreetcn.com/livenews/3050630",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时08分"
         }
       ]
     },
@@ -1261,8 +1294,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[09时32分 ~ 19时15分]"
+          "appearance_count": 17,
+          "time_info": "[09时32分 ~ 20时08分]"
         },
         {
           "title": "谷歌ALL in AI！Q4云业务激增48% 2026“烧钱”速度翻倍",
@@ -1301,8 +1334,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时21分 ~ 19时15分]"
+          "appearance_count": 8,
+          "time_info": "[15时21分 ~ 20时08分]"
         },
         {
           "title": "谷歌母公司Alphabet（GOOGL）美股盘后跌1.69%，该公司分析师电话会已经结束。",
@@ -1535,7 +1568,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "金价巨震之下，水贝难寻金条现货|传真",
@@ -1575,6 +1608,17 @@
           "time_info": "[17时14分 ~ 17时15分]"
         },
         {
+          "title": "瑞银集团：白银应受益于更高的黄金价格和更紧张的近期基本面。",
+          "url": "https://flash.jin10.com/detail/20260205195550945800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时08分"
+        },
+        {
           "title": "金十图示：2026年02月05日（周四）上海金早盘价为1108.05元/克，较国际金价(1101.77元/克)，高6.28元/克",
           "url": "https://flash.jin10.com/detail/20260205102602585800",
           "source": "金十数据",
@@ -1584,6 +1628,57 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时57分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "美国财长贝森特被问及如何压低10年期美债收益率，称：它下降了25个基点。 认为可以继续看到10年期美债收益率继续小幅下降。",
+          "url": "https://wallstreetcn.com/livenews/3050043",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时13分 ~ 03时16分]"
+        },
+        {
+          "title": "长端美债收益率涨超2个基点",
+          "url": "https://wallstreetcn.com/livenews/3050086",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时08分"
+        },
+        {
+          "title": "英、欧央行决议前短期美债收益率走低 市场同时关注美国职位空缺数据",
+          "url": "https://flash.jin10.com/detail/20260205194238624800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时08分"
+        },
+        {
+          "title": "贝莱德基金刘鑫：短端境外债券相对稳健 长端美债短期内存在交易性机会",
+          "url": "https://wallstreetcn.com/livenews/3050619",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时08分"
         }
       ]
     },
@@ -1624,35 +1719,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时57分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "美国财长贝森特被问及如何压低10年期美债收益率，称：它下降了25个基点。 认为可以继续看到10年期美债收益率继续小幅下降。",
-          "url": "https://wallstreetcn.com/livenews/3050043",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时13分 ~ 03时16分]"
-        },
-        {
-          "title": "长端美债收益率涨超2个基点",
-          "url": "https://wallstreetcn.com/livenews/3050086",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时08分"
         }
       ]
     },
@@ -1698,8 +1764,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时10分 ~ 19时15分]"
+          "appearance_count": 7,
+          "time_info": "[16时10分 ~ 20时08分]"
         }
       ]
     }
