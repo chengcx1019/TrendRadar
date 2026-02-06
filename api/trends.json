@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-02-06T12:33:37.969783+08:00",
-  "total_titles_processed": 1180,
+  "generated_at": "2026-02-06T13:24:33.472435+08:00",
+  "total_titles_processed": 1268,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
       "match_count": 48,
       "titles": [
+        {
+          "title": "美俄唯一核军控条约失效，特朗普：不如谈个新的",
+          "url": "https://news.ifeng.com/c/8qW59pknpCi",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时32分 ~ 13时24分]"
+        },
         {
           "title": "是否谋求第三任期？特朗普：告诉你就太无聊了",
           "url": "https://news.ifeng.com/c/8qUsyGpiCYu",
@@ -19,17 +30,6 @@
           "time_info": "[00时14分 ~ 07时08分]"
         },
         {
-          "title": "美俄唯一核军控条约失效，特朗普：不如谈个新的",
-          "url": "https://news.ifeng.com/c/8qW59pknpCi",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时32分 ~ 12时33分]"
-        },
-        {
           "title": "日本大选前，特朗普发文支持高市",
           "url": "https://news.ifeng.com/c/8qWByeKcHHN",
           "source": "凤凰网",
@@ -37,8 +37,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时56分 ~ 12时33分]"
+          "appearance_count": 4,
+          "time_info": "[10时56分 ~ 13时24分]"
         },
         {
           "title": "沃什未上任已被特朗普施压",
@@ -171,6 +171,20 @@
           "time_info": "[04时07分 ~ 05时08分]"
         },
         {
+          "title": "波斯湾浪急与马斯喀特和谈之间：特朗普背后的以色列踪影",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32540970",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            11,
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时56分 ~ 13时24分]"
+        },
+        {
           "title": "美国总统特朗普在匈牙利即将大选之际声称，他支持总理欧尔班、他是一位“强有力的领导人”。",
           "url": "https://wallstreetcn.com/livenews/3050842",
           "source": "华尔街见闻-快讯",
@@ -182,19 +196,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时16分 ~ 05时08分]"
-        },
-        {
-          "title": "波斯湾浪急与马斯喀特和谈之间：特朗普背后的以色列踪影",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32540970",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时56分 ~ 12时33分]"
         },
         {
           "title": "美国财长贝森特：我在2024年（拜登任期内）看到了通胀。 （特朗普挑起的）关税造成美元走强。",
@@ -532,7 +533,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时33分"
         },
@@ -562,7 +563,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 23,
+      "match_count": 26,
       "titles": [
         {
           "title": "一图看懂｜调重兵前往中东，美军目前在伊朗周边军事集结如何？",
@@ -578,6 +579,17 @@
           "time_info": "[00时14分 ~ 08时11分]"
         },
         {
+          "title": "美伊核谈判在即 伊朗外长称将坚定捍卫伊朗权利",
+          "url": "https://flash.jin10.com/detail/20260206130935729800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时24分"
+        },
+        {
           "title": "伊朗军方：我们能够轻易进入美军基地",
           "url": "https://flash.jin10.com/detail/20260206104014218800",
           "source": "金十数据",
@@ -587,6 +599,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时56分"
+        },
+        {
+          "title": "美国伊朗谈判今日举行",
+          "url": "https://www.douyin.com/hot/2391128",
+          "source": "抖音",
+          "ranks": [
+            7,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时33分 ~ 13时24分]"
         },
         {
           "title": "伊朗军方：我们能够轻易进入美军基地",
@@ -613,6 +637,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时16分 ~ 05时08分]"
+        },
+        {
+          "title": "伊朗",
+          "url": "https://s.weibo.com/weibo?q=%E4%BC%8A%E6%9C%97&t=31&band_rank=16&Refer=top",
+          "source": "微博",
+          "ranks": [
+            16,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时47分 ~ 13时24分]"
         },
         {
           "title": "伊朗外长阿拉格齐抵达阿曼。",
@@ -663,6 +699,17 @@
           "time_info": "[11时47分 ~ 12时33分]"
         },
         {
+          "title": "美政府发布安全警告：敦促美国公民尽快离开伊朗",
+          "url": "https://www.cls.cn/detail/2282466",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时33分 ~ 13时24分]"
+        },
+        {
           "title": "据伊朗Press TV：伊朗最先进的远程弹道导弹之一——“霍拉姆沙赫尔-4”导弹已部署至地下导弹城。该导弹的射程为2000公里，可携带1500公斤的弹头。",
           "url": "https://flash.jin10.com/detail/20260206033356013800",
           "source": "金十数据",
@@ -675,16 +722,15 @@
           "time_info": "[04时07分 ~ 05时08分]"
         },
         {
-          "title": "伊朗",
-          "url": "https://s.weibo.com/weibo?q=%E4%BC%8A%E6%9C%97&t=31&band_rank=16&Refer=top",
-          "source": "微博",
+          "title": "伊朗展示先进弹道导弹",
+          "url": "https://www.toutiao.com/trending/7602741866300293126/",
+          "source": "今日头条",
           "ranks": [
-            16,
-            13
+            6
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时47分 ~ 12时33分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时24分"
         },
         {
           "title": "伊朗外长率团赴阿曼与美国进行核问题谈判",
@@ -698,15 +744,15 @@
           "time_info": "03时16分"
         },
         {
-          "title": "美国伊朗谈判今日举行",
-          "url": "https://www.douyin.com/hot/2391128",
-          "source": "抖音",
+          "title": "伊朗军事战略转向主动威慑",
+          "url": "https://www.toutiao.com/trending/7603228774960037934/",
+          "source": "今日头条",
           "ranks": [
-            7
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时33分"
+          "time_info": "13时24分"
         },
         {
           "title": "美伊谈判前夕 白宫谋划伊朗现政权更迭预案",
@@ -718,17 +764,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时33分"
-        },
-        {
-          "title": "美政府发布安全警告：敦促美国公民尽快离开伊朗",
-          "url": "https://www.cls.cn/detail/2282466",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时33分"
         },
         {
           "title": "美伊谈判前夕 伊朗展示先进弹道导弹",
@@ -861,6 +896,20 @@
           "time_info": "[00时14分 ~ 07时08分]"
         },
         {
+          "title": "美股收盘：纳指连续三天均跌超1%",
+          "url": "https://www.cls.cn/detail/2282258",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            7,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[07时07分 ~ 13时24分]"
+        },
+        {
           "title": "美股",
           "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1&t=31&band_rank=20&Refer=top",
           "source": "微博",
@@ -892,19 +941,6 @@
           "time_info": "[00时14分 ~ 07时08分]"
         },
         {
-          "title": "美股收盘：纳指连续三天均跌超1%",
-          "url": "https://www.cls.cn/detail/2282258",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时07分 ~ 12时33分]"
-        },
-        {
           "title": "美股、金银、比特币、石油 全崩了",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E3%80%81%E9%87%91%E9%93%B6%E3%80%81%E6%AF%94%E7%89%B9%E5%B8%81%E3%80%81%E7%9F%B3%E6%B2%B9+%E5%85%A8%E5%B4%A9%E4%BA%86",
           "source": "百度热搜",
@@ -913,8 +949,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时32分 ~ 12时33分]"
+          "appearance_count": 6,
+          "time_info": "[09时32分 ~ 13时24分]"
         },
         {
           "title": "美股三大指数集体收跌",
@@ -922,11 +958,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             2,
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时47分 ~ 12时33分]"
+          "appearance_count": 3,
+          "time_info": "[11时47分 ~ 13时24分]"
         },
         {
           "title": "美股收盘：纳指连跌3日 周跌幅扩大至近4%",
@@ -1168,8 +1205,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时14分 ~ 12时33分]"
+          "appearance_count": 18,
+          "time_info": "[00时14分 ~ 13时24分]"
         },
         {
           "title": "砸钱AI超谷歌！亚马逊今年支出指引2000亿意外爆表，盘后跳水超10% | 财报见闻",
@@ -1181,8 +1218,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时32分 ~ 12时33分]"
+          "appearance_count": 6,
+          "time_info": "[09时32分 ~ 13时24分]"
         }
       ]
     },
@@ -1198,8 +1235,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时32分 ~ 12时33分]"
+          "appearance_count": 6,
+          "time_info": "[09时32分 ~ 13时24分]"
         },
         {
           "title": "AI恐慌蔓延，就业数据疲软，美股指跌超1%，白银暴跌19%，比特币崩跌，美债中概涨",
