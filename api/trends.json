@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-06T15:19:06.019995+08:00",
-  "total_titles_processed": 1467,
+  "generated_at": "2026-02-06T16:10:55.891076+08:00",
+  "total_titles_processed": 1570,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 50,
+      "match_count": 53,
       "titles": [
         {
           "title": "美俄唯一核军控条约失效，特朗普：不如谈个新的",
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时32分 ~ 15时19分]"
+          "appearance_count": 11,
+          "time_info": "[09时32分 ~ 16时10分]"
         },
         {
           "title": "日本大选前，特朗普发文支持高市",
@@ -32,17 +32,6 @@
           "time_info": "[10时56分 ~ 15时19分]"
         },
         {
-          "title": "是否谋求第三任期？特朗普：告诉你就太无聊了",
-          "url": "https://news.ifeng.com/c/8qUsyGpiCYu",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时14分 ~ 07时08分]"
-        },
-        {
           "title": "波斯湾浪急与马斯喀特和谈之间：特朗普背后的以色列踪影",
           "url": "https://m.thepaper.cn/newsDetail_forward_32540970",
           "source": "澎湃新闻",
@@ -54,8 +43,19 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时56分 ~ 15时19分]"
+          "appearance_count": 9,
+          "time_info": "[10时56分 ~ 16时10分]"
+        },
+        {
+          "title": "是否谋求第三任期？特朗普：告诉你就太无聊了",
+          "url": "https://news.ifeng.com/c/8qUsyGpiCYu",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时14分 ~ 07时08分]"
         },
         {
           "title": "沃什未上任已被特朗普施压",
@@ -81,6 +81,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时32分 ~ 09时33分]"
+        },
+        {
+          "title": "中方回应特朗普公开支持高市早苗",
+          "url": "https://news.ifeng.com/c/8qWaGQvtmJo",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时10分"
         },
         {
           "title": "美国总统特朗普：我完全且坚定地支持欧尔班再次担任匈牙利总理。",
@@ -122,7 +133,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时19分"
         },
@@ -330,6 +341,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时56分 ~ 11时47分]"
+        },
+        {
+          "title": "外交部回应特朗普支持高市赢得大选",
+          "url": "https://www.toutiao.com/trending/7603649349884759562/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时10分"
         },
         {
           "title": "特朗普：大选结果对日本未来至关重要 将全力支持高市早苗",
@@ -547,7 +569,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时19分"
         },
@@ -574,6 +596,17 @@
           "time_info": "00时14分"
         },
         {
+          "title": "特朗普称支持高市早苗赢得日本大选，外交部：不作评论",
+          "url": "https://wallstreetcn.com/livenews/3051213",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时10分"
+        },
+        {
           "title": "唐宁街发言人：英国首相斯塔默与美国总统特朗普一致认为，达成一项协议以确保在迪戈加西亚岛建立英美联合基地至关重要，而该基地对双方共同的安全利益依然至关重要。",
           "url": "https://flash.jin10.com/detail/20260206022526998800",
           "source": "金十数据",
@@ -588,7 +621,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 38,
+      "match_count": 41,
       "titles": [
         {
           "title": "一图看懂｜调重兵前往中东，美军目前在伊朗周边军事集结如何？",
@@ -623,8 +656,22 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时18分 ~ 15时19分]"
+          "appearance_count": 3,
+          "time_info": "[15时18分 ~ 16时10分]"
+        },
+        {
+          "title": "美政府发布安全警告：敦促美国公民尽快离开伊朗",
+          "url": "https://www.cls.cn/detail/2282466",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时33分 ~ 16时10分]"
         },
         {
           "title": "美伊核谈判在即 伊朗外长称将坚定捍卫伊朗权利",
@@ -649,19 +696,6 @@
           "time_info": "14时16分"
         },
         {
-          "title": "美政府发布安全警告：敦促美国公民尽快离开伊朗",
-          "url": "https://www.cls.cn/detail/2282466",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时33分 ~ 15时19分]"
-        },
-        {
           "title": "伊朗军方：我们能够轻易进入美军基地",
           "url": "https://flash.jin10.com/detail/20260206104014218800",
           "source": "金十数据",
@@ -671,6 +705,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时56分"
+        },
+        {
+          "title": "中方阐明在伊朗问题上的原则立场",
+          "url": "https://news.ifeng.com/c/8qWWGUvFTRt",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时18分 ~ 16时10分]"
         },
         {
           "title": "报道：伊朗或以长期暂停核计划换取制裁解除",
@@ -690,7 +736,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时19分"
         },
@@ -767,17 +813,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时47分 ~ 13时24分]"
-        },
-        {
-          "title": "中方阐明在伊朗问题上的原则立场",
-          "url": "https://news.ifeng.com/c/8qWWGUvFTRt",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时18分 ~ 15时19分]"
         },
         {
           "title": "伊朗外长阿拉格齐抵达阿曼。",
@@ -857,7 +892,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时19分"
         },
@@ -868,7 +903,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时19分"
         },
@@ -884,15 +919,37 @@
           "time_info": "09时33分"
         },
         {
+          "title": "据《华尔街日报》援引一位美国官员的话报道，美国赴伊朗进行会谈的代表团成员包括美国中央司令部司令布拉德·库珀海军上将。",
+          "url": "https://flash.jin10.com/detail/20260206155302383800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时10分"
+        },
+        {
           "title": "伊朗外长和阿曼外长举行双边会晤",
           "url": "https://wallstreetcn.com/livenews/3051169",
           "source": "华尔街见闻-快讯",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时19分"
+        },
+        {
+          "title": "据半岛电视台：伊朗和美国的谈判团队分别由伊朗外长阿拉格奇和美国特使威特科夫率领。",
+          "url": "https://flash.jin10.com/detail/20260206155025421800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时10分"
         },
         {
           "title": "美伊谈判前夕 伊朗展示先进弹道导弹",
@@ -978,7 +1035,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时19分"
         },
@@ -1000,7 +1057,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时19分"
         },
@@ -1022,9 +1079,20 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时19分"
+        },
+        {
+          "title": "伊朗与中俄进行了磋商？外交部回应",
+          "url": "https://wallstreetcn.com/livenews/3051215",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时10分"
         }
       ]
     },
@@ -1124,11 +1192,12 @@
             8,
             10,
             17,
-            20
+            20,
+            30
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时47分 ~ 14时16分]"
+          "appearance_count": 6,
+          "time_info": "[11时47分 ~ 16时10分]"
         },
         {
           "title": "美股收盘：纳指连跌3日 周跌幅扩大至近4%",
@@ -1343,8 +1412,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时32分 ~ 15时19分]"
+          "appearance_count": 11,
+          "time_info": "[09时32分 ~ 16时10分]"
         },
         {
           "title": "AI恐慌蔓延，就业数据疲软，美股指跌超1%，白银暴跌19%，比特币崩跌，美债中概涨",
@@ -1388,7 +1457,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时19分"
         }
@@ -1446,8 +1515,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时32分 ~ 15时19分]"
+          "appearance_count": 11,
+          "time_info": "[09时32分 ~ 16时10分]"
         }
       ]
     },
