@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-11T15:22:40.810664+08:00",
-  "total_titles_processed": 1354,
+  "generated_at": "2026-02-11T16:12:51.672928+08:00",
+  "total_titles_processed": 1425,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 57,
+      "match_count": 59,
       "titles": [
         {
           "title": "特朗普被曝私下大发雷霆：5500亿美元还没落地，日本蓄意拖延？",
@@ -27,8 +27,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时33分 ~ 15时22分]"
+          "appearance_count": 9,
+          "time_info": "[09时33分 ~ 16时12分]"
         },
         {
           "title": "内塔尼亚胡1年内将第7次见特朗普，以官员回应",
@@ -50,8 +50,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时33分 ~ 15时22分]"
+          "appearance_count": 9,
+          "time_info": "[09时33分 ~ 16时12分]"
         },
         {
           "title": "以总理将见特朗普，伊朗外长：美国不要受以色列影响",
@@ -61,8 +61,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时33分 ~ 15时22分]"
+          "appearance_count": 9,
+          "time_info": "[09时33分 ~ 16时12分]"
         },
         {
           "title": "特朗普放话：若美伊谈判无果 或向中东增派航母打击群",
@@ -347,6 +347,17 @@
           "time_info": "[03时25分 ~ 05时15分]"
         },
         {
+          "title": "特朗普为何突然盯上加拿大这座大桥？加官员这么说",
+          "url": "https://news.ifeng.com/c/8qeou7377qN",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时22分 ~ 16时12分]"
+        },
+        {
           "title": "吉利德科学四季度营收79.3亿美元，分析师预期77.1亿美元。 四季度Biktarvy营收39.7亿美元，分析师预期38.4亿美元。 四季度Trodelvy营收3.84亿美元，分析师预期3.868亿美元。 四季度Veklury营收2.12亿美元，分析师预期2.714亿美元。 四季度调整后每股收益（EPS）为1.86美元，分析师预期1.78美元。 预计2026年产品销售296亿-300亿美元，分析师预期300.3亿美元。 预计2026年Veklury营收6亿美元。 2026年业绩展望受到（与美国总统特朗普达成的）关税协议和医疗保健Medicare政策变化的冲击幅度为2%。",
           "url": "https://wallstreetcn.com/livenews/3053241",
           "source": "华尔街见闻-快讯",
@@ -515,15 +526,15 @@
           "time_info": "[08时14分 ~ 08时15分]"
         },
         {
-          "title": "特朗普为何突然盯上加拿大这座大桥？加官员这么说",
-          "url": "https://news.ifeng.com/c/8qeou7377qN",
-          "source": "凤凰网",
+          "title": "卡塔尔埃米尔与特朗普通话，讨论地区局势发展。",
+          "url": "https://flash.jin10.com/detail/20260211154826994800",
+          "source": "金十数据",
           "ranks": [
             6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时22分"
+          "time_info": "16时12分"
         },
         {
           "title": "美众议院以微弱优势否决动议 特朗普关税决议可提全院表决",
@@ -601,6 +612,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时13分"
+        },
+        {
+          "title": "外交部回应特朗普涉中加合作言论：中加构建新型战略伙伴关系不针对任何第三方",
+          "url": "https://wallstreetcn.com/livenews/3053536",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时12分"
         },
         {
           "title": "爱泼斯坦前女友的律师称只要特朗普赦免马克斯韦尔，她就将全面、诚实地做证，公众将听到真相，如何看待此事？",
@@ -731,8 +753,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时33分 ~ 15时22分]"
+          "appearance_count": 9,
+          "time_info": "[09时33分 ~ 16时12分]"
         },
         {
           "title": "美股三大期指小幅走高 经济数据即将扎堆公布 | 今夜看点",
@@ -771,6 +793,18 @@
           "time_info": "[13时31分 ~ 15时22分]"
         },
         {
+          "title": "“AI之战”输不得！如果美股Mag 7今年就把现金流“烧成负数”，这对市场意味着什么？",
+          "url": "https://wallstreetcn.com/articles/3765455",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时31分 ~ 16时12分]"
+        },
+        {
           "title": "金十图示：2026年02月10日（周二）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260211050700949800",
           "source": "金十数据",
@@ -795,18 +829,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时15分 ~ 07时13分]"
-        },
-        {
-          "title": "“AI之战”输不得！如果美股Mag 7今年就把现金流“烧成负数”，这对市场意味着什么？",
-          "url": "https://wallstreetcn.com/articles/3765455",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时31分 ~ 15时22分]"
         },
         {
           "title": "美股收盘：三大股指涨跌不一 西部数据跌8%",
@@ -883,8 +905,19 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 10,
+      "match_count": 13,
       "titles": [
+        {
+          "title": "伊朗总统：我们无意制造核武器，并愿意接受任何形式的核查。",
+          "url": "https://flash.jin10.com/detail/20260211155719645800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时12分"
+        },
         {
           "title": "伊朗外长：相信可以达成优于伊核协议的新协议",
           "url": "https://flash.jin10.com/detail/20260211140731588800",
@@ -982,13 +1015,35 @@
           "time_info": "12时03分"
         },
         {
+          "title": "伊朗外长向巴基斯坦外长介绍伊美谈判进展",
+          "url": "https://flash.jin10.com/detail/20260211152743185800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时12分"
+        },
+        {
+          "title": "伊朗外长向巴基斯坦外长介绍伊美谈判进展",
+          "url": "https://wallstreetcn.com/livenews/3053534",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时12分"
+        },
+        {
           "title": "沙特驻伊朗大使：支持地区局势降温",
           "url": "https://wallstreetcn.com/livenews/3053490",
           "source": "华尔街见闻-快讯",
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时22分"
         },
@@ -999,7 +1054,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时22分"
         }
@@ -1027,11 +1082,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_32581000",
           "source": "澎湃新闻",
           "ranks": [
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时31分 ~ 15时22分]"
+          "appearance_count": 5,
+          "time_info": "[13时31分 ~ 16时12分]"
         },
         {
           "title": "零售数据疲软重燃降息预期 金价重回5050美元上方",
@@ -1052,7 +1108,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时22分"
         },
@@ -1113,7 +1169,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时22分"
         },
@@ -1262,7 +1318,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时22分"
         },
