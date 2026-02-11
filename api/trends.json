@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-11T09:34:03.273656+08:00",
-  "total_titles_processed": 873,
+  "generated_at": "2026-02-11T11:01:35.001010+08:00",
+  "total_titles_processed": 977,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 46,
+      "match_count": 52,
       "titles": [
         {
           "title": "特朗普被曝私下大发雷霆：5500亿美元还没落地，日本蓄意拖延？",
@@ -67,6 +67,29 @@
           "time_info": "05时15分"
         },
         {
+          "title": "特朗普拟推动美国燃煤电厂运营 为军事行动提供电力支持",
+          "url": "https://flash.jin10.com/detail/20260211104220026800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时01分"
+        },
+        {
+          "title": "美军“导弹已上膛”，特朗普再对伊朗发出威胁",
+          "url": "https://news.ifeng.com/c/8qeNbE9tmAI",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时33分 ~ 11时01分]"
+        },
+        {
           "title": "花旗：美国总统特朗普住房政策对房地产开发商的影响仍然不明朗。",
           "url": "https://wallstreetcn.com/livenews/3053143",
           "source": "华尔街见闻-快讯",
@@ -76,6 +99,30 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时22分"
+        },
+        {
+          "title": "报道：特朗普将指示五角大楼与燃煤发电厂签订合同，以期重振煤炭行业",
+          "url": "https://wallstreetcn.com/livenews/3053396",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时01分"
+        },
+        {
+          "title": "特朗普放话：若美伊谈判无果 或向中东增派航母打击群",
+          "url": "https://www.cls.cn/detail/2286509",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[08时14分 ~ 11时01分]"
         },
         {
           "title": "美国白宫：特朗普支持美国商务部长卢特尼克。",
@@ -152,18 +199,6 @@
           "time_info": "[03时25分 ~ 04时13分]"
         },
         {
-          "title": "特朗普放话：若美伊谈判无果 或向中东增派航母打击群",
-          "url": "https://www.cls.cn/detail/2286509",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时14分 ~ 09时34分]"
-        },
-        {
           "title": "美国白宫：（就美加大桥）加拿大将拥有两侧土地的事实是不可接受的。特朗普认为，美国应共享主权，至少拥有50%的主权。",
           "url": "https://flash.jin10.com/detail/20260211030322937800",
           "source": "金十数据",
@@ -235,6 +270,28 @@
           "time_info": "[08时14分 ~ 09时34分]"
         },
         {
+          "title": "特朗普又翻脸了，中国再躺枪",
+          "url": "https://news.ifeng.com/c/8qeOp6WY2Il",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时33分 ~ 11时01分]"
+        },
+        {
+          "title": "以总理将见特朗普，伊朗外长：美国不要受以色列影响",
+          "url": "https://news.ifeng.com/c/8qeNWWhXyTI",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时33分 ~ 11时01分]"
+        },
+        {
           "title": "美国总统特朗普：我认为2026年将会很棒。",
           "url": "https://flash.jin10.com/detail/20260211050353108800",
           "source": "金十数据",
@@ -274,28 +331,6 @@
           "time_info": "[03时25分 ~ 05时15分]"
         },
         {
-          "title": "特朗普又翻脸了，中国再躺枪",
-          "url": "https://news.ifeng.com/c/8qeOp6WY2Il",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时33分 ~ 09时34分]"
-        },
-        {
-          "title": "美军“导弹已上膛”，特朗普再对伊朗发出威胁",
-          "url": "https://news.ifeng.com/c/8qeNbE9tmAI",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时33分 ~ 09时34分]"
-        },
-        {
           "title": "吉利德科学四季度营收79.3亿美元，分析师预期77.1亿美元。 四季度Biktarvy营收39.7亿美元，分析师预期38.4亿美元。 四季度Trodelvy营收3.84亿美元，分析师预期3.868亿美元。 四季度Veklury营收2.12亿美元，分析师预期2.714亿美元。 四季度调整后每股收益（EPS）为1.86美元，分析师预期1.78美元。 预计2026年产品销售296亿-300亿美元，分析师预期300.3亿美元。 预计2026年Veklury营收6亿美元。 2026年业绩展望受到（与美国总统特朗普达成的）关税协议和医疗保健Medicare政策变化的冲击幅度为2%。",
           "url": "https://wallstreetcn.com/livenews/3053241",
           "source": "华尔街见闻-快讯",
@@ -306,17 +341,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时15分 ~ 06时13分]"
-        },
-        {
-          "title": "以总理将见特朗普，伊朗外长：美国不要受以色列影响",
-          "url": "https://news.ifeng.com/c/8qeNWWhXyTI",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时33分 ~ 09时34分]"
         },
         {
           "title": "美国总统特朗普：伊朗希望达成协议，不达成协议是愚蠢的。",
@@ -462,6 +486,28 @@
           "time_info": "07时13分"
         },
         {
+          "title": "特朗普对伊朗释放强硬信号 欧洲议会通过2040年减排90%目标 | 环球市场",
+          "url": "https://www.cls.cn/detail/2286531",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时01分"
+        },
+        {
+          "title": "市场消息：美国总统特朗普指示美国国防部购买煤炭，以振兴该行业。",
+          "url": "https://flash.jin10.com/detail/20260211101457510800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时01分"
+        },
+        {
           "title": "美国总统特朗普：政府裁员之后，就业数据依旧良好。",
           "url": "https://wallstreetcn.com/livenews/3053265",
           "source": "华尔街见闻-快讯",
@@ -482,6 +528,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时13分"
+        },
+        {
+          "title": "爱泼斯坦前女友的律师称只要特朗普赦免马克斯韦尔，她就将全面、诚实地做证，公众将听到真相，如何看待此事？",
+          "url": "https://www.zhihu.com/question/2004593637934272770",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时01分"
         },
         {
           "title": "特朗普的商务部长卢特尼克承认：与妻子共同会见过爱泼斯坦",
@@ -515,6 +572,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时25分"
+        },
+        {
+          "title": "爱泼斯坦文件中特朗普出现超百万次",
+          "url": "https://www.toutiao.com/trending/7605393743562149395/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时01分"
         },
         {
           "title": "当地时间10日，美国总统特朗普表示，“伊朗不会拥有核武器或者导弹”。",
@@ -599,19 +667,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时14分 ~ 09时34分]"
+          "appearance_count": 5,
+          "time_info": "[08时14分 ~ 11时01分]"
         },
         {
           "title": "美股遍寻“下一个AI受害者”，周一保险经纪崩了、周二财富管理崩了，嘉信理财盘中跌超9%",
           "url": "https://wallstreetcn.com/articles/3765438",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时33分 ~ 09时34分]"
+          "appearance_count": 3,
+          "time_info": "[09时33分 ~ 11时01分]"
         },
         {
           "title": "美泰（Mattel）美股盘后跌幅扩大至21%。",
@@ -787,6 +856,72 @@
       ]
     },
     {
+      "keyword_group": "伊朗",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "美媒：美国考虑扣押伊朗油轮 忧虑报复及油价而按兵不动",
+          "url": "https://flash.jin10.com/detail/20260211050732186800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            9,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时15分 ~ 07时13分]"
+        },
+        {
+          "title": "伊朗官员：若美伊核问题谈判成功，对话或将拓展至其他领域",
+          "url": "https://wallstreetcn.com/livenews/3053223",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时13分 ~ 05时15分]"
+        },
+        {
+          "title": "伊朗的地缘政治包袱与以色列的阴影：美伊谈判前景难言乐观",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32567450",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时33分 ~ 11时01分]"
+        },
+        {
+          "title": "伊朗官员：若美伊核问题谈判成功 对话或将拓展至其他领域",
+          "url": "https://flash.jin10.com/detail/20260211031807784800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时13分 ~ 05时15分]"
+        },
+        {
+          "title": "以总理访美，就伊朗弹道导弹问题与美沟通",
+          "url": "https://wallstreetcn.com/livenews/3053387",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时01分"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 4,
       "titles": [
@@ -886,60 +1021,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时22分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "伊朗",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "美媒：美国考虑扣押伊朗油轮 忧虑报复及油价而按兵不动",
-          "url": "https://flash.jin10.com/detail/20260211050732186800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            9,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时15分 ~ 07时13分]"
-        },
-        {
-          "title": "伊朗官员：若美伊核问题谈判成功，对话或将拓展至其他领域",
-          "url": "https://wallstreetcn.com/livenews/3053223",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时13分 ~ 05时15分]"
-        },
-        {
-          "title": "伊朗官员：若美伊核问题谈判成功 对话或将拓展至其他领域",
-          "url": "https://flash.jin10.com/detail/20260211031807784800",
-          "source": "金十数据",
-          "ranks": [
-            10,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时13分 ~ 05时15分]"
-        },
-        {
-          "title": "伊朗的地缘政治包袱与以色列的阴影：美伊谈判前景难言乐观",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32567450",
-          "source": "澎湃新闻",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时33分 ~ 09时34分]"
         }
       ]
     },
