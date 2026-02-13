@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-13T20:07:01.391572+08:00",
-  "total_titles_processed": 1903,
+  "generated_at": "2026-02-13T21:26:42.707112+08:00",
+  "total_titles_processed": 2002,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 63,
+      "match_count": 67,
       "titles": [
         {
           "title": "美国总统特朗普预计将于4月初访问中国？外交部：双方就此保持着沟通",
@@ -39,8 +39,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[08时11分 ~ 20时07分]"
+          "appearance_count": 17,
+          "time_info": "[08时11分 ~ 21时26分]"
         },
         {
           "title": "特朗普威胁伊朗：不达成协议，就进入第二阶段",
@@ -112,6 +112,20 @@
           "time_info": "[09时33分 ~ 16时12分]"
         },
         {
+          "title": "煤炭业的狂欢 环保者的悲哀！特朗普宣布撤销“温室气体危害认定”",
+          "url": "https://www.cls.cn/detail/2289315",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[13时28分 ~ 21时26分]"
+        },
+        {
           "title": "特朗普称期待4月访华",
           "url": "https://www.douyin.com/hot/2398935",
           "source": "抖音",
@@ -126,18 +140,16 @@
           "time_info": "[11时01分 ~ 18时13分]"
         },
         {
-          "title": "煤炭业的狂欢 环保者的悲哀！特朗普宣布撤销“温室气体危害认定”",
-          "url": "https://www.cls.cn/detail/2289315",
-          "source": "财联社热门",
+          "title": "特朗普被曝下月初召开拉美峰会“遏制中国”",
+          "url": "https://news.ifeng.com/c/8qiBqEpZEqH",
+          "source": "凤凰网",
           "ranks": [
-            13,
-            12,
-            9,
-            10
+            4,
+            7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[13时28分 ~ 20时07分]"
+          "appearance_count": 6,
+          "time_info": "[17时14分 ~ 21时26分]"
         },
         {
           "title": "中方回应“特朗普将于4月初访华”",
@@ -157,16 +169,15 @@
           "time_info": "[00时18分 ~ 06时07分]"
         },
         {
-          "title": "特朗普被曝下月初召开拉美峰会“遏制中国”",
-          "url": "https://news.ifeng.com/c/8qiBqEpZEqH",
-          "source": "凤凰网",
+          "title": "德国总理默茨：特朗普式文化战争不适合德国。",
+          "url": "https://flash.jin10.com/detail/20260213211741909800",
+          "source": "金十数据",
           "ranks": [
-            4,
-            7
+            1
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时14分 ~ 20时07分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时26分"
         },
         {
           "title": "中方回应特朗普或将4月访华",
@@ -606,6 +617,17 @@
           "time_info": "19时12分"
         },
         {
+          "title": "美国财长贝森特：关于加密货币法案的一些明确说明将为市场带来信心。 尽快推动该法案通过非常重要，预计今年春季提交给特朗普。",
+          "url": "https://wallstreetcn.com/livenews/3055202",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时26分"
+        },
+        {
           "title": "美国司法部反垄断事务主管Abigail Slater离职，此前总统特朗普的白宫要求其辞职、否则将把她免职。",
           "url": "https://wallstreetcn.com/livenews/3054656",
           "source": "华尔街见闻-快讯",
@@ -650,6 +672,17 @@
           "time_info": "08时11分"
         },
         {
+          "title": "美国财长贝森特：（谈就业问题）这是特朗普重归私有化经济计划的一部分。 （谈美国赤字）我更相信市场，而不是国会预算办公室（CBO）的预测。 债券市场如此平静，是因为我们正在整顿财政。 2025年GDP增长率很有可能达到3%。 通胀可能在2026年年中回到2%左右。",
+          "url": "https://wallstreetcn.com/livenews/3055197",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时26分"
+        },
+        {
           "title": "美国总统特朗普：我邀请了（并非出于本意）几乎所有民主党州长出席白宫州长晚宴。",
           "url": "https://flash.jin10.com/detail/20260212235204277800",
           "source": "金十数据",
@@ -681,6 +714,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时33分"
+        },
+        {
+          "title": "美国财长贝森特（谈金属关税）：这是特朗普的决定。 今天早上与美国贸易代表进行了沟通，将看看是否会有范围收窄。 如果有任何措施，将只是对附带物品的澄清。",
+          "url": "https://wallstreetcn.com/livenews/3055194",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时26分"
         },
         {
           "title": "内塔尼亚胡称特朗普可能与伊朗达成良好协议",
@@ -774,7 +818,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 35,
+      "match_count": 38,
       "titles": [
         {
           "title": "【早报】深夜跳水！美股、黄金、白银、原油集体大跌；央行今日出手，万亿逆回购来了",
@@ -797,8 +841,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时33分 ~ 20时07分]"
+          "appearance_count": 16,
+          "time_info": "[09时33分 ~ 21时26分]"
         },
         {
           "title": "美股收盘：AI颠覆性担忧发酵 三大指数均跌超1%",
@@ -823,8 +867,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时38分 ~ 20时07分]"
+          "appearance_count": 13,
+          "time_info": "[12时38分 ~ 21时26分]"
         },
         {
           "title": "AI恐慌扩散，科技股再度拖垮美股，地产股连日重挫，苹果市值一日蒸发2000亿",
@@ -836,8 +880,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[11时01分 ~ 20时07分]"
+          "appearance_count": 15,
+          "time_info": "[11时01分 ~ 21时26分]"
         },
         {
           "title": "美股AI叙事进入下半场：从普涨狂欢到“暗礁”密布",
@@ -851,6 +895,19 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[09时33分 ~ 15时21分]"
+        },
+        {
+          "title": "引爆美股“黑色星期四”的导火索，是这家市值600万美元的“小公司”",
+          "url": "https://wallstreetcn.com/articles/3765636",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[15时20分 ~ 21时26分]"
         },
         {
           "title": "存储概念股盘前延续涨势 美股三大期指小幅走高 | 今夜看点",
@@ -869,18 +926,6 @@
           "time_info": "[00时18分 ~ 11时56分]"
         },
         {
-          "title": "引爆美股“黑色星期四”的导火索，是这家市值600万美元的“小公司”",
-          "url": "https://wallstreetcn.com/articles/3765636",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时20分 ~ 20时07分]"
-        },
-        {
           "title": "国际金银、美股、石油、 BTC 等均现下跌，银价一度跌超 11%，发生了什么，春节期间应如何防范大波动行情？",
           "url": "https://www.zhihu.com/question/2005568531748648323",
           "source": "知乎",
@@ -888,8 +933,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时20分 ~ 20时07分]"
+          "appearance_count": 10,
+          "time_info": "[15时20分 ~ 21时26分]"
         },
         {
           "title": "CPI前夕美股高开低走，盘中标普纳指跌超1%、思科跌超10%，白银跳水超7%",
@@ -901,6 +946,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时21分 ~ 03时23分]"
+        },
+        {
+          "title": "阿里巴巴美股盘前跌幅扩大至5%。",
+          "url": "https://wallstreetcn.com/livenews/3055214",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时26分"
         },
         {
           "title": "美股油气股开年大涨超20% 分析师看好2026年全年行情",
@@ -1058,6 +1114,17 @@
           "time_info": "[08时11分 ~ 09时33分]"
         },
         {
+          "title": "阿里巴巴(BABA.N)美股盘前跌幅扩大至近5%。",
+          "url": "https://flash.jin10.com/detail/20260213211453069800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时26分"
+        },
+        {
           "title": "金十图示：2026年02月12日（周四）美股热门股票行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260213013248023800",
           "source": "金十数据",
@@ -1089,6 +1156,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时16分"
+        },
+        {
+          "title": "Moderna第四季度营收6.78亿美元，同比下降30%，市场预期6.251亿美元。 第四季度每股亏损2.11美元，去年同期每股亏损2.91美元。 预计全年营收同比增长最高可达10%。 预计全年资本支出为2亿至3亿美元，市场预期为2.653亿美元。 Moderna美股盘前跌幅收窄至0.5%。",
+          "url": "https://wallstreetcn.com/livenews/3055196",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时26分"
         },
         {
           "title": "美股饱受AI焦虑摧残 亚洲芯片制造龙头企业受全球资金追捧",
@@ -1217,7 +1295,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时07分"
         },
@@ -1490,7 +1568,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "Deepseek被指变冷淡了",
@@ -1511,6 +1589,21 @@
           "time_info": "[00时18分 ~ 11时01分]"
         },
         {
+          "title": "DeepSeek 更新后被吐槽变冷变傻，你感受到了吗？为什么会出现这种情况？",
+          "url": "https://www.zhihu.com/question/2005557043939993512",
+          "source": "知乎",
+          "ranks": [
+            12,
+            13,
+            9,
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[15时20分 ~ 21时26分]"
+        },
+        {
           "title": "DeepSeek低调升级新模型",
           "url": "https://search.bilibili.com/all?keyword=DeepSeek%E4%BD%8E%E8%B0%83%E5%8D%87%E7%BA%A7%E6%96%B0%E6%A8%A1%E5%9E%8B",
           "source": "bilibili 热搜",
@@ -1523,11 +1616,12 @@
             18,
             17,
             19,
-            23
+            23,
+            26
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时18分 ~ 20时07分]"
+          "appearance_count": 26,
+          "time_info": "[00时18分 ~ 21时26分]"
         },
         {
           "title": "UP主实测DeepSeek新模型",
@@ -1552,20 +1646,6 @@
           "is_new": false,
           "appearance_count": 23,
           "time_info": "[00时18分 ~ 19时12分]"
-        },
-        {
-          "title": "DeepSeek 更新后被吐槽变冷变傻，你感受到了吗？为什么会出现这种情况？",
-          "url": "https://www.zhihu.com/question/2005557043939993512",
-          "source": "知乎",
-          "ranks": [
-            12,
-            13,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时20分 ~ 20时07分]"
         },
         {
           "title": "DeepSeek变冷淡了",
@@ -1606,6 +1686,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[15时20分 ~ 16时12分]"
+        },
+        {
+          "title": "DeepSeek：正测试新的长文本模型结构，支持1M上下文",
+          "url": "https://wallstreetcn.com/livenews/3055185",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时26分"
         }
       ]
     },
@@ -1707,8 +1798,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[08时11分 ~ 20时07分]"
+          "appearance_count": 17,
+          "time_info": "[08时11分 ~ 21时26分]"
         },
         {
           "title": "强劲非农打击降息预期，AI担忧拖累美股指，美债承压，金银涨，原油冲高回落",
