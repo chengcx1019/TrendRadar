@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-13T21:26:42.707112+08:00",
-  "total_titles_processed": 2002,
+  "generated_at": "2026-02-13T22:16:25.286518+08:00",
+  "total_titles_processed": 2106,
   "failed_sources": [],
   "trends": [
     {
@@ -94,8 +94,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时18分 ~ 19时12分]"
+          "appearance_count": 20,
+          "time_info": "[00时18分 ~ 22时16分]"
         },
         {
           "title": "特朗普称必须与伊朗达成协议 Anthropic完成300亿美元融资 | 环球市场",
@@ -148,8 +148,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时14分 ~ 21时26分]"
+          "appearance_count": 7,
+          "time_info": "[17时14分 ~ 22时16分]"
         },
         {
           "title": "中方回应“特朗普将于4月初访华”",
@@ -175,7 +175,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时26分"
         },
@@ -464,6 +464,18 @@
           "time_info": "[03时23分 ~ 04时08分]"
         },
         {
+          "title": "美国财长贝森特：关于加密货币法案的一些明确说明将为市场带来信心。 尽快推动该法案通过非常重要，预计今年春季提交给特朗普。",
+          "url": "https://wallstreetcn.com/livenews/3055202",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时26分 ~ 22时16分]"
+        },
+        {
           "title": "美国总统特朗普：如果无法与伊朗达成协议，将进入第二阶段谈判。第二阶段对伊朗来说将非常艰难。",
           "url": "https://flash.jin10.com/detail/20260213030657589800",
           "source": "金十数据",
@@ -524,6 +536,18 @@
           "time_info": "[03时23分 ~ 04时08分]"
         },
         {
+          "title": "美国财长贝森特：（谈就业问题）这是特朗普重归私有化经济计划的一部分。 （谈美国赤字）我更相信市场，而不是国会预算办公室（CBO）的预测。 债券市场如此平静，是因为我们正在整顿财政。 2025年GDP增长率很有可能达到3%。 通胀可能在2026年年中回到2%左右。",
+          "url": "https://wallstreetcn.com/livenews/3055197",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时26分 ~ 22时16分]"
+        },
+        {
           "title": "美国总统特朗普：只要我想谈，我就和他们谈。",
           "url": "https://flash.jin10.com/detail/20260213030534579800",
           "source": "金十数据",
@@ -558,6 +582,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时23分 ~ 04时08分]"
+        },
+        {
+          "title": "美国财长贝森特（谈金属关税）：这是特朗普的决定。 今天早上与美国贸易代表进行了沟通，将看看是否会有范围收窄。 如果有任何措施，将只是对附带物品的澄清。",
+          "url": "https://wallstreetcn.com/livenews/3055194",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时26分 ~ 22时16分]"
         },
         {
           "title": "美国总统特朗普：我们基本上已经叫停了美国所有的风力发电机项目。",
@@ -617,17 +653,6 @@
           "time_info": "19时12分"
         },
         {
-          "title": "美国财长贝森特：关于加密货币法案的一些明确说明将为市场带来信心。 尽快推动该法案通过非常重要，预计今年春季提交给特朗普。",
-          "url": "https://wallstreetcn.com/livenews/3055202",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时26分"
-        },
-        {
           "title": "美国司法部反垄断事务主管Abigail Slater离职，此前总统特朗普的白宫要求其辞职、否则将把她免职。",
           "url": "https://wallstreetcn.com/livenews/3054656",
           "source": "华尔街见闻-快讯",
@@ -672,17 +697,6 @@
           "time_info": "08时11分"
         },
         {
-          "title": "美国财长贝森特：（谈就业问题）这是特朗普重归私有化经济计划的一部分。 （谈美国赤字）我更相信市场，而不是国会预算办公室（CBO）的预测。 债券市场如此平静，是因为我们正在整顿财政。 2025年GDP增长率很有可能达到3%。 通胀可能在2026年年中回到2%左右。",
-          "url": "https://wallstreetcn.com/livenews/3055197",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时26分"
-        },
-        {
           "title": "美国总统特朗普：我邀请了（并非出于本意）几乎所有民主党州长出席白宫州长晚宴。",
           "url": "https://flash.jin10.com/detail/20260212235204277800",
           "source": "金十数据",
@@ -714,17 +728,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时33分"
-        },
-        {
-          "title": "美国财长贝森特（谈金属关税）：这是特朗普的决定。 今天早上与美国贸易代表进行了沟通，将看看是否会有范围收窄。 如果有任何措施，将只是对附带物品的澄清。",
-          "url": "https://wallstreetcn.com/livenews/3055194",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时26分"
         },
         {
           "title": "内塔尼亚胡称特朗普可能与伊朗达成良好协议",
@@ -818,7 +821,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 38,
+      "match_count": 42,
       "titles": [
         {
           "title": "【早报】深夜跳水！美股、黄金、白银、原油集体大跌；央行今日出手，万亿逆回购来了",
@@ -841,8 +844,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[09时33分 ~ 21时26分]"
+          "appearance_count": 17,
+          "time_info": "[09时33分 ~ 22时16分]"
         },
         {
           "title": "美股收盘：AI颠覆性担忧发酵 三大指数均跌超1%",
@@ -867,8 +870,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[12时38分 ~ 21时26分]"
+          "appearance_count": 14,
+          "time_info": "[12时38分 ~ 22时16分]"
         },
         {
           "title": "AI恐慌扩散，科技股再度拖垮美股，地产股连日重挫，苹果市值一日蒸发2000亿",
@@ -880,8 +883,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[11时01分 ~ 21时26分]"
+          "appearance_count": 16,
+          "time_info": "[11时01分 ~ 22时16分]"
         },
         {
           "title": "美股AI叙事进入下半场：从普涨狂欢到“暗礁”密布",
@@ -906,8 +909,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[15时20分 ~ 21时26分]"
+          "appearance_count": 11,
+          "time_info": "[15时20分 ~ 22时16分]"
         },
         {
           "title": "存储概念股盘前延续涨势 美股三大期指小幅走高 | 今夜看点",
@@ -933,8 +936,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[15时20分 ~ 21时26分]"
+          "appearance_count": 11,
+          "time_info": "[15时20分 ~ 22时16分]"
         },
         {
           "title": "CPI前夕美股高开低走，盘中标普纳指跌超1%、思科跌超10%，白银跳水超7%",
@@ -948,15 +951,15 @@
           "time_info": "[01时21分 ~ 03时23分]"
         },
         {
-          "title": "阿里巴巴美股盘前跌幅扩大至5%。",
-          "url": "https://wallstreetcn.com/livenews/3055214",
+          "title": "周五美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3055230",
           "source": "华尔街见闻-快讯",
           "ranks": [
             1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时26分"
+          "time_info": "22时16分"
         },
         {
           "title": "美股油气股开年大涨超20% 分析师看好2026年全年行情",
@@ -968,6 +971,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时12分"
+        },
+        {
+          "title": "阿里巴巴美股盘前跌幅扩大至5%。",
+          "url": "https://wallstreetcn.com/livenews/3055214",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时26分 ~ 22时16分]"
         },
         {
           "title": "美股存储芯片指数收涨不到1.4%",
@@ -1090,6 +1105,18 @@
           "time_info": "[06时07分 ~ 07时06分]"
         },
         {
+          "title": "Moderna第四季度营收6.78亿美元，同比下降30%，市场预期6.251亿美元。 第四季度每股亏损2.11美元，去年同期每股亏损2.91美元。 预计全年营收同比增长最高可达10%。 预计全年资本支出为2亿至3亿美元，市场预期为2.653亿美元。 Moderna美股盘前跌幅收窄至0.5%。",
+          "url": "https://wallstreetcn.com/livenews/3055196",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时26分 ~ 22时16分]"
+        },
+        {
           "title": "纳斯达克金龙中国指数收跌3.00%，报7599.35点，美股盘初持续走低，北京时间00:00过后持续低位窄幅震荡。 成分股。 热门中概股里，腾讯音乐初步收跌10%，携程跌6%，贝壳跌5.8%，B站、百度、阿特斯、百胜中国跌超4%，阿里跌3.4%，亚朵涨1.2%，世纪互联涨3.7%。 ETF中，中概互联网指数ETF（KWEB）收跌3.84%，中国科技指数ETF（CQQQ）收跌2.48%。 德银嘉实沪深300指数ETF（ASHR）收跌0.56%，XtrackersHarvest中证50（ASHS）收涨0.16%。",
           "url": "https://wallstreetcn.com/livenews/3054725",
           "source": "华尔街见闻-快讯",
@@ -1120,9 +1147,42 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时26分"
+        },
+        {
+          "title": "美CPI数据即将公布 美股期指盘前集体走低 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2289929",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时16分"
+        },
+        {
+          "title": "美国CPI数据公布后，美股期货短线拉升",
+          "url": "https://wallstreetcn.com/livenews/3055223",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时16分"
+        },
+        {
+          "title": "美股脆弱之际，今晚CPI恐现“鹰派意外”",
+          "url": "https://wallstreetcn.com/articles/3765660",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时16分"
         },
         {
           "title": "金十图示：2026年02月12日（周四）美股热门股票行情一览（美股盘中）",
@@ -1156,17 +1216,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时16分"
-        },
-        {
-          "title": "Moderna第四季度营收6.78亿美元，同比下降30%，市场预期6.251亿美元。 第四季度每股亏损2.11美元，去年同期每股亏损2.91美元。 预计全年营收同比增长最高可达10%。 预计全年资本支出为2亿至3亿美元，市场预期为2.653亿美元。 Moderna美股盘前跌幅收窄至0.5%。",
-          "url": "https://wallstreetcn.com/livenews/3055196",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时26分"
         },
         {
           "title": "美股饱受AI焦虑摧残 亚洲芯片制造龙头企业受全球资金追捧",
@@ -1271,7 +1320,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 13,
+      "match_count": 15,
       "titles": [
         {
           "title": "特写｜断网与战争阴霾之下：在伊朗，普通人的生活如何继续",
@@ -1379,6 +1428,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时13分"
+        },
+        {
+          "title": "伊朗外长：内塔尼亚胡是战争贩子",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32596568",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时16分"
+        },
+        {
+          "title": "伊朗总统：伊朗不寻求核武器",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32596571",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时16分"
         },
         {
           "title": "据AXIOS网站：以色列总理内塔尼亚胡称，对与伊朗达成协议仍持怀疑态度。",
@@ -1567,8 +1638,137 @@
       ]
     },
     {
+      "keyword_group": "美债",
+      "match_count": 11,
+      "titles": [
+        {
+          "title": "CPI前AI恐慌升级，纳指跌超2%，美债走强，人民币三年新高，黄金失守5000美元，白银跳水11%",
+          "url": "https://wallstreetcn.com/articles/3765553",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 18,
+          "time_info": "[08时11分 ~ 22时16分]"
+        },
+        {
+          "title": "强劲非农打击降息预期，AI担忧拖累美股指，美债承压，金银涨，原油冲高回落",
+          "url": "https://wallstreetcn.com/articles/3765486",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时18分 ~ 07时06分]"
+        },
+        {
+          "title": "CPI前AI恐慌升级，纳指跌超2%，美债走强，贵金属遭流动性挤压，黄金失守5000美元，白银跳水11%",
+          "url": "https://wallstreetcn.com/articles/3765553",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时06分"
+        },
+        {
+          "title": "机构：1月CPI基本符合预期 10y美债收益率创今年新低",
+          "url": "https://flash.jin10.com/detail/20260213214717860800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时16分"
+        },
+        {
+          "title": "美国CPI前夕，美股指集体高开，煤炭概念股走高，思科跌超7%，美债企稳",
+          "url": "https://wallstreetcn.com/articles/3765553",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时18分"
+        },
+        {
+          "title": "30年期美债收益率跌8个基点",
+          "url": "https://wallstreetcn.com/livenews/3054714",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时08分 ~ 06时07分]"
+        },
+        {
+          "title": "2年/10年美债收益率曲线在CPI数据公布后陡升至65.5个基点，高于周四的64个基点。",
+          "url": "https://flash.jin10.com/detail/20260213213454123800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时16分"
+        },
+        {
+          "title": "两年期美债收益率跌破3.40%，创去年10月以来新低。",
+          "url": "https://flash.jin10.com/detail/20260213213417637800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时16分"
+        },
+        {
+          "title": "两年期美债收益率进一步下跌，最新下跌5个基点至3.418%。",
+          "url": "https://flash.jin10.com/detail/20260213213259727800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时16分"
+        },
+        {
+          "title": "AI寒流来袭：全球风险资产撤退 美债成避风港",
+          "url": "https://flash.jin10.com/detail/20260213065702198800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时11分"
+        },
+        {
+          "title": "摩根大通看空两年期美债 因对美联储利率前景持谨慎态度",
+          "url": "https://flash.jin10.com/detail/20260213110240949800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时56分"
+        }
+      ]
+    },
+    {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "Deepseek被指变冷淡了",
@@ -1600,8 +1800,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[15时20分 ~ 21时26分]"
+          "appearance_count": 11,
+          "time_info": "[15时20分 ~ 22时16分]"
         },
         {
           "title": "DeepSeek低调升级新模型",
@@ -1688,13 +1888,24 @@
           "time_info": "[15时20分 ~ 16时12分]"
         },
         {
+          "title": "DeepSeek也不想假装关心",
+          "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E4%B9%9F%E4%B8%8D%E6%83%B3%E5%81%87%E8%A3%85%E5%85%B3%E5%BF%83%23&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时16分"
+        },
+        {
           "title": "DeepSeek：正测试新的长文本模型结构，支持1M上下文",
           "url": "https://wallstreetcn.com/livenews/3055185",
           "source": "华尔街见闻-快讯",
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时26分"
         }
@@ -1787,91 +1998,6 @@
       ]
     },
     {
-      "keyword_group": "美债",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "CPI前AI恐慌升级，纳指跌超2%，美债走强，人民币三年新高，黄金失守5000美元，白银跳水11%",
-          "url": "https://wallstreetcn.com/articles/3765553",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[08时11分 ~ 21时26分]"
-        },
-        {
-          "title": "强劲非农打击降息预期，AI担忧拖累美股指，美债承压，金银涨，原油冲高回落",
-          "url": "https://wallstreetcn.com/articles/3765486",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时18分 ~ 07时06分]"
-        },
-        {
-          "title": "CPI前AI恐慌升级，纳指跌超2%，美债走强，贵金属遭流动性挤压，黄金失守5000美元，白银跳水11%",
-          "url": "https://wallstreetcn.com/articles/3765553",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时06分"
-        },
-        {
-          "title": "美国CPI前夕，美股指集体高开，煤炭概念股走高，思科跌超7%，美债企稳",
-          "url": "https://wallstreetcn.com/articles/3765553",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时18分"
-        },
-        {
-          "title": "30年期美债收益率跌8个基点",
-          "url": "https://wallstreetcn.com/livenews/3054714",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时08分 ~ 06时07分]"
-        },
-        {
-          "title": "AI寒流来袭：全球风险资产撤退 美债成避风港",
-          "url": "https://flash.jin10.com/detail/20260213065702198800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时11分"
-        },
-        {
-          "title": "摩根大通看空两年期美债 因对美联储利率前景持谨慎态度",
-          "url": "https://flash.jin10.com/detail/20260213110240949800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时56分"
-        }
-      ]
-    },
-    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 5,
       "titles": [
@@ -1935,8 +2061,19 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "现货黄金涨势稍后回落，最新报4987美元/盎司；美元指数DXY有所反弹，最新报96.93。",
+          "url": "https://flash.jin10.com/detail/20260213214236124800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时16分"
+        },
         {
           "title": "美元指数12日上涨",
           "url": "https://flash.jin10.com/detail/20260213044202633800",
