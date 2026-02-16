@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-16T09:33:11.270626+08:00",
-  "total_titles_processed": 637,
+  "generated_at": "2026-02-16T11:00:20.462749+08:00",
+  "total_titles_processed": 742,
   "failed_sources": [],
   "trends": [
     {
@@ -18,6 +18,18 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时04分 ~ 08时10分]"
+        },
+        {
+          "title": "伊朗外长启程赴会，以总理预设四项条件",
+          "url": "https://news.ifeng.com/c/8qmf04pVvw5",
+          "source": "凤凰网",
+          "ranks": [
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时32分 ~ 11时00分]"
         },
         {
           "title": "伊朗副外长谈新一轮伊美谈判：“球在美国那边”",
@@ -55,26 +67,16 @@
           "time_info": "[00时04分 ~ 06时03分]"
         },
         {
-          "title": "伊朗外长启程赴会，以总理预设四项条件",
-          "url": "https://news.ifeng.com/c/8qmf04pVvw5",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时32分 ~ 09时33分]"
-        },
-        {
           "title": "抵近伊朗，卫星捕获美航母在阿曼附近活动",
           "url": "https://news.ifeng.com/c/8qmgE0Gd2cL",
           "source": "凤凰网",
           "ranks": [
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时32分 ~ 09时33分]"
+          "appearance_count": 4,
+          "time_info": "[09时32分 ~ 11时00分]"
         },
         {
           "title": "伊朗官员：已准备好与美谈判方案 但对结果不乐观",
@@ -153,11 +155,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             15,
-            16
+            16,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时10分 ~ 09时33分]"
+          "appearance_count": 3,
+          "time_info": "[08时10分 ~ 11时00分]"
         },
         {
           "title": "美官员称美军情报部门讨论支持以色列空袭伊朗",
@@ -165,11 +168,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             16,
-            17
+            17,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时10分 ~ 09时33分]"
+          "appearance_count": 3,
+          "time_info": "[08时10分 ~ 11时00分]"
         },
         {
           "title": "伊朗外长启程参加第二轮伊美谈判",
@@ -177,11 +181,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             18,
-            19
+            19,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时10分 ~ 09时33分]"
+          "appearance_count": 3,
+          "time_info": "[08时10分 ~ 11时00分]"
         }
       ]
     },
@@ -211,8 +216,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时04分 ~ 09时33分]"
+          "appearance_count": 15,
+          "time_info": "[00时04分 ~ 11时00分]"
         },
         {
           "title": "被特朗普恶搞成猿猴，奥巴马首次回应：廉耻心荡然无存",
@@ -224,8 +229,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时04分 ~ 09时33分]"
+          "appearance_count": 15,
+          "time_info": "[00时04分 ~ 11时00分]"
         },
         {
           "title": "奥巴马回应被特朗普恶搞成猿猴",
@@ -306,6 +311,17 @@
           "time_info": "[05时05分 ~ 07时05分]"
         },
         {
+          "title": "特朗普或支持以色列打击伊朗",
+          "url": "https://news.ifeng.com/c/8qmhQv7Byxy",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时32分 ~ 11时00分]"
+        },
+        {
           "title": "消息人士：特朗普曾支持以打击伊朗弹道导弹 美军已就协助方案进行讨论",
           "url": "https://flash.jin10.com/detail/20260216044347034800",
           "source": "金十数据",
@@ -332,17 +348,6 @@
           "time_info": "[05时05分 ~ 07时05分]"
         },
         {
-          "title": "特朗普或支持以色列打击伊朗",
-          "url": "https://news.ifeng.com/c/8qmhQv7Byxy",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时32分 ~ 09时33分]"
-        },
-        {
           "title": "市场消息：特朗普政府取消了环保局为配备启停技术的车辆提供的排放积分，终止了一项旨在奖励汽车制造商安装等红灯时关闭发动机的节油系统的计划。",
           "url": "https://flash.jin10.com/detail/20260216074424389800",
           "source": "金十数据",
@@ -360,7 +365,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时33分"
         }
@@ -368,7 +373,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "OpenAI高管：工程师变成“魔法师”，AI将开启新一轮创业狂潮",
@@ -379,8 +384,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时04分 ~ 09时33分]"
+          "appearance_count": 15,
+          "time_info": "[00时04分 ~ 11时00分]"
         },
         {
           "title": "OpenAI联合创始人Grek Brockman：Codex在处理繁琐事务方面做得非常出色，比如解决合并冲突、让持续集成（CI）顺利通过、在不同编程语言之间重写代码，这提高了我对构建项目的雄心壮志。",
@@ -419,6 +424,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时05分 ~ 07时05分]"
+        },
+        {
+          "title": "OpenClaw之父加入OpenAI",
+          "url": "https://search.bilibili.com/all?keyword=OpenClaw%E4%B9%8B%E7%88%B6%E5%8A%A0%E5%85%A5OpenAI",
+          "source": "bilibili 热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时59分 ~ 11时00分]"
         }
       ]
     },
@@ -436,8 +452,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时04分 ~ 09时33分]"
+          "appearance_count": 15,
+          "time_info": "[00时04分 ~ 11时00分]"
         },
         {
           "title": "消息称 Anthropic 员工效率远超谷歌，入职需「杀死自我」，这种企业文化有效吗？",
@@ -469,8 +485,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时04分 ~ 09时33分]"
+          "appearance_count": 15,
+          "time_info": "[00时04分 ~ 11时00分]"
         }
       ]
     },
