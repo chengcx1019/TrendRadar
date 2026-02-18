@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-02-18T08:11:50.040096+08:00",
-  "total_titles_processed": 790,
+  "generated_at": "2026-02-18T09:33:22.675504+08:00",
+  "total_titles_processed": 885,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 31,
+      "match_count": 32,
       "titles": [
         {
           "title": "哈梅内伊回应特朗普威胁",
           "url": "https://news.ifeng.com/c/8qpTdmSckn9",
           "source": "凤凰网",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时37分 ~ 08时11分]"
+          "appearance_count": 10,
+          "time_info": "[01时37分 ~ 09时33分]"
         },
         {
           "title": "美部长与下属传出婚外情，特朗普回应",
@@ -40,8 +41,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时28分 ~ 08时11分]"
+          "appearance_count": 7,
+          "time_info": "[03时28分 ~ 09时33分]"
         },
         {
           "title": "特朗普涉台最新表态，台当局和日本都慌了",
@@ -78,6 +79,19 @@
           "time_info": "[04时09分 ~ 08时11分]"
         },
         {
+          "title": "美国食品药品管理局（FDA）主管Makary宣称：特朗普政府是“非常支持疫苗的”。",
+          "url": "https://wallstreetcn.com/livenews/3056166",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            14,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时07分 ~ 09时33分]"
+        },
+        {
           "title": "美国纽约市市长：美国总统特朗普政府再次解冻了7700万美元的纽约隧道资金。",
           "url": "https://flash.jin10.com/detail/20260218012450530800",
           "source": "金十数据",
@@ -88,18 +102,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时37分 ~ 02时17分]"
-        },
-        {
-          "title": "美国食品药品管理局（FDA）主管Makary宣称：特朗普政府是“非常支持疫苗的”。",
-          "url": "https://wallstreetcn.com/livenews/3056166",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时07分 ~ 08时11分]"
         },
         {
           "title": "英媒：特朗普政府升级对美消费者金融保护局打击力度",
@@ -125,6 +127,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时17分 ~ 04时09分]"
+        },
+        {
+          "title": "美国总统特朗普的内阁与顾问开会，讨论中期选举策略。（Politico）",
+          "url": "https://wallstreetcn.com/livenews/3056161",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            19,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时07分 ~ 09时33分]"
         },
         {
           "title": "据英国《金融时报》：美国总统特朗普加剧对美国消费者保护机构的攻击。",
@@ -163,16 +178,15 @@
           "time_info": "[04时09分 ~ 05时10分]"
         },
         {
-          "title": "美国总统特朗普的内阁与顾问开会，讨论中期选举策略。（Politico）",
-          "url": "https://wallstreetcn.com/livenews/3056161",
-          "source": "华尔街见闻-快讯",
+          "title": "特朗普宣布大消息，日本要当冤大头了",
+          "url": "https://news.ifeng.com/c/8qq0daMEvoo",
+          "source": "凤凰网",
           "ranks": [
-            7,
-            19
+            6
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时07分 ~ 08时11分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时33分"
         },
         {
           "title": "美国副总统万斯：特朗普在伊朗问题上有很多选择。",
@@ -365,7 +379,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "美股休市，科技股拖累欧股反弹，黄金失去“中国动力”失守5000美元，人民币涨破6.89",
@@ -385,11 +399,12 @@
           "ranks": [
             8,
             7,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时18分 ~ 08时11分]"
+          "appearance_count": 11,
+          "time_info": "[00时18分 ~ 09时33分]"
         },
         {
           "title": "AI担忧仍存，美股走V微涨，软件股再遭抛售，金银油下挫，期银跌近6%",
@@ -398,9 +413,9 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时11分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时11分 ~ 09时33分]"
         },
         {
           "title": "（美股）费城金银指数收跌3.14%，报406.62点。 （全球时段）纽约证交所ARCA金矿开采商指数跌2.83%，报2884.06点，亚太盘初至北京时间22:30窄幅震荡于于2960点附近——维持微幅下跌的状态，美股开盘时“跳空”下挫，23:14刷新日低至2811.85点，随后逐步收复失地。 （美股）原材料指数收跌1.66%，金属与矿业指数收跌1.37%。",
@@ -440,6 +455,18 @@
           "time_info": "[05时10分 ~ 06时06分]"
         },
         {
+          "title": "电子设计自动化（EDA）软件公司铿腾电子（CDNS）美股盘后涨4.65%，报296.63美元，业绩报告发布后一度涨超7%至303.32美元，该公司所给业绩指引并没有分析师担忧的那么严重。",
+          "url": "https://wallstreetcn.com/livenews/3056169",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时11分 ~ 09时33分]"
+        },
+        {
           "title": "应用材料美股盘后跌7.6%。",
           "url": "https://wallstreetcn.com/livenews/3056144",
           "source": "华尔街见闻-快讯",
@@ -464,15 +491,15 @@
           "time_info": "[06时06分 ~ 07时07分]"
         },
         {
-          "title": "电子设计自动化（EDA）软件公司铿腾电子（CDNS）美股盘后涨4.65%，报296.63美元，业绩报告发布后一度涨超7%至303.32美元，该公司所给业绩指引并没有分析师担忧的那么严重。",
-          "url": "https://wallstreetcn.com/livenews/3056169",
-          "source": "华尔街见闻-快讯",
+          "title": "美股三大指数均小幅收涨",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E5%9D%87%E5%B0%8F%E5%B9%85%E6%94%B6%E6%B6%A8",
+          "source": "百度热搜",
           "ranks": [
-            12
+            15
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时11分"
+          "time_info": "09时33分"
         },
         {
           "title": "金十图示：2026年02月17日（周二）美股热门股票行情一览（美股盘中）",
@@ -588,7 +615,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 18,
+      "match_count": 20,
       "titles": [
         {
           "title": "伊朗谈判新策略曝光：与美联合开发油气田、矿区，采购美飞机，“让美国能快速获得高额经济回报”！",
@@ -598,8 +625,20 @@
             1
           ],
           "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时18分 ~ 09时33分]"
+        },
+        {
+          "title": "伊朗外长披露与美方谈判结果",
+          "url": "https://news.ifeng.com/c/8qpUHBlBe7s",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
           "appearance_count": 10,
-          "time_info": "[00时18分 ~ 08时11分]"
+          "time_info": "[01时37分 ~ 09时33分]"
         },
         {
           "title": "伊朗宣布霍尔木兹海峡部分区域将关闭数小时",
@@ -614,15 +653,15 @@
           "time_info": "[00时18分 ~ 08时11分]"
         },
         {
-          "title": "伊朗外长披露与美方谈判结果",
-          "url": "https://news.ifeng.com/c/8qpUHBlBe7s",
+          "title": "万斯：美方向伊朗划定“红线”",
+          "url": "https://news.ifeng.com/c/8qpzcl8sWDw",
           "source": "凤凰网",
           "ranks": [
-            2
+            1
           ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时37分 ~ 08时11分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时33分"
         },
         {
           "title": "伊美技术层面谈判已开始，伊朗军演进行中",
@@ -730,6 +769,17 @@
           "time_info": "00时18分"
         },
         {
+          "title": "哈梅内伊：美国无法摧毁伊朗",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32626225",
+          "source": "澎湃新闻",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时33分"
+        },
+        {
           "title": "伊朗总统：德黑兰绝不会放弃其和平核计划。",
           "url": "https://flash.jin10.com/detail/20260218014036914800",
           "source": "金十数据",
@@ -799,8 +849,19 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
+        {
+          "title": "网络状况监测网站DownDetector：用户报告显示谷歌(GOOG.O)的使用出现问题。",
+          "url": "https://flash.jin10.com/detail/20260218091820831800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时33分"
+        },
         {
           "title": "Alphabet旗下谷歌公司计划从可再生能源公司Ormat Technologies获取电力供应，来支持自家在美国内华达州的一系列数据中心的运作。 根据协议，Ormat将向谷歌供应至多150 MW的电力。",
           "url": "https://wallstreetcn.com/livenews/3056046",
@@ -855,7 +916,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时11分"
         }
@@ -938,11 +999,12 @@
           "ranks": [
             29,
             25,
-            24
+            24,
+            28
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时37分 ~ 07时07分]"
+          "appearance_count": 7,
+          "time_info": "[01时37分 ~ 09时33分]"
         }
       ]
     },
@@ -956,11 +1018,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             5,
-            17
+            17,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时07分 ~ 08时11分]"
+          "appearance_count": 3,
+          "time_info": "[07时07分 ~ 09时33分]"
         }
       ]
     }
