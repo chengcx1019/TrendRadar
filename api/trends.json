@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-18T14:25:44.021074+08:00",
-  "total_titles_processed": 1236,
+  "generated_at": "2026-02-18T15:21:53.677934+08:00",
+  "total_titles_processed": 1323,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 35,
+      "match_count": 40,
       "titles": [
         {
           "title": "哈梅内伊回应特朗普威胁",
@@ -28,8 +28,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[03时28分 ~ 14时25分]"
+          "appearance_count": 14,
+          "time_info": "[03时28分 ~ 15时21分]"
         },
         {
           "title": "美部长与下属传出婚外情，特朗普回应",
@@ -53,8 +53,24 @@
             6
           ],
           "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时33分 ~ 15时21分]"
+        },
+        {
+          "title": "特朗普女儿伊万卡中文拜年：新年快乐",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%A5%B3%E5%84%BF%E4%BC%8A%E4%B8%87%E5%8D%A1%E4%B8%AD%E6%96%87%E6%8B%9C%E5%B9%B4%EF%BC%9A%E6%96%B0%E5%B9%B4%E5%BF%AB%E4%B9%90",
+          "source": "百度热搜",
+          "ranks": [
+            26,
+            22,
+            18,
+            17,
+            14,
+            15
+          ],
+          "is_new": false,
           "appearance_count": 7,
-          "time_info": "[09时33分 ~ 14时25分]"
+          "time_info": "[10时59分 ~ 15时21分]"
         },
         {
           "title": "特朗普涉台最新表态，台当局和日本都慌了",
@@ -66,21 +82,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[03时28分 ~ 08时11分]"
-        },
-        {
-          "title": "特朗普女儿伊万卡中文拜年：新年快乐",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%A5%B3%E5%84%BF%E4%BC%8A%E4%B8%87%E5%8D%A1%E4%B8%AD%E6%96%87%E6%8B%9C%E5%B9%B4%EF%BC%9A%E6%96%B0%E5%B9%B4%E5%BF%AB%E4%B9%90",
-          "source": "百度热搜",
-          "ranks": [
-            26,
-            22,
-            18,
-            17,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时59分 ~ 14时25分]"
         },
         {
           "title": "市场消息：特朗普内阁与顾问开会讨论中期选举策略。",
@@ -106,6 +107,20 @@
           "time_info": "[04时09分 ~ 08时11分]"
         },
         {
+          "title": "墨西哥总统：墨西哥已拒绝特朗普加入“和平委员会”的邀请",
+          "url": "https://wallstreetcn.com/livenews/3056209",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            10,
+            13,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时37分 ~ 15时21分]"
+        },
+        {
           "title": "美国食品药品管理局（FDA）主管Makary宣称：特朗普政府是“非常支持疫苗的”。",
           "url": "https://wallstreetcn.com/livenews/3056166",
           "source": "华尔街见闻-快讯",
@@ -129,19 +144,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时37分 ~ 02时17分]"
-        },
-        {
-          "title": "墨西哥总统：墨西哥已拒绝特朗普加入“和平委员会”的邀请",
-          "url": "https://wallstreetcn.com/livenews/3056209",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            10,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时37分 ~ 14时25分]"
         },
         {
           "title": "英媒：特朗普政府升级对美消费者金融保护局打击力度",
@@ -318,6 +320,17 @@
           "time_info": "00时18分"
         },
         {
+          "title": "英国唐宁街：英国首相斯塔默与美国总统特朗普讨论了正在进行的乌克兰谈判。",
+          "url": "https://flash.jin10.com/detail/20260218143526145800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时21分"
+        },
+        {
           "title": "美国总统特朗普称，日本推进5500亿美元对美国投资承诺中的第一批投资。 目前，美元兑日元维持超过0.1%的跌幅，暂报153.27日元。",
           "url": "https://wallstreetcn.com/livenews/3056110",
           "source": "华尔街见闻-快讯",
@@ -351,6 +364,17 @@
           "time_info": "05时10分"
         },
         {
+          "title": "英国唐宁街：英国首相斯塔默与美国总统特朗普讨论了正在进行的谈判，以实现公正而持久的和平。",
+          "url": "https://flash.jin10.com/detail/20260218143513597800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时21分"
+        },
+        {
           "title": "美国副总统万斯：总统特朗普在伊朗问题上有很多选择。",
           "url": "https://wallstreetcn.com/livenews/3056109",
           "source": "华尔街见闻-快讯",
@@ -371,6 +395,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时10分"
+        },
+        {
+          "title": "英国唐宁街：英国首相斯塔默和美国总统特朗普确认了他们对促进中东稳定与和平的共同承诺。",
+          "url": "https://flash.jin10.com/detail/20260218143455298800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时21分"
+        },
+        {
+          "title": "英国唐宁街：英国首相斯塔默与美国总统特朗普讨论了美国与伊朗在日内瓦就伊朗核计划正在进行的会谈。",
+          "url": "https://flash.jin10.com/detail/20260218143436630800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时21分"
+        },
+        {
+          "title": "英国方面称，英国首相昨晚与美国总统特朗普通话。",
+          "url": "https://flash.jin10.com/detail/20260218143224158800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时21分"
         },
         {
           "title": "美国总统特朗普：马里兰、弗吉尼亚州和华盛顿特区应对波托马克河的污水泄漏负责，必须立即着手处理。如果他们无法完成工作，就必须礼貌地给我打电话，请我帮忙修复。",
@@ -420,7 +477,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 24,
+      "match_count": 25,
       "titles": [
         {
           "title": "伊朗谈判新策略曝光：与美联合开发油气田、矿区，采购美飞机，“让美国能快速获得高额经济回报”！",
@@ -442,8 +499,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[01时37分 ~ 14时25分]"
+          "appearance_count": 17,
+          "time_info": "[01时37分 ~ 15时21分]"
         },
         {
           "title": "伊朗宣布霍尔木兹海峡部分区域将关闭数小时",
@@ -462,11 +519,12 @@
           "url": "https://news.ifeng.com/c/8qpzcl8sWDw",
           "source": "凤凰网",
           "ranks": [
-            1
+            1,
+            3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时33分 ~ 14时25分]"
+          "appearance_count": 8,
+          "time_info": "[09时33分 ~ 15时21分]"
         },
         {
           "title": "哈梅内伊：美国无法摧毁伊朗",
@@ -475,11 +533,12 @@
           "ranks": [
             14,
             15,
-            13
+            13,
+            11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时33分 ~ 14时25分]"
+          "appearance_count": 8,
+          "time_info": "[09时33分 ~ 15时21分]"
         },
         {
           "title": "伊朗外长称就伊美谈判“指导原则”达成一致，布油一度跌近3%",
@@ -490,8 +549,35 @@
             9
           ],
           "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时59分 ~ 15时21分]"
+        },
+        {
+          "title": "美军 18 架战机飞向中东，伊朗举行军演，谈判前夕互亮「底牌」，双方有哪些核心分歧？最终结果可能如何？",
+          "url": "https://www.zhihu.com/question/2007003476190786977",
+          "source": "知乎",
+          "ranks": [
+            11,
+            6
+          ],
+          "is_new": false,
           "appearance_count": 6,
-          "time_info": "[10时59分 ~ 14时25分]"
+          "time_info": "[11时54分 ~ 15时21分]"
+        },
+        {
+          "title": "伊朗外长要求美国停止动武威胁",
+          "url": "https://wallstreetcn.com/livenews/3056206",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            8,
+            13,
+            16,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时54分 ~ 15时21分]"
         },
         {
           "title": "伊美技术层面谈判已开始，伊朗军演进行中",
@@ -514,31 +600,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时09分"
-        },
-        {
-          "title": "伊朗外长要求美国停止动武威胁",
-          "url": "https://wallstreetcn.com/livenews/3056206",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            8,
-            13,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时54分 ~ 14时25分]"
-        },
-        {
-          "title": "美军 18 架战机飞向中东，伊朗举行军演，谈判前夕互亮「底牌」，双方有哪些核心分歧？最终结果可能如何？",
-          "url": "https://www.zhihu.com/question/2007003476190786977",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时54分 ~ 14时25分]"
         },
         {
           "title": "伊朗总统：伊朗愿就其核工业和平性质接受任何形式核查",
@@ -622,6 +683,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时18分"
+        },
+        {
+          "title": "伊朗说永不寻求核武并随时接受核查",
+          "url": "https://flash.jin10.com/detail/20260218144831676800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时21分"
         },
         {
           "title": "伊朗总统：伊方希望谈判能带来“切实成果”",
@@ -715,8 +787,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时11分 ~ 14时25分]"
+          "appearance_count": 9,
+          "time_info": "[08时11分 ~ 15时21分]"
         },
         {
           "title": "美股休市，科技股拖累欧股反弹，黄金失去“中国动力”失守5000美元，人民币涨破6.89",
@@ -740,8 +812,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时18分 ~ 14时25分]"
+          "appearance_count": 18,
+          "time_info": "[00时18分 ~ 15时21分]"
         },
         {
           "title": "美股收盘：三大指数小幅收升 英伟达Meta深化合作关系",
@@ -753,8 +825,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时59分 ~ 14时25分]"
+          "appearance_count": 7,
+          "time_info": "[10时59分 ~ 15时21分]"
         },
         {
           "title": "（美股）费城金银指数收跌3.14%，报406.62点。 （全球时段）纽约证交所ARCA金矿开采商指数跌2.83%，报2884.06点，亚太盘初至北京时间22:30窄幅震荡于于2960点附近——维持微幅下跌的状态，美股开盘时“跳空”下挫，23:14刷新日低至2811.85点，随后逐步收复失地。 （美股）原材料指数收跌1.66%，金属与矿业指数收跌1.37%。",
