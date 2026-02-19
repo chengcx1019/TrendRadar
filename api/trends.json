@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-19T20:09:54.798557+08:00",
-  "total_titles_processed": 1717,
+  "generated_at": "2026-02-19T21:29:48.578288+08:00",
+  "total_titles_processed": 1804,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 53,
+      "match_count": 57,
       "titles": [
         {
           "title": "为不影响特朗普访华，美对台军售疑停滞，白宫回应",
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[10时58分 ~ 20时09分]"
+          "appearance_count": 14,
+          "time_info": "[10时58分 ~ 21时29分]"
         },
         {
           "title": "特朗普将举行首届“和平委员会”会议，宣布成员国注资",
@@ -344,7 +344,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时09分"
         },
@@ -426,6 +426,17 @@
           "time_info": "03时19分"
         },
         {
+          "title": "在特朗普推动和平计划之际，哈马斯加大对加沙的控制",
+          "url": "https://flash.jin10.com/detail/20260219205710816800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时29分"
+        },
+        {
           "title": "美国总统特朗普兜售股市上涨。",
           "url": "https://wallstreetcn.com/livenews/3056468",
           "source": "华尔街见闻-快讯",
@@ -457,6 +468,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时33分"
+        },
+        {
+          "title": "特朗普的加沙和平计划恐陷入僵局 哈马斯是否放下武器成为焦点",
+          "url": "https://flash.jin10.com/detail/20260219205124822800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时29分"
         },
         {
           "title": "机构：德国国债正取代日元，成为抗衡“特朗普冲击”的避险新宠",
@@ -514,6 +536,17 @@
           "time_info": "18时15分"
         },
         {
+          "title": "市场消息：美国总统特朗普要求孟加拉国总理完成“例行国防”协议。",
+          "url": "https://flash.jin10.com/detail/20260219204541105800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时29分"
+        },
+        {
           "title": "美国总统特朗普援引《国防生产法》， 签署行政命令，指示美国农业部和国防部确保元素磷、除草剂充足。",
           "url": "https://flash.jin10.com/detail/20260219061414903800",
           "source": "金十数据",
@@ -556,6 +589,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时11分"
+        },
+        {
+          "title": "美国总统特朗普：在美国大选中我只想要美国人投票。",
+          "url": "https://flash.jin10.com/detail/20260219202807714800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时29分"
         },
         {
           "title": "特朗普：日本在美投建的天然气电厂将成为全美最大",
@@ -616,7 +660,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 51,
+      "match_count": 53,
       "titles": [
         {
           "title": "美油大涨5%！美以或对伊朗联合袭击，白宫称谈判取得进展、但关键议题相距甚远",
@@ -630,8 +674,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[10时58分 ~ 20时09分]"
+          "appearance_count": 14,
+          "time_info": "[10时58分 ~ 21时29分]"
         },
         {
           "title": "这一次不一样？美军做好“最早本周末打击伊朗”准备，油价会如何？",
@@ -648,8 +692,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时53分 ~ 20时09分]"
+          "appearance_count": 13,
+          "time_info": "[11时53分 ~ 21时29分]"
         },
         {
           "title": "伊朗将迅速落实伊俄全面战略合作计划",
@@ -684,17 +728,6 @@
           "time_info": "[00时19分 ~ 17时15分]"
         },
         {
-          "title": "美媒：对伊朗开展军事行动“迫在眉睫”",
-          "url": "https://news.ifeng.com/c/8qr5IKOpqxr",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时23分 ~ 07时08分]"
-        },
-        {
           "title": "美以或对伊朗发动大规模袭击",
           "url": "https://www.douyin.com/hot/2405517",
           "source": "抖音",
@@ -707,8 +740,19 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时21分 ~ 20时09分]"
+          "appearance_count": 9,
+          "time_info": "[15时21分 ~ 21时29分]"
+        },
+        {
+          "title": "美媒：对伊朗开展军事行动“迫在眉睫”",
+          "url": "https://news.ifeng.com/c/8qr5IKOpqxr",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时23分 ~ 07时08分]"
         },
         {
           "title": "俄外长：美国若打击伊朗后果严重",
@@ -722,8 +766,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时21分 ~ 20时09分]"
+          "appearance_count": 9,
+          "time_info": "[15时21分 ~ 21时29分]"
         },
         {
           "title": "原油贵金属大幅收涨 消息称美以或将联合袭击伊朗 | 环球市场",
@@ -735,8 +779,51 @@
             8
           ],
           "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[16时11分 ~ 21时29分]"
+        },
+        {
+          "title": "美设定“3月中旬”期限：对伊朗兵力将部署到位，战云逼近？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32632034",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            15,
+            14,
+            11
+          ],
+          "is_new": false,
           "appearance_count": 7,
-          "time_info": "[16时11分 ~ 20时09分]"
+          "time_info": "[17时15分 ~ 21时29分]"
+        },
+        {
+          "title": "伊朗：已进入全面战备状态",
+          "url": "https://www.douyin.com/hot/2405773",
+          "source": "抖音",
+          "ranks": [
+            17,
+            16,
+            11,
+            14,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时15分 ~ 21时29分]"
+        },
+        {
+          "title": "美媒称美军方已准备好“最早本周末”打击伊朗",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32632095",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            16,
+            15,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时15分 ~ 21时29分]"
         },
         {
           "title": "俄外长：美国对伊朗的任何新打击将产生严重后果",
@@ -765,20 +852,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[13时28分 ~ 16时11分]"
-        },
-        {
-          "title": "伊朗：已进入全面战备状态",
-          "url": "https://www.douyin.com/hot/2405773",
-          "source": "抖音",
-          "ranks": [
-            17,
-            16,
-            11,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时15分 ~ 20时09分]"
         },
         {
           "title": "消息人士称美军已做好“最早本周末打击伊朗”准备",
@@ -811,39 +884,13 @@
           "time_info": "[14时20分 ~ 18时15分]"
         },
         {
-          "title": "美设定“3月中旬”期限：对伊朗兵力将部署到位，战云逼近？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32632034",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            15,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时15分 ~ 20时09分]"
-        },
-        {
-          "title": "美媒称美军方已准备好“最早本周末”打击伊朗",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32632095",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            16,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时15分 ~ 20时09分]"
-        },
-        {
           "title": "IAEA总干事：伊朗的外交窗口正在关闭",
           "url": "https://flash.jin10.com/detail/20260219194143232800",
           "source": "金十数据",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时09分"
         },
@@ -873,6 +920,19 @@
           "time_info": "[16时11分 ~ 19时16分]"
         },
         {
+          "title": "波兰总理呼吁在伊朗的波兰公民尽快离境",
+          "url": "https://wallstreetcn.com/livenews/3056625",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            11,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时16分 ~ 21时29分]"
+        },
+        {
           "title": "国际原子能机构（IAEA）总干事：达成伊朗核协议“时间已经不多了”。",
           "url": "https://wallstreetcn.com/livenews/3056612",
           "source": "华尔街见闻-快讯",
@@ -886,18 +946,6 @@
           "time_info": "[18时15分 ~ 20时09分]"
         },
         {
-          "title": "波兰总理呼吁在伊朗的波兰公民尽快离境",
-          "url": "https://wallstreetcn.com/livenews/3056625",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时16分 ~ 20时09分]"
-        },
-        {
           "title": "伊朗外长称就伊美谈判“指导原则”达成一致，布油一度跌近3%",
           "url": "https://wallstreetcn.com/articles/3765814",
           "source": "华尔街见闻",
@@ -907,6 +955,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时19分 ~ 02时13分]"
+        },
+        {
+          "title": "伊朗",
+          "url": "https://s.weibo.com/weibo?q=%E4%BC%8A%E6%9C%97&t=31&band_rank=12&Refer=top",
+          "source": "微博",
+          "ranks": [
+            12,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时15分 ~ 21时29分]"
         },
         {
           "title": "美国众议院可能下周就美国总统在伊朗问题上的“战争权力”进行投票。（Punchbowl）",
@@ -933,17 +993,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时19分 ~ 05时11分]"
-        },
-        {
-          "title": "伊朗",
-          "url": "https://s.weibo.com/weibo?q=%E4%BC%8A%E6%9C%97&t=31&band_rank=12&Refer=top",
-          "source": "微博",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时15分 ~ 20时09分]"
         },
         {
           "title": "美军舰和战机在伊朗附近集结",
@@ -1056,7 +1105,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时09分"
         },
@@ -1171,6 +1220,17 @@
           "time_info": "03时19分"
         },
         {
+          "title": "视频丨伊朗政府发言人：伊国防部队已进入全面战备状态",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32632312",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时29分"
+        },
+        {
           "title": "克里姆林宫就伊朗问题表示：我们正在发展与伊朗的关系，并敦促我们的伊朗朋友及其他各方保持克制和审慎。",
           "url": "https://flash.jin10.com/detail/20260219173537930800",
           "source": "金十数据",
@@ -1215,6 +1275,17 @@
           "time_info": "18时15分"
         },
         {
+          "title": "欧盟理事会：继外交事务委员会于1月29日达成政治协议后，理事会今天正式决定将伊朗革命卫队(IRGC)列入欧盟的“恐怖分子名单”。",
+          "url": "https://flash.jin10.com/detail/20260219202609064800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时29分"
+        },
+        {
           "title": "市场消息：国际原子能机构总干事格罗西表示，伊朗讨论了国际原子能机构重返遭轰炸的核设施的可能性。",
           "url": "https://flash.jin10.com/detail/20260219173453176800",
           "source": "金十数据",
@@ -1251,7 +1322,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 23,
+      "match_count": 24,
       "titles": [
         {
           "title": "AI担忧仍存，美股走V微涨，软件股再遭抛售，金银油下挫，期银跌近6%",
@@ -1300,8 +1371,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[06时07分 ~ 20时09分]"
+          "appearance_count": 20,
+          "time_info": "[06时07分 ~ 21时29分]"
         },
         {
           "title": "“AI恐慌交易”持续发酵 美股三大期指小幅走低 | 今夜看点",
@@ -1313,8 +1384,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 27,
-          "time_info": "[00时19分 ~ 20时09分]"
+          "appearance_count": 28,
+          "time_info": "[00时19分 ~ 21时29分]"
         },
         {
           "title": "美股三大期指集体走高 美联储将公布1月会议纪要 | 今夜看点",
@@ -1327,8 +1398,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 27,
-          "time_info": "[00时19分 ~ 20时09分]"
+          "appearance_count": 28,
+          "time_info": "[00时19分 ~ 21时29分]"
         },
         {
           "title": "美股收盘：三大指数小幅收升 英伟达Meta深化合作关系",
@@ -1341,8 +1412,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 27,
-          "time_info": "[00时19分 ~ 20时09分]"
+          "appearance_count": 28,
+          "time_info": "[00时19分 ~ 21时29分]"
         },
         {
           "title": "美股收盘：“七巨头”集体走高 三大指数齐收涨",
@@ -1353,8 +1424,20 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时11分 ~ 20时09分]"
+          "appearance_count": 8,
+          "time_info": "[16时11分 ~ 21时29分]"
+        },
+        {
+          "title": "科技股拖累美股期指转跌，特斯拉盘前领跌Mag7，地缘局势升温推高金银油，黄金站上5000美元",
+          "url": "https://wallstreetcn.com/articles/3765856",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时09分 ~ 21时29分]"
         },
         {
           "title": "金十图示：2026年02月18日（周三）热门中概股行情一览（美股盘中）",
@@ -1366,17 +1449,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时13分"
-        },
-        {
-          "title": "科技股拖累美股期指转跌，特斯拉盘前领跌Mag7，地缘局势升温推高金银油，黄金站上5000美元",
-          "url": "https://wallstreetcn.com/articles/3765856",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时09分"
         },
         {
           "title": "美股盘前，白银概念股走强，泛美白银(PAAS.O)涨4.6%、赫克拉矿业(HL.N)涨1.9%、First Majestic(AG.O)涨1.3%。",
@@ -1463,6 +1535,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时08分 ~ 07时08分]"
+        },
+        {
+          "title": "沃尔玛预计2027年调整后每股收益2.75美元至2.85美元，市场预估2.97美元。 第四季度调整后每股收益0.74美元，市场预估0.73美元。 第四季度营收1,906.6亿美元，同比增长5.6%，市场预估1,905.8亿美元。 第四季度经营现金流416亿美元。 沃尔玛宣布新的300亿美元股票回购计划。 沃尔玛美股盘前跌超3%。",
+          "url": "https://wallstreetcn.com/livenews/3056638",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时29分"
         },
         {
           "title": "房利美股价迅速扩大涨幅，上涨4%。",
@@ -1597,8 +1680,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时15分 ~ 20时09分]"
+          "appearance_count": 4,
+          "time_info": "[19时15分 ~ 21时29分]"
         },
         {
           "title": "知情人士：OpenAI最新一轮融资规模有望突破1000亿美元",
