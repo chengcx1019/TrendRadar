@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-23T22:19:15.252546+08:00",
-  "total_titles_processed": 1650,
+  "generated_at": "2026-02-23T23:16:24.065202+08:00",
+  "total_titles_processed": 1734,
   "failed_sources": [],
   "trends": [
     {
@@ -62,8 +62,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[11时57分 ~ 22时19分]"
+          "appearance_count": 17,
+          "time_info": "[11时57分 ~ 23时16分]"
         },
         {
           "title": "伊朗多所高校再出现学生反政府集会",
@@ -110,8 +110,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[13时30分 ~ 22时19分]"
+          "appearance_count": 15,
+          "time_info": "[13时30分 ~ 23时16分]"
         },
         {
           "title": "阿曼外长：美国与伊朗将于周四在日内瓦会谈。",
@@ -141,6 +141,28 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时05分 ~ 07时05分]"
+        },
+        {
+          "title": "与美国达成“临时协议”？伊朗：毫无根据",
+          "url": "https://news.ifeng.com/c/8qyqpPm0Q9R",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[17时17分 ~ 23时16分]"
+        },
+        {
+          "title": "伊朗军队总司令：将誓死捍卫国家独立和主权完整",
+          "url": "https://news.ifeng.com/c/8qyqxrcRN3h",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[17时17分 ~ 23时16分]"
         },
         {
           "title": "伊朗总统：绝不会向霸凌屈服",
@@ -173,28 +195,6 @@
           "time_info": "[08时10分 ~ 13时31分]"
         },
         {
-          "title": "与美国达成“临时协议”？伊朗：毫无根据",
-          "url": "https://news.ifeng.com/c/8qyqpPm0Q9R",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时17分 ~ 22时19分]"
-        },
-        {
-          "title": "伊朗军队总司令：将誓死捍卫国家独立和主权完整",
-          "url": "https://news.ifeng.com/c/8qyqxrcRN3h",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时17分 ~ 22时19分]"
-        },
-        {
           "title": "伊朗提议，让美国企业参与（伊朗的）能源行业。（路透）",
           "url": "https://wallstreetcn.com/livenews/3057292",
           "source": "华尔街见闻-快讯",
@@ -218,8 +218,21 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时17分 ~ 22时19分]"
+          "appearance_count": 8,
+          "time_info": "[18时17分 ~ 23时16分]"
+        },
+        {
+          "title": "美国被曝已决定对伊朗发动军事打击，预计 23 日或 24 日，是极限施压还是真要打？",
+          "url": "https://www.zhihu.com/question/2009287749354688656",
+          "source": "知乎",
+          "ranks": [
+            12,
+            14,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[20时09分 ~ 23时16分]"
         },
         {
           "title": "美媒：若伊朗很快提交核方案，美伊会谈预计将于周五举行",
@@ -233,19 +246,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时05分 ~ 05时05分]"
-        },
-        {
-          "title": "美国被曝已决定对伊朗发动军事打击，预计 23 日或 24 日，是极限施压还是真要打？",
-          "url": "https://www.zhihu.com/question/2009287749354688656",
-          "source": "知乎",
-          "ranks": [
-            12,
-            14,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[20时09分 ~ 22时19分]"
         },
         {
           "title": "伊朗外交部发言人：关于与美国达成“临时协议”的讨论毫无根据",
@@ -674,7 +674,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时19分"
         },
@@ -737,7 +737,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 45,
+      "match_count": 55,
       "titles": [
         {
           "title": "特朗普：原本10%的全球进口关税税率将升至15%",
@@ -848,8 +848,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时17分 ~ 22时19分]"
+          "appearance_count": 9,
+          "time_info": "[17时17分 ~ 23时16分]"
         },
         {
           "title": "特朗普宣布签署行政令 加征10%全球进口关税",
@@ -875,8 +875,22 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[14时21分 ~ 22时19分]"
+          "appearance_count": 13,
+          "time_info": "[14时21分 ~ 23时16分]"
+        },
+        {
+          "title": "华尔街深度解读“特朗普IEEPA关税被否”：下半年关税或下调，退税或变全面刺激，潜在的行业利好",
+          "url": "https://wallstreetcn.com/articles/3765969",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[17时17分 ~ 23时16分]"
         },
         {
           "title": "男子持枪闯入特朗普住所被击毙",
@@ -909,20 +923,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[02时05分 ~ 08时11分]"
-        },
-        {
-          "title": "华尔街深度解读“特朗普IEEPA关税被否”：下半年关税或下调，退税或变全面刺激，潜在的行业利好",
-          "url": "https://wallstreetcn.com/articles/3765969",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时17分 ~ 22时19分]"
         },
         {
           "title": "格陵兰岛总理对美国总统特朗普派遣医疗船前往格陵兰岛的提议说：“不了，谢谢。”",
@@ -1011,6 +1011,17 @@
           "time_info": "14时21分"
         },
         {
+          "title": "欧盟因特朗普关税的不确定性冻结对美贸易协议的批准。",
+          "url": "https://flash.jin10.com/detail/20260223224646651800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时16分"
+        },
+        {
           "title": "【美国海关将从2月24日起停止征收被最高法院裁定违法的关税】美国海关与边境保护局（CBP）表示，将从美国东部时间2月24日起停止征收依据《国际紧急经济权力法》（IEEPA）开征的关税。 美国海关与边境保护局22日通过其货物系统消息服务表示，依据《国际紧急经济权力法》征收的关税将不再生效，并且对于从美国东部时间2月24日起进入消费市场或从仓库提取用于消费的货物，将不再征收这项关税。该消息还指出，暂停征收此项关税并不影响特朗普政府征收的任何其他关税。 此前，美国最高法院20日公布裁决，认定特朗普政府援引《国际紧急经济权力法》实施的大规模关税政策违法。（央视）",
           "url": "https://wallstreetcn.com/livenews/3057389",
           "source": "华尔街见闻-快讯",
@@ -1034,6 +1045,40 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[13时31分 ~ 16时12分]"
+        },
+        {
+          "title": "特朗普：任何想“耍花招”的国家将面临更高的关税",
+          "url": "https://flash.jin10.com/detail/20260223224303582800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时16分"
+        },
+        {
+          "title": "美国总统特朗普：我不必向国会山争取关税（授权）。",
+          "url": "https://wallstreetcn.com/livenews/3057530",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时16分"
+        },
+        {
+          "title": "特朗普被曝考虑对伊朗先“小打”再“大打”",
+          "url": "https://www.cls.cn/detail/2292753",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[21时29分 ~ 23时16分]"
         },
         {
           "title": "美国贸易代表格里尔：鉴于局势的“紧迫性”，美国总统特朗普已将10%的关税提高到15%。",
@@ -1082,17 +1127,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时11分 ~ 09时33分]"
-        },
-        {
-          "title": "特朗普被曝考虑对伊朗先“小打”再“大打”",
-          "url": "https://www.cls.cn/detail/2292753",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[21时29分 ~ 22时19分]"
         },
         {
           "title": "据纽约时报：知情人士透露，特朗普已告知顾问，如果外交手段或初步的针对性打击未能迫使伊朗屈服，将考虑在未来数月内发动更大规模攻击。",
@@ -1229,6 +1263,17 @@
           "time_info": "[00时05分 ~ 01时06分]"
         },
         {
+          "title": "欧盟因特朗普关税不确定性冻结对美贸易协议的批准。",
+          "url": "https://wallstreetcn.com/livenews/3057527",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时16分"
+        },
+        {
           "title": "鉴于特朗普关税风险，欧盟势将冻结对与美国贸易协议的批准程序。（彭博）",
           "url": "https://wallstreetcn.com/livenews/3057440",
           "source": "华尔街见闻-快讯",
@@ -1238,6 +1283,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时15分"
+        },
+        {
+          "title": "现货黄金短线拉升，特朗普称玩花招的国家将面临更高的关税",
+          "url": "https://wallstreetcn.com/livenews/3057521",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时16分"
+        },
+        {
+          "title": "美国总统特朗普：任何想就最高法院裁决“耍花招”的国家，都将面临更高的关税，其后果将更严重。",
+          "url": "https://flash.jin10.com/detail/20260223223630935800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时16分"
         },
         {
           "title": "美国官员警告说，如果特朗普下令打击伊朗，伊朗可能会通过真主党或基地组织等代理人对美国在海外的目标进行报复。",
@@ -1262,6 +1329,17 @@
           "time_info": "19时15分"
         },
         {
+          "title": "特朗普计划对高级别工作者进行绩效评级改革。根据拟议规则，工作者无法质疑低评级。新提案同样覆盖科学家及专业工作者。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3057511",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时16分"
+        },
+        {
           "title": "特朗普：我可以用许可证向外国收费。 可以利用许可证对外国采取绝对严厉的措施。",
           "url": "https://wallstreetcn.com/livenews/3057463",
           "source": "华尔街见闻-快讯",
@@ -1273,6 +1351,17 @@
           "time_info": "21时30分"
         },
         {
+          "title": "特朗普：墨西哥必须加大力度打击贩毒集团和毒品。",
+          "url": "https://wallstreetcn.com/livenews/3057509",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时16分"
+        },
+        {
           "title": "市场消息：鉴于美国总统特朗普的关税风险，欧盟势将冻结对与美国贸易协议的批准程序。",
           "url": "https://flash.jin10.com/detail/20260223182731191800",
           "source": "金十数据",
@@ -1282,6 +1371,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时15分"
+        },
+        {
+          "title": "市场消息：美国法官永久禁止公布特别检察官关于特朗普涉密文件案的报告。",
+          "url": "https://flash.jin10.com/detail/20260223221216873800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时16分"
         },
         {
           "title": "如何看待特朗普关税战被判非法",
@@ -1304,12 +1404,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时15分"
+        },
+        {
+          "title": "美国总统特朗普：墨西哥必须在打击贩毒集团和毒品方面加大力度。",
+          "url": "https://flash.jin10.com/detail/20260223220846985800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时16分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 11,
+      "match_count": 14,
       "titles": [
         {
           "title": "美股收盘：特朗普关税“翻车”成利好 三大指数集体收涨",
@@ -1341,11 +1452,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            8
+            8,
+            4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时17分 ~ 22时19分]"
+          "appearance_count": 8,
+          "time_info": "[18时17分 ~ 23时16分]"
         },
         {
           "title": "礼来(LLY.N)美股盘前上涨2.1%。",
@@ -1357,17 +1469,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时17分"
-        },
-        {
-          "title": "周一美股盘前你需要了解的全球要闻",
-          "url": "https://wallstreetcn.com/livenews/3057503",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时19分"
         },
         {
           "title": "诺和诺德美股盘前跌11%，礼来盘前涨超4%，诺和诺德的CagriSema在试验中效果不及礼来Zepbound。",
@@ -1395,6 +1496,18 @@
           "time_info": "[19时15分 ~ 20时09分]"
         },
         {
+          "title": "周一美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3057503",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时19分 ~ 23时16分]"
+        },
+        {
           "title": "Arcellx美股盘前涨超76%，吉利德科学将以每股115美元的价格收购Arcellx。",
           "url": "https://wallstreetcn.com/livenews/3057446",
           "source": "华尔街见闻-快讯",
@@ -1405,6 +1518,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[19时15分 ~ 20时09分]"
+        },
+        {
+          "title": "特朗普关税进入迷雾区 美股投资者将聚焦沃勒最新讲话 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2292918",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时18分 ~ 23时16分]"
         },
         {
           "title": "美股加密货币概念股盘前走低，艾斯欧艾斯跌近5%，MARA Holdings跌超2%，Coinbase Global跌近2%。",
@@ -1419,15 +1544,26 @@
           "time_info": "[18时17分 ~ 19时15分]"
         },
         {
-          "title": "特朗普关税进入迷雾区 美股投资者将聚焦沃勒最新讲话 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2292918",
-          "source": "财联社热门",
+          "title": "金十图示：2026年02月23日（周一）美股热门股票行情一览",
+          "url": "https://flash.jin10.com/detail/20260223223817753800",
+          "source": "金十数据",
           "ranks": [
-            12
+            9
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时18分 ~ 22时19分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时16分"
+        },
+        {
+          "title": "全球航空业ETF跌1.79%，在美股盘初领跌行业ETF，网络股指数ETF跌1.77%，可选消费ETF跌1.18%，全球科技股指数ETF跌0.34%，科技行业ETF跌0.28%，半导体ETF涨0.44%，生物科技指数ETF涨1.16%。",
+          "url": "https://wallstreetcn.com/livenews/3057524",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时16分"
         },
         {
           "title": "特朗普关税被判违法 华尔街投行：哪些美股公司最受益？",
@@ -1439,6 +1575,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时09分"
+        },
+        {
+          "title": "美股开盘，道指跌0.33%、标普500指数跌0.15%、纳指跌0.13%，诺和诺德(NVO.N)大跌15.65%，公司称其减肥药物卡格列肽（Cagrisema）的实验效果不及礼来的替尔泊肽（Zepbound），礼来(LLY.N)开涨3.86%。",
+          "url": "https://flash.jin10.com/detail/20260223223042733800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时16分"
         }
       ]
     },
@@ -1537,11 +1684,12 @@
             10,
             9,
             8,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 29,
-          "time_info": "[02时05分 ~ 22时19分]"
+          "appearance_count": 30,
+          "time_info": "[02时05分 ~ 23时16分]"
         }
       ]
     },
@@ -1556,7 +1704,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时19分"
         }
