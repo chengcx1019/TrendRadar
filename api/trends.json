@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-25T13:29:16.105267+08:00",
-  "total_titles_processed": 1283,
+  "generated_at": "2026-02-25T14:32:49.568959+08:00",
+  "total_titles_processed": 1392,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 114,
+      "match_count": 117,
       "titles": [
         {
           "title": "特朗普称将会在3月31日访问中国，外交部回应",
@@ -27,8 +27,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时17分 ~ 13时29分]"
+          "appearance_count": 20,
+          "time_info": "[00时17分 ~ 14时32分]"
         },
         {
           "title": "特朗普第二任期首场国情咨文会谈什么？“剧透”来了",
@@ -54,8 +54,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[01时22分 ~ 13时29分]"
+          "appearance_count": 18,
+          "time_info": "[01时22分 ~ 14时32分]"
         },
         {
           "title": "中美就特朗普访华事宜保持着沟通",
@@ -77,11 +77,12 @@
           "source": "凤凰网",
           "ranks": [
             1,
-            2
+            2,
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时58分 ~ 13时29分]"
+          "appearance_count": 6,
+          "time_info": "[10时58分 ~ 14时32分]"
         },
         {
           "title": "特朗普打还是不打，只是时间问题了",
@@ -97,6 +98,17 @@
           "time_info": "[09时33分 ~ 13时29分]"
         },
         {
+          "title": "特朗普发表国情咨文演讲，民主党议员举横幅被带离",
+          "url": "https://news.ifeng.com/c/8r1qCIUuhrr",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时36分 ~ 14时32分]"
+        },
+        {
           "title": "特朗普走上“关税悬崖”",
           "url": "https://news.ifeng.com/c/8r1Z2HFV2Mj",
           "source": "凤凰网",
@@ -108,15 +120,16 @@
           "time_info": "[10时58分 ~ 11时53分]"
         },
         {
-          "title": "特朗普发表国情咨文演讲，民主党议员举横幅被带离",
-          "url": "https://news.ifeng.com/c/8r1qCIUuhrr",
-          "source": "凤凰网",
+          "title": "特朗普：伊朗正研制很快打到美国的导弹",
+          "url": "https://www.toutiao.com/trending/7610645788871364115/",
+          "source": "今日头条",
           "ranks": [
-            1
+            4,
+            2
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时36分 ~ 13时29分]"
+          "time_info": "[13时29分 ~ 14时32分]"
         },
         {
           "title": "特朗普，走上“关税悬崖”",
@@ -201,6 +214,17 @@
           "time_info": "10时59分"
         },
         {
+          "title": "特朗普戏精上身，模仿民众哭诉“赢到不知道该怎么办”",
+          "url": "https://v.ifeng.com/c/8r1uSam1Yxo",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时32分"
+        },
+        {
           "title": "据福克斯新闻：特朗普将呼吁实施新一轮减税。",
           "url": "https://flash.jin10.com/detail/20260225041158111800",
           "source": "金十数据",
@@ -254,17 +278,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时59分"
-        },
-        {
-          "title": "特朗普：伊朗正研制很快打到美国的导弹",
-          "url": "https://www.toutiao.com/trending/7610645788871364115/",
-          "source": "今日头条",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时29分"
         },
         {
           "title": "美国总统特朗普：我还要终结处方药价格的飞涨。其他总统也尝试过，但他们都失败了。他们只会空谈，没有实际行动。而我做到了。",
@@ -442,6 +455,17 @@
           "time_info": "[05时40分 ~ 07时08分]"
         },
         {
+          "title": "特朗普：伊朗正研制能打到美国的导弹",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E4%BC%8A%E6%9C%97%E6%AD%A3%E7%A0%94%E5%88%B6%E8%83%BD%E6%89%93%E5%88%B0%E7%BE%8E%E5%9B%BD%E7%9A%84%E5%AF%BC%E5%BC%B9",
+          "source": "百度热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时36分 ~ 14时32分]"
+        },
+        {
           "title": "弗吉尼亚州州长斯潘伯格：美国民众正在为美国总统特朗普的贸易政策埋单。",
           "url": "https://flash.jin10.com/detail/20260225121629384800",
           "source": "金十数据",
@@ -597,17 +621,6 @@
           "time_info": "[12时36分 ~ 13时29分]"
         },
         {
-          "title": "特朗普：伊朗正研制能打到美国的导弹",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E4%BC%8A%E6%9C%97%E6%AD%A3%E7%A0%94%E5%88%B6%E8%83%BD%E6%89%93%E5%88%B0%E7%BE%8E%E5%9B%BD%E7%9A%84%E5%AF%BC%E5%BC%B9",
-          "source": "百度热搜",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时36分 ~ 13时29分]"
-        },
-        {
           "title": "美国总统特朗普：我们实现了前所未有的变革，实现了划时代的逆转。",
           "url": "https://flash.jin10.com/detail/20260225092635757800",
           "source": "金十数据",
@@ -625,9 +638,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时29分"
+        },
+        {
+          "title": "多数美国人称特朗普愈发反复无常",
+          "url": "https://www.toutiao.com/trending/7609682757731647524/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时32分"
         },
         {
           "title": "电费太贵 特朗普将在国情咨文中宣布让科技公司为AI能源买单",
@@ -746,9 +770,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时29分"
+        },
+        {
+          "title": "特朗普国情咨文演讲点名讽刺佩洛西",
+          "url": "https://flash.jin10.com/detail/20260225140645916800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时32分"
         },
         {
           "title": "特朗普：关税提振了股市，道琼斯指数提前突破5万点大关。 最高法院关于关税的裁决非常令人遗憾。",
@@ -1335,6 +1370,18 @@
           "time_info": "[00时17分 ~ 09时33分]"
         },
         {
+          "title": "媒体：伊朗即将购入中国超音速反舰导弹",
+          "url": "https://news.ifeng.com/c/8r1iOMfEAgf",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时58分 ~ 14时32分]"
+        },
+        {
           "title": "美军参联会主席警告：对伊朗动武可能带来重大风险",
           "url": "https://m.thepaper.cn/newsDetail_forward_32647811",
           "source": "澎湃新闻",
@@ -1358,11 +1405,12 @@
             13,
             12,
             24,
-            20
+            20,
+            23
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时17分 ~ 13时29分]"
+          "appearance_count": 20,
+          "time_info": "[00时17分 ~ 14时32分]"
         },
         {
           "title": "WW3预热,美国对伊朗动手",
@@ -1377,19 +1425,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时17分 ~ 13时29分]"
-        },
-        {
-          "title": "媒体：伊朗即将购入中国超音速反舰导弹",
-          "url": "https://news.ifeng.com/c/8r1iOMfEAgf",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时58分 ~ 13时29分]"
+          "appearance_count": 20,
+          "time_info": "[00时17分 ~ 14时32分]"
         },
         {
           "title": "在伊朗中国人：华联会已准备撤离方案",
@@ -1415,19 +1452,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时36分 ~ 13时29分]"
+          "appearance_count": 3,
+          "time_info": "[12时36分 ~ 14时32分]"
         },
         {
           "title": "美大军压境伊朗为何不屈服",
           "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%A4%A7%E5%86%9B%E5%8E%8B%E5%A2%83%E4%BC%8A%E6%9C%97%E4%B8%BA%E4%BD%95%E4%B8%8D%E5%B1%88%E6%9C%8D",
           "source": "bilibili 热搜",
           "ranks": [
-            3
+            3,
+            2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时29分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时29分 ~ 14时32分]"
         },
         {
           "title": "伊朗外长阿拉格齐：只要优先考虑外交途径，与美国达成核协议是可能的。",
@@ -1436,7 +1474,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时29分"
         },
@@ -1662,8 +1700,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时12分 ~ 13时29分]"
+          "appearance_count": 8,
+          "time_info": "[08时12分 ~ 14时32分]"
         },
         {
           "title": "美股三大期指集体走高 AMD盘前一度大涨15% | 今夜看点",
@@ -1856,8 +1894,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时33分 ~ 13时29分]"
+          "appearance_count": 7,
+          "time_info": "[09时33分 ~ 14时32分]"
         },
         {
           "title": "谷歌(GOOG.O)旗下自动驾驶部门Waymo将其自动驾驶叫车服务扩展至美国四座城市。",
