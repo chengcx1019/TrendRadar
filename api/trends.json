@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-19T12:40:55.194146+08:00",
-  "total_titles_processed": 1226,
+  "generated_at": "2026-03-19T13:28:45.103098+08:00",
+  "total_titles_processed": 1305,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 132,
+      "match_count": 134,
       "titles": [
         {
           "title": "美以伊战争丨伊朗最高领袖就拉里贾尼遇害发声",
@@ -50,8 +50,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时48分 ~ 12时40分]"
+          "appearance_count": 16,
+          "time_info": "[00时48分 ~ 13时28分]"
         },
         {
           "title": "伊朗总统证实拉里贾尼已遇难并发表悼词",
@@ -63,6 +63,18 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时48分 ~ 06时07分]"
+        },
+        {
+          "title": "【早报】沙特、卡塔尔油气设施遇袭起火；伊朗警告：中东三国石油设施成为合法打击目标",
+          "url": "https://www.cls.cn/detail/2317476",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[08时11分 ~ 13时28分]"
         },
         {
           "title": "伊朗“事实上的最高负责人”，被刺杀了",
@@ -97,11 +109,12 @@
           "ranks": [
             4,
             8,
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时48分 ~ 12时40分]"
+          "appearance_count": 16,
+          "time_info": "[00时48分 ~ 13时28分]"
         },
         {
           "title": "伊朗处决摩萨德间谍",
@@ -110,23 +123,23 @@
           "ranks": [
             5,
             13,
-            21
+            21,
+            22
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时48分 ~ 12时40分]"
+          "appearance_count": 15,
+          "time_info": "[00时48分 ~ 13时28分]"
         },
         {
-          "title": "【早报】沙特、卡塔尔油气设施遇袭起火；伊朗警告：中东三国石油设施成为合法打击目标",
-          "url": "https://www.cls.cn/detail/2317476",
-          "source": "财联社热门",
+          "title": "伊朗对美相关能源设施发动大规模导弹袭击，列明中东三国目标，卡塔尔称“全球最大LNG设施遭严重破坏”",
+          "url": "https://wallstreetcn.com/articles/3767863",
+          "source": "华尔街见闻",
           "ranks": [
-            3,
-            1
+            4
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[08时11分 ~ 12时40分]"
+          "time_info": "[09时33分 ~ 13时28分]"
         },
         {
           "title": "伊朗总统证实拉里贾尼已遇难，这意味着什么？会带来哪些影响？",
@@ -177,8 +190,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时48分 ~ 12时40分]"
+          "appearance_count": 16,
+          "time_info": "[00时48分 ~ 13时28分]"
         },
         {
           "title": "伊朗总统证实情报部长遇害",
@@ -207,8 +220,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时48分 ~ 12时40分]"
+          "appearance_count": 16,
+          "time_info": "[00时48分 ~ 13时28分]"
         },
         {
           "title": "伊朗总统证实伊朗情报部长遇害，系 24 小时内损失的第二位核心高官，这场「斩首战」打到何时才能结束？",
@@ -221,8 +234,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时48分 ~ 12时40分]"
+          "appearance_count": 16,
+          "time_info": "[00时48分 ~ 13时28分]"
         },
         {
           "title": "伊朗总统证实情报部长遇害",
@@ -281,8 +294,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时48分 ~ 12时40分]"
+          "appearance_count": 16,
+          "time_info": "[00时48分 ~ 13时28分]"
         },
         {
           "title": "反悔+拒定居,伊朗女足3人回国",
@@ -297,6 +310,19 @@
           "time_info": "[00时48分 ~ 11时01分]"
         },
         {
+          "title": "战火蔓延!伊朗猛攻海湾油库",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352049&amp;topic_name=%E6%88%98%E7%81%AB%E8%94%93%E5%BB%B6%21%E4%BC%8A%E6%9C%97%E7%8C%9B%E6%94%BB%E6%B5%B7%E6%B9%BE%E6%B2%B9%E5%BA%93",
+          "source": "贴吧",
+          "ranks": [
+            1,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时00分 ~ 13时28分]"
+        },
+        {
           "title": "伊朗发射集束弹头导弹袭击以色列",
           "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%8F%91%E5%B0%84%E9%9B%86%E6%9D%9F%E5%BC%B9%E5%A4%B4%E5%AF%BC%E5%BC%B9%E8%A2%AD%E5%87%BB%E4%BB%A5%E8%89%B2%E5%88%97%23&t=31&band_rank=6&Refer=top",
           "source": "微博",
@@ -306,17 +332,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[01时21分 ~ 08时11分]"
-        },
-        {
-          "title": "伊朗对美相关能源设施发动大规模导弹袭击，列明中东三国目标，卡塔尔称“全球最大LNG设施遭严重破坏”",
-          "url": "https://wallstreetcn.com/articles/3767863",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时33分 ~ 12时40分]"
         },
         {
           "title": "伊朗总统证实情报部长遇害",
@@ -394,16 +409,28 @@
           "time_info": "[00时48分 ~ 07时07分]"
         },
         {
-          "title": "战火蔓延!伊朗猛攻海湾油库",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352049&amp;topic_name=%E6%88%98%E7%81%AB%E8%94%93%E5%BB%B6%21%E4%BC%8A%E6%9C%97%E7%8C%9B%E6%94%BB%E6%B5%B7%E6%B9%BE%E6%B2%B9%E5%BA%93",
-          "source": "贴吧",
+          "title": "伊朗导弹袭击沙特首都，巨大火球腾空而起",
+          "url": "https://news.ifeng.com/c/8rcAd8ZbcvX",
+          "source": "凤凰网",
           "ranks": [
-            1,
-            3
+            2
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[11时00分 ~ 12时40分]"
+          "time_info": "[11时01分 ~ 13时28分]"
+        },
+        {
+          "title": "冲突爆发以来首次！伊朗最大气田遇袭部分停产，布油现货冲向105美元",
+          "url": "https://wallstreetcn.com/articles/3767848",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[07时07分 ~ 13时28分]"
         },
         {
           "title": "拉里贾尼葬礼在伊朗德黑兰举行",
@@ -423,41 +450,6 @@
           "time_info": "[00时48分 ~ 06时07分]"
         },
         {
-          "title": "伊朗导弹袭击沙特首都，巨大火球腾空而起",
-          "url": "https://news.ifeng.com/c/8rcAd8ZbcvX",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时01分 ~ 12时40分]"
-        },
-        {
-          "title": "冲突爆发以来首次！伊朗最大气田遇袭部分停产，布油现货冲向105美元",
-          "url": "https://wallstreetcn.com/articles/3767848",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时07分 ~ 12时40分]"
-        },
-        {
-          "title": "伊朗最高领袖：血债将很快得到清算",
-          "url": "https://www.toutiao.com/trending/7618732232047627827/",
-          "source": "今日头条",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时11分 ~ 12时40分]"
-        },
-        {
           "title": "美以袭击伊朗进入第 20 天，当前局势如何？还有哪些信息值得关注？",
           "url": "https://www.zhihu.com/question/2017692346066630422",
           "source": "知乎",
@@ -465,8 +457,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时11分 ~ 12时40分]"
+          "appearance_count": 7,
+          "time_info": "[08时11分 ~ 13时28分]"
+        },
+        {
+          "title": "伊朗最高领袖：血债将很快得到清算",
+          "url": "https://www.toutiao.com/trending/7618732232047627827/",
+          "source": "今日头条",
+          "ranks": [
+            6,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[08时11分 ~ 13时28分]"
         },
         {
           "title": "伊朗最高领袖誓言“清算血债”",
@@ -477,8 +481,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时11分 ~ 12时40分]"
+          "appearance_count": 7,
+          "time_info": "[08时11分 ~ 13时28分]"
         },
         {
           "title": "伊朗战争要是打久了，那就远不只是油价暴涨的事了",
@@ -491,8 +495,65 @@
             7
           ],
           "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[08时11分 ~ 13时28分]"
+        },
+        {
+          "title": "伊朗称将打击中东三国石油设施，全力打击美相关石油设施，冲突会否彻底失控？油价会涨到多少？",
+          "url": "https://www.zhihu.com/question/2017713766402385101",
+          "source": "知乎",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[08时11分 ~ 13时28分]"
+        },
+        {
+          "title": "伊朗打击利雅得炼油厂美方专属区域",
+          "url": "https://www.toutiao.com/trending/7618631216359096374/",
+          "source": "今日头条",
+          "ranks": [
+            12,
+            18,
+            15,
+            14,
+            17,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[08时11分 ~ 13时28分]"
+        },
+        {
+          "title": "伊朗打击利雅得炼油厂美方专属区域",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%89%93%E5%87%BB%E5%88%A9%E9%9B%85%E5%BE%97%E7%82%BC%E6%B2%B9%E5%8E%82%E7%BE%8E%E6%96%B9%E4%B8%93%E5%B1%9E%E5%8C%BA%E5%9F%9F",
+          "source": "百度热搜",
+          "ranks": [
+            20,
+            17,
+            16,
+            19,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[08时11分 ~ 13时28分]"
+        },
+        {
+          "title": "伊朗发起报复行动",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%8F%91%E8%B5%B7%E6%8A%A5%E5%A4%8D%E8%A1%8C%E5%8A%A8%23&t=31&band_rank=7&Refer=top",
+          "source": "微博",
+          "ranks": [
+            7,
+            21,
+            13,
+            19
+          ],
+          "is_new": false,
           "appearance_count": 6,
-          "time_info": "[08时11分 ~ 12时40分]"
+          "time_info": "[09时33分 ~ 13时28分]"
         },
         {
           "title": "伊朗总统：基础设施遭袭可能引发无法控制的后果。",
@@ -520,31 +581,17 @@
           "time_info": "[08时11分 ~ 12时40分]"
         },
         {
-          "title": "伊朗称将打击中东三国石油设施，全力打击美相关石油设施，冲突会否彻底失控？油价会涨到多少？",
-          "url": "https://www.zhihu.com/question/2017713766402385101",
-          "source": "知乎",
+          "title": "伊朗最高领袖就拉里贾尼遇害发表声明：血债将很快得到清算",
+          "url": "https://www.cls.cn/detail/2317384",
+          "source": "财联社热门",
           "ranks": [
-            12,
+            13,
+            10,
             11
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[08时11分 ~ 12时40分]"
-        },
-        {
-          "title": "伊朗打击利雅得炼油厂美方专属区域",
-          "url": "https://www.toutiao.com/trending/7618631216359096374/",
-          "source": "今日头条",
-          "ranks": [
-            12,
-            18,
-            15,
-            14,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时11分 ~ 12时40分]"
+          "time_info": "[09时33分 ~ 13时28分]"
         },
         {
           "title": "伊朗发起“真实承诺4”第63轮行动",
@@ -562,18 +609,18 @@
           "time_info": "[08时11分 ~ 12时40分]"
         },
         {
-          "title": "伊朗打击利雅得炼油厂美方专属区域",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%89%93%E5%87%BB%E5%88%A9%E9%9B%85%E5%BE%97%E7%82%BC%E6%B2%B9%E5%8E%82%E7%BE%8E%E6%96%B9%E4%B8%93%E5%B1%9E%E5%8C%BA%E5%9F%9F",
-          "source": "百度热搜",
+          "title": "伊拉克称伊朗供应天然气已完全中断",
+          "url": "https://www.toutiao.com/trending/7618744631366487590/",
+          "source": "今日头条",
           "ranks": [
-            20,
-            17,
-            16,
-            19
+            15,
+            21,
+            23,
+            26
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[08时11分 ~ 12时40分]"
+          "time_info": "[09时33分 ~ 13时28分]"
         },
         {
           "title": "哈马斯发表声明悼念拉里贾尼，强调将与伊朗保持团结",
@@ -620,7 +667,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时40分"
         },
@@ -634,6 +681,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时48分 ~ 03时21分]"
+        },
+        {
+          "title": "伊朗重要能源设施遭袭",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BC%8A%E6%9C%97%E9%87%8D%E8%A6%81%E8%83%BD%E6%BA%90%E8%AE%BE%E6%96%BD%E9%81%AD%E8%A2%AD",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时00分 ~ 13时28分]"
         },
         {
           "title": "伊朗总统：针对基础设施的袭击对伊朗和以色列都不会带来任何结果。",
@@ -669,6 +727,19 @@
           "time_info": "08时11分"
         },
         {
+          "title": "美将只剩一艘航母用于对伊朗袭击",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%B0%86%E5%8F%AA%E5%89%A9%E4%B8%80%E8%89%98%E8%88%AA%E6%AF%8D%E7%94%A8%E4%BA%8E%E5%AF%B9%E4%BC%8A%E6%9C%97%E8%A2%AD%E5%87%BB%23&t=31&band_rank=6&Refer=top",
+          "source": "微博",
+          "ranks": [
+            6,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时00分 ~ 13时28分]"
+        },
+        {
           "title": "伊朗议会议长卡里巴夫：昨晚，伊朗人民挫败了敌人的所有图谋。以牙还牙的法则已经生效，新一轮更高等级的对抗已经开始。",
           "url": "https://flash.jin10.com/detail/20260319004826614800",
           "source": "金十数据",
@@ -680,43 +751,45 @@
           "time_info": "01时22分"
         },
         {
-          "title": "伊朗发起报复行动",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%8F%91%E8%B5%B7%E6%8A%A5%E5%A4%8D%E8%A1%8C%E5%8A%A8%23&t=31&band_rank=7&Refer=top",
-          "source": "微博",
+          "title": "联合国就伊朗高官遇害表态",
+          "url": "https://www.baidu.com/s?wd=%E8%81%94%E5%90%88%E5%9B%BD%E5%B0%B1%E4%BC%8A%E6%9C%97%E9%AB%98%E5%AE%98%E9%81%87%E5%AE%B3%E8%A1%A8%E6%80%81",
+          "source": "百度热搜",
           "ranks": [
-            7,
-            21,
-            13
+            19,
+            18,
+            16,
+            14
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[09时33分 ~ 12时40分]"
+          "time_info": "[11时00分 ~ 13时28分]"
         },
         {
-          "title": "伊朗最高领袖就拉里贾尼遇害发表声明：血债将很快得到清算",
-          "url": "https://www.cls.cn/detail/2317384",
-          "source": "财联社热门",
+          "title": "卡塔尔宣布伊朗武官为不受欢迎的人",
+          "url": "https://www.baidu.com/s?wd=%E5%8D%A1%E5%A1%94%E5%B0%94%E5%AE%A3%E5%B8%83%E4%BC%8A%E6%9C%97%E6%AD%A6%E5%AE%98%E4%B8%BA%E4%B8%8D%E5%8F%97%E6%AC%A2%E8%BF%8E%E7%9A%84%E4%BA%BA",
+          "source": "百度热搜",
           "ranks": [
-            13,
-            10,
-            11
+            28,
+            22,
+            18,
+            16
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[09时33分 ~ 12时40分]"
+          "time_info": "[11时00分 ~ 13时28分]"
         },
         {
-          "title": "伊拉克称伊朗供应天然气已完全中断",
-          "url": "https://www.toutiao.com/trending/7618744631366487590/",
+          "title": "美以袭击石化设施 伊朗称将以牙还牙",
+          "url": "https://www.toutiao.com/trending/7618299470291156998/",
           "source": "今日头条",
           "ranks": [
-            15,
-            21,
+            24,
+            20,
             23
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[09时33分 ~ 12时40分]"
+          "time_info": "[11时00分 ~ 13时28分]"
         },
         {
           "title": "以防长称伊朗情报部长身亡",
@@ -747,15 +820,15 @@
           "time_info": "[03时21分 ~ 07时07分]"
         },
         {
-          "title": "伊朗重要能源设施遭袭",
-          "url": "https://search.bilibili.com/all?keyword=%E4%BC%8A%E6%9C%97%E9%87%8D%E8%A6%81%E8%83%BD%E6%BA%90%E8%AE%BE%E6%96%BD%E9%81%AD%E8%A2%AD",
-          "source": "bilibili 热搜",
+          "title": "德总理：如果事前得知美以对伊朗开战，会提出反对",
+          "url": "https://news.ifeng.com/c/8rc8k3w5Ocg",
+          "source": "凤凰网",
           "ranks": [
-            6
+            7
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[11时00分 ~ 12时40分]"
+          "time_info": "[11时01分 ~ 13时28分]"
         },
         {
           "title": "伊朗：若袭击继续，伊朗将扩大打击范围至美国以色列盟友的所有能源基础设施",
@@ -792,18 +865,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时07分 ~ 07时07分]"
-        },
-        {
-          "title": "美将只剩一艘航母用于对伊朗袭击",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%B0%86%E5%8F%AA%E5%89%A9%E4%B8%80%E8%89%98%E8%88%AA%E6%AF%8D%E7%94%A8%E4%BA%8E%E5%AF%B9%E4%BC%8A%E6%9C%97%E8%A2%AD%E5%87%BB%23&t=31&band_rank=6&Refer=top",
-          "source": "微博",
-          "ranks": [
-            6,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时00分 ~ 12时40分]"
         },
         {
           "title": "伊朗港口城市恩泽利发生多起爆炸",
@@ -854,19 +915,6 @@
           "time_info": "[05时10分 ~ 06时07分]"
         },
         {
-          "title": "联合国就伊朗高官遇害表态",
-          "url": "https://www.baidu.com/s?wd=%E8%81%94%E5%90%88%E5%9B%BD%E5%B0%B1%E4%BC%8A%E6%9C%97%E9%AB%98%E5%AE%98%E9%81%87%E5%AE%B3%E8%A1%A8%E6%80%81",
-          "source": "百度热搜",
-          "ranks": [
-            19,
-            18,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时00分 ~ 12时40分]"
-        },
-        {
           "title": "泽连斯基：乌专家团队已抵达海湾多国应对伊朗无人机",
           "url": "https://m.thepaper.cn/newsDetail_forward_32785071",
           "source": "澎湃新闻",
@@ -877,31 +925,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时48分 ~ 02时18分]"
-        },
-        {
-          "title": "卡塔尔宣布伊朗武官为不受欢迎的人",
-          "url": "https://www.baidu.com/s?wd=%E5%8D%A1%E5%A1%94%E5%B0%94%E5%AE%A3%E5%B8%83%E4%BC%8A%E6%9C%97%E6%AD%A6%E5%AE%98%E4%B8%BA%E4%B8%8D%E5%8F%97%E6%AC%A2%E8%BF%8E%E7%9A%84%E4%BA%BA",
-          "source": "百度热搜",
-          "ranks": [
-            28,
-            22,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时00分 ~ 12时40分]"
-        },
-        {
-          "title": "美以袭击石化设施 伊朗称将以牙还牙",
-          "url": "https://www.toutiao.com/trending/7618299470291156998/",
-          "source": "今日头条",
-          "ranks": [
-            24,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时00分 ~ 12时40分]"
         },
         {
           "title": "伊朗总统证实拉里贾尼已遇难",
@@ -953,15 +976,17 @@
           "time_info": "[00时48分 ~ 02时18分]"
         },
         {
-          "title": "德总理：如果事前得知美以对伊朗开战，会提出反对",
-          "url": "https://news.ifeng.com/c/8rc8k3w5Ocg",
-          "source": "凤凰网",
+          "title": "重大升级！能源设施已被卷入，华尔街“重估”伊朗战争时间表，再提“2022场景”",
+          "url": "https://wallstreetcn.com/articles/3767878",
+          "source": "华尔街见闻",
           "ranks": [
+            9,
+            8,
             7
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[11时01分 ~ 12时40分]"
+          "time_info": "[11时57分 ~ 13时28分]"
         },
         {
           "title": "科威特外交部：对伊朗针对卡塔尔拉斯拉凡工业区设施的攻击表示强烈谴责和愤慨。",
@@ -986,18 +1011,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时10分 ~ 06时07分]"
-        },
-        {
-          "title": "重大升级！能源设施已被卷入，华尔街“重估”伊朗战争时间表，再提“2022场景”",
-          "url": "https://wallstreetcn.com/articles/3767878",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时57分 ~ 12时40分]"
         },
         {
           "title": "意大利将下调燃油税，希望能抵消（美国和以色列发动伊朗战争造成的）成本飙涨。",
@@ -1162,7 +1175,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时40分"
         },
@@ -1176,6 +1189,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时22分"
+        },
+        {
+          "title": "日本电力企业集团负责人：将加入全国性行动，以确保在伊朗危机背景下液化天然气供应稳定。",
+          "url": "https://flash.jin10.com/detail/20260319131514956800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时28分"
         },
         {
           "title": "声明显示：伊朗新任最高领袖穆杰塔巴就该国安全主管拉里贾尼遇害表示，罪犯终将为其鲜血付出代价。",
@@ -1374,6 +1398,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时33分"
+        },
+        {
+          "title": "伊朗司法部门媒体报道称，伊朗处决了三名被指控在1月抗议活动中犯有谋杀罪及与美国、以色列勾结的嫌疑人。",
+          "url": "https://flash.jin10.com/detail/20260319125513195800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时28分"
         },
         {
           "title": "沙特外交大臣：如有必要，沙特保留（对伊朗）采取军事行动的权利。",
@@ -1657,8 +1692,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时48分 ~ 12时40分]"
+          "appearance_count": 16,
+          "time_info": "[00时48分 ~ 13时28分]"
         },
         {
           "title": "马克龙称拒绝参与霍尔木兹海峡护航，特朗普：他快下台了",
@@ -1694,8 +1729,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时48分 ~ 12时40分]"
+          "appearance_count": 16,
+          "time_info": "[00时48分 ~ 13时28分]"
         },
         {
           "title": "外交部：中美双方将继续就特朗普总统访华事保持沟通",
@@ -1717,8 +1752,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时01分 ~ 12时40分]"
+          "appearance_count": 4,
+          "time_info": "[11时01分 ~ 13时28分]"
         },
         {
           "title": "美以伊战争丨特朗普谈以打击伊朗天然气田：毫不知情",
@@ -1732,6 +1767,19 @@
           "time_info": "[11时01分 ~ 11时57分]"
         },
         {
+          "title": "伊朗接连袭击沙特卡塔尔油气设施 特朗普据悉反对继续袭击伊能源设施",
+          "url": "https://www.cls.cn/detail/2317562",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时00分 ~ 13时28分]"
+        },
+        {
           "title": "美国加州州长纽森：唐纳德·特朗普想让美国倒退。如果我们不站出来，我们将失去这个国家。",
           "url": "https://flash.jin10.com/detail/20260319064615377800",
           "source": "金十数据",
@@ -1741,6 +1789,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时07分"
+        },
+        {
+          "title": "被质问为何不谴责美以袭击伊朗？高市早苗语出惊人：因为我要见特朗普",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32788330",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时33分 ~ 13时28分]"
         },
         {
           "title": "外媒：特朗普据悉考虑增兵中东 同时评估地面行动选项",
@@ -1760,35 +1821,9 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时40分"
-        },
-        {
-          "title": "伊朗接连袭击沙特卡塔尔油气设施 特朗普据悉反对继续袭击伊能源设施",
-          "url": "https://www.cls.cn/detail/2317562",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            10,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时00分 ~ 12时40分]"
-        },
-        {
-          "title": "被质问为何不谴责美以袭击伊朗？高市早苗语出惊人：因为我要见特朗普",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32788330",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时33分 ~ 12时40分]"
         },
         {
           "title": "白宫：美国总统特朗普将于周四美东时间11:15会见到访的日本首相高市早苗。 双方随后将在19:15共同进餐。",
@@ -1890,7 +1925,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时40分"
         },
@@ -2008,7 +2043,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "美股收盘：七巨头齐挫三大指数跌超1% 闪迪、美光逆市收新高",
@@ -2019,8 +2054,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时07分 ~ 12时40分]"
+          "appearance_count": 8,
+          "time_info": "[07时07分 ~ 13时28分]"
         },
         {
           "title": "美伊冲突加剧！美股期货盘前集体跳水，布油大涨5%，现货黄金跌破4850，白银跌超4%，金属全面下跌",
@@ -2149,6 +2184,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时18分"
+        },
+        {
+          "title": "技术分析师警告：美股濒临变盘！一旦跌破临界线，将再跌10%",
+          "url": "https://flash.jin10.com/detail/20260319125418834800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时28分"
         },
         {
           "title": "金十图示：2026年03月18日（周三）美股热门股票行情一览（美股盘中）",
@@ -2391,11 +2437,12 @@
           "ranks": [
             16,
             20,
-            24
+            24,
+            23
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时48分 ~ 12时40分]"
+          "appearance_count": 16,
+          "time_info": "[00时48分 ~ 13时28分]"
         }
       ]
     },
