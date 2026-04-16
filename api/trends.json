@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-16T17:31:30.865867+08:00",
-  "total_titles_processed": 1723,
+  "generated_at": "2026-04-16T18:27:28.500524+08:00",
+  "total_titles_processed": 1809,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 139,
+      "match_count": 143,
       "titles": [
         {
           "title": "内塔尼亚胡：对伊朗战事可能再度爆发",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[08时19分 ~ 17时31分]"
+          "appearance_count": 13,
+          "time_info": "[08时19分 ~ 18时27分]"
         },
         {
           "title": "伊朗战争丨穆杰塔巴顾问威胁击沉美国军舰",
@@ -65,8 +65,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[08时19分 ~ 17时31分]"
+          "appearance_count": 13,
+          "time_info": "[08时19分 ~ 18时27分]"
         },
         {
           "title": "伊朗总统突然现身中方活动：中国站出来反对压迫和不公，感谢！",
@@ -129,11 +129,12 @@
             17,
             25,
             26,
-            28
+            28,
+            30
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时20分 ~ 17时31分]"
+          "appearance_count": 22,
+          "time_info": "[00时20分 ~ 18时27分]"
         },
         {
           "title": "伊朗战争丨美民主党对防长赫格塞思发起弹劾",
@@ -156,8 +157,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时33分 ~ 17时31分]"
+          "appearance_count": 12,
+          "time_info": "[09时33分 ~ 18时27分]"
         },
         {
           "title": "伊朗将使用替代港口绕开美国对霍尔木兹海峡的封锁，能破解美国围堵吗？",
@@ -249,6 +250,19 @@
           "time_info": "[12时59分 ~ 16时31分]"
         },
         {
+          "title": "美伊“海上封锁战”白热化：伊朗威胁若美封锁持续将切断红海航道",
+          "url": "https://www.cls.cn/detail/2345830",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[14时34分 ~ 18时27分]"
+        },
+        {
           "title": "伊朗战争丨王毅同伊朗外长通电话",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
           "source": "凤凰网",
@@ -325,19 +339,6 @@
           "time_info": "[09时33分 ~ 14时34分]"
         },
         {
-          "title": "美伊“海上封锁战”白热化：伊朗威胁若美封锁持续将切断红海航道",
-          "url": "https://www.cls.cn/detail/2345830",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时34分 ~ 17时31分]"
-        },
-        {
           "title": "美国中央司令部：美国海军舰艇正在阿曼湾执行巡逻任务，与此同时，中央司令部继续执行美国对进出伊朗港口的船只的封锁行动。美军已部署到位，保持警惕，并做好准备以确保相关船只遵守规定。",
           "url": "https://flash.jin10.com/detail/20260415235214832800",
           "source": "金十数据",
@@ -347,6 +348,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时20分"
+        },
+        {
+          "title": "伊朗：将就官员被暗杀追究美以责任",
+          "url": "https://news.ifeng.com/c/8sNEWX5GhXC",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时27分"
         },
         {
           "title": "美国财长贝森特：美国将不再续期允许购买俄罗斯和伊朗石油的许可证。",
@@ -404,6 +416,17 @@
           "time_info": "05时16分"
         },
         {
+          "title": "伊朗最高领袖军事顾问：美勿充当霍尔木兹海峡“警察”",
+          "url": "https://wallstreetcn.com/livenews/3089201",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时27分"
+        },
+        {
           "title": "市场消息：伊朗外交部长阿拉格齐会见了巴基斯坦陆军参谋长穆尼尔。",
           "url": "https://flash.jin10.com/detail/20260416004827946800",
           "source": "金十数据",
@@ -435,6 +458,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时59分"
+        },
+        {
+          "title": "美军喊话 ：要去伊朗的船立即掉头，否则我们就动武",
+          "url": "https://v.ifeng.com/c/8sN5mIzhL68",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时27分"
         },
         {
           "title": "克里姆林宫：华盛顿拒绝了我们将伊朗浓缩铀转移到俄罗斯的提议。",
@@ -504,6 +538,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[11时01分 ~ 14时34分]"
+        },
+        {
+          "title": "伊朗总统感谢中国",
+          "url": "https://www.toutiao.com/trending/7628829127155826738/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时31分 ~ 18时27分]"
         },
         {
           "title": "伊朗议会议长卡利巴夫：美国应纠正“以色列优先”的错误并从中撤出。",
@@ -628,6 +673,19 @@
           "time_info": "[06时14分 ~ 07时15分]"
         },
         {
+          "title": "伊朗：美国已成以色列“第7个行政区”",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%EF%BC%9A%E7%BE%8E%E5%9B%BD%E5%B7%B2%E6%88%90%E4%BB%A5%E8%89%B2%E5%88%97%E2%80%9C%E7%AC%AC7%E4%B8%AA%E8%A1%8C%E6%94%BF%E5%8C%BA%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            6,
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时31分 ~ 18时27分]"
+        },
+        {
           "title": "伊朗议长卡利巴夫：黎巴嫩全面停火是抵抗阵线斗争的成果",
           "url": "https://flash.jin10.com/detail/20260416052231796800",
           "source": "金十数据",
@@ -650,29 +708,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时15分 ~ 08时19分]"
-        },
-        {
-          "title": "伊朗总统感谢中国",
-          "url": "https://www.toutiao.com/trending/7628829127155826738/",
-          "source": "今日头条",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时31分 ~ 17时31分]"
-        },
-        {
-          "title": "伊朗：美国已成以色列“第7个行政区”",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%EF%BC%9A%E7%BE%8E%E5%9B%BD%E5%B7%B2%E6%88%90%E4%BB%A5%E8%89%B2%E5%88%97%E2%80%9C%E7%AC%AC7%E4%B8%AA%E8%A1%8C%E6%94%BF%E5%8C%BA%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            6,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时31分 ~ 17时31分]"
         },
         {
           "title": "美国中央司令部：昨天，一艘悬挂伊朗国旗的货船在离开霍尔木兹港后试图躲避美国的封锁，经过霍尔木兹海峡。美军成功拦截了这艘船，该船正返回伊朗。自周一美国封锁开始以来，已有十艘船被转回，零艘船成功突破。",
@@ -698,6 +733,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时20分 ~ 02时21分]"
+        },
+        {
+          "title": "伊朗：美国成以色列“第七个行政区”",
+          "url": "https://www.toutiao.com/trending/7628284506704805939/",
+          "source": "今日头条",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时30分 ~ 18时27分]"
         },
         {
           "title": "伊朗首都突发炸弹袭击",
@@ -746,6 +792,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时30分 ~ 04时16分]"
+        },
+        {
+          "title": "伊朗称将就官员被暗杀追究美以责任",
+          "url": "https://wallstreetcn.com/livenews/3089179",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时31分 ~ 18时27分]"
         },
         {
           "title": "美联储穆萨莱姆：已将今年GDP增速预期从伊朗战争前的2%–2.5%下调至1.5%–2%。",
@@ -820,17 +878,6 @@
           "time_info": "[03时30分 ~ 04时16分]"
         },
         {
-          "title": "伊朗：美国成以色列“第七个行政区”",
-          "url": "https://www.toutiao.com/trending/7628284506704805939/",
-          "source": "今日头条",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时30分 ~ 17时31分]"
-        },
-        {
           "title": "欧洲央行执行理事会成员Isabel Schnabel：通胀预期可能会变得更加脆弱。 欧洲央行可以承受“花时间来分析伊朗战争带来的冲击”所产生的影响。",
           "url": "https://wallstreetcn.com/livenews/3088774",
           "source": "华尔街见闻-快讯",
@@ -889,6 +936,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时16分 ~ 05时16分]"
+        },
+        {
+          "title": "伊朗外交部：延长停火猜测未得到确认",
+          "url": "https://wallstreetcn.com/livenews/3089165",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时31分 ~ 18时27分]"
+        },
+        {
+          "title": "伊朗称“12日战争”后自杀式无人机产量已提升约10倍",
+          "url": "https://wallstreetcn.com/livenews/3089164",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时31分 ~ 18时27分]"
         },
         {
           "title": "伊朗将使用替代港口绕开美国封锁",
@@ -1000,17 +1071,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时21分"
-        },
-        {
-          "title": "伊朗称将就官员被暗杀追究美以责任",
-          "url": "https://wallstreetcn.com/livenews/3089179",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时31分"
         },
         {
           "title": "以色列警告或重启对伊朗冲突 将继续打击黎真主党",
@@ -1206,7 +1266,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时31分"
         },
@@ -1409,17 +1469,6 @@
           "time_info": "14时34分"
         },
         {
-          "title": "伊朗外交部：延长停火猜测未得到确认",
-          "url": "https://wallstreetcn.com/livenews/3089165",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时31分"
-        },
-        {
           "title": "美国财长贝森特：美国财政部将继续切断伊朗的非法走私和恐怖代理网络。",
           "url": "https://flash.jin10.com/detail/20260416024927797800",
           "source": "金十数据",
@@ -1440,17 +1489,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时23分"
-        },
-        {
-          "title": "伊朗称“12日战争”后自杀式无人机产量已提升约10倍",
-          "url": "https://wallstreetcn.com/livenews/3089164",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时31分"
         },
         {
           "title": "伊朗提出战争赔偿问题有何考量",
@@ -1528,6 +1566,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时23分"
+        },
+        {
+          "title": "伊朗最高领袖威胁击沉美方舰艇",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96%E5%A8%81%E8%83%81%E5%87%BB%E6%B2%89%E7%BE%8E%E6%96%B9%E8%88%B0%E8%89%87%23&t=31&band_rank=24&Refer=top",
+          "source": "微博",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时27分"
         },
         {
           "title": "【以军总参谋长：已批准针对伊朗和黎巴嫩的新作战计划】当地时间15日，以色列国防军总参谋长埃亚尔·扎米尔中将在黎巴嫩南部前线表示，他已批准针对黎巴嫩和伊朗的新作战计划。扎米尔称，自本轮冲突升级以来，以军已在黎巴嫩境内打死超过1700名真主党武装人员。他强调，以色列国防军目前处于极高战备状态，空军飞机已挂弹待命，可随时发动强力打击。他还表示，已指示将黎巴嫩南部直至利塔尼河一线设为针对真主党武装人员的“杀伤区”。（央视）",
@@ -1621,7 +1670,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 46,
+      "match_count": 47,
       "titles": [
         {
           "title": "美财长称中国“不可靠”会影响特朗普访华吗？外交部回应",
@@ -1706,8 +1755,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时20分 ~ 17时31分]"
+          "appearance_count": 22,
+          "time_info": "[00时20分 ~ 18时27分]"
         },
         {
           "title": "特朗普威胁：如果任期结束后鲍威尔不离职，他将强行解雇鲍威尔",
@@ -1747,8 +1796,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[08时19分 ~ 17时31分]"
+          "appearance_count": 13,
+          "time_info": "[08时19分 ~ 18时27分]"
         },
         {
           "title": "特朗普：没必要延长同伊朗的停火，接下来两天将非常精彩",
@@ -1773,8 +1822,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时31分 ~ 17时31分]"
+          "appearance_count": 4,
+          "time_info": "[16时31分 ~ 18时27分]"
         },
         {
           "title": "内幕交易疑云笼罩！美CFTC出手：调查特朗普对伊政策转向前夕可疑原油押注",
@@ -1890,8 +1939,31 @@
             10
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时31分 ~ 18时27分]"
+        },
+        {
+          "title": "中东和平希望升温！特朗普：以黎领导人周四将进行34年来首次对话",
+          "url": "https://www.cls.cn/detail/2346178",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[16时31分 ~ 17时31分]"
+          "time_info": "[17时30分 ~ 18时27分]"
+        },
+        {
+          "title": "特朗普：美国“很有可能”在4月下旬英国国王访美前与伊朗达成协议",
+          "url": "https://wallstreetcn.com/articles/3770081",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时30分 ~ 18时27分]"
         },
         {
           "title": "特朗普“封锁令”影响几何？分析：若石油出口完全断流 伊朗最多两月后须减产！",
@@ -1903,28 +1975,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[16时31分 ~ 17时31分]"
-        },
-        {
-          "title": "中东和平希望升温！特朗普：以黎领导人周四将进行34年来首次对话",
-          "url": "https://www.cls.cn/detail/2346178",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时30分 ~ 17时31分]"
-        },
-        {
-          "title": "特朗普：美国“很有可能”在4月下旬英国国王访美前与伊朗达成协议",
-          "url": "https://wallstreetcn.com/articles/3770081",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时30分 ~ 17时31分]"
         },
         {
           "title": "美国总统特朗普与卡塔尔埃米尔通电话，讨论缓和地区局势的问题、讨论稳定能源市场的问题。",
@@ -2137,6 +2187,17 @@
           "time_info": "01时23分"
         },
         {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-04-16）",
+          "url": "https://flash.jin10.com/detail/20260416180011337800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时27分"
+        },
+        {
           "title": "市场消息：美国参议院以多数票否决了一项旨在迫使特朗普在未获国会批准的情况下停止对伊朗打击的努力，投票仍在继续。",
           "url": "https://flash.jin10.com/detail/20260416023735449800",
           "source": "金十数据",
@@ -2240,7 +2301,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时31分"
         },
@@ -2374,7 +2435,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 7,
+      "match_count": 10,
       "titles": [
         {
           "title": "谷歌公司：Gemini现在上架苹果公司Mac。",
@@ -2445,6 +2506,28 @@
           "time_info": "08时19分"
         },
         {
+          "title": "欧盟委员会：相关方需在5月1日前提交对拟议措施的意见。委员会预计将在7月27日发布最终决定，该决定对谷歌具有约束力。",
+          "url": "https://flash.jin10.com/detail/20260416175947287800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时27分"
+        },
+        {
+          "title": "欧盟委员会：措施旨在允许第三方在线搜索引擎优化其搜索服务，并挑战谷歌(GOOG.O)搜索的市场地位。",
+          "url": "https://flash.jin10.com/detail/20260416175804275800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时27分"
+        },
+        {
           "title": "市场消息：谷歌母公司Alphabet有望从其对SpaceX的投资中获得约1000亿美元的巨额回报。",
           "url": "https://flash.jin10.com/detail/20260416023532344800",
           "source": "金十数据",
@@ -2454,6 +2537,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时30分"
+        },
+        {
+          "title": "市场消息：欧盟委员会提议对谷歌(GOOG.O)采取措施，要求其与第三方共享搜索引擎数据。欧盟委员会表示，谷歌应允许第三方搜索引擎访问搜索数据。",
+          "url": "https://flash.jin10.com/detail/20260416175645059800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时27分"
         }
       ]
     },
@@ -2607,6 +2701,35 @@
       ]
     },
     {
+      "keyword_group": "chatgpt openai",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "据AXIOS：OpenAI游说扩大人工智能在生命科学中的作用。",
+          "url": "https://flash.jin10.com/detail/20260416050117948800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时14分 ~ 07时15分]"
+        },
+        {
+          "title": "OpenAI：正加速构建网络防御生态体系，以守护所有人。",
+          "url": "https://flash.jin10.com/detail/20260416180925765800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时27分"
+        }
+      ]
+    },
+    {
       "keyword_group": "金价",
       "match_count": 2,
       "titles": [
@@ -2631,24 +2754,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时49分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "据AXIOS：OpenAI游说扩大人工智能在生命科学中的作用。",
-          "url": "https://flash.jin10.com/detail/20260416050117948800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时14分 ~ 07时15分]"
         }
       ]
     },
