@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-17T17:31:40.195573+08:00",
-  "total_titles_processed": 1671,
+  "generated_at": "2026-04-17T18:26:11.645773+08:00",
+  "total_titles_processed": 1743,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 78,
+      "match_count": 80,
       "titles": [
         {
           "title": "伊朗：将就官员被暗杀追究美以责任",
@@ -29,8 +29,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[01时28分 ~ 17时31分]"
+          "appearance_count": 22,
+          "time_info": "[01时28分 ~ 18时26分]"
         },
         {
           "title": "美军喊话 ：要去伊朗的船立即掉头，否则我们就动武",
@@ -57,8 +57,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时31分 ~ 17时31分]"
+          "appearance_count": 23,
+          "time_info": "[00时31分 ~ 18时26分]"
         },
         {
           "title": "美以袭击伊朗进入第 49 天，当前局势如何？还有哪些信息值得关注？",
@@ -70,8 +70,25 @@
             7
           ],
           "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[08时17分 ~ 18时26分]"
+        },
+        {
+          "title": "她工资腰斩，却想学开飞机去轰炸伊朗",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32985465",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            14,
+            12,
+            8,
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
           "appearance_count": 13,
-          "time_info": "[08时17分 ~ 17时31分]"
+          "time_info": "[09时33分 ~ 18时26分]"
         },
         {
           "title": "美方对伊朗启动代号为「经济狂怒」的行动，其具体措施与以往制裁会有何差异？可能对双方谈判有怎样的影响？",
@@ -85,22 +102,6 @@
           "is_new": false,
           "appearance_count": 18,
           "time_info": "[00时31分 ~ 15时32分]"
-        },
-        {
-          "title": "她工资腰斩，却想学开飞机去轰炸伊朗",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32985465",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            14,
-            12,
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时33分 ~ 17时31分]"
         },
         {
           "title": "伊朗披露击落美C-130细节",
@@ -125,11 +126,12 @@
             16,
             11,
             10,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时33分 ~ 17时31分]"
+          "appearance_count": 13,
+          "time_info": "[09时33分 ~ 18时26分]"
         },
         {
           "title": "美称伊朗最高领袖已受伤但仍活着",
@@ -238,6 +240,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[11时01分 ~ 15时32分]"
+        },
+        {
+          "title": "伊朗在霍尔木兹海峡收费，为何新加坡急了？",
+          "url": "https://news.ifeng.com/c/8sOrmZQ0DT7",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时25分 ~ 18时26分]"
         },
         {
           "title": "巴基斯坦外交部称下一轮美伊会谈日期尚未确定，伊朗称伊斯兰堡是与美国进行谈判的唯一地点，为何是伊斯兰堡？",
@@ -825,6 +838,17 @@
           "time_info": "01时28分"
         },
         {
+          "title": "伊朗军队总司令：时刻扣住扳机迎击敌人",
+          "url": "https://flash.jin10.com/detail/20260417174056771800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时26分"
+        },
+        {
           "title": "美国众议院以微弱优势否决了一项决议，该决议旨在阻止在没有国会批准的情况下进一步对伊朗进行打击。",
           "url": "https://flash.jin10.com/detail/20260417000756084800",
           "source": "金十数据",
@@ -960,7 +984,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 77,
+      "match_count": 78,
       "titles": [
         {
           "title": "中东迎“曙光”？特朗普：美伊下次会晤或在本周末，以黎同意停火10天！",
@@ -973,8 +997,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时33分 ~ 17时31分]"
+          "appearance_count": 13,
+          "time_info": "[09时33分 ~ 18时26分]"
         },
         {
           "title": "特朗普：美伊下次会谈可能本周末举行，不排除必要时延长停火，伊朗同意不拥有核武",
@@ -986,8 +1010,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时33分 ~ 17时31分]"
+          "appearance_count": 13,
+          "time_info": "[09时33分 ~ 18时26分]"
         },
         {
           "title": "特朗普：美伊下次会晤或在本周末举行",
@@ -1026,6 +1050,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时31分 ~ 07时14分]"
+        },
+        {
+          "title": "特朗普喊话意大利：你不帮我，我也不会帮你",
+          "url": "https://news.ifeng.com/c/8sOVPzGvey0",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[13时43分 ~ 18时26分]"
         },
         {
           "title": "中东和平希望升温！特朗普：以黎领导人周四将进行34年来首次对话",
@@ -1077,17 +1112,6 @@
           "time_info": "[00时31分 ~ 07时14分]"
         },
         {
-          "title": "特朗普喊话意大利：你不帮我，我也不会帮你",
-          "url": "https://news.ifeng.com/c/8sOVPzGvey0",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时43分 ~ 17时31分]"
-        },
-        {
           "title": "美国总统特朗普：美国对霍尔木兹海峡的封锁表现得很好。",
           "url": "https://flash.jin10.com/detail/20260417015924146800",
           "source": "金十数据",
@@ -1108,6 +1132,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时28分"
+        },
+        {
+          "title": "伊朗战争丨特朗普称澳大利亚不出兵帮忙，澳总理反驳",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时31分 ~ 18时26分]"
         },
         {
           "title": "美国总统特朗普：（谈以色列-黎巴嫩停火）停火将包括黎巴嫩真主党。",
@@ -1319,17 +1354,6 @@
           "time_info": "[05时14分 ~ 06时13分]"
         },
         {
-          "title": "伊朗战争丨特朗普称澳大利亚不出兵帮忙，澳总理反驳",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时31分 ~ 17时31分]"
-        },
-        {
           "title": "美前官员：特朗普欲“谈合作”，但其团队对华立场更为强硬",
           "url": "https://news.ifeng.com/c/8sNNVO5nsfP",
           "source": "凤凰网",
@@ -1339,6 +1363,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时31分 ~ 02时22分]"
+        },
+        {
+          "title": "心心念念的大房子不让造，特朗普暴怒开喷",
+          "url": "https://news.ifeng.com/c/8sOn1dFNorh",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时25分 ~ 18时26分]"
         },
         {
           "title": "特朗普称对伊朗战事“接近结束”",
@@ -1861,8 +1896,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[08时17分 ~ 17时31分]"
+          "appearance_count": 15,
+          "time_info": "[08时17分 ~ 18时26分]"
         },
         {
           "title": "美股收盘：纳指12连涨 锂矿、CPU、光通信牛股带头冲高",
@@ -1925,8 +1960,19 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时01分 ~ 16时31分]"
+          "appearance_count": 10,
+          "time_info": "[11时01分 ~ 18时26分]"
+        },
+        {
+          "title": "风头盖过英伟达！美股CPU双雄股价齐创新高 AI属性渐获市场认可",
+          "url": "https://www.cls.cn/detail/2346971",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时43分 ~ 18时26分]"
         },
         {
           "title": "美股收盘：百度涨超3%",
@@ -1942,17 +1988,6 @@
           "time_info": "[08时17分 ~ 12时10分]"
         },
         {
-          "title": "风头盖过英伟达！美股CPU双雄股价齐创新高 AI属性渐获市场认可",
-          "url": "https://www.cls.cn/detail/2346971",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时43分 ~ 17时31分]"
-        },
-        {
           "title": "一图看懂 | A股七姐妹vs美股七姐妹，今年谁更能涨？",
           "url": "https://www.cls.cn/detail/2347485",
           "source": "财联社热门",
@@ -1960,8 +1995,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时30分 ~ 17时31分]"
+          "appearance_count": 4,
+          "time_info": "[17时30分 ~ 18时26分]"
         },
         {
           "title": "周四（4月16日），美股行业ETF涨跌各异，能源业ETF、科技行业ETF、全球科技股指数ETF、网络股指数ETF至多涨1.47%，银行业ETF收跌0.38%，医疗业ETF跌0.79%，生物科技指数ETF跌1.06%，全球航空业ETF跌1.44%。",
@@ -2039,7 +2074,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时31分"
         },
