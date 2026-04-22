@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-22T15:32:43.089408+08:00",
-  "total_titles_processed": 1474,
+  "generated_at": "2026-04-22T16:32:34.444227+08:00",
+  "total_titles_processed": 1590,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 115,
+      "match_count": 126,
       "titles": [
         {
           "title": "美军高官：已准备好重启对伊朗作战行动",
@@ -33,19 +33,17 @@
           "time_info": "[00时23分 ~ 15时32分]"
         },
         {
-          "title": "伊朗将恢复国内航班运营",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353546&amp;topic_name=%E4%BC%8A%E6%9C%97%E5%B0%86%E6%81%A2%E5%A4%8D%E5%9B%BD%E5%86%85%E8%88%AA%E7%8F%AD%E8%BF%90%E8%90%A5",
+          "title": "伊朗拒谈判,美国延长停火",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353554&amp;topic_name=%E4%BC%8A%E6%9C%97%E6%8B%92%E8%B0%88%E5%88%A4%2C%E7%BE%8E%E5%9B%BD%E5%BB%B6%E9%95%BF%E5%81%9C%E7%81%AB",
           "source": "贴吧",
           "ranks": [
             1,
-            5,
-            10,
-            11,
-            12
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时23分 ~ 15时32分]"
+          "appearance_count": 7,
+          "time_info": "[11时01分 ~ 16时32分]"
         },
         {
           "title": "伊朗外长：美国封锁伊港口是一种战争行为",
@@ -72,6 +70,34 @@
           "time_info": "[08时15分 ~ 14时34分]"
         },
         {
+          "title": "伊朗将恢复国内航班运营",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353546&amp;topic_name=%E4%BC%8A%E6%9C%97%E5%B0%86%E6%81%A2%E5%A4%8D%E5%9B%BD%E5%86%85%E8%88%AA%E7%8F%AD%E8%BF%90%E8%90%A5",
+          "source": "贴吧",
+          "ranks": [
+            1,
+            5,
+            10,
+            11,
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 19,
+          "time_info": "[00时23分 ~ 16时32分]"
+        },
+        {
+          "title": "伊朗致信联合国：责令美国“放人”",
+          "url": "https://news.ifeng.com/c/8sWcIvC6CVY",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时01分 ~ 16时32分]"
+        },
+        {
           "title": "伊朗储油罐要满了",
           "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%82%A8%E6%B2%B9%E7%BD%90%E8%A6%81%E6%BB%A1%E4%BA%86%23&t=31&band_rank=7&Refer=top",
           "source": "微博",
@@ -92,36 +118,25 @@
           "source": "知乎",
           "ranks": [
             2,
-            6
+            6,
+            11
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时15分 ~ 15时32分]"
+          "appearance_count": 9,
+          "time_info": "[08时15分 ~ 16时32分]"
         },
         {
-          "title": "伊朗拒谈判,美国延长停火",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353554&amp;topic_name=%E4%BC%8A%E6%9C%97%E6%8B%92%E8%B0%88%E5%88%A4%2C%E7%BE%8E%E5%9B%BD%E5%BB%B6%E9%95%BF%E5%81%9C%E7%81%AB",
-          "source": "贴吧",
+          "title": "美伊第二轮谈判搁置？伊朗代表：美国解除对伊封锁是谈判前提条件",
+          "url": "https://www.cls.cn/detail/2351498",
+          "source": "财联社热门",
           "ranks": [
-            1,
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时01分 ~ 15时32分]"
-        },
-        {
-          "title": "伊朗致信联合国：责令美国“放人”",
-          "url": "https://news.ifeng.com/c/8sWcIvC6CVY",
-          "source": "凤凰网",
-          "ranks": [
+            6,
             5,
-            4
+            2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时01分 ~ 15时32分]"
+          "appearance_count": 7,
+          "time_info": "[11时01分 ~ 16时32分]"
         },
         {
           "title": "美军集结三航母 伊朗能扛住吗",
@@ -172,18 +187,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[09时33分 ~ 15时32分]"
-        },
-        {
-          "title": "美伊第二轮谈判搁置？伊朗代表：美国解除对伊封锁是谈判前提条件",
-          "url": "https://www.cls.cn/detail/2351498",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时01分 ~ 15时32分]"
         },
         {
           "title": "伊朗战争丨万斯推迟前往巴基斯坦",
@@ -262,6 +265,19 @@
           "time_info": "[09时33分 ~ 15时32分]"
         },
         {
+          "title": "伊朗媒体披露伊方拒绝出席巴基斯坦会谈原因",
+          "url": "https://www.cls.cn/detail/2351485",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时01分 ~ 16时32分]"
+        },
+        {
           "title": "伊朗战争丨美伊互放狠话：已准备重启战事",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
           "source": "凤凰网",
@@ -271,6 +287,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时23分 ~ 01时21分]"
+        },
+        {
+          "title": "阿曼附近发生船只遇袭事件，船长：伊朗开火",
+          "url": "https://news.ifeng.com/c/8sWvQ9JzNf3",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时32分 ~ 16时32分]"
         },
         {
           "title": "伊朗称已为战事重新爆发做好准备",
@@ -297,6 +324,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时17分"
+        },
+        {
+          "title": "伊朗战争丨美伊声称控制霍尔木兹海峡？专家解读",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时32分"
         },
         {
           "title": "据AXIOS记者：消息人士告诉我，伊朗昨天私下发出信号表示会来参加会议，今天又说不来了。",
@@ -346,18 +384,6 @@
           "time_info": "[11时01分 ~ 15时32分]"
         },
         {
-          "title": "伊朗媒体披露伊方拒绝出席巴基斯坦会谈原因",
-          "url": "https://www.cls.cn/detail/2351485",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时01分 ~ 15时32分]"
-        },
-        {
           "title": "美国财政部长贝森特：伊朗政权必须为其敲诈全球能源市场和无差别袭击平民的导弹与无人机行为负责。",
           "url": "https://flash.jin10.com/detail/20260422020940640800",
           "source": "金十数据",
@@ -386,9 +412,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时32分"
+        },
+        {
+          "title": "伊朗：首轮谈判已释诚意 但美方表现冷淡",
+          "url": "https://wallstreetcn.com/livenews/3092432",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时32分"
         },
         {
           "title": "美国财政部长贝森特：财政部将继续追踪资金动向，并针对伊朗政权的鲁莽行为及其支持者。",
@@ -413,6 +450,17 @@
           "time_info": "03时27分"
         },
         {
+          "title": "伊朗：首轮谈判已释诚意 但美方表现冷淡",
+          "url": "https://flash.jin10.com/detail/20260422161416361800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时32分"
+        },
+        {
           "title": "伊朗拒绝出席谈判 美国延长停火期限",
           "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%8B%92%E7%BB%9D%E5%87%BA%E5%B8%AD%E8%B0%88%E5%88%A4+%E7%BE%8E%E5%9B%BD%E5%BB%B6%E9%95%BF%E5%81%9C%E7%81%AB%E6%9C%9F%E9%99%90",
           "source": "百度热搜",
@@ -427,17 +475,6 @@
           "time_info": "[08时15分 ~ 12时09分]"
         },
         {
-          "title": "阿曼附近发生船只遇袭事件，船长：伊朗开火",
-          "url": "https://news.ifeng.com/c/8sWvQ9JzNf3",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时32分"
-        },
-        {
           "title": "美国扩大对伊朗制裁名单 涉个人、企业及航空资产",
           "url": "https://flash.jin10.com/detail/20260422020733533800",
           "source": "金十数据",
@@ -447,6 +484,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时20分"
+        },
+        {
+          "title": "霍尔木兹再度紧绷，又有货船遭伊朗炮击！",
+          "url": "https://flash.jin10.com/detail/20260422161342215800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时32分"
         },
         {
           "title": "布伦特原油期货突破100美元心理关口，为4月13日以来盘中首次，涨幅扩大至5%。 WTI原油日内涨幅达5.0%，报91.94美元/桶。 据美联社报道，美国副总统万斯取消了前往巴基斯坦的行程。 据伊朗塔斯尼姆通讯社援引消息人士称，伊朗将不参加周三在巴基斯坦举行的会谈。",
@@ -471,6 +519,21 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[08时15分 ~ 12时09分]"
+        },
+        {
+          "title": "伊朗表示同意暂停军事战斗，但战争仍未结束，控制霍尔木兹海峡是宝贵筹码，核与导弹能力不容谈判，如何解读？",
+          "url": "https://www.zhihu.com/question/2030216929756045327",
+          "source": "知乎",
+          "ranks": [
+            15,
+            14,
+            12,
+            11,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时09分 ~ 16时32分]"
         },
         {
           "title": "据伊朗塔斯尼姆通讯社：如果美国想要维持战争乌云，就应视霍尔木兹海峡已实际完全关闭。",
@@ -606,20 +669,6 @@
           "time_info": "[08时15分 ~ 11时02分]"
         },
         {
-          "title": "伊朗表示同意暂停军事战斗，但战争仍未结束，控制霍尔木兹海峡是宝贵筹码，核与导弹能力不容谈判，如何解读？",
-          "url": "https://www.zhihu.com/question/2030216929756045327",
-          "source": "知乎",
-          "ranks": [
-            15,
-            14,
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时09分 ~ 15时32分]"
-        },
-        {
           "title": "美国海军将继续封锁伊朗港口",
           "url": "https://news.ifeng.com/c/8sWntEu20ZK",
           "source": "凤凰网",
@@ -652,6 +701,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时15分 ~ 09时33分]"
+        },
+        {
+          "title": "伊朗武装部队：已做好百分百战斗准备",
+          "url": "https://news.ifeng.com/c/8sWwwxDU8yc",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时32分 ~ 16时32分]"
         },
         {
           "title": "伊朗媒体披露伊方拒绝出席巴基斯坦会谈原因",
@@ -813,20 +873,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时32分"
         },
         {
-          "title": "伊朗武装部队：已做好百分百战斗准备",
-          "url": "https://news.ifeng.com/c/8sWwwxDU8yc",
-          "source": "凤凰网",
+          "title": "英国海军称一艘货船在伊朗附近遭袭后停止航行",
+          "url": "https://wallstreetcn.com/livenews/3092426",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时32分"
+          "time_info": "16时32分"
         },
         {
           "title": "美国财政部网站更新对伊朗的制裁措施。",
@@ -884,6 +944,17 @@
           "time_info": "06时15分"
         },
         {
+          "title": "伊朗外交部：尚未决定是否参加与美国的新一轮谈判",
+          "url": "https://wallstreetcn.com/livenews/3092423",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时32分"
+        },
+        {
           "title": "伊朗表示同意暂停军事战斗 但战争仍未结束",
           "url": "https://flash.jin10.com/detail/20260422070206016800",
           "source": "金十数据",
@@ -937,6 +1008,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时15分"
+        },
+        {
+          "title": "伊朗和意大利外长通话讨论伊朗停火事宜。",
+          "url": "https://wallstreetcn.com/livenews/3092420",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时32分"
         },
         {
           "title": "伊朗常驻联合国代表：美国解除封锁再重启谈判",
@@ -1036,6 +1118,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时33分"
+        },
+        {
+          "title": "伊朗革命卫队称随时准备回应再次侵略",
+          "url": "https://wallstreetcn.com/livenews/3092409",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时32分"
+        },
+        {
+          "title": "英国海事贸易行动办公室（UKMTO）：已收到报告称伊朗以西8海里处发生一起事件。 一艘出港货船的船长报告称，船只遭到射击，目前已停泊在水中。 船员安全，船只未报告损坏。",
+          "url": "https://wallstreetcn.com/livenews/3092408",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时32分"
         },
         {
           "title": "消息人士称伊朗不会参加22日的美伊谈判",
@@ -1192,6 +1296,17 @@
           "time_info": "13时43分"
         },
         {
+          "title": "伊朗外交部：尚未决定是否参加与美国的新一轮谈判",
+          "url": "https://flash.jin10.com/detail/20260422160252415800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时32分"
+        },
+        {
           "title": "胡塞武装领导人称，“如果敌人重返战场，我们也将加入战斗”。 胡塞武装领导人说：“我们的立场明确且公开，面对美国和以色列针对伊朗伊斯兰共和国的侵略，我们绝不保持中立。”（央视新闻）",
           "url": "https://wallstreetcn.com/livenews/3091992",
           "source": "华尔街见闻-快讯",
@@ -1280,6 +1395,17 @@
           "time_info": "12时09分"
         },
         {
+          "title": "两艘满载石油的伊朗油轮关闭信号 突破了美国的封锁线",
+          "url": "https://wallstreetcn.com/livenews/3092399",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时32分"
+        },
+        {
           "title": "伊朗外交部发言人：尚未决定是否参加会谈。",
           "url": "https://flash.jin10.com/detail/20260422002827995800",
           "source": "金十数据",
@@ -1349,7 +1475,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 69,
+      "match_count": 73,
       "titles": [
         {
           "title": "最后时刻反转！伊朗拒绝谈判，特朗普宣布延长停火，维持海上封锁等待伊朗提交方案",
@@ -1361,8 +1487,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时12分 ~ 15时32分]"
+          "appearance_count": 11,
+          "time_info": "[07时12分 ~ 16时32分]"
         },
         {
           "title": "特朗普宣布延长停火期限 直至伊朗拿出一份“统一谈判方案”",
@@ -1389,8 +1515,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[02时19分 ~ 15时32分]"
+          "appearance_count": 17,
+          "time_info": "[02时19分 ~ 16时32分]"
         },
         {
           "title": "【早报】特朗普：延长停火期限；伊朗：拒绝出席伊美第二轮谈判",
@@ -1442,8 +1568,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时23分 ~ 15时32分]"
+          "appearance_count": 19,
+          "time_info": "[00时23分 ~ 16时32分]"
         },
         {
           "title": "一图看懂｜特朗普执政一年后，美国科学界面临什么困境",
@@ -1490,8 +1616,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时09分 ~ 15时32分]"
+          "appearance_count": 5,
+          "time_info": "[12时09分 ~ 16时32分]"
         },
         {
           "title": "特朗普：预计美伊将达成“重大协议”，如果沃什不迅速降息将会感到失望",
@@ -1503,8 +1629,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[03时27分 ~ 09时33分]"
+          "appearance_count": 9,
+          "time_info": "[03时27分 ~ 16时32分]"
         },
         {
           "title": "特朗普宣布延长同伊朗的停火",
@@ -1540,11 +1666,28 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时01分 ~ 15时32分]"
+          "appearance_count": 7,
+          "time_info": "[11时01分 ~ 16时32分]"
+        },
+        {
+          "title": "“特朗普总是临阵脱逃”：TACO背后的股市反常繁荣和内幕交易争议",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33019660",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            16,
+            13,
+            11,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时01分 ~ 16时32分]"
         },
         {
           "title": "伊朗战争丨特朗普宣布延长对伊朗停火",
@@ -1600,21 +1743,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时15分"
-        },
-        {
-          "title": "“特朗普总是临阵脱逃”：TACO背后的股市反常繁荣和内幕交易争议",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33019660",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            16,
-            13,
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时01分 ~ 15时32分]"
         },
         {
           "title": "特朗普虽宣布延长停火，但美伊局势仍蓄势待发，阴霾前景下金银从高位回落，油价再度回升；美联储主席提名人结束听证，呼吁需要制定一套新的框架来应对通胀问题。后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
@@ -1715,8 +1843,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时43分 ~ 15时32分]"
+          "appearance_count": 4,
+          "time_info": "[13时43分 ~ 16时32分]"
         },
         {
           "title": "伊朗议会议长顾问称特朗普的停火延长毫无意义",
@@ -1765,6 +1893,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时20分 ~ 03时27分]"
+        },
+        {
+          "title": "特朗普延长与伊朗停火，外交部回应",
+          "url": "https://news.ifeng.com/c/8sX5InWbAM4",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时32分"
         },
         {
           "title": "特朗普政府警告称，未来几周将没有足够资金支付运输安全管理局工作人员的工资。",
@@ -1842,6 +1981,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时15分"
+        },
+        {
+          "title": "民调：特朗普支持率下降 美国朝错误方向发展",
+          "url": "https://www.cls.cn/detail/2351804",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时32分"
         },
         {
           "title": "特朗普提名Phelan担任经济顾问委员会主席",
@@ -2009,6 +2159,17 @@
           "time_info": "07时13分"
         },
         {
+          "title": "特朗普媒体科技集团Trump Media 股价在盘前上涨2%；公司任命Kevin Mcgurn为临时首席执行官。",
+          "url": "https://flash.jin10.com/detail/20260422160518295800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时32分"
+        },
+        {
           "title": "美联储主席提名人沃什：在美联储理事库克（Lisa Cook）被美国总统特朗普的政府起诉一事上，让我介入是不合适的。 如果提名资格获得确认，将遵循美国最高法院的意见。",
           "url": "https://wallstreetcn.com/livenews/3091994",
           "source": "华尔街见闻-快讯",
@@ -2130,6 +2291,17 @@
           "time_info": "01时21分"
         },
         {
+          "title": "特朗普延长与伊朗停火，外交部：支持相关方实现全面持久停火止战",
+          "url": "https://wallstreetcn.com/livenews/3092394",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时32分"
+        },
+        {
           "title": "特朗普拟延长放宽美国油运限制的措施",
           "url": "https://flash.jin10.com/detail/20260422085324790800",
           "source": "金十数据",
@@ -2155,8 +2327,19 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 13,
+      "match_count": 15,
       "titles": [
+        {
+          "title": "伊朗停火谈判生变，美股收跌，芯片股指十五连涨，油价再涨，金银下挫",
+          "url": "https://wallstreetcn.com/articles/3770463",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[08时15分 ~ 16时32分]"
+        },
         {
           "title": "美股收盘：三大指数尾盘跳水集体收跌 中东战火阴影盖过财报利好",
           "url": "https://www.cls.cn/detail/2351396",
@@ -2170,17 +2353,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[06时15分 ~ 15时32分]"
-        },
-        {
-          "title": "伊朗停火谈判生变，美股收跌，芯片股指十五连涨，油价再涨，金银下挫",
-          "url": "https://wallstreetcn.com/articles/3770463",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时15分 ~ 15时32分]"
         },
         {
           "title": "美伊谈判悬而未决，美股指收跌，半导体指数十四连涨，原油大涨",
@@ -2290,6 +2462,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时17分"
+        },
+        {
+          "title": "“美股暴跌20%”、“200美元油价”情景没出现？特朗普直言“很惊讶”",
+          "url": "https://www.cls.cn/detail/2351488",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时32分"
+        },
+        {
+          "title": "美股盘前，半导体股普涨，阿斯麦涨约1%，ARM涨约2.5%，美光科技涨约1.5%。",
+          "url": "https://wallstreetcn.com/livenews/3092421",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时32分"
         },
         {
           "title": "周二（4月21日），美股行业ETF普遍收跌，全球航空业ETF收跌2.90%，公用事业ETF、区域银行ETF、银行业ETF、医疗业ETF、生物科技指数ETF跌1.75%-1.01%，半导体ETF涨0.15%，能源业ETF涨1.45%。",
@@ -2464,7 +2658,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时32分"
         },
