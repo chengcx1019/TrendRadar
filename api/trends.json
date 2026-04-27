@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-28T01:31:02.769444+08:00",
-  "total_titles_processed": 397,
+  "generated_at": "2026-04-28T02:24:49.947183+08:00",
+  "total_titles_processed": 427,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 31,
+      "match_count": 32,
       "titles": [
         {
           "title": "伊朗提出一项分三阶段解决的谈判方案：先谈终止战争，然后霍尔木兹海峡，最后才是核问题",
@@ -15,19 +15,52 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时31分 ~ 01时31分]"
+          "appearance_count": 5,
+          "time_info": "[00时31分 ~ 02时24分]"
         },
         {
-          "title": "白宫新闻秘书莱维特：我不会说美国正在考虑伊朗的提议。",
-          "url": "https://flash.jin10.com/detail/20260428012607940800",
-          "source": "金十数据",
+          "title": "伊朗外长：美方请求谈判 伊方正考虑",
+          "url": "https://www.toutiao.com/trending/7633444247001189938/",
+          "source": "今日头条",
           "ranks": [
-            2
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时31分"
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时31分 ~ 02时24分]"
+        },
+        {
+          "title": "消息人士：伊朗提出一项分三阶段解决的谈判方案",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33060063",
+          "source": "澎湃新闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时31分 ~ 02时24分]"
+        },
+        {
+          "title": "伊朗战争丨普京会见伊朗外长，与穆杰塔巴隔空互动",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时31分 ~ 02时24分]"
+        },
+        {
+          "title": "伊朗外长抵达圣彼得堡将同普京举行会谈，会谈些啥？美伊局势转向会迎来重要契机吗？",
+          "url": "https://www.zhihu.com/question/2032051759590397567",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时31分 ~ 02时24分]"
         },
         {
           "title": "美国务卿鲁比奥：美国不会允许伊朗控制霍尔木兹海峡",
@@ -41,17 +74,6 @@
           "time_info": "00时32分"
         },
         {
-          "title": "德银、摩根大通看好伊朗战争背景下的能源挂钩货币",
-          "url": "https://wallstreetcn.com/livenews/3095161",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时31分"
-        },
-        {
           "title": "据沙特媒体哈达斯（alhadath）：法国外长表示，伊朗已越过十年前为其设定的所有红线。",
           "url": "https://flash.jin10.com/detail/20260427235302454800",
           "source": "金十数据",
@@ -63,93 +85,16 @@
           "time_info": "00时32分"
         },
         {
-          "title": "伊朗外长：与普京畅谈一个半小时“富有成效”",
-          "url": "https://wallstreetcn.com/livenews/3095160",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时31分"
-        },
-        {
-          "title": "美国白宫：正在讨论伊朗的提议。",
-          "url": "https://flash.jin10.com/detail/20260428012342837800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时31分"
-        },
-        {
-          "title": "伊朗外长：美方请求谈判 伊方正考虑",
-          "url": "https://www.toutiao.com/trending/7633444247001189938/",
-          "source": "今日头条",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时31分 ~ 01时31分]"
-        },
-        {
-          "title": "消息人士：伊朗提出一项分三阶段解决的谈判方案",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33060063",
-          "source": "澎湃新闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时31分 ~ 01时31分]"
-        },
-        {
-          "title": "伊朗战争丨普京会见伊朗外长，与穆杰塔巴隔空互动",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时31分 ~ 01时31分]"
-        },
-        {
-          "title": "伊朗外长抵达圣彼得堡将同普京举行会谈，会谈些啥？美伊局势转向会迎来重要契机吗？",
-          "url": "https://www.zhihu.com/question/2032051759590397567",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时31分 ~ 01时31分]"
-        },
-        {
-          "title": "伊朗外长：伊方正研究和评估美方的谈判请求",
-          "url": "https://wallstreetcn.com/livenews/3095137",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时32分 ~ 01时31分]"
-        },
-        {
           "title": "伊朗宣布暂停66类钢铁产品出口，此前70%钢铁产能被以色列摧毁",
           "url": "https://wallstreetcn.com/articles/3770985",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时31分 ~ 01时31分]"
+          "appearance_count": 5,
+          "time_info": "[00时31分 ~ 02时24分]"
         },
         {
           "title": "美国以涉伊朗为由制裁中企 中方表态",
@@ -160,8 +105,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时31分 ~ 01时31分]"
+          "appearance_count": 5,
+          "time_info": "[00时31分 ~ 02时24分]"
         },
         {
           "title": "美以袭击伊朗进入第 59 天，当前局势如何？还有哪些信息值得关注？",
@@ -171,8 +116,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时31分 ~ 01时31分]"
+          "appearance_count": 5,
+          "time_info": "[00时31分 ~ 02时24分]"
         },
         {
           "title": "普京：已收到伊朗最高领袖传来的信息",
@@ -182,8 +127,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时31分 ~ 01时31分]"
+          "appearance_count": 5,
+          "time_info": "[00时31分 ~ 02时24分]"
         },
         {
           "title": "伊朗外长：美方请求谈判 伊方正考虑",
@@ -191,11 +136,73 @@
           "source": "百度热搜",
           "ranks": [
             17,
+            16,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时31分 ~ 02时24分]"
+        },
+        {
+          "title": "德银、摩根大通看好伊朗战争背景下的能源挂钩货币",
+          "url": "https://wallstreetcn.com/livenews/3095161",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时31分 ~ 02时24分]"
+        },
+        {
+          "title": "伊朗外长：伊方正研究和评估美方的谈判请求",
+          "url": "https://wallstreetcn.com/livenews/3095137",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            26,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时32分 ~ 02时24分]"
+        },
+        {
+          "title": "白宫新闻秘书莱维特：我不会说美国正在考虑伊朗的提议。",
+          "url": "https://flash.jin10.com/detail/20260428012607940800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时31分 ~ 02时24分]"
+        },
+        {
+          "title": "伊朗外长：与普京畅谈一个半小时“富有成效”",
+          "url": "https://wallstreetcn.com/livenews/3095160",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时31分 ~ 02时24分]"
+        },
+        {
+          "title": "美国白宫：正在讨论伊朗的提议。",
+          "url": "https://flash.jin10.com/detail/20260428012342837800",
+          "source": "金十数据",
+          "ranks": [
+            5,
             16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时31分 ~ 01时31分]"
+          "appearance_count": 2,
+          "time_info": "[01时31分 ~ 02时24分]"
         },
         {
           "title": "伊朗议员：坚信伊朗谈判代表团将维护国家权益",
@@ -208,6 +215,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时32分 ~ 01时31分]"
+        },
+        {
+          "title": "伊朗外长：与普京畅谈一个半小时“富有成效”",
+          "url": "https://flash.jin10.com/detail/20260428012104317800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时31分 ~ 02时24分]"
+        },
+        {
+          "title": "城堡证券：伊朗冲突风险消退，股债市场有望同步上涨",
+          "url": "https://wallstreetcn.com/livenews/3095141",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时31分 ~ 02时24分]"
         },
         {
           "title": "伊斯兰革命卫队政治副司令贾瓦尼：美国人永远无法通过军事手段打开霍尔木兹海峡，而伊朗通过关闭该海峡并作出对等回应，已使华盛顿陷入困境。",
@@ -276,17 +307,6 @@
           "time_info": "00时32分"
         },
         {
-          "title": "伊朗外长：与普京畅谈一个半小时“富有成效”",
-          "url": "https://flash.jin10.com/detail/20260428012104317800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时31分"
-        },
-        {
           "title": "据沙特媒体哈达斯（alhadath）：巴林外交大臣表示，国际社会必须意识到伊朗关闭霍尔木兹海峡的严重后果。",
           "url": "https://flash.jin10.com/detail/20260427234110331800",
           "source": "金十数据",
@@ -320,17 +340,6 @@
           "time_info": "00时32分"
         },
         {
-          "title": "城堡证券：伊朗冲突风险消退，股债市场有望同步上涨",
-          "url": "https://wallstreetcn.com/livenews/3095141",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时31分"
-        },
-        {
           "title": "伊朗外交部：伊朗外长阿拉格齐率领外交代表团于周一晚间与俄罗斯总统普京会晤，讨论了双边伊朗-俄罗斯关系及国际形势。",
           "url": "https://flash.jin10.com/detail/20260427233214724800",
           "source": "金十数据",
@@ -340,6 +349,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时32分"
+        },
+        {
+          "title": "普京会见伊朗外长阿拉格齐",
+          "url": "https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E4%BC%9A%E8%A7%81%E4%BC%8A%E6%9C%97%E5%A4%96%E9%95%BF%E9%98%BF%E6%8B%89%E6%A0%BC%E9%BD%90",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时24分"
         },
         {
           "title": "美国国务卿卢比奥：美国无法容忍伊朗将控制霍尔木兹海峡的做法常态化。",
@@ -356,7 +376,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 19,
+      "match_count": 25,
       "titles": [
         {
           "title": "美记者当面念枪手宣言，特朗普发怒：你真可耻",
@@ -366,8 +386,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时31分 ~ 01时31分]"
+          "appearance_count": 5,
+          "time_info": "[00时31分 ~ 02时24分]"
         },
         {
           "title": "特朗普未来出席活动或须穿防弹衣，枪击案更多细节曝光",
@@ -377,19 +397,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时31分 ~ 01时31分]"
-        },
-        {
-          "title": "白宫新闻秘书莱维特：特朗普知晓监察长拥有调查美联储主席主导的翻新工程的工具。",
-          "url": "https://flash.jin10.com/detail/20260428012651785800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时31分"
+          "appearance_count": 5,
+          "time_info": "[00时31分 ~ 02时24分]"
         },
         {
           "title": "美国总统特朗普：应当立即解雇Jimmy Kimmel。",
@@ -398,31 +407,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时31分"
         },
         {
-          "title": "白宫新闻秘书Leavitt：美国总统特朗普今天与团队讨论了伊朗的建议。 很快就会听到特朗普对于伊朗的态度。",
-          "url": "https://wallstreetcn.com/livenews/3095162",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时31分"
-        },
-        {
-          "title": "美国白宫：特朗普的红线已经明确。",
-          "url": "https://flash.jin10.com/detail/20260428012403221800",
+          "title": "美国白宫：特朗普关于伊朗问题的底线没有改变",
+          "url": "https://flash.jin10.com/detail/20260428014452640800",
           "source": "金十数据",
           "ranks": [
-            4
+            3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时31分"
+          "time_info": "02时24分"
         },
         {
           "title": "为什么先救万斯？特朗普：我不愿意走，想看看怎么回事",
@@ -432,8 +430,30 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时31分 ~ 01时31分]"
+          "appearance_count": 5,
+          "time_info": "[00时31分 ~ 02时24分]"
+        },
+        {
+          "title": "谈判陷入僵局之际 特朗普与团队就伊朗问题举行磋商",
+          "url": "https://flash.jin10.com/detail/20260428014156137800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时24分"
+        },
+        {
+          "title": "迪士尼股价短线下挫，从涨约0.5%转而下跌约0.4%。 美国总统特朗普声称，ABC与迪士尼应当立即解雇Jimmy Kimmel，Kimmel一点都不风趣。",
+          "url": "https://wallstreetcn.com/livenews/3095163",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时24分"
         },
         {
           "title": "白宫遭枪击,特朗普紧急撤离",
@@ -444,52 +464,137 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时31分 ~ 01时31分]"
+          "appearance_count": 5,
+          "time_info": "[00时31分 ~ 02时24分]"
+        },
+        {
+          "title": "白宫新闻秘书Leavitt：美国总统特朗普今天与团队讨论了伊朗的建议。 很快就会听到特朗普对于伊朗的态度。",
+          "url": "https://wallstreetcn.com/livenews/3095162",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时31分 ~ 02时24分]"
+        },
+        {
+          "title": "白宫新闻秘书莱维特：特朗普知晓监察长拥有调查美联储主席主导的翻新工程的工具。",
+          "url": "https://flash.jin10.com/detail/20260428012651785800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时31分 ~ 02时24分]"
+        },
+        {
+          "title": "美国白宫：特朗普的红线已经明确。",
+          "url": "https://flash.jin10.com/detail/20260428012403221800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时31分 ~ 02时24分]"
         },
         {
           "title": "白宫：美国总统特朗普今早已与国家安全团队会面。",
           "url": "https://flash.jin10.com/detail/20260428012324673800",
           "source": "金十数据",
           "ranks": [
-            6
+            6,
+            17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时31分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时31分 ~ 02时24分]"
         },
         {
           "title": "美国白宫：美国总统特朗普将参加重新安排的晚宴。",
           "url": "https://flash.jin10.com/detail/20260428012255093800",
           "source": "金十数据",
           "ranks": [
-            8
+            8,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时31分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时31分 ~ 02时24分]"
         },
         {
           "title": "美国白宫：美国总统特朗普认为新闻晚宴的安全措施有效。",
           "url": "https://flash.jin10.com/detail/20260428011948774800",
           "source": "金十数据",
           "ranks": [
-            13
+            13,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时31分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时31分 ~ 02时24分]"
         },
         {
           "title": "特朗普舞厅诉讼案原告拒绝美国司法部在“刺杀企图”后撤诉的要求。",
           "url": "https://wallstreetcn.com/livenews/3095149",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            14
+            14,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时31分 ~ 02时24分]"
+        },
+        {
+          "title": "城堡证券EMEA固定收益销售主管Nohshad Shah：美联储领导者的潜在转变伴随着风险。 特朗普挑选的新一届美联储主席凯文·沃什强调，衡量通胀的指标应排除最极端的价格波动。 这种做法可能会使政策制定者对通胀动态的变化反应迟缓，因为转折点通常出现在“分布的尾部”——而这正是所谓的截尾均值指标剔除的成分。 沃什选择的通胀衡量指标对他有利，这与他对美联储应对疫情通胀反应迟缓的批评直接矛盾。",
+          "url": "https://wallstreetcn.com/livenews/3095143",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时31分 ~ 02时24分]"
+        },
+        {
+          "title": "白宫新闻秘书莱维特：你们将很快听到美国总统特朗普关于伊朗的消息。",
+          "url": "https://flash.jin10.com/detail/20260428012929234800",
+          "source": "金十数据",
+          "ranks": [
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时31分"
+          "time_info": "02时24分"
+        },
+        {
+          "title": "美国总统特朗普：吉米·基梅尔应立即被迪士尼和美国广播公司解雇。",
+          "url": "https://flash.jin10.com/detail/20260428012819698800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时24分"
+        },
+        {
+          "title": "白宫新闻秘书莱维特：沃什获确认后，特朗普将感到满意。",
+          "url": "https://flash.jin10.com/detail/20260428012706873800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时24分"
         },
         {
           "title": "美国白宫：那些不断诬蔑、诽谤特朗普为“法西斯”及“民主威胁”的人，正在助长暴力行为。美国总统特朗普继续信任特勤局。",
@@ -498,18 +603,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时31分"
-        },
-        {
-          "title": "城堡证券EMEA固定收益销售主管Nohshad Shah：美联储领导者的潜在转变伴随着风险。 特朗普挑选的新一届美联储主席凯文·沃什强调，衡量通胀的指标应排除最极端的价格波动。 这种做法可能会使政策制定者对通胀动态的变化反应迟缓，因为转折点通常出现在“分布的尾部”——而这正是所谓的截尾均值指标剔除的成分。 沃什选择的通胀衡量指标对他有利，这与他对美联储应对疫情通胀反应迟缓的批评直接矛盾。",
-          "url": "https://wallstreetcn.com/livenews/3095143",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时31分"
         },
@@ -520,7 +614,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时31分"
         },
@@ -531,7 +625,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时31分"
         },
@@ -542,7 +636,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时31分"
         },
@@ -553,7 +647,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时31分"
         },
@@ -564,7 +658,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时31分"
         }
@@ -572,7 +666,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "谷歌员工呼吁CEO皮查伊阻止美国军方使用其人工智能。",
@@ -584,6 +678,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时32分"
+        },
+        {
+          "title": "谷歌DeepMind将与韩国合作推进“登月”级AI项目",
+          "url": "https://wallstreetcn.com/livenews/3095168",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时24分"
+        },
+        {
+          "title": "欧盟要求谷歌向AI竞争对手开放安卓系统",
+          "url": "https://flash.jin10.com/detail/20260428013540130800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时24分"
         },
         {
           "title": "谷歌公司员工呼吁CEO Pichai阻止美国军方使用其AI技术（产品）。（英国金融时报）",
@@ -602,33 +718,36 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            24
+            24,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时32分 ~ 01时31分]"
+          "appearance_count": 3,
+          "time_info": "[00时32分 ~ 02时24分]"
         },
         {
           "title": "谷歌在安卓生态中的AI主导权遭欧盟“狙击”",
           "url": "https://wallstreetcn.com/livenews/3095153",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            10,
+            14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时31分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时31分 ~ 02时24分]"
         },
         {
           "title": "苹果、谷歌联手扼杀美国加州扶持小竞争对手的法案",
           "url": "https://wallstreetcn.com/livenews/3095147",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            16
+            16,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时31分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时31分 ~ 02时24分]"
         },
         {
           "title": "原谷歌Deepmind研究员David Silver为自家新公司Ineffable Intelligence在种子轮按照51亿美元估值融资11亿美元。 红杉资本与Lightspeed Venture Partners领投，英伟达、Alphabet旗下谷歌公司、英国政府等参投。",
@@ -659,7 +778,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时31分"
         }
@@ -675,11 +794,12 @@
           "source": "今日头条",
           "ranks": [
             24,
-            8
+            8,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时31分 ~ 01时31分]"
+          "appearance_count": 5,
+          "time_info": "[00时31分 ~ 02时24分]"
         },
         {
           "title": "国芯+国模！DeepSeek适配国产芯片 AI算力底座迈向多样化",
@@ -689,19 +809,20 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时31分 ~ 01时31分]"
+          "appearance_count": 5,
+          "time_info": "[00时31分 ~ 02时24分]"
         },
         {
           "title": "如何评价小米 4 月 23 日发布的 MiMo-V2.5 系列模型，有可能比 DeepSeekV4 更强吗？",
           "url": "https://www.zhihu.com/question/2030445160417510538",
           "source": "知乎",
           "ranks": [
-            18
+            18,
+            16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时31分 ~ 01时31分]"
+          "appearance_count": 5,
+          "time_info": "[00时31分 ~ 02时24分]"
         }
       ]
     },
@@ -717,8 +838,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时31分 ~ 01时31分]"
+          "appearance_count": 5,
+          "time_info": "[00时31分 ~ 02时24分]"
         },
         {
           "title": "对冲基金两年来最快速度抛售科技股，美股内部已现裂痕",
@@ -728,8 +849,37 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时31分 ~ 01时31分]"
+          "appearance_count": 5,
+          "time_info": "[00时31分 ~ 02时24分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "英伟达涨超3%，刷新盘中历史高位至215美元上方，盘中市值5.22万亿美元。费城半导体指数目前跌超1.6%。",
+          "url": "https://wallstreetcn.com/livenews/3095167",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时24分"
+        },
+        {
+          "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌1.81%，暂报2646.68点。 MarketVectorTM数字资产100中盘指数跌2.67%，报2840.14点。 MarketVector数字资产100指数跌1.88%，报15109.57点。 目前，Solana跌2.99%，狗狗币跌1.90%，XRP跌3.13%。 比特币跌2.08%，暂报76615.68美元；以太坊跌3.81%，暂报2277.61美元。",
+          "url": "https://wallstreetcn.com/livenews/3095150",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时31分 ~ 02时24分]"
         }
       ]
     },
@@ -746,8 +896,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时31分 ~ 01时31分]"
+          "appearance_count": 5,
+          "time_info": "[00时31分 ~ 02时24分]"
         }
       ]
     },
@@ -765,23 +915,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时32分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌1.81%，暂报2646.68点。 MarketVectorTM数字资产100中盘指数跌2.67%，报2840.14点。 MarketVector数字资产100指数跌1.88%，报15109.57点。 目前，Solana跌2.99%，狗狗币跌1.90%，XRP跌3.13%。 比特币跌2.08%，暂报76615.68美元；以太坊跌3.81%，暂报2277.61美元。",
-          "url": "https://wallstreetcn.com/livenews/3095150",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时31分"
         }
       ]
     }
