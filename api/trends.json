@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-28T16:47:19.427899+08:00",
-  "total_titles_processed": 1504,
+  "generated_at": "2026-04-28T17:45:37.258839+08:00",
+  "total_titles_processed": 1616,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 78,
+      "match_count": 84,
       "titles": [
         {
           "title": "伊朗提出一项分三阶段解决的谈判方案：先谈终止战争，然后霍尔木兹海峡，最后才是核问题",
@@ -35,6 +35,19 @@
           "time_info": "[00时31分 ~ 07时17分]"
         },
         {
+          "title": "伊朗外长称美方请求谈判、伊方正考虑，美国务卿称伊重开霍尔木兹提议不可接受",
+          "url": "https://wallstreetcn.com/articles/3771035",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时33分 ~ 17时45分]"
+        },
+        {
           "title": "伊朗宣布暂停66类钢铁产品出口，此前70%钢铁产能被以色列摧毁",
           "url": "https://wallstreetcn.com/articles/3770985",
           "source": "华尔街见闻",
@@ -48,21 +61,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时31分 ~ 16时47分]"
-        },
-        {
-          "title": "伊朗外长称美方请求谈判、伊方正考虑，美国务卿称伊重开霍尔木兹提议不可接受",
-          "url": "https://wallstreetcn.com/articles/3771035",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时33分 ~ 16时47分]"
+          "appearance_count": 20,
+          "time_info": "[00时31分 ~ 17时45分]"
         },
         {
           "title": "伊朗代表：美国“如同海盗和恐怖分子”",
@@ -73,8 +73,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时02分 ~ 16时47分]"
+          "appearance_count": 7,
+          "time_info": "[11时02分 ~ 17时45分]"
         },
         {
           "title": "消息人士：伊朗提出一项分三阶段解决的谈判方案",
@@ -87,6 +87,18 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时31分 ~ 07时17分]"
+        },
+        {
+          "title": "美以袭击伊朗进入第 60 天，当前局势如何？还有哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2032226305366647567",
+          "source": "知乎",
+          "ranks": [
+            6,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[08时21分 ~ 17时45分]"
         },
         {
           "title": "伊朗外长抵达圣彼得堡将同普京举行会谈，会谈些啥？美伊局势转向会迎来重要契机吗？",
@@ -157,16 +169,21 @@
           "time_info": "[00时31分 ~ 07时17分]"
         },
         {
-          "title": "美以袭击伊朗进入第 60 天，当前局势如何？还有哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2032226305366647567",
-          "source": "知乎",
+          "title": "普京：全世界都钦佩伊朗人民抵抗美国",
+          "url": "https://www.toutiao.com/trending/7632898398869474879/",
+          "source": "今日头条",
           "ranks": [
-            6,
-            11
+            24,
+            11,
+            17,
+            18,
+            23,
+            13,
+            14
           ],
           "is_new": false,
           "appearance_count": 9,
-          "time_info": "[08时21分 ~ 16时47分]"
+          "time_info": "[09时33分 ~ 17时45分]"
         },
         {
           "title": "伊朗战争丨普京会见伊朗外长，与穆杰塔巴隔空互动",
@@ -178,22 +195,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时31分 ~ 05时21分]"
-        },
-        {
-          "title": "普京：全世界都钦佩伊朗人民抵抗美国",
-          "url": "https://www.toutiao.com/trending/7632898398869474879/",
-          "source": "今日头条",
-          "ranks": [
-            24,
-            11,
-            17,
-            18,
-            23,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时33分 ~ 16时47分]"
         },
         {
           "title": "经济学家警告：伊朗战争对美国经济的冲击或贯穿整个2026年",
@@ -227,9 +228,23 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时47分"
+        },
+        {
+          "title": "伊朗“蚊子舰队”如何控制海峡",
+          "url": "https://www.toutiao.com/trending/7632881081640976430/",
+          "source": "今日头条",
+          "ranks": [
+            14,
+            11,
+            17,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时06分 ~ 17时45分]"
         },
         {
           "title": "美国务卿鲁比奥：美国不会允许伊朗控制霍尔木兹海峡",
@@ -276,19 +291,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[08时21分 ~ 13时06分]"
-        },
-        {
-          "title": "伊朗“蚊子舰队”如何控制海峡",
-          "url": "https://www.toutiao.com/trending/7632881081640976430/",
-          "source": "今日头条",
-          "ranks": [
-            14,
-            11,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时06分 ~ 16时47分]"
         },
         {
           "title": "普京会见伊朗外长阿拉格齐",
@@ -620,6 +622,18 @@
           "time_info": "[05时21分 ~ 06时16分]"
         },
         {
+          "title": "伊朗三阶段和平建议讨论之时，贝森特称伊朗石油工业即将崩溃，储油罐爆满、汽油短缺将出现，对此你怎么看？",
+          "url": "https://www.zhihu.com/question/2032385595960451834",
+          "source": "知乎",
+          "ranks": [
+            19,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时47分 ~ 17时45分]"
+        },
+        {
           "title": "城堡证券：伊朗冲突风险消退，股债市场有望同步上涨",
           "url": "https://wallstreetcn.com/livenews/3095141",
           "source": "华尔街见闻-快讯",
@@ -737,7 +751,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时47分"
         },
@@ -786,6 +800,17 @@
           "time_info": "00时32分"
         },
         {
+          "title": "伊朗储油能力即将达到极限 减产或永久性损害油田产能",
+          "url": "https://www.cls.cn/detail/2357977",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时45分"
+        },
+        {
           "title": "据沙特媒体哈达斯（alhadath）：巴林外交大臣表示，国际社会必须意识到伊朗关闭霍尔木兹海峡的严重后果。",
           "url": "https://flash.jin10.com/detail/20260427234110331800",
           "source": "金十数据",
@@ -830,6 +855,17 @@
           "time_info": "15时46分"
         },
         {
+          "title": "伊朗国防部：美国必须停止其“非法要求”",
+          "url": "https://wallstreetcn.com/livenews/3095622",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时45分"
+        },
+        {
           "title": "Kpler：伊朗尚未使用的储油空间至多能储存22天的供应",
           "url": "https://flash.jin10.com/detail/20260428075116826800",
           "source": "金十数据",
@@ -863,15 +899,15 @@
           "time_info": "11时02分"
         },
         {
-          "title": "伊朗三阶段和平建议讨论之时，贝森特称伊朗石油工业即将崩溃，储油罐爆满、汽油短缺将出现，对此你怎么看？",
-          "url": "https://www.zhihu.com/question/2032385595960451834",
-          "source": "知乎",
+          "title": "伊朗外交部谴责欧盟对伊制裁“非人道”",
+          "url": "https://wallstreetcn.com/livenews/3095620",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            19
+            17
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时47分"
+          "time_info": "17时45分"
         },
         {
           "title": "伊朗外长感谢俄方声援和外交支持",
@@ -883,6 +919,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时06分"
+        },
+        {
+          "title": "外交部和中国驻伊朗使领馆再次提醒中国公民暂勿前往伊朗",
+          "url": "https://wallstreetcn.com/livenews/3095612",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时45分"
         },
         {
           "title": "伊朗外交部：伊朗外长阿拉格齐率领外交代表团于周一晚间与俄罗斯总统普京会晤，讨论了双边伊朗-俄罗斯关系及国际形势。",
@@ -938,12 +985,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时21分"
+        },
+        {
+          "title": "伊朗黑客组织称已公布近2400名驻中东美军士兵信息",
+          "url": "https://flash.jin10.com/detail/20260428171856472800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时45分"
+        },
+        {
+          "title": "伊朗称在间谍活动基地发现“星链”",
+          "url": "https://www.toutiao.com/trending/7633725221346328627/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时45分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 63,
+      "match_count": 65,
       "titles": [
         {
           "title": "美记者当面念枪手宣言，特朗普发怒：你真可耻",
@@ -1017,8 +1086,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时33分 ~ 16时47分]"
+          "appearance_count": 9,
+          "time_info": "[09时33分 ~ 17时45分]"
         },
         {
           "title": "美伊分歧难弥合！美官员：特朗普“不喜欢”伊朗新提案 核问题须优先解决",
@@ -1028,11 +1097,12 @@
             10,
             6,
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时06分 ~ 16时47分]"
+          "appearance_count": 6,
+          "time_info": "[13时06分 ~ 17时45分]"
         },
         {
           "title": "美国总统特朗普：应当立即解雇Jimmy Kimmel。",
@@ -1055,6 +1125,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时06分"
+        },
+        {
+          "title": "伊朗战争丨与特朗普说法不同，鲁比奥称伊朗仍有半数导弹库存",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时50分 ~ 17时45分]"
         },
         {
           "title": "美国白宫：特朗普关于伊朗问题的底线没有改变",
@@ -1090,6 +1171,17 @@
           "time_info": "02时24分"
         },
         {
+          "title": "特朗普与梅拉尼娅在白宫迎接英王夫妇",
+          "url": "https://news.ifeng.com/c/8sgnalbK6o8",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时50分 ~ 17时45分]"
+        },
+        {
           "title": "白宫新闻秘书Leavitt：美国总统特朗普今天与团队讨论了伊朗的建议。 很快就会听到特朗普对于伊朗的态度。",
           "url": "https://wallstreetcn.com/livenews/3095162",
           "source": "华尔街见闻-快讯",
@@ -1100,17 +1192,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时31分 ~ 02时24分]"
-        },
-        {
-          "title": "伊朗战争丨与特朗普说法不同，鲁比奥称伊朗仍有半数导弹库存",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时50分 ~ 16时47分]"
         },
         {
           "title": "白宫新闻秘书莱维特：特朗普知晓监察长拥有调查美联储主席主导的翻新工程的工具。",
@@ -1183,17 +1264,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时21分 ~ 06时16分]"
-        },
-        {
-          "title": "特朗普与梅拉尼娅在白宫迎接英王夫妇",
-          "url": "https://news.ifeng.com/c/8sgnalbK6o8",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时50分 ~ 16时47分]"
         },
         {
           "title": "主持人读枪手宣言让特朗普破防",
@@ -1415,7 +1485,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时47分"
         },
@@ -1464,6 +1534,17 @@
           "time_info": "11时02分"
         },
         {
+          "title": "克里姆林宫：如果普京与特朗普的对话得以进行，克里姆林宫将立即告知相关消息。今天对此无可奉告。",
+          "url": "https://flash.jin10.com/detail/20260428172852327800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时45分"
+        },
+        {
           "title": "白宫新闻秘书莱维特：沃什获确认后，特朗普将感到满意。",
           "url": "https://flash.jin10.com/detail/20260428012706873800",
           "source": "金十数据",
@@ -1484,6 +1565,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时21分"
+        },
+        {
+          "title": "克里姆林宫：（在回答关于特朗普遭遇暗杀企图的问题时）俄罗斯总统普京始终谴责任何暴力行为及对国家元首生命的侵犯。",
+          "url": "https://flash.jin10.com/detail/20260428172755826800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时45分"
         },
         {
           "title": "特朗普政府解散美国国家科学委员会",
@@ -1815,7 +1907,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时47分"
         },
@@ -1826,7 +1918,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时47分"
         },
@@ -1989,7 +2081,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "国芯+国模！DeepSeek适配国产芯片 AI算力底座迈向多样化",
@@ -2055,11 +2147,12 @@
           "source": "知乎",
           "ranks": [
             10,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时45分 ~ 16时47分]"
+          "appearance_count": 4,
+          "time_info": "[15时45分 ~ 17时45分]"
         },
         {
           "title": "DeepSeek 为什么选择在内蒙古自建数据中心，而不是租用阿里云的算力资源？",
@@ -2093,6 +2186,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时50分"
+        },
+        {
+          "title": "DeepSeekV4百万上下文有多强",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeekV4%E7%99%BE%E4%B8%87%E4%B8%8A%E4%B8%8B%E6%96%87%E6%9C%89%E5%A4%9A%E5%BC%BA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时45分"
         }
       ]
     },
@@ -2133,11 +2237,12 @@
           "url": "https://wallstreetcn.com/articles/3771064",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时47分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时47分 ~ 17时45分]"
         },
         {
           "title": "OpenAI未能实现2025年ChatGPT营收目标，也未能实现到2025年底，周活跃用户达到10亿的目标。（华尔街日报）",
@@ -2149,6 +2254,58 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时34分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "黄金价格跌跌不休",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%87%91%E4%BB%B7%E6%A0%BC%E8%B7%8C%E8%B7%8C%E4%B8%8D%E4%BC%91%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时45分 ~ 16时47分]"
+        },
+        {
+          "title": "市场分析：伊朗战争的持续不确定性令金价承压",
+          "url": "https://flash.jin10.com/detail/20260428025327363800",
+          "source": "金十数据",
+          "ranks": [
+            15,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时31分 ~ 04时22分]"
+        },
+        {
+          "title": "8000美元金价？德银给出五年目标价，底气来自哪里？",
+          "url": "https://flash.jin10.com/detail/20260428084330549800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时34分"
+        },
+        {
+          "title": "金价涨不动了",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E6%B6%A8%E4%B8%8D%E5%8A%A8%E4%BA%86%23&t=31&band_rank=24&Refer=top",
+          "source": "微博",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时45分"
         }
       ]
     },
@@ -2204,47 +2361,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时31分 ~ 02时24分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "黄金价格跌跌不休",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%87%91%E4%BB%B7%E6%A0%BC%E8%B7%8C%E8%B7%8C%E4%B8%8D%E4%BC%91%23&t=31&band_rank=19&Refer=top",
-          "source": "微博",
-          "ranks": [
-            19,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时45分 ~ 16时47分]"
-        },
-        {
-          "title": "市场分析：伊朗战争的持续不确定性令金价承压",
-          "url": "https://flash.jin10.com/detail/20260428025327363800",
-          "source": "金十数据",
-          "ranks": [
-            15,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时31分 ~ 04时22分]"
-        },
-        {
-          "title": "8000美元金价？德银给出五年目标价，底气来自哪里？",
-          "url": "https://flash.jin10.com/detail/20260428084330549800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时34分"
         }
       ]
     },
