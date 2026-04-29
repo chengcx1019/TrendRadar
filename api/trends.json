@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-29T18:36:03.826910+08:00",
-  "total_titles_processed": 1662,
+  "generated_at": "2026-04-29T19:31:49.315375+08:00",
+  "total_titles_processed": 1767,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 62,
+      "match_count": 63,
       "titles": [
         {
           "title": "特朗普被曝准备长期封锁伊朗！一文读懂：背后有哪些考量？",
@@ -18,8 +18,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时04分 ~ 18时36分]"
+          "appearance_count": 9,
+          "time_info": "[13时04分 ~ 19时31分]"
+        },
+        {
+          "title": "伊朗用“羞辱战术”拿捏特朗普？德国总理锐评释放5个信号",
+          "url": "https://news.ifeng.com/c/8sijEznYe70",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时43分 ~ 19时31分]"
         },
         {
           "title": "90秒｜被控刺杀总统，实景还原：枪手离特朗普到底有多近",
@@ -36,6 +47,20 @@
           "is_new": false,
           "appearance_count": 17,
           "time_info": "[00时33分 ~ 15时47分]"
+        },
+        {
+          "title": "特朗普：美国准备长期封锁伊朗",
+          "url": "https://www.cls.cn/detail/2358979",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            12,
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[11时02分 ~ 19时31分]"
         },
         {
           "title": "特朗普解散国家科学委员会引震动，学者：将对美基础科研生态造成长期伤害",
@@ -69,29 +94,16 @@
           "time_info": "[09时34分 ~ 17时40分]"
         },
         {
-          "title": "伊朗用“羞辱战术”拿捏特朗普？德国总理锐评释放5个信号",
-          "url": "https://news.ifeng.com/c/8sijEznYe70",
+          "title": "英国国王当面嘲讽美国，特朗普表情亮了",
+          "url": "https://v.ifeng.com/c/8sfYAqkf9J7",
           "source": "凤凰网",
           "ranks": [
-            5
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时43分 ~ 18时36分]"
-        },
-        {
-          "title": "特朗普：美国准备长期封锁伊朗",
-          "url": "https://www.cls.cn/detail/2358979",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            12,
-            11,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时02分 ~ 18时36分]"
+          "appearance_count": 4,
+          "time_info": "[17时40分 ~ 19时31分]"
         },
         {
           "title": "特朗普再次无视英国王室规矩",
@@ -108,18 +120,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[08时23分 ~ 17时40分]"
-        },
-        {
-          "title": "英国国王当面嘲讽美国，特朗普表情亮了",
-          "url": "https://v.ifeng.com/c/8sfYAqkf9J7",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时40分 ~ 18时36分]"
         },
         {
           "title": "英国国王给特朗普送了一口钟",
@@ -193,6 +193,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[09时34分 ~ 15时47分]"
+        },
+        {
+          "title": "查尔斯国王给特朗普送了口钟",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9F%A5%E5%B0%94%E6%96%AF%E5%9B%BD%E7%8E%8B%E7%BB%99%E7%89%B9%E6%9C%97%E6%99%AE%E9%80%81%E4%BA%86%E5%8F%A3%E9%92%9F%23&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时31分"
         },
         {
           "title": "特朗普：美国准备长期封锁伊朗",
@@ -480,7 +491,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时36分"
         },
@@ -741,8 +752,20 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 53,
+      "match_count": 54,
       "titles": [
+        {
+          "title": "美方禁止本国个人或实体向伊朗缴纳海峡通行费",
+          "url": "https://news.ifeng.com/c/8shsB9lMhW7",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[11时02分 ~ 19时31分]"
+        },
         {
           "title": "伊朗代表：美国“如同海盗和恐怖分子”",
           "url": "https://news.ifeng.com/c/8sgbI0j3nvZ",
@@ -755,18 +778,6 @@
           "time_info": "[00时33分 ~ 07时18分]"
         },
         {
-          "title": "美方禁止本国个人或实体向伊朗缴纳海峡通行费",
-          "url": "https://news.ifeng.com/c/8shsB9lMhW7",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时02分 ~ 18时36分]"
-        },
-        {
           "title": "伊朗陆军：战争尚未结束，正严阵以待",
           "url": "https://news.ifeng.com/c/8shTPbRP5sB",
           "source": "凤凰网",
@@ -777,6 +788,18 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[03时31分 ~ 15时47分]"
+        },
+        {
+          "title": "伊朗男孩重回中国上学全班紧紧抱住",
+          "url": "https://www.toutiao.com/trending/7633313371160464950/",
+          "source": "今日头条",
+          "ranks": [
+            2,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[14时46分 ~ 19时31分]"
         },
         {
           "title": "美国务卿鲁比奥：伊朗将霍尔木兹海峡当作\"经济核武器\"",
@@ -802,8 +825,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[08时23分 ~ 18时36分]"
+          "appearance_count": 12,
+          "time_info": "[08时23分 ~ 19时31分]"
         },
         {
           "title": "普京：全世界都钦佩伊朗人民抵抗美国",
@@ -854,18 +877,6 @@
           "time_info": "[08时23分 ~ 14时46分]"
         },
         {
-          "title": "伊朗男孩重回中国上学全班紧紧抱住",
-          "url": "https://www.toutiao.com/trending/7633313371160464950/",
-          "source": "今日头条",
-          "ranks": [
-            2,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时46分 ~ 18时36分]"
-        },
-        {
           "title": "伊朗革命卫队称永久管理霍尔木兹",
           "url": "https://www.cls.cn/detail/2358681",
           "source": "财联社热门",
@@ -902,6 +913,17 @@
           "time_info": "[03时31分 ~ 06时19分]"
         },
         {
+          "title": "伊朗战争丨伊朗出现新现象，强硬派的声音开始被压制",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时43分 ~ 19时31分]"
+        },
+        {
           "title": "市场消息：伊朗议会国家安全委员会成员赫兹里安表示，阿联酋正采取措施与美国结盟，企图对伊朗发动新一轮攻击。阿联酋公民应当明白，在未来任何可能爆发的战争中，该国都将遭到严厉教训。",
           "url": "https://flash.jin10.com/detail/20260429015937385800",
           "source": "金十数据",
@@ -919,7 +941,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时36分"
         },
@@ -933,17 +955,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时34分"
-        },
-        {
-          "title": "伊朗战争丨伊朗出现新现象，强硬派的声音开始被压制",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时43分 ~ 18时36分]"
         },
         {
           "title": "据伊朗Press TV：也门表示不会对美国针对伊朗的新“冒险主义”持中立态度。",
@@ -1196,6 +1207,17 @@
           "time_info": "[06时18分 ~ 06时19分]"
         },
         {
+          "title": "印度财政部报告：预计伊朗危机不会对金融稳定产生不利影响。",
+          "url": "https://flash.jin10.com/detail/20260429191305200800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时31分"
+        },
+        {
           "title": "伊朗官员：希望伊美谈判取得积极成果 伊方仍保留“底牌”",
           "url": "https://wallstreetcn.com/livenews/3096309",
           "source": "华尔街见闻-快讯",
@@ -1279,7 +1301,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时36分"
         },
@@ -1323,7 +1345,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时36分"
         },
@@ -1364,7 +1386,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 28,
+      "match_count": 29,
       "titles": [
         {
           "title": "美伊悬而未决，OpenAI“鬼故事”扰动，美股美债齐跌，半导体回调，WTI破百，金银大跌",
@@ -1374,8 +1396,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[08时23分 ~ 18时36分]"
+          "appearance_count": 12,
+          "time_info": "[08时23分 ~ 19时31分]"
         },
         {
           "title": "美伊悬而未决，OpenAI“鬼故事”扰动，纳指盘初跌1.2%，半导体集体回调，WTI涨破百元大关，金银下挫",
@@ -1423,8 +1445,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[07时18分 ~ 18时36分]"
+          "appearance_count": 13,
+          "time_info": "[07时18分 ~ 19时31分]"
         },
         {
           "title": "美股收盘：OpenAI相关股票承压 三大指数集体下跌",
@@ -1440,6 +1462,18 @@
           "time_info": "[06时18分 ~ 14时46分]"
         },
         {
+          "title": "OpenAI“鬼故事”重创股市，但债市“没慌”",
+          "url": "https://wallstreetcn.com/articles/3771182",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[14时46分 ~ 19时31分]"
+        },
+        {
           "title": "美伊悬而未决，OpenAI“鬼故事”扰动，美股债齐跌，半导体集体回调，WTI涨破百元大关，金银下挫",
           "url": "https://wallstreetcn.com/articles/3771095",
           "source": "华尔街见闻",
@@ -1449,18 +1483,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时18分 ~ 07时18分]"
-        },
-        {
-          "title": "OpenAI“鬼故事”重创股市，但债市“没慌”",
-          "url": "https://wallstreetcn.com/articles/3771182",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时46分 ~ 18时36分]"
         },
         {
           "title": "OpenAI的Codex登陆亚马逊Bedrock平台",
@@ -1650,6 +1672,17 @@
           "time_info": "07时18分"
         },
         {
+          "title": "美股芯片股跳水，OpenAI 用户和营收不及预期，CFO 担心付不起数据中心账单，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2032593268840600541",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时31分"
+        },
+        {
           "title": "OpenAI：当我们发现有人试图使用我们的工具潜在地策划或实施暴力时，我们会采取行动，包括撤销访问权限。",
           "url": "https://flash.jin10.com/detail/20260429085748656800",
           "source": "金十数据",
@@ -1781,7 +1814,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "DeepSeek 为什么选择在内蒙古自建数据中心，而不是租用阿里云、腾讯云等大厂的算力资源？",
@@ -1803,11 +1836,12 @@
             2,
             1,
             4,
-            9
+            9,
+            14
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时04分 ~ 18时36分]"
+          "appearance_count": 9,
+          "time_info": "[13时04分 ~ 19时31分]"
         },
         {
           "title": "6家券商抢先部署DeepSeek V4，2小时接入、24小时上线，新一轮竞速开始",
@@ -1819,8 +1853,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时47分 ~ 18时36分]"
+          "appearance_count": 7,
+          "time_info": "[15时47分 ~ 19时31分]"
         },
         {
           "title": "DeepSeekV4Pro优惠延期",
@@ -1843,6 +1877,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时33分 ~ 01时33分]"
+        },
+        {
+          "title": "DeepSeek上线识图模式",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E4%B8%8A%E7%BA%BF%E8%AF%86%E5%9B%BE%E6%A8%A1%E5%BC%8F",
+          "source": "百度热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时31分"
         }
       ]
     },
@@ -1861,8 +1906,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时02分 ~ 18时36分]"
+          "appearance_count": 10,
+          "time_info": "[11时02分 ~ 19时31分]"
         },
         {
           "title": "全球央行在一季度金价大幅波动期间“大量购入”黄金",
