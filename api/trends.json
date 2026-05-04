@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-04T14:57:52.051996+08:00",
-  "total_titles_processed": 1087,
+  "generated_at": "2026-05-04T15:57:42.452249+08:00",
+  "total_titles_processed": 1179,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 79,
+      "match_count": 96,
       "titles": [
         {
           "title": "【早报】伊朗公布伊方最新谈判方案；商务部发布禁令阻断美国对5家中国企业实施涉伊朗石油制裁措施",
@@ -17,8 +17,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时14分 ~ 14时57分]"
+          "appearance_count": 17,
+          "time_info": "[00时14分 ~ 15时57分]"
         },
         {
           "title": "商务部发布禁令，阻断美国对5家中国企业实施涉伊朗石油制裁措施",
@@ -30,8 +30,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时14分 ~ 14时57分]"
+          "appearance_count": 17,
+          "time_info": "[00时14分 ~ 15时57分]"
         },
         {
           "title": "伊朗战争丨伊朗向美国提交14点和平计划，更多细节曝光",
@@ -150,6 +150,39 @@
           "time_info": "[03时22分 ~ 07时15分]"
         },
         {
+          "title": "伊朗外交部发言人：我们正在研究美国对结束战争提议的回应。",
+          "url": "https://flash.jin10.com/detail/20260504155046795800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时57分"
+        },
+        {
+          "title": "伊朗外交部发言人：美国很难放弃其极端要求。 美国导致结束战争的外交进程缓慢。",
+          "url": "https://wallstreetcn.com/livenews/3098427",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时57分"
+        },
+        {
+          "title": "伊朗外交部发言人：我们正与阿曼进行会谈，必须制定一项安全通过霍尔木兹海峡的船只过境议定书。",
+          "url": "https://flash.jin10.com/detail/20260504154811440800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时57分"
+        },
+        {
           "title": "伊朗议员：霍尔木兹通行许可将经最高领袖批准后转达武装部队",
           "url": "https://flash.jin10.com/detail/20260504013732389800",
           "source": "金十数据",
@@ -190,6 +223,21 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时16分 ~ 05时14分]"
+        },
+        {
+          "title": "伊朗超大型油轮躲过美国“封锁”，仍有特定船只可通过霍尔木兹海峡",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33095206",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            15,
+            17,
+            12,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时34分 ~ 15时57分]"
         },
         {
           "title": "伊朗伊斯兰革命卫队：美国的决策空间已受限",
@@ -419,6 +467,20 @@
           "time_info": "[00时15分 ~ 01时17分]"
         },
         {
+          "title": "美以袭击伊朗进入第 66 天，当前局势如何？哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2034400687618876536",
+          "source": "知乎",
+          "ranks": [
+            7,
+            6,
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时02分 ~ 15时57分]"
+        },
+        {
           "title": "MSCI亚太指数上涨1.9%，抹去伊朗战争以来的跌幅。",
           "url": "https://wallstreetcn.com/livenews/3098373",
           "source": "华尔街见闻-快讯",
@@ -459,20 +521,6 @@
           "time_info": "[05时14分 ~ 08时21分]"
         },
         {
-          "title": "伊朗超大型油轮躲过美国“封锁”，仍有特定船只可通过霍尔木兹海峡",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33095206",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            15,
-            17,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时34分 ~ 14时57分]"
-        },
-        {
           "title": "德国外长：伊朗应立即开放霍尔木兹海峡",
           "url": "https://wallstreetcn.com/livenews/3098303",
           "source": "华尔街见闻-快讯",
@@ -498,17 +546,15 @@
           "time_info": "[08时21分 ~ 11时02分]"
         },
         {
-          "title": "美以袭击伊朗进入第 66 天，当前局势如何？哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2034400687618876536",
-          "source": "知乎",
+          "title": "伊朗战争丨伊朗官员：霍尔木兹不会回到战前状态",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
+          "source": "凤凰网",
           "ranks": [
-            7,
-            6,
-            11
+            6
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[11时02分 ~ 14时57分]"
+          "time_info": "[13时08分 ~ 15时57分]"
         },
         {
           "title": "据沙特哈达斯电视台援引巴基斯坦媒体报道称，美国与伊朗之间的讨论已取得重大进展。",
@@ -628,17 +674,6 @@
           "time_info": "[02时16分 ~ 04时11分]"
         },
         {
-          "title": "伊朗战争丨伊朗官员：霍尔木兹不会回到战前状态",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时08分 ~ 14时57分]"
-        },
-        {
           "title": "伊朗使馆发图质问：“海盗还是总统？”",
           "url": "https://flash.jin10.com/detail/20260503231318774800",
           "source": "金十数据",
@@ -661,6 +696,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时13分 ~ 07时15分]"
+        },
+        {
+          "title": "伊朗武装部队警告美军不要接近或进入霍尔木兹海峡",
+          "url": "https://wallstreetcn.com/livenews/3098404",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时57分 ~ 15时57分]"
+        },
+        {
+          "title": "美军称已将扣押的伊朗货船及船员移交至巴基斯坦",
+          "url": "https://wallstreetcn.com/livenews/3098403",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时57分 ~ 15时57分]"
         },
         {
           "title": "英国海事贸易组织：收到一份报告，称在伊朗西南11海里处发生了一起事件。一艘北行散货船的船长报告称遭到多艘小型船只袭击。所有船员均已安全，未报告存在环境影响。",
@@ -764,9 +823,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时57分"
+        },
+        {
+          "title": "伊朗外交部：目前的谈判只有结束战争一个事项",
+          "url": "https://flash.jin10.com/detail/20260504154735442800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时57分"
         },
         {
           "title": "巴基斯坦政府：22名被扣押的伊朗货船船员已由美国撤离至巴基斯坦。",
@@ -775,31 +845,31 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时57分"
         },
         {
-          "title": "伊朗武装部队警告美军不要接近或进入霍尔木兹海峡",
-          "url": "https://wallstreetcn.com/livenews/3098404",
-          "source": "华尔街见闻-快讯",
+          "title": "伊朗外交部发言人：（在被问及阿联酋退出欧佩克一事时）任何欧佩克成员国以“消极反应”的方式退出该组织都是无益的。",
+          "url": "https://flash.jin10.com/detail/20260504154608158800",
+          "source": "金十数据",
           "ranks": [
             7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时57分"
+          "time_info": "15时57分"
         },
         {
-          "title": "美军称已将扣押的伊朗货船及船员移交至巴基斯坦",
-          "url": "https://wallstreetcn.com/livenews/3098403",
-          "source": "华尔街见闻-快讯",
+          "title": "伊朗外交部发言人：我们正在与俄罗斯进行磋商，俄罗斯是联合国安理会的重要国家。",
+          "url": "https://flash.jin10.com/detail/20260504154350086800",
+          "source": "金十数据",
           "ranks": [
-            8
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时57分"
+          "time_info": "15时57分"
         },
         {
           "title": "海事情报公司：4月共有25艘原油油轮从伊朗驶离",
@@ -824,13 +894,24 @@
           "time_info": "09时34分"
         },
         {
+          "title": "伊朗外交部发言人：美国政府应当明白，对伊朗人民使用威胁与强权毫无效果，重蹈覆辙只会让其在地区和国际社会中陷入自己制造的泥潭，更加难以自拔。",
+          "url": "https://flash.jin10.com/detail/20260504154052383800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时57分"
+        },
+        {
           "title": "巴基斯坦副总理兼外长与伊朗外长通话 讨论调解伊美谈判事宜",
           "url": "https://wallstreetcn.com/livenews/3098399",
           "source": "华尔街见闻-快讯",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时57分"
         },
@@ -857,6 +938,28 @@
           "time_info": "13时08分"
         },
         {
+          "title": "伊朗4车相撞致27人受伤",
+          "url": "https://wallstreetcn.com/livenews/3098417",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时57分"
+        },
+        {
+          "title": "伊朗外交部发言人：美国导致了霍尔木兹海峡乃至国际水域的不安全。",
+          "url": "https://flash.jin10.com/detail/20260504153938464800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时57分"
+        },
+        {
           "title": "据Axios：美国海军舰艇将“驻扎在（海峡）附近”，以防伊朗军方袭击通过海峡的商船。",
           "url": "https://flash.jin10.com/detail/20260504100454499800",
           "source": "金十数据",
@@ -866,6 +969,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时02分"
+        },
+        {
+          "title": "巴基斯坦称，被扣押在伊朗船上的22名船员已撤离至伊斯兰堡；周一将把这些船员移交给伊朗当局。",
+          "url": "https://wallstreetcn.com/livenews/3098415",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时57分"
+        },
+        {
+          "title": "伊朗外交部发言人：我们在霍尔木兹海峡采取的措施完全符合国际法。",
+          "url": "https://flash.jin10.com/detail/20260504153841360800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时57分"
         },
         {
           "title": "美国财长：美国的经济和金融压力正在令伊朗“窒息”",
@@ -888,6 +1013,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时15分"
+        },
+        {
+          "title": "伊朗警告美军不要接近霍尔木兹海峡",
+          "url": "https://www.toutiao.com/trending/7635134540138446854/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时57分"
         },
         {
           "title": "美国共和党参议员格雷厄姆：再次强调，我希望这场冲突能够通过外交手段结束，但现在是时候恢复航行自由，并在伊朗坚持恐怖行为时采取强硬回应。",
@@ -934,6 +1070,28 @@
           "time_info": "13时08分"
         },
         {
+          "title": "伊朗外交部发言人：各国和船东都清楚，他们必须与我们协调，才能确保通过霍尔木兹海峡的通行安全。",
+          "url": "https://flash.jin10.com/detail/20260504153734309800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时57分"
+        },
+        {
+          "title": "伊朗外交部发言人：在美国对我们进行攻击之前，霍尔木兹海峡一直是国际航运的安全通道。",
+          "url": "https://flash.jin10.com/detail/20260504153550651800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时57分"
+        },
+        {
           "title": "美军宣布：今起1.5万人疏导霍尔木兹海峡，伊朗警告“任何干预都违反停火”",
           "url": "https://flash.jin10.com/detail/20260504115717161800",
           "source": "金十数据",
@@ -943,6 +1101,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时08分"
+        },
+        {
+          "title": "伊朗外交部发言人：霍尔木兹海峡的当前局势是美国对伊朗侵略的结果。",
+          "url": "https://flash.jin10.com/detail/20260504153320476800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时57分"
+        },
+        {
+          "title": "伊朗外交部发言人：是美国导致结束战争的外交进程进展缓慢。",
+          "url": "https://flash.jin10.com/detail/20260504152946525800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时57分"
+        },
+        {
+          "title": "伊朗外交部发言人：美国很难放弃其极端要求。",
+          "url": "https://flash.jin10.com/detail/20260504152930795800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时57分"
         },
         {
           "title": "美国财长贝森特：伊朗在试图征收船只通行费方面收效甚微。",
@@ -962,7 +1153,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时57分"
         },
@@ -981,7 +1172,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 54,
+      "match_count": 55,
       "titles": [
         {
           "title": "特朗普与教皇隔空吵架后，鲁比奥将前往梵蒂冈、意大利",
@@ -1044,8 +1235,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时14分 ~ 14时57分]"
+          "appearance_count": 17,
+          "time_info": "[00时14分 ~ 15时57分]"
         },
         {
           "title": "特朗普谈及美军扣押伊朗油轮，称这是一笔非常赚钱的买卖，我们就像海盗，如何看待此事？",
@@ -1073,8 +1264,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时14分 ~ 14时57分]"
+          "appearance_count": 17,
+          "time_info": "[00时14分 ~ 15时57分]"
         },
         {
           "title": "【早报】白宫：与伊朗的敌对行动已经“结束”；特朗普：下周对欧盟输美汽车和卡车加征25%关税",
@@ -1115,6 +1306,29 @@
           "time_info": "[00时15分 ~ 07时15分]"
         },
         {
+          "title": "特朗普：伊朗的“新提议”不可接受",
+          "url": "https://news.ifeng.com/c/8spzvhCLfsE",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[08时21分 ~ 15时57分]"
+        },
+        {
+          "title": "美财长保证特朗普访华不会再推迟",
+          "url": "https://news.ifeng.com/c/8sqceV545op",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时08分 ~ 15时57分]"
+        },
+        {
           "title": "特朗普称将审查伊朗提出的结束冲突新方案",
           "url": "https://www.cls.cn/detail/2362213",
           "source": "财联社热门",
@@ -1126,29 +1340,6 @@
           "time_info": "[00时14分 ~ 05时14分]"
         },
         {
-          "title": "特朗普：伊朗的“新提议”不可接受",
-          "url": "https://news.ifeng.com/c/8spzvhCLfsE",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时21分 ~ 14时57分]"
-        },
-        {
-          "title": "美财长保证特朗普访华不会再推迟",
-          "url": "https://news.ifeng.com/c/8sqceV545op",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时08分 ~ 14时57分]"
-        },
-        {
           "title": "事关霍尔木兹海峡，特朗普预告4日上午启动，伊朗发出警告",
           "url": "https://news.ifeng.com/c/8sqiRql55lX",
           "source": "凤凰网",
@@ -1156,8 +1347,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时08分 ~ 14时57分]"
+          "appearance_count": 3,
+          "time_info": "[13时08分 ~ 15时57分]"
         },
         {
           "title": "特朗普：伊朗的“新提议”不可接受",
@@ -1173,6 +1364,20 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[04时11分 ~ 08时21分]"
+        },
+        {
+          "title": "“非军事”疏通霍尔木兹海峡？特朗普祭出新招“4日启动引导行动”，伊朗“干涉视为违反停火协议”",
+          "url": "https://wallstreetcn.com/articles/3771515",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时02分 ~ 15时57分]"
         },
         {
           "title": "欧佩克主要产油国连续第三个月宣布增产，伊朗新谈判方案重创原油，特朗普称伊朗新提议不可接受，美国将启动引导被困霍尔木兹海峡船只驶离行动…后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
@@ -1228,6 +1433,20 @@
           "time_info": "[02时16分 ~ 05时14分]"
         },
         {
+          "title": "【早报】特朗普：伊朗的“新提议”不可接受；余额宝收益率跌破1%",
+          "url": "https://www.cls.cn/detail/2362404",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时34分 ~ 15时57分]"
+        },
+        {
           "title": "特朗普：美国将从周一开始帮助一些船只离开霍尔木兹海峡",
           "url": "https://wallstreetcn.com/livenews/3098312",
           "source": "华尔街见闻-快讯",
@@ -1239,19 +1458,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时14分 ~ 07时15分]"
-        },
-        {
-          "title": "“非军事”疏通霍尔木兹海峡？特朗普祭出新招“4日启动引导行动”，伊朗“干涉视为违反停火协议”",
-          "url": "https://wallstreetcn.com/articles/3771515",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时02分 ~ 14时57分]"
         },
         {
           "title": "美国总统特朗普：我完全留意到，我的代表们正在与伊朗进行非常积极的磋商，这些磋商有望为各方带来积极成果。",
@@ -1381,20 +1587,6 @@
           "time_info": "[06时12分 ~ 08时21分]"
         },
         {
-          "title": "【早报】特朗普：伊朗的“新提议”不可接受；余额宝收益率跌破1%",
-          "url": "https://www.cls.cn/detail/2362404",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            11,
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时34分 ~ 14时57分]"
-        },
-        {
           "title": "特朗普的美国检察官终止调查，但仍对美联储主席鲍威尔施压",
           "url": "https://wallstreetcn.com/livenews/3098310",
           "source": "华尔街见闻-快讯",
@@ -1470,6 +1662,18 @@
           "time_info": "[07时15分 ~ 08时21分]"
         },
         {
+          "title": "德国汽车股盘前普跌1~2%，此前特朗普称将对欧盟输美汽车和卡车加征25%关税。",
+          "url": "https://wallstreetcn.com/livenews/3098402",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时57分 ~ 15时57分]"
+        },
+        {
           "title": "特朗普：将于周一起帮助船只离开霍尔木兹海峡 与伊朗谈判积极",
           "url": "https://flash.jin10.com/detail/20260504044943780800",
           "source": "金十数据",
@@ -1480,6 +1684,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时13分 ~ 07时15分]"
+        },
+        {
+          "title": "四道难关近在眼前 特朗普怎么过",
+          "url": "https://www.toutiao.com/trending/7634889469027581971/",
+          "source": "今日头条",
+          "ranks": [
+            15,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时57分 ~ 15时57分]"
+        },
+        {
+          "title": "美军周一将开展「自由计划」霍尔木兹海峡船只疏导行动，伊朗表示反对，特朗普此举在政治和经济上有何深意？",
+          "url": "https://www.zhihu.com/question/2034567556967739711",
+          "source": "知乎",
+          "ranks": [
+            19,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时57分 ~ 15时57分]"
         },
         {
           "title": "特朗普对北约伙伴为何又拉又打",
@@ -1513,17 +1741,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时21分"
-        },
-        {
-          "title": "德国汽车股盘前普跌1~2%，此前特朗普称将对欧盟输美汽车和卡车加征25%关税。",
-          "url": "https://wallstreetcn.com/livenews/3098402",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时57分"
         },
         {
           "title": "伊朗最高领袖外事顾问：特朗普近期言行难掩“白宫幻想破灭”",
@@ -1581,17 +1798,6 @@
           "time_info": "08时21分"
         },
         {
-          "title": "四道难关近在眼前 特朗普怎么过",
-          "url": "https://www.toutiao.com/trending/7634889469027581971/",
-          "source": "今日头条",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时57分"
-        },
-        {
           "title": "特朗普：美国将开展霍尔木兹海峡被困船只疏导行动",
           "url": "https://wallstreetcn.com/livenews/3098312",
           "source": "华尔街见闻-快讯",
@@ -1601,17 +1807,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时21分"
-        },
-        {
-          "title": "美军周一将开展「自由计划」霍尔木兹海峡船只疏导行动，伊朗表示反对，特朗普此举在政治和经济上有何深意？",
-          "url": "https://www.zhihu.com/question/2034567556967739711",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时57分"
         },
         {
           "title": "美官员澄清：特朗普“解救”霍尔木兹海峡被困船只的行动不涉及军舰护航",
@@ -1636,13 +1831,24 @@
           "time_info": "00时15分"
         },
         {
+          "title": "特朗普称将启动霍尔木兹海峡被困船只疏导行动 马克龙：法国不参与",
+          "url": "https://wallstreetcn.com/livenews/3098405",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时57分"
+        },
+        {
           "title": "北约秘书长吕特：欧洲已接收到了特朗普传递的信息，正在确保关于基地使用权的协议得到落实。",
           "url": "https://flash.jin10.com/detail/20260504140924828800",
           "source": "金十数据",
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时57分"
         }
@@ -1666,8 +1872,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[04时11分 ~ 14时57分]"
+          "appearance_count": 11,
+          "time_info": "[04时11分 ~ 15时57分]"
         },
         {
           "title": "巴菲特谈美股投机风气",
@@ -1705,11 +1911,12 @@
             23,
             27,
             16,
-            12
+            12,
+            14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时21分 ~ 14时57分]"
+          "appearance_count": 5,
+          "time_info": "[08时21分 ~ 15时57分]"
         }
       ]
     },
@@ -1724,9 +1931,9 @@
           "ranks": [
             11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时57分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时57分 ~ 15时57分]"
         }
       ]
     },
@@ -1741,9 +1948,9 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时57分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时57分 ~ 15时57分]"
         }
       ]
     }
