@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-09T17:29:58.434670+08:00",
-  "total_titles_processed": 1343,
+  "generated_at": "2026-05-09T18:20:54.054805+08:00",
+  "total_titles_processed": 1412,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 73,
+      "match_count": 75,
       "titles": [
         {
           "title": "伊朗南部霍尔木兹甘省一港口城市传出爆炸声",
@@ -17,6 +17,18 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时28分 ~ 09时33分]"
+        },
+        {
+          "title": "现场画面：伊朗海军扣押一艘油轮",
+          "url": "https://v.ifeng.com/c/8syr0bovpBY",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[11时02分 ~ 18时20分]"
         },
         {
           "title": "伊朗成立波斯湾海峡管理局，过霍尔木兹的船要先填40多道题？",
@@ -62,20 +74,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[02时27分 ~ 17时29分]"
-        },
-        {
-          "title": "现场画面：伊朗海军扣押一艘油轮",
-          "url": "https://v.ifeng.com/c/8syr0bovpBY",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时02分 ~ 17时29分]"
+          "appearance_count": 19,
+          "time_info": "[02时27分 ~ 18时20分]"
         },
         {
           "title": "霍尔木兹局势又紧张！伊朗称美违反停火空袭、已反击，美军称拦截伊发起的无端袭击",
@@ -97,8 +97,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时02分 ~ 17时29分]"
+          "appearance_count": 10,
+          "time_info": "[11时02分 ~ 18时20分]"
         },
         {
           "title": "伊朗战争丨伊朗官员披露穆杰塔巴伤情",
@@ -109,8 +109,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时03分 ~ 17时29分]"
+          "appearance_count": 9,
+          "time_info": "[13时03分 ~ 18时20分]"
         },
         {
           "title": "岚目镜观｜从三权分立到“民选皇帝”：伊朗战事如何刺穿美国宪政神话",
@@ -214,17 +214,6 @@
           "time_info": "03时31分"
         },
         {
-          "title": "伊朗足协公布参加2026年美加墨世界杯10项条件",
-          "url": "https://wallstreetcn.com/livenews/3101035",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时29分"
-        },
-        {
           "title": "伊朗称美军打击伊朗6艘民用船",
           "url": "https://wallstreetcn.com/livenews/3101008",
           "source": "华尔街见闻-快讯",
@@ -257,11 +246,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            12
+            12,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时32分 ~ 17时29分]"
+          "appearance_count": 3,
+          "time_info": "[16时32分 ~ 18时20分]"
         },
         {
           "title": "伊朗议会将以视频方式召开战事爆发以来首次会议",
@@ -269,11 +259,12 @@
           "source": "金十数据",
           "ranks": [
             3,
-            8
+            8,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时32分 ~ 17时29分]"
+          "appearance_count": 3,
+          "time_info": "[16时32分 ~ 18时20分]"
         },
         {
           "title": "伊朗称美军打击伊朗6艘民用船",
@@ -312,6 +303,32 @@
           "time_info": "[09时33分 ~ 11时02分]"
         },
         {
+          "title": "伊朗足协公布参加2026年美加墨世界杯10项条件",
+          "url": "https://wallstreetcn.com/livenews/3101035",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时29分 ~ 18时20分]"
+        },
+        {
+          "title": "鲁比奥访意公开施压 质疑为何不支持对伊朗动武",
+          "url": "https://wallstreetcn.com/livenews/3101019",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            10,
+            21,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时34分 ~ 18时20分]"
+        },
+        {
           "title": "伊朗官员：最高领袖非常健康",
           "url": "https://wallstreetcn.com/livenews/3101004",
           "source": "华尔街见闻-快讯",
@@ -348,19 +365,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[08时23分 ~ 11时02分]"
-        },
-        {
-          "title": "鲁比奥访意公开施压 质疑为何不支持对伊朗动武",
-          "url": "https://wallstreetcn.com/livenews/3101019",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            10,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时34分 ~ 17时29分]"
         },
         {
           "title": "伊朗常驻联合国代表：美袭击伊朗油轮违反停火协议",
@@ -497,6 +501,17 @@
           "time_info": "[15时34分 ~ 16时32分]"
         },
         {
+          "title": "美伊交火意味着此轮谈判破裂？伊朗大使答凤凰提问",
+          "url": "https://news.ifeng.com/c/8szLTDMoDY1",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时29分 ~ 18时20分]"
+        },
+        {
           "title": "拉美货币与股市受伊朗和平预期提振，本周整体走高",
           "url": "https://wallstreetcn.com/livenews/3100898",
           "source": "华尔街见闻-快讯",
@@ -609,17 +624,6 @@
           "time_info": "00时28分"
         },
         {
-          "title": "美伊交火意味着此轮谈判破裂？伊朗大使答凤凰提问",
-          "url": "https://news.ifeng.com/c/8szLTDMoDY1",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时29分"
-        },
-        {
           "title": "遭美国扣押的伊朗货船抵达巴基斯坦卡拉奇港",
           "url": "https://flash.jin10.com/detail/20260509013924699800",
           "source": "金十数据",
@@ -651,6 +655,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时28分"
+        },
+        {
+          "title": "据沙特国家新闻社：巴林内政部表示，已逮捕41名与伊朗革命卫队有关联的人士。",
+          "url": "https://flash.jin10.com/detail/20260509171322668800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时20分"
         },
         {
           "title": "据德黑兰时报：伊朗外长和土耳其外长举行了电话会谈，讨论了该地区的最新局势。",
@@ -717,6 +732,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时28分"
+        },
+        {
+          "title": "伊朗足协公布参加2026年美加墨世界杯10项条件",
+          "url": "https://flash.jin10.com/detail/20260509170417816800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时20分"
         },
         {
           "title": "报道：伊朗准备制定有关霍尔木兹海峡“法律制度”的计划",
@@ -865,7 +891,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 58,
+      "match_count": 59,
       "titles": [
         {
           "title": "特朗普称中美元首会谈将按计划举行，外交部回应",
@@ -899,8 +925,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时33分 ~ 17时29分]"
+          "appearance_count": 11,
+          "time_info": "[09时33分 ~ 18时20分]"
         },
         {
           "title": "特朗普称中美元首会谈将按计划举行，外交部：目前无进一步信息提供",
@@ -935,6 +961,17 @@
           "time_info": "[00时28分 ~ 09时33分]"
         },
         {
+          "title": "近60万买家斥资6000万美元预购特朗普手机，却没人知道发货时间",
+          "url": "https://news.ifeng.com/c/8sytAKXfO4y",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[11时02分 ~ 18时20分]"
+        },
+        {
           "title": "特朗普称中美元首会谈将按计划举行，外交部回应",
           "url": "https://m.thepaper.cn/newsDetail_forward_33122464",
           "source": "澎湃新闻",
@@ -947,15 +984,16 @@
           "time_info": "[00时28分 ~ 09时33分]"
         },
         {
-          "title": "近60万买家斥资6000万美元预购特朗普手机，却没人知道发货时间",
-          "url": "https://news.ifeng.com/c/8sytAKXfO4y",
-          "source": "凤凰网",
+          "title": "英特尔大涨！与苹果达成初步芯片制造协议，特朗普政府居中撮合",
+          "url": "https://wallstreetcn.com/articles/3771870",
+          "source": "华尔街见闻",
           "ranks": [
-            12
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时02分 ~ 17时29分]"
+          "appearance_count": 6,
+          "time_info": "[15时33分 ~ 18时20分]"
         },
         {
           "title": "伊朗战争丨特朗普称可能恢复“自由计划”",
@@ -967,6 +1005,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时02分"
+        },
+        {
+          "title": "特朗普称俄乌 9 日起停火三天，互换千名战俘，俄乌为何同意特朗普的提议？各方背后有着怎样的考量？",
+          "url": "https://www.zhihu.com/question/2036400046988579032",
+          "source": "知乎",
+          "ranks": [
+            20,
+            15,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时33分 ~ 18时20分]"
         },
         {
           "title": "特朗普：俄乌9日起停火三天并交换战俘",
@@ -1022,31 +1073,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时28分"
-        },
-        {
-          "title": "英特尔大涨！与苹果达成初步芯片制造协议，特朗普政府居中撮合",
-          "url": "https://wallstreetcn.com/articles/3771870",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时33分 ~ 17时29分]"
-        },
-        {
-          "title": "特朗普称俄乌 9 日起停火三天，互换千名战俘，俄乌为何同意特朗普的提议？各方背后有着怎样的考量？",
-          "url": "https://www.zhihu.com/question/2036400046988579032",
-          "source": "知乎",
-          "ranks": [
-            20,
-            15,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时33分 ~ 17时29分]"
         },
         {
           "title": "美国总统特朗普针对122关税条款的判决结果提出上诉。",
@@ -1312,6 +1338,17 @@
           "time_info": "[09时33分 ~ 11时02分]"
         },
         {
+          "title": "特朗普：可能恢复“自由计划”行动，伊朗：正制定霍尔木兹海峡相关法律草案",
+          "url": "https://wallstreetcn.com/articles/3771883",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时29分 ~ 18时20分]"
+        },
+        {
           "title": "特朗普也嫌世界杯票价贵",
           "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B9%9F%E5%AB%8C%E4%B8%96%E7%95%8C%E6%9D%AF%E7%A5%A8%E4%BB%B7%E8%B4%B5",
           "source": "bilibili 热搜",
@@ -1334,15 +1371,15 @@
           "time_info": "03时31分"
         },
         {
-          "title": "特朗普：可能恢复“自由计划”行动，伊朗：正制定霍尔木兹海峡相关法律草案",
-          "url": "https://wallstreetcn.com/articles/3771883",
-          "source": "华尔街见闻",
+          "title": "特朗普再遭司法重拳，全面关税政策走到尽头？丨Hi，今天怎么看？",
+          "url": "https://flash.jin10.com/detail/20260509175807708800",
+          "source": "金十数据",
           "ranks": [
-            9
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时29分"
+          "time_info": "18时20分"
         },
         {
           "title": "法庭文件显示，特朗普就关税问题最新败诉提起上诉。",
@@ -1568,8 +1605,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[08时23分 ~ 17时29分]"
+          "appearance_count": 12,
+          "time_info": "[08时23分 ~ 18时20分]"
         },
         {
           "title": "美伊和谈疑云压制风险情绪，美股指收跌，油价走V，离岸人民币盘中创四年新高",
@@ -1594,8 +1631,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[07时18分 ~ 17时29分]"
+          "appearance_count": 13,
+          "time_info": "[07时18分 ~ 18时20分]"
         },
         {
           "title": "周五（5月8日），美股AI软件先驱指数跌0.29%，报106.05点，跳空低开之后逐步收复失地，本周累涨6.36%。 成分股HubSpot收跌19.03%，ServiceNOW跌2.58%，Salesforce跌2.43%，Adobe跌1.35%，微软跌1.34%跌幅第五大，铿腾电子涨1.63%表现第五，MongoDB涨2.06%，新思科技涨2.23%，C3.ai涨3.03%，Datadog涨6.06%。",
@@ -1743,11 +1780,12 @@
             4,
             2,
             3,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时03分 ~ 17时29分]"
+          "appearance_count": 9,
+          "time_info": "[13时03分 ~ 18时20分]"
         },
         {
           "title": "冲击中国AI融资王！报道：DeepSeek首轮融资目标500亿元，估值或突破3500亿元",
@@ -1761,8 +1799,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时33分 ~ 17时29分]"
+          "appearance_count": 11,
+          "time_info": "[09时33分 ~ 18时20分]"
         },
         {
           "title": "DeepSeek睁眼,开放识图模式",
@@ -1770,11 +1808,12 @@
           "source": "贴吧",
           "ranks": [
             4,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时31分 ~ 17时29分]"
+          "appearance_count": 4,
+          "time_info": "[16时31分 ~ 18时20分]"
         },
         {
           "title": "DeepSeek正式跨入图文交互时代",
@@ -1794,11 +1833,12 @@
           "url": "https://wallstreetcn.com/livenews/3101032",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            8,
+            12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时29分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时29分 ~ 18时20分]"
         },
         {
           "title": "DeepSeek正式跨入图文交互时代",
@@ -1807,7 +1847,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时29分"
         }
@@ -1880,8 +1920,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时03分 ~ 17时29分]"
+          "appearance_count": 9,
+          "time_info": "[13时03分 ~ 18时20分]"
         },
         {
           "title": "24岁掌管55亿美元！从被OpenAI扫地出门到华尔街投资新王：Leopold的“开挂人生”",
@@ -1893,8 +1933,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时33分 ~ 17时29分]"
+          "appearance_count": 6,
+          "time_info": "[15时33分 ~ 18时20分]"
         },
         {
           "title": "彻底撕破脸了！OpenAI官司法庭辩论上演“人身攻击”：马斯克“不懂AI且暴躁”，Altman“人品低劣又虚伪”",
@@ -1903,7 +1943,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时29分"
         },
