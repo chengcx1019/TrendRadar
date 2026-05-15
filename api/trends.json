@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-15T11:06:26.875276+08:00",
-  "total_titles_processed": 990,
+  "generated_at": "2026-05-15T13:16:48.673055+08:00",
+  "total_titles_processed": 1145,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 48,
+      "match_count": 56,
       "titles": [
         {
           "title": "详讯丨习近平同美国总统特朗普会谈",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时37分 ~ 11时06分]"
+          "appearance_count": 17,
+          "time_info": "[00时37分 ~ 13时16分]"
         },
         {
           "title": "习近平为特朗普举行欢迎宴会",
@@ -60,8 +60,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时37分 ~ 11时06分]"
+          "appearance_count": 17,
+          "time_info": "[00时37分 ~ 13时16分]"
         },
         {
           "title": "习近平同特朗普举行会谈：中美应当做伙伴而不是对手，让2026年成为中美关系继往开来的历史性、标志性年份",
@@ -116,8 +116,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时37分 ~ 11时06分]"
+          "appearance_count": 17,
+          "time_info": "[00时37分 ~ 13时16分]"
         },
         {
           "title": "详讯丨习近平同美国总统特朗普参观天坛",
@@ -127,8 +127,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时37分 ~ 11时06分]"
+          "appearance_count": 17,
+          "time_info": "[00时37分 ~ 13时16分]"
         },
         {
           "title": "特朗普访华，为什么首选去天坛参观而不是其他地方？",
@@ -149,11 +149,12 @@
           "source": "知乎",
           "ranks": [
             2,
-            6
+            6,
+            12
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时37分 ~ 11时06分]"
+          "appearance_count": 17,
+          "time_info": "[00时37分 ~ 13时16分]"
         },
         {
           "title": "特朗普访华欢迎宴会",
@@ -207,8 +208,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时37分 ~ 11时06分]"
+          "appearance_count": 17,
+          "time_info": "[00时37分 ~ 13时16分]"
         },
         {
           "title": "特朗普为中国少年儿童驻足鼓掌",
@@ -236,11 +237,12 @@
             13,
             14,
             11,
-            16
+            16,
+            24
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时37分 ~ 11时06分]"
+          "appearance_count": 17,
+          "time_info": "[00时37分 ~ 13时16分]"
         },
         {
           "title": "特朗普访华欢迎仪式完整版视频",
@@ -337,8 +339,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时37分 ~ 11时06分]"
+          "appearance_count": 17,
+          "time_info": "[00时37分 ~ 13时16分]"
         },
         {
           "title": "国际社会是怎样看待特朗普本次访华行程的？",
@@ -349,8 +351,30 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时24分 ~ 11时06分]"
+          "appearance_count": 5,
+          "time_info": "[08时24分 ~ 13时16分]"
+        },
+        {
+          "title": "习近平同特朗普在中南海小范围会晤",
+          "url": "https://www.toutiao.com/trending/7638832901685251590/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时16分"
+        },
+        {
+          "title": "习近平同特朗普在中南海小范围会晤",
+          "url": "https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%8C%E7%89%B9%E6%9C%97%E6%99%AE%E5%9C%A8%E4%B8%AD%E5%8D%97%E6%B5%B7%E5%B0%8F%E8%8C%83%E5%9B%B4%E4%BC%9A%E6%99%A4",
+          "source": "百度热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时16分"
         },
         {
           "title": "特朗普数亿美元证券交易记录曝光 买入英伟达、苹果相关证券",
@@ -370,9 +394,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时06分"
+        },
+        {
+          "title": "外交部就特朗普访华情况答记者问",
+          "url": "https://www.douyin.com/hot/2499691",
+          "source": "抖音",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时16分"
         },
         {
           "title": "习近平同美国总统特朗普在中南海小范围会晤",
@@ -381,7 +416,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时06分"
         },
@@ -392,7 +427,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时06分"
         },
@@ -403,9 +438,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时06分"
+        },
+        {
+          "title": "特朗普抵达中南海",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%8A%B5%E8%BE%BE%E4%B8%AD%E5%8D%97%E6%B5%B7%23&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时16分"
         },
         {
           "title": "伊朗议会内部事务委员会成员纳哈伊：在最高领袖穆杰塔巴·哈梅内伊的深谋远虑和命令下，我们的武装部队将对特朗普的空洞言辞，对美国及其任何帮凶作出沉重而适当的回应。",
@@ -443,6 +489,18 @@
           "time_info": "[02时35分 ~ 04时31分]"
         },
         {
+          "title": "特朗普Q1交易：大幅减持亚马逊、Meta和微软，买入英伟达、博通和苹果，抄底甲骨文、Adobe等软件股",
+          "url": "https://wallstreetcn.com/articles/3772311",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时06分 ~ 13时16分]"
+        },
+        {
           "title": "消息人士：特朗普政府在寻求实现黎巴嫩与以色列之间全面且长期和平协议的最终目标上，仍面临漫长的道路。",
           "url": "https://flash.jin10.com/detail/20260515011935924800",
           "source": "金十数据",
@@ -460,11 +518,12 @@
           "source": "百度热搜",
           "ranks": [
             28,
-            12
+            12,
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时35分 ~ 11时06分]"
+          "appearance_count": 4,
+          "time_info": "[09时35分 ~ 13时16分]"
         },
         {
           "title": "美国总统特朗普：将继续摧毁伊朗的军事。",
@@ -491,17 +550,6 @@
           "time_info": "[05时25分 ~ 06时26分]"
         },
         {
-          "title": "特朗普Q1交易：大幅减持亚马逊、Meta和微软，买入英伟达、博通和苹果，抄底甲骨文、Adobe等软件股",
-          "url": "https://wallstreetcn.com/articles/3772311",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时06分"
-        },
-        {
           "title": "跳票近一年 特朗普“土豪金”T1手机开始发货",
           "url": "https://flash.jin10.com/detail/20260515044047642800",
           "source": "金十数据",
@@ -511,6 +559,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时25分"
+        },
+        {
+          "title": "外交部就特朗普访华情况答问",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%B0%B1%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E5%8D%8E%E6%83%85%E5%86%B5%E7%AD%94%E9%97%AE",
+          "source": "百度热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时16分"
+        },
+        {
+          "title": "外交部发言人就美国总统特朗普访华情况答记者问",
+          "url": "https://www.cls.cn/detail/2372089",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时16分"
+        },
+        {
+          "title": "特朗普乘车抵达中南海",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B9%98%E8%BD%A6%E6%8A%B5%E8%BE%BE%E4%B8%AD%E5%8D%97%E6%B5%B7",
+          "source": "百度热搜",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时16分"
         },
         {
           "title": "据ABC新闻：特朗普预计将撤销其针对美国国税局提出的100亿美元诉讼，交换条件是设立一项17亿美元的基金，用于赔偿那些声称自己遭到拜登政府错误针对的盟友。",
@@ -552,7 +633,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时06分"
         },
@@ -566,6 +647,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时26分"
+        },
+        {
+          "title": "外交部就特朗普访华答问",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%96%E4%BA%A4%E9%83%A8%E5%B0%B1%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E5%8D%8E%E7%AD%94%E9%97%AE%23&t=31&band_rank=25&Refer=top",
+          "source": "微博",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时16分"
         },
         {
           "title": "据日经新闻：日本首相高市早苗计划最早于周五与美国总统特朗普进行电话会谈。",
@@ -593,7 +685,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 32,
+      "match_count": 35,
       "titles": [
         {
           "title": "伊朗外长：阿联酋直接参与侵略行动，是美以的同谋",
@@ -601,22 +693,12 @@
           "source": "凤凰网",
           "ranks": [
             4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时24分 ~ 11时06分]"
-        },
-        {
-          "title": "外交部发言人就伊朗局势答记者问",
-          "url": "https://wallstreetcn.com/livenews/3104058",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
+            5,
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时06分"
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[08时24分 ~ 13时16分]"
         },
         {
           "title": "伊媒：伊朗已允许部分中国船只通过霍尔木兹海峡",
@@ -627,8 +709,19 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时35分 ~ 11时06分]"
+          "appearance_count": 4,
+          "time_info": "[09时35分 ~ 13时16分]"
+        },
+        {
+          "title": "外交部发言人就伊朗局势答记者问",
+          "url": "https://wallstreetcn.com/livenews/3104058",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时06分"
         },
         {
           "title": "美国中央司令部：目前对伊朗实施海上封锁的做法符合国际武装冲突规则。",
@@ -648,7 +741,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时06分"
         },
@@ -775,6 +868,17 @@
           "time_info": "[02时35分 ~ 03时32分]"
         },
         {
+          "title": "外交部回应中美元首是否谈及伊朗局势",
+          "url": "https://www.toutiao.com/trending/7638899887907700777/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时16分"
+        },
+        {
           "title": "伊朗司法机构发言人：扣押在霍尔木兹海峡违规的美国油轮是基于国内法和国际法的。",
           "url": "https://flash.jin10.com/detail/20260515001115110800",
           "source": "金十数据",
@@ -863,6 +967,17 @@
           "time_info": "01时33分"
         },
         {
+          "title": "伊朗战争引发全球原油供应失衡！美SPR释储近半出口",
+          "url": "https://flash.jin10.com/detail/20260515125849655800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时16分"
+        },
+        {
           "title": "美联储理事Barr：伊朗冲突让通胀令人担忧。",
           "url": "https://wallstreetcn.com/livenews/3103955",
           "source": "华尔街见闻-快讯",
@@ -883,6 +998,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时33分"
+        },
+        {
+          "title": "大批伊朗民众集会为男足壮行",
+          "url": "https://www.toutiao.com/trending/7638982403655450666/",
+          "source": "今日头条",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时16分"
         },
         {
           "title": "美国中央司令部：我们预计伊朗会尽快重建其能力。",
@@ -988,8 +1114,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[06时25分 ~ 11时06分]"
+          "appearance_count": 8,
+          "time_info": "[06时25分 ~ 13时16分]"
         },
         {
           "title": "AI热潮推动美股走高，标普纳指又新高，盘中英伟达涨近5%、思科涨近20%，中概回落",
@@ -1006,6 +1132,18 @@
           "time_info": "[01时33分 ~ 05时25分]"
         },
         {
+          "title": "美股光通信妖股POET暴涨超30% 披露光引擎采购大单",
+          "url": "https://www.cls.cn/detail/2371779",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[08时24分 ~ 13时16分]"
+        },
+        {
           "title": "周四（5月14日），美股行业ETF普遍收涨，科技行业涨1.50%，全球科技股指数ETF涨1.41%，网络股指数ETF涨1.37%，半导体ETF涨1.03%，银行业ETF、区域银行ETF至少涨0.89%，能源业ETF涨0.76%，生物科技指数ETF跌0.76%。",
           "url": "https://wallstreetcn.com/livenews/3103886",
           "source": "华尔街见闻-快讯",
@@ -1016,18 +1154,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时31分 ~ 05时25分]"
-        },
-        {
-          "title": "美股光通信妖股POET暴涨超30% 披露光引擎采购大单",
-          "url": "https://www.cls.cn/detail/2371779",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时24分 ~ 11时06分]"
         },
         {
           "title": "美股费城半导体指数转跌，标普500指数涨幅收窄至0.6%，道指涨323点涨幅收窄至0.65%，纳指涨0.63%。",
