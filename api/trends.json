@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-19T19:02:24.503231+08:00",
-  "total_titles_processed": 1575,
+  "generated_at": "2026-05-19T20:58:42.100835+08:00",
+  "total_titles_processed": 1716,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 76,
+      "match_count": 80,
       "titles": [
         {
           "title": "外交部回应特朗普涉台表态",
@@ -42,8 +42,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[08时28分 ~ 19时02分]"
+          "appearance_count": 11,
+          "time_info": "[08时28分 ~ 20时58分]"
         },
         {
           "title": "特朗普连发15张图分享中国记忆",
@@ -166,6 +166,20 @@
           "time_info": "[01时42分 ~ 07时22分]"
         },
         {
+          "title": "沃什上任在即！特朗普“撤回”降息压力：伊朗战争结束前无法确定利率前景",
+          "url": "https://www.cls.cn/detail/2375112",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            3,
+            1,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时07分 ~ 20时58分]"
+        },
+        {
           "title": "特朗普称将推迟对伊朗发动军事打击 SpaceX正式启动拆股计划 | 环球市场",
           "url": "https://www.cls.cn/detail/2374803",
           "source": "财联社热门",
@@ -199,19 +213,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时02分 ~ 11时03分]"
-        },
-        {
-          "title": "沃什上任在即！特朗普“撤回”降息压力：伊朗战争结束前无法确定利率前景",
-          "url": "https://www.cls.cn/detail/2375112",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            3,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时07分 ~ 19时02分]"
         },
         {
           "title": "特朗普称“不考虑向德黑兰作出任何让步”",
@@ -314,6 +315,19 @@
           "time_info": "[08时28分 ~ 09时39分]"
         },
         {
+          "title": "特朗普暗示日本过头了",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%9A%97%E7%A4%BA%E6%97%A5%E6%9C%AC%E8%BF%87%E5%A4%B4%E4%BA%86%23&t=31&band_rank=16&Refer=top",
+          "source": "微博",
+          "ranks": [
+            16,
+            2,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时04分 ~ 20时58分]"
+        },
+        {
           "title": "【特朗普称“不考虑向德黑兰作出任何让步”】在收到伊朗关于旨在结束战事的最新协议草案回复后，美国总统特朗​​普表示，他“不考虑”向德黑兰作出任何让步。特朗普还警告称，伊朗已然知晓“即将发生什么”。 特朗普表示，他对德黑兰的回复并不感到“沮丧”。他同时指出，伊朗完全清楚美国有能力给其造成更沉重的打击。特朗普说：“我可以告诉你，他们现在比以往任何时候都更渴望达成协议，因为他们知道接下来即将发生什么。”（央视）",
           "url": "https://wallstreetcn.com/livenews/3105552",
           "source": "华尔街见闻-快讯",
@@ -360,18 +374,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时19分 ~ 07时22分]"
-        },
-        {
-          "title": "特朗普暗示日本过头了",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%9A%97%E7%A4%BA%E6%97%A5%E6%9C%AC%E8%BF%87%E5%A4%B4%E4%BA%86%23&t=31&band_rank=16&Refer=top",
-          "source": "微博",
-          "ranks": [
-            16,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时04分 ~ 19时02分]"
         },
         {
           "title": "美国总统特朗普：伊朗知道“很快会发生什么”。 不会对伊朗做出让步。 （关于伊朗铀浓缩问题）我现在对啥（选项）也不持开放态度。 伊朗比以往任何时候都更希望达成协议。 “不久”就会达成伊朗协议。（纽约邮报）",
@@ -495,6 +497,18 @@
           "time_info": "[06时19分 ~ 07时22分]"
         },
         {
+          "title": "特朗普称不考虑向伊朗作任何让步，美官员称美同意暂时豁免对伊石油制裁是假消息",
+          "url": "https://wallstreetcn.com/articles/3772567",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时02分 ~ 20时58分]"
+        },
+        {
           "title": "美国总统特朗普：中东方面询问是否可以将对伊朗的攻击推迟2到3天，因为这些国家认为协议接近达成。",
           "url": "https://flash.jin10.com/detail/20260519054708141800",
           "source": "金十数据",
@@ -614,6 +628,17 @@
           "time_info": "[09时38分 ~ 09时39分]"
         },
         {
+          "title": "为啥特朗普抛涉台“四不”说法？鲁比奥用大白话解释了",
+          "url": "https://news.ifeng.com/c/8tG27n1FK2V",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
+        },
+        {
           "title": "美国司法部设17.76亿美元基金 补偿遭“政治针对”特朗普盟友",
           "url": "https://flash.jin10.com/detail/20260519002643967800",
           "source": "金十数据",
@@ -647,17 +672,6 @@
           "time_info": "04时31分"
         },
         {
-          "title": "特朗普称不考虑向伊朗作任何让步，美官员称美同意暂时豁免对伊石油制裁是假消息",
-          "url": "https://wallstreetcn.com/articles/3772567",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时02分"
-        },
-        {
           "title": "美国总统特朗普将于12月14日至15日在迈阿密召开领导人峰会。",
           "url": "https://flash.jin10.com/detail/20260519044155118800",
           "source": "金十数据",
@@ -678,6 +692,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
+        },
+        {
+          "title": "为何特朗普抛涉台“四不”说法",
+          "url": "https://www.toutiao.com/trending/7640681040356671526/",
+          "source": "今日头条",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
         },
         {
           "title": "特朗普强硬表态：拒绝对伊朗做出任何让步 暗示行动将至",
@@ -768,6 +793,17 @@
           "time_info": "06时19分"
         },
         {
+          "title": "美防长集会模仿特朗普引哄笑",
+          "url": "https://www.toutiao.com/trending/7640718233914048518/",
+          "source": "今日头条",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
+        },
+        {
           "title": "据纽约邮报：美国总统特朗普表示，伊朗知道即将要发生什么。",
           "url": "https://flash.jin10.com/detail/20260519010157219800",
           "source": "金十数据",
@@ -799,6 +835,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时56分"
+        },
+        {
+          "title": "美防长模仿特朗普口音",
+          "url": "https://www.douyin.com/hot/2504566",
+          "source": "抖音",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
         },
         {
           "title": "特朗普按下暂停键，原油多头为何还没撤？｜原油头条",
@@ -914,7 +961,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 59,
+      "match_count": 63,
       "titles": [
         {
           "title": "报道：美方同意在谈判期间暂时豁免对伊朗的石油制裁",
@@ -1024,8 +1071,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时02分 ~ 19时02分]"
+          "appearance_count": 8,
+          "time_info": "[11时02分 ~ 20时58分]"
         },
         {
           "title": "美以袭击伊朗进入第 81 天，当前局势如何？哪些信息值得关注？",
@@ -1036,8 +1083,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时02分 ~ 19时02分]"
+          "appearance_count": 8,
+          "time_info": "[11时02分 ~ 20时58分]"
         },
         {
           "title": "伊朗披露穆杰塔巴受伤细节",
@@ -1052,6 +1099,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时42分 ~ 05时26分]"
+        },
+        {
+          "title": "伊媒：伊朗格什姆岛传出爆炸声",
+          "url": "https://news.ifeng.com/c/8tG6zVYeyxe",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
         },
         {
           "title": "美媒：白宫认为伊朗最新提案无实质性改进 考虑重启军事行动",
@@ -1093,7 +1151,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时02分"
         },
@@ -1107,6 +1165,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时56分"
+        },
+        {
+          "title": "伊朗最新和平方案细节曝光，核心诉求被指基本未改动",
+          "url": "https://flash.jin10.com/detail/20260519203536046800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
         },
         {
           "title": "美媒：白宫认为伊朗最新提案无实质性改进，考虑重启军事行动",
@@ -1207,6 +1276,17 @@
           "time_info": "[00时56分 ~ 01时42分]"
         },
         {
+          "title": "释新闻｜伊朗威胁对霍尔木兹海峡海底电缆收费，可行性有多大？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33197944",
+          "source": "澎湃新闻",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时02分 ~ 20时58分]"
+        },
+        {
           "title": "美官员否认美国同意谈判期间暂时豁免对伊朗石油制裁",
           "url": "https://flash.jin10.com/detail/20260519015026293800",
           "source": "金十数据",
@@ -1224,7 +1304,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时02分"
         },
@@ -1345,7 +1425,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时02分"
         },
@@ -1372,17 +1452,6 @@
           "time_info": "00时56分"
         },
         {
-          "title": "释新闻｜伊朗威胁对霍尔木兹海峡海底电缆收费，可行性有多大？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33197944",
-          "source": "澎湃新闻",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时02分"
-        },
-        {
           "title": "据伊朗迈赫尔通讯社：伊朗伊斯法罕市的防空系统已启动。",
           "url": "https://flash.jin10.com/detail/20260519043149502800",
           "source": "金十数据",
@@ -1392,6 +1461,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时26分"
+        },
+        {
+          "title": "秘密袭击伊朗，野心与压力碰撞下阿联酋正将海湾变成前线",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33197672",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
+        },
+        {
+          "title": "卡塔尔称美国应海湾国家呼吁暂缓了对伊朗发动新的打击",
+          "url": "https://wallstreetcn.com/livenews/3106044",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
         },
         {
           "title": "沙特媒体：伊朗提出有条件地将浓缩铀转到俄罗斯",
@@ -1565,7 +1656,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时02分"
         },
@@ -1576,7 +1667,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时02分"
         },
@@ -1595,7 +1686,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 22,
+      "match_count": 23,
       "titles": [
         {
           "title": "谈判前景反复无常，油价先跌后涨，美股承压，科技股领跌",
@@ -1606,8 +1697,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[06时19分 ~ 19时02分]"
+          "appearance_count": 13,
+          "time_info": "[06时19分 ~ 20时58分]"
         },
         {
           "title": "【早报】美股存储、半导体板块大跌；特朗普：暂缓对伊打击",
@@ -1832,13 +1923,24 @@
           "time_info": "05时26分"
         },
         {
+          "title": "美股盘前，软件股上涨，微软上涨1.1%，ServiceNow上涨6.1%，Atlassian上涨4.5%，MongoDB上涨2.7%，Salesforce上涨2.2%。",
+          "url": "https://wallstreetcn.com/livenews/3106030",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
+        },
+        {
           "title": "美股股指期货跌幅扩大，纳指期货跌0.8%，触及日内低点，标普500指数期货跌超0.5%，道指期货跌0.3%。",
           "url": "https://wallstreetcn.com/livenews/3105955",
           "source": "华尔街见闻-快讯",
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时02分"
         },
@@ -1857,7 +1959,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "软银推出400亿美元的银团贷款计划，所得款项将用于支持软银对美国人工智能巨头OpenAI的投资。（彭博）",
@@ -1950,6 +2052,17 @@
           "time_info": "05时26分"
         },
         {
+          "title": "马斯克：将就美国陪审团对其起诉OpenAI一案的败诉裁决提出上诉。",
+          "url": "https://flash.jin10.com/detail/20260519203343719800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
+        },
+        {
           "title": "马斯克对OpenAI诉讼被驳回",
           "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E5%AF%B9OpenAI%E8%AF%89%E8%AE%BC%E8%A2%AB%E9%A9%B3%E5%9B%9E%23&t=31&band_rank=18&Refer=top",
           "source": "微博",
@@ -1978,7 +2091,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时02分"
         }
@@ -2021,8 +2134,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时02分 ~ 19时02分]"
+          "appearance_count": 8,
+          "time_info": "[11时02分 ~ 20时58分]"
         },
         {
           "title": "美国财政部：海外投资者3月所持长期美债估值浮亏高达1421亿美元",
@@ -2112,7 +2225,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时02分"
         }
@@ -2232,8 +2345,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[08时28分 ~ 19时02分]"
+          "appearance_count": 11,
+          "time_info": "[08时28分 ~ 20时58分]"
         },
         {
           "title": "金价跳水 黑金首饰受追捧",
@@ -2300,7 +2413,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时02分"
         }
