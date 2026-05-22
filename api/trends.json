@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-22T15:08:05.353356+08:00",
-  "total_titles_processed": 1260,
+  "generated_at": "2026-05-22T17:03:05.737770+08:00",
+  "total_titles_processed": 1400,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 46,
+      "match_count": 51,
       "titles": [
         {
           "title": "特朗普称将与赖清德谈对台军售，外交部：敦促美方兑现所作承诺和表态",
@@ -70,6 +70,17 @@
           "time_info": "[00时05分 ~ 08时27分]"
         },
         {
+          "title": "特朗普若购格陵兰岛，将面临什么国内障碍？",
+          "url": "https://news.ifeng.com/c/8tKJKXPcRAX",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时38分 ~ 17时03分]"
+        },
+        {
           "title": "美国驻丹麦大使：特朗普已排除对格陵兰岛使用武力",
           "url": "https://news.ifeng.com/c/8tHcLpLqPgM",
           "source": "凤凰网",
@@ -96,19 +107,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时05分 ~ 15时08分]"
-        },
-        {
-          "title": "特朗普若购格陵兰岛，将面临什么国内障碍？",
-          "url": "https://news.ifeng.com/c/8tKJKXPcRAX",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时38分 ~ 15时08分]"
+          "appearance_count": 16,
+          "time_info": "[00时05分 ~ 17时03分]"
         },
         {
           "title": "特朗普：历任美国总统都想干预古巴，这次轮到我来做",
@@ -118,8 +118,32 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时19分 ~ 15时08分]"
+          "appearance_count": 5,
+          "time_info": "[13时19分 ~ 17时03分]"
+        },
+        {
+          "title": "美国欲在古巴重演“委内瑞拉剧本”？专家：特朗普另有图谋",
+          "url": "https://news.ifeng.com/c/8tJqOjVcrpo",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时38分 ~ 17时03分]"
+        },
+        {
+          "title": "特朗普儿媳再忆中国行直呼震撼",
+          "url": "https://www.toutiao.com/trending/7641561881347309611/",
+          "source": "今日头条",
+          "ranks": [
+            12,
+            13,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时38分 ~ 17时03分]"
         },
         {
           "title": "特朗普再威胁伊朗交出浓缩铀 欧盟被爆考虑重启与俄正式沟通 | 环球市场",
@@ -146,17 +170,6 @@
           "time_info": "07时21分"
         },
         {
-          "title": "美国欲在古巴重演“委内瑞拉剧本”？专家：特朗普另有图谋",
-          "url": "https://news.ifeng.com/c/8tJqOjVcrpo",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时38分 ~ 15时08分]"
-        },
-        {
           "title": "美众议院推迟表决限制特朗普对伊动武法案",
           "url": "https://wallstreetcn.com/livenews/3107792",
           "source": "华尔街见闻-快讯",
@@ -166,18 +179,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时19分"
-        },
-        {
-          "title": "特朗普儿媳再忆中国行直呼震撼",
-          "url": "https://www.toutiao.com/trending/7641561881347309611/",
-          "source": "今日头条",
-          "ranks": [
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时38分 ~ 15时08分]"
         },
         {
           "title": "据美国政治新闻网Politico：特朗普政府暂停发往刚果（金）的遣返航班，因当地埃博拉疫情肆虐。",
@@ -214,6 +215,29 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时31分 ~ 06时28分]"
+        },
+        {
+          "title": "特朗普密集谈伊朗、关税与AI，称美国将获得伊浓缩铀、重申伊不能拥有核武",
+          "url": "https://wallstreetcn.com/articles/3772862",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时07分 ~ 17时03分]"
+        },
+        {
+          "title": "特朗普说去不去儿子婚礼都会被骂",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%AF%B4%E5%8E%BB%E4%B8%8D%E5%8E%BB%E5%84%BF%E5%AD%90%E5%A9%9A%E7%A4%BC%E9%83%BD%E4%BC%9A%E8%A2%AB%E9%AA%82%23&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时07分 ~ 17时03分]"
         },
         {
           "title": "特朗普称将向波兰增派5000名美军",
@@ -278,17 +302,6 @@
           "time_info": "[15时07分 ~ 15时08分]"
         },
         {
-          "title": "特朗普密集谈伊朗、关税与AI，称美国将获得伊浓缩铀、重申伊不能拥有核武",
-          "url": "https://wallstreetcn.com/articles/3772862",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时07分 ~ 15时08分]"
-        },
-        {
           "title": "美国总统特朗普：美国将向波兰增派5000名士兵。",
           "url": "https://flash.jin10.com/detail/20260522042656396800",
           "source": "金十数据",
@@ -325,6 +338,17 @@
           "time_info": "[07时21分 ~ 08时27分]"
         },
         {
+          "title": "今晚11点！美联储新主席沃什将宣誓就职 特朗普“降息梦”能实现吗？",
+          "url": "https://www.cls.cn/detail/2378649",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时02分 ~ 17时03分]"
+        },
+        {
           "title": "特朗普再威胁伊朗交出浓缩铀 称到手后或销毁",
           "url": "https://flash.jin10.com/detail/20260522041941266800",
           "source": "金十数据",
@@ -335,6 +359,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时31分 ~ 06时28分]"
+        },
+        {
+          "title": "特朗普拟建“凯旋门” 方案获批",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%8B%9F%E5%BB%BA%E2%80%9C%E5%87%AF%E6%97%8B%E9%97%A8%E2%80%9D+%E6%96%B9%E6%A1%88%E8%8E%B7%E6%89%B9",
+          "source": "百度热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时02分 ~ 17时03分]"
         },
         {
           "title": "美国总统特朗普：如果DC（华盛顿特区）和波多黎各成为州，那将是“灾难”。",
@@ -359,17 +394,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时41分 ~ 02时35分]"
-        },
-        {
-          "title": "特朗普说去不去儿子婚礼都会被骂",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%AF%B4%E5%8E%BB%E4%B8%8D%E5%8E%BB%E5%84%BF%E5%AD%90%E5%A9%9A%E7%A4%BC%E9%83%BD%E4%BC%9A%E8%A2%AB%E9%AA%82%23&t=31&band_rank=27&Refer=top",
-          "source": "微博",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时07分 ~ 15时08分]"
         },
         {
           "title": "特朗普一句话击穿油市！布油盘中跌超7%，美国库存创纪录暴跌也挡不住",
@@ -403,6 +427,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
+        },
+        {
+          "title": "打破40年惯例！特朗普今晚将亲自为美联储新主席“加冕”",
+          "url": "https://flash.jin10.com/detail/20260522162918593800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时03分"
         },
         {
           "title": "白宫推迟美国总统特朗普的人工智能（AI）行政命令的签字仪式。（Axios）",
@@ -447,6 +482,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时41分"
+        },
+        {
+          "title": "美国国务卿卢比奥：特朗普对一些北约盟国感到失望。",
+          "url": "https://wallstreetcn.com/livenews/3107918",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时03分"
         },
         {
           "title": "特朗普的“宫殿梦”还能撑多久",
@@ -504,6 +550,17 @@
           "time_info": "01时41分"
         },
         {
+          "title": "美国务卿将向北约转达特朗普很失望",
+          "url": "https://wallstreetcn.com/livenews/3107900",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时03分"
+        },
+        {
           "title": "美国总统特朗普：我推迟了人工智能（AI）行政命令签字仪式的会议。 不喜欢行政命令中的某些内容。 AI行政命令可能会妨碍美国在AI领域保持领先地位。",
           "url": "https://wallstreetcn.com/livenews/3107551",
           "source": "华尔街见闻-快讯",
@@ -521,7 +578,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时08分"
         },
@@ -551,7 +608,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 25,
+      "match_count": 28,
       "titles": [
         {
           "title": "伊朗最高领袖下令：接近武器级的铀必须留在国内",
@@ -565,8 +622,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[02时35分 ~ 15时08分]"
+          "appearance_count": 14,
+          "time_info": "[02时35分 ~ 17时03分]"
         },
         {
           "title": "伊朗最高领袖下令：接近武器级的铀必须留在国内",
@@ -578,8 +635,21 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时05分 ~ 09时38分]"
+          "appearance_count": 12,
+          "time_info": "[00时05分 ~ 17时03分]"
+        },
+        {
+          "title": "伊朗：美方谈判文本在一定程度上“缩小了分歧”，伊方“正在回应”",
+          "url": "https://wallstreetcn.com/articles/3772830",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[07时21分 ~ 17时03分]"
         },
         {
           "title": "伊朗最高领袖：接近武器级的铀得留下",
@@ -595,19 +665,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时05分 ~ 08时27分]"
-        },
-        {
-          "title": "伊朗：美方谈判文本在一定程度上“缩小了分歧”，伊方“正在回应”",
-          "url": "https://wallstreetcn.com/articles/3772830",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时21分 ~ 15时08分]"
         },
         {
           "title": "伊朗局势主导市场，纳指惊险收涨，道指收创新高，原油冲高转跌",
@@ -835,6 +892,39 @@
           "time_info": "00时05分"
         },
         {
+          "title": "“是偶然还是趋势？” 伊朗冲突颠覆50万亿美元主权债市场中的通胀观点",
+          "url": "https://wallstreetcn.com/livenews/3107906",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时03分"
+        },
+        {
+          "title": "美国国务卿鲁比奥：伊朗问题已有小幅进展。",
+          "url": "https://flash.jin10.com/detail/20260522162134371800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时03分"
+        },
+        {
+          "title": "美国国务卿鲁比奥：伊朗正试图在霍尔木兹海峡建立收费系统，任何国家都不应接受这一做法。",
+          "url": "https://flash.jin10.com/detail/20260522162046116800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时03分"
+        },
+        {
           "title": "伊朗外交部：伊朗外长与奥地利外长周四下午进行了电话交谈，讨论了最新的外交动态及双边关系相关问题，进行了意见交流。",
           "url": "https://flash.jin10.com/detail/20260522002235311800",
           "source": "金十数据",
@@ -860,7 +950,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 12,
+      "match_count": 20,
       "titles": [
         {
           "title": "美股收盘：三大指数齐升道指刷新高 量子概念爆发存储续走强",
@@ -875,6 +965,39 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[06时28分 ~ 15时08分]"
+        },
+        {
+          "title": "盈透证券美股盘前涨超9％，现报91美元。",
+          "url": "https://wallstreetcn.com/livenews/3107930",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时03分"
+        },
+        {
+          "title": "向上融科(TIGR.O)美股盘前跌幅扩大至34%，富途控股(FUTU.O)美股盘前跌幅扩大至27%。",
+          "url": "https://flash.jin10.com/detail/20260522163634268800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时03分"
+        },
+        {
+          "title": "美股盘前，老虎证券跌幅扩大至逾40%，富途控股跌超30%。",
+          "url": "https://wallstreetcn.com/livenews/3107928",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时03分"
         },
         {
           "title": "美股光伏概念股普遍上涨，逆变器供应商Enphase Energy涨17.46%，SolarEdge涨14.89%，阿特斯太阳能涨7.39%，第一太阳能涨5.63%，大全新能源涨4.69%。",
@@ -927,6 +1050,17 @@
           "time_info": "[01时41分 ~ 02时35分]"
         },
         {
+          "title": "史诗级资金“抽水泵”来了：三大世纪IPO恐触发美股“大换血”？",
+          "url": "https://www.cls.cn/detail/2378668",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时07分 ~ 17时03分]"
+        },
+        {
           "title": "巴克莱可转债ETF收涨约2.2%，领跑美股大类资产类ETF",
           "url": "https://wallstreetcn.com/livenews/3107626",
           "source": "华尔街见闻-快讯",
@@ -953,17 +1087,6 @@
           "time_info": "[05时31分 ~ 07时21分]"
         },
         {
-          "title": "史诗级资金“抽水泵”来了：三大世纪IPO恐触发美股“大换血”？",
-          "url": "https://www.cls.cn/detail/2378668",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时07分 ~ 15时08分]"
-        },
-        {
           "title": "金十图示：2026年05月21日（周四）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260522041945523800",
           "source": "金十数据",
@@ -988,6 +1111,28 @@
           "time_info": "[05时31分 ~ 06时28分]"
         },
         {
+          "title": "美股盘前，老虎证券跌幅扩大至逾33%，富途控股跌超25%。",
+          "url": "https://wallstreetcn.com/livenews/3107927",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时03分"
+        },
+        {
+          "title": "美股盘前，老虎证券跌幅扩大至逾24%，富途控股跌超20%。",
+          "url": "https://wallstreetcn.com/livenews/3107925",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时03分"
+        },
+        {
           "title": "“三巨头”竞相登陆华尔街，美股或迎“强制大换血”",
           "url": "https://flash.jin10.com/detail/20260522121130127800",
           "source": "金十数据",
@@ -999,6 +1144,28 @@
           "time_info": "13时19分"
         },
         {
+          "title": "美股盘前，老虎证券跌近16%，富途控股跌近13%。",
+          "url": "https://wallstreetcn.com/livenews/3107922",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时03分"
+        },
+        {
+          "title": "美股向上融科(TIGR.O)、富途控股(FUTU.O)盘前跌幅持续扩大，均跌超20%。",
+          "url": "https://flash.jin10.com/detail/20260522162906209800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时03分"
+        },
+        {
           "title": "金十图示：2026年05月21日（周四）热门中概股行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260522010102692800",
           "source": "金十数据",
@@ -1008,6 +1175,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时41分"
+        },
+        {
+          "title": "美股向上融科(TIGR.O)、富途控股(FUTU.O)盘前快速下挫，向上融科(TIGR.O)跌超10%，富途控股(FUTU.O)跌超5%。",
+          "url": "https://flash.jin10.com/detail/20260522162124389800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时03分"
         }
       ]
     },
@@ -1105,6 +1283,17 @@
       "match_count": 6,
       "titles": [
         {
+          "title": "伊朗局势主导市场，纳指惊险收涨，道指收创新高，原油冲高转跌，美债走势分化",
+          "url": "https://wallstreetcn.com/articles/3772777",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[08时27分 ~ 17时03分]"
+        },
+        {
           "title": "美伊冲突降温，WTI原油大跌5.5%，美股全线收涨，美债收益率下跌，英伟达绩后下跌",
           "url": "https://wallstreetcn.com/articles/3772708",
           "source": "华尔街见闻",
@@ -1125,17 +1314,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时05分 ~ 06时28分]"
-        },
-        {
-          "title": "伊朗局势主导市场，纳指惊险收涨，道指收创新高，原油冲高转跌，美债走势分化",
-          "url": "https://wallstreetcn.com/articles/3772777",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时27分 ~ 15时08分]"
         },
         {
           "title": "两年期美债收益率涨2.8个基点",
@@ -1252,8 +1430,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时19分 ~ 15时08分]"
+          "appearance_count": 5,
+          "time_info": "[13时19分 ~ 17时03分]"
         },
         {
           "title": "金十图示：2026年05月22日（周五）上海金午盘价为992.31元/克，较国际金价(989.25元/克)，高3.06元/克",
@@ -1262,7 +1440,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时08分"
         },
@@ -1293,11 +1471,12 @@
             5,
             7,
             27,
-            20
+            20,
+            19
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时05分 ~ 07时21分]"
+          "appearance_count": 9,
+          "time_info": "[00时05分 ~ 17时03分]"
         },
         {
           "title": "DeepSeek引入API并发限制",
