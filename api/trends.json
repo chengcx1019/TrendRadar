@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-26T05:24:58.020455+08:00",
-  "total_titles_processed": 490,
+  "generated_at": "2026-05-26T06:21:44.504544+08:00",
+  "total_titles_processed": 522,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 39,
+      "match_count": 46,
       "titles": [
         {
           "title": "伊朗军方举行烈士纪念仪式，高层发表强硬讲话",
@@ -15,8 +15,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时02分 ~ 05时24分]"
+          "appearance_count": 8,
+          "time_info": "[00时02分 ~ 06时21分]"
         },
         {
           "title": "伊朗称中国推动美伊停火谈判进程",
@@ -26,11 +26,12 @@
             12,
             20,
             14,
-            13
+            13,
+            24
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时31分 ~ 05时24分]"
+          "appearance_count": 7,
+          "time_info": "[01时31分 ~ 06时21分]"
         },
         {
           "title": "阿拉伯电视台：伊朗要求将铀转移至中国",
@@ -44,26 +45,15 @@
           "time_info": "00时02分"
         },
         {
-          "title": "伊朗南部阿巴斯港传出连续爆炸声",
-          "url": "https://wallstreetcn.com/livenews/3109031",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时24分"
-        },
-        {
-          "title": "据伊朗迈赫尔通讯社：伊朗霍尔木兹甘省霍尔木兹港市传出爆炸声，原因尚不明。",
-          "url": "https://flash.jin10.com/detail/20260526043043853800",
+          "title": "伊朗阿巴斯港传出爆炸声 媒体说无需担心",
+          "url": "https://flash.jin10.com/detail/20260526053123872800",
           "source": "金十数据",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时24分"
+          "time_info": "06时21分"
         },
         {
           "title": "据悉伊朗将在协议达成后的30天内开放海峡，停火协议将延长60天",
@@ -78,6 +68,31 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时31分 ~ 05时24分]"
+        },
+        {
+          "title": "伊朗总统下令：恢复互联网至今年1月大规模断网前状态",
+          "url": "https://wallstreetcn.com/livenews/3109011",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            7,
+            18,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时31分 ~ 06时21分]"
+        },
+        {
+          "title": "据伊朗迈赫尔通讯社：伊朗阿巴斯港局势受控，该市东部发生爆炸后无需担忧。",
+          "url": "https://flash.jin10.com/detail/20260526052630196800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时21分"
         },
         {
           "title": "报道称伊朗将在美伊达成停战协议后重开霍尔木兹海峡，美油跌穿90美元关口",
@@ -149,19 +164,6 @@
           "time_info": "[00时02分 ~ 03时31分]"
         },
         {
-          "title": "伊朗总统下令：恢复互联网至今年1月大规模断网前状态",
-          "url": "https://wallstreetcn.com/livenews/3109011",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            7,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时31分 ~ 05时24分]"
-        },
-        {
           "title": "伊朗最高领袖顾问：与美谈判同时，我们的手指扣在扳机上",
           "url": "https://wallstreetcn.com/livenews/3108969",
           "source": "华尔街见闻-快讯",
@@ -186,6 +188,30 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时31分 ~ 05时24分]"
+        },
+        {
+          "title": "伊朗南部阿巴斯港传出连续爆炸声",
+          "url": "https://wallstreetcn.com/livenews/3109031",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时24分 ~ 06时21分]"
+        },
+        {
+          "title": "据伊朗迈赫尔通讯社：伊朗霍尔木兹甘省霍尔木兹港市传出爆炸声，原因尚不明。",
+          "url": "https://flash.jin10.com/detail/20260526043043853800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时24分 ~ 06时21分]"
         },
         {
           "title": "据日经新闻：美国和伊朗在四月初达成的停火协议将延长60天。所有国家的船只将能够像海峡关闭前一样，自由安全地航行。",
@@ -284,6 +310,30 @@
           "time_info": "[01时32分 ~ 03时31分]"
         },
         {
+          "title": "伊朗官员：武装力量处于最高戒备 若敌人犯错必将回应",
+          "url": "https://flash.jin10.com/detail/20260526042408857800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时24分 ~ 06时21分]"
+        },
+        {
+          "title": "据阿拉伯电视台：伊朗议会国家安全委员会主席易卜拉欣·阿齐兹表示，伊朗与美国之间的任何协议都不会标志着伊朗与美国对抗的结束，并称这场冲突对德黑兰而言是“根本性和生存性的”。",
+          "url": "https://flash.jin10.com/detail/20260526042214498800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时24分 ~ 06时21分]"
+        },
+        {
           "title": "伊通社：伊朗多哈之行将检验“美国对承诺的履行”",
           "url": "https://wallstreetcn.com/livenews/3108960",
           "source": "华尔街见闻-快讯",
@@ -320,6 +370,42 @@
           "time_info": "[00时02分 ~ 01时32分]"
         },
         {
+          "title": "伊朗Bandar Abbas市出现爆炸声，原因不明。（伊朗Mehr新闻社）",
+          "url": "https://wallstreetcn.com/livenews/3109024",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时24分 ~ 06时21分]"
+        },
+        {
+          "title": "据悉美伊就伊朗被冻结资产达成谅解，协议或明日宣布",
+          "url": "https://flash.jin10.com/detail/20260526041809112800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时24分 ~ 06时21分]"
+        },
+        {
+          "title": "报道：美伊就伊朗被冻结资产达成谅解，协议或明日宣布",
+          "url": "https://wallstreetcn.com/livenews/3109022",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时24分 ~ 06时21分]"
+        },
+        {
           "title": "美国与伊朗的草案协议允许免费开放霍尔木兹海峡，并清除水雷。 草案协议允许伊朗出售和出口石油。 草案协议规定继续进行核谈判，以达成长期共识。",
           "url": "https://wallstreetcn.com/livenews/3108978",
           "source": "华尔街见闻-快讯",
@@ -330,6 +416,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时32分 ~ 02时31分]"
+        },
+        {
+          "title": "消息人士称，火箭弹袭击了伊拉克埃尔比勒以北的伊朗反对派营地，造成两名战斗人员受伤。",
+          "url": "https://flash.jin10.com/detail/20260526034624782800",
+          "source": "金十数据",
+          "ranks": [
+            15,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时24分 ~ 06时21分]"
         },
         {
           "title": "伊朗最高国家安全委员会秘书：伊方“不会投降或后退”",
@@ -344,59 +442,59 @@
           "time_info": "[01时32分 ~ 02时31分]"
         },
         {
-          "title": "伊朗官员：武装力量处于最高戒备 若敌人犯错必将回应",
-          "url": "https://flash.jin10.com/detail/20260526042408857800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时24分"
-        },
-        {
-          "title": "据阿拉伯电视台：伊朗议会国家安全委员会主席易卜拉欣·阿齐兹表示，伊朗与美国之间的任何协议都不会标志着伊朗与美国对抗的结束，并称这场冲突对德黑兰而言是“根本性和生存性的”。",
-          "url": "https://flash.jin10.com/detail/20260526042214498800",
+          "title": "伊朗南部阿巴斯港传出连续爆炸声",
+          "url": "https://flash.jin10.com/detail/20260526050429003800",
           "source": "金十数据",
           "ranks": [
             7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时24分"
+          "time_info": "06时21分"
         },
         {
-          "title": "伊朗Bandar Abbas市出现爆炸声，原因不明。（伊朗Mehr新闻社）",
-          "url": "https://wallstreetcn.com/livenews/3109024",
+          "title": "美国和以色列袭击霍尔木兹海峡的多艘伊朗船只。（Nour）",
+          "url": "https://wallstreetcn.com/livenews/3109039",
           "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时21分"
+        },
+        {
+          "title": "伊朗部分地区传出爆炸声 原因尚不明",
+          "url": "https://flash.jin10.com/detail/20260526045359340800",
+          "source": "金十数据",
           "ranks": [
             9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时24分"
+          "time_info": "06时21分"
         },
         {
-          "title": "据悉美伊就伊朗被冻结资产达成谅解，协议或明日宣布",
-          "url": "https://flash.jin10.com/detail/20260526041809112800",
-          "source": "金十数据",
+          "title": "伊朗阿巴斯港传出爆炸声，媒体说无需担心",
+          "url": "https://wallstreetcn.com/livenews/3109037",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时24分"
+          "time_info": "06时21分"
         },
         {
-          "title": "报道：美伊就伊朗被冻结资产达成谅解，协议或明日宣布",
-          "url": "https://wallstreetcn.com/livenews/3109022",
+          "title": "伊朗媒体Mehr：伊朗Bandar Abbas的局势在控制之中。",
+          "url": "https://wallstreetcn.com/livenews/3109036",
           "source": "华尔街见闻-快讯",
           "ranks": [
             11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时24分"
+          "time_info": "06时21分"
         },
         {
           "title": "墨西哥总统辛鲍姆：美国宣称不希望举办与伊朗有关的足球赛事之后，墨西哥政府同意让伊朗足球国家队在世界杯期间滞留墨西哥。",
@@ -408,17 +506,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时02分"
-        },
-        {
-          "title": "消息人士称，火箭弹袭击了伊拉克埃尔比勒以北的伊朗反对派营地，造成两名战斗人员受伤。",
-          "url": "https://flash.jin10.com/detail/20260526034624782800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时24分"
         },
         {
           "title": "伊朗代表团结束在卡塔尔会谈议程 将返回德黑兰",
@@ -490,7 +577,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 12,
+      "match_count": 17,
       "titles": [
         {
           "title": "不小心把特朗普归类为“白痴”，鲁比奥紧急救场",
@@ -500,8 +587,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时02分 ~ 05时24分]"
+          "appearance_count": 8,
+          "time_info": "[00时02分 ~ 06时21分]"
         },
         {
           "title": "特朗普称美伊协议基本谈成，油价跳水，全球股市走强，日股指新高，金银齐涨",
@@ -536,20 +623,31 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时24分"
         },
         {
-          "title": "报道称，图尔西·加巴德辞职后，副总统万斯在美国总统特朗普的政府内部愈发孤立，其在伊朗问题上的非干涉主义主张与特朗普发生冲突，而国务卿卢比奥的影响力正在上升。（每日邮报）",
-          "url": "https://wallstreetcn.com/livenews/3109030",
+          "title": "特朗普：浓缩铀要么移交给美国 要么销毁",
+          "url": "https://flash.jin10.com/detail/20260526054700468800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时21分"
+        },
+        {
+          "title": "【特朗普称伊朗浓缩铀可运到其他地点销毁】美国总统特朗普25日在社交媒体发文称，伊朗的浓缩铀可以“现场销毁”或者在“另一个可以接受的地点”销毁。（新华社）",
+          "url": "https://wallstreetcn.com/livenews/3109042",
           "source": "华尔街见闻-快讯",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时24分"
+          "time_info": "06时21分"
         },
         {
           "title": "美国总统特朗普：重申伊朗永远都不会拥有核武器。",
@@ -594,6 +692,18 @@
           "time_info": "[02时31分 ~ 05时24分]"
         },
         {
+          "title": "报道称，图尔西·加巴德辞职后，副总统万斯在美国总统特朗普的政府内部愈发孤立，其在伊朗问题上的非干涉主义主张与特朗普发生冲突，而国务卿卢比奥的影响力正在上升。（每日邮报）",
+          "url": "https://wallstreetcn.com/livenews/3109030",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时24分 ~ 06时21分]"
+        },
+        {
           "title": "美国总统特朗普：伊朗不会拥有核武器。",
           "url": "https://flash.jin10.com/detail/20260526011223011800",
           "source": "金十数据",
@@ -618,6 +728,39 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时02分 ~ 01时32分]"
+        },
+        {
+          "title": "特朗普要求先签“亚伯拉罕协议” 沙特方面回应",
+          "url": "https://flash.jin10.com/detail/20260526051929396800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时21分"
+        },
+        {
+          "title": "美国总统特朗普：伊朗要么移交浓缩铀给美国，要么销毁。",
+          "url": "https://wallstreetcn.com/livenews/3109041",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时21分"
+        },
+        {
+          "title": "特朗普要求先签“亚伯拉罕协议” 沙特方面回应",
+          "url": "https://wallstreetcn.com/livenews/3109035",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时21分"
         },
         {
           "title": "特朗普敦促沙特承认以色列，将其作为伊朗协议的一部分",
@@ -692,27 +835,29 @@
       "match_count": 3,
       "titles": [
         {
-          "title": "美元指数25日下跌",
-          "url": "https://flash.jin10.com/detail/20260526042947544800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时24分"
-        },
-        {
           "title": "美元指数跌超0.2%",
           "url": "https://wallstreetcn.com/livenews/3109019",
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            12
+            12,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时28分 ~ 06时21分]"
+        },
+        {
+          "title": "美元指数25日下跌",
+          "url": "https://flash.jin10.com/detail/20260526042947544800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            14
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[04时28分 ~ 05时24分]"
+          "time_info": "[05时24分 ~ 06时21分]"
         },
         {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨2.83%，暂报2819.51点，整体持续走高。 MarketVectorTM数字资产100中盘指数涨3.32%，报3109.24点。 MarketVector数字资产100指数涨1.37%，报15322.20点。 目前，Solana涨1.09%，狗狗币涨1.46%，XRP涨1.05%。 比特币涨1.33%，暂报77637.47美元；以太坊涨1.74%，暂报2133.16美元。",
@@ -738,11 +883,12 @@
           "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E8%B7%B3%E7%A9%BA%E9%AB%98%E5%BC%80%23&t=31&band_rank=29&Refer=top",
           "source": "微博",
           "ranks": [
-            29
+            29,
+            23
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时02分"
+          "appearance_count": 2,
+          "time_info": "[00时02分 ~ 06时21分]"
         }
       ]
     }
