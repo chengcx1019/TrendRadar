@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-27T17:04:31.501649+08:00",
-  "total_titles_processed": 1402,
+  "generated_at": "2026-05-27T19:09:16.124397+08:00",
+  "total_titles_processed": 1557,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 60,
+      "match_count": 67,
       "titles": [
         {
           "title": "停火协议形同废纸！伊朗开火，回击美国空袭，小哈梅内伊：中东地区国家将不再庇护美军",
@@ -108,6 +108,32 @@
           "time_info": "[01时04分 ~ 05时32分]"
         },
         {
+          "title": "伊朗官员：美国将在所有战线停火60天",
+          "url": "https://news.ifeng.com/c/8tTBSVzined",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时08分 ~ 19时09分]"
+        },
+        {
+          "title": "王毅谈当前伊朗局势僵局",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33242584",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            12,
+            11,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时03分 ~ 19时09分]"
+        },
+        {
           "title": "美国对伊朗实施打击，打击目标包括导弹发射阵地以及正试图布设水雷的伊朗船只，美国为何在停火期发动打击？",
           "url": "https://www.zhihu.com/question/2042527297291431958",
           "source": "知乎",
@@ -121,6 +147,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时04分 ~ 08时28分]"
+        },
+        {
+          "title": "伊朗情报部：敌方正通过“软战争”向伊朗施压",
+          "url": "https://news.ifeng.com/c/8tTK6rP01M9",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时08分 ~ 19时09分]"
         },
         {
           "title": "伊朗大不里士国际机场恢复运营",
@@ -204,20 +241,6 @@
           "time_info": "[03时39分 ~ 04时39分]"
         },
         {
-          "title": "王毅谈当前伊朗局势僵局",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33242584",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            12,
-            11,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时03分 ~ 17时04分]"
-        },
-        {
           "title": "美联储卡什卡利：旷日持久的伊朗战争可能引发美国“一系列”加息。",
           "url": "https://flash.jin10.com/detail/20260527030538635800",
           "source": "金十数据",
@@ -255,6 +278,18 @@
           "time_info": "[08时28分 ~ 11时03分]"
         },
         {
+          "title": "伊朗称美将在所有战线停火60天",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E7%A7%B0%E7%BE%8E%E5%B0%86%E5%9C%A8%E6%89%80%E6%9C%89%E6%88%98%E7%BA%BF%E5%81%9C%E7%81%AB60%E5%A4%A9",
+          "source": "百度热搜",
+          "ranks": [
+            14,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时04分 ~ 19时09分]"
+        },
+        {
           "title": "伊朗总统：已准备好达成框架协议",
           "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%80%BB%E7%BB%9F%EF%BC%9A%E5%B7%B2%E5%87%86%E5%A4%87%E5%A5%BD%E8%BE%BE%E6%88%90%E6%A1%86%E6%9E%B6%E5%8D%8F%E8%AE%AE",
           "source": "百度热搜",
@@ -276,6 +311,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时46分 ~ 03时39分]"
+        },
+        {
+          "title": "伊朗：美方承诺在所有战线停火60天，战争重新爆发的可能性\"低\"",
+          "url": "https://wallstreetcn.com/articles/3773227",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时08分 ~ 19时09分]"
         },
         {
           "title": "据黎巴嫩电视台Al-Mayadeen：伊朗议会议长卡利巴夫的顾问表示，如果美国“玩文字游戏”，德黑兰将退出谈判。",
@@ -450,24 +496,13 @@
           "time_info": "01时05分"
         },
         {
-          "title": "伊朗称美将在所有战线停火60天",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E7%A7%B0%E7%BE%8E%E5%B0%86%E5%9C%A8%E6%89%80%E6%9C%89%E6%88%98%E7%BA%BF%E5%81%9C%E7%81%AB60%E5%A4%A9",
-          "source": "百度热搜",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时04分"
-        },
-        {
           "title": "伊朗支付超7万亿土曼“药品支持计划”相关欠款",
           "url": "https://wallstreetcn.com/livenews/3109951",
           "source": "华尔街见闻-快讯",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时04分"
         },
@@ -492,6 +527,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时24分"
+        },
+        {
+          "title": "伊朗说尚未就霍尔木兹海峡问题与美国达成一致",
+          "url": "https://wallstreetcn.com/livenews/3110025",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时09分"
         },
         {
           "title": "伊朗总统：与卡塔尔埃米尔通了电话。",
@@ -544,7 +590,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时04分"
         },
@@ -577,9 +623,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时04分"
+        },
+        {
+          "title": "欧洲央行称投资者低估伊朗冲突等风险 金融市场恐出现突然大幅回调",
+          "url": "https://wallstreetcn.com/livenews/3110017",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时09分"
         },
         {
           "title": "伊朗媒体：伊朗全面恢复国际互联网连接",
@@ -599,7 +656,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时04分"
         },
@@ -610,9 +667,31 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时04分"
+        },
+        {
+          "title": "伊朗最高国家安全委员会副秘书巴盖里今日在莫斯科国际会议期间与瑞士国家安全顾问会晤。",
+          "url": "https://flash.jin10.com/detail/20260527183315998800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时09分"
+        },
+        {
+          "title": "伊朗情报部说敌方正通过软战争施压",
+          "url": "https://wallstreetcn.com/livenews/3110002",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时09分"
         },
         {
           "title": "伊朗伊斯兰革命卫队海军称将对“侵略者”实施严厉报复",
@@ -632,7 +711,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时04分"
         },
@@ -643,7 +722,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时04分"
         },
@@ -676,7 +755,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时04分"
         },
@@ -687,7 +766,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时04分"
         },
@@ -698,7 +777,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时04分"
         }
@@ -719,11 +798,25 @@
             11,
             9,
             8,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 16,
+          "time_info": "[01时04分 ~ 19时09分]"
+        },
+        {
+          "title": "特朗普体检后称“结果非常完美”，下个月将迎来80岁生日",
+          "url": "https://news.ifeng.com/c/8tSnrdWGnY5",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            3,
             4
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[01时04分 ~ 17时04分]"
+          "appearance_count": 5,
+          "time_info": "[13时27分 ~ 19时09分]"
         },
         {
           "title": "特朗普提了一个非分要求",
@@ -736,18 +829,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[08时28分 ~ 17时04分]"
-        },
-        {
-          "title": "特朗普体检后称“结果非常完美”，下个月将迎来80岁生日",
-          "url": "https://news.ifeng.com/c/8tSnrdWGnY5",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时27分 ~ 17时04分]"
         },
         {
           "title": "据AXIOS网站：美国总统特朗普任命邦迪加入白宫人工智能委员会。",
@@ -1068,7 +1149,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 15,
+      "match_count": 18,
       "titles": [
         {
           "title": "美股收盘：标普纳指再创新高 美光科技暴涨19%",
@@ -1185,6 +1266,17 @@
           "time_info": "[08时28分 ~ 09时40分]"
         },
         {
+          "title": "美股盘前美光继续大涨，日韩股市再创新高，SK海力士市值破万亿美元",
+          "url": "https://wallstreetcn.com/articles/3773196",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时08分 ~ 19时09分]"
+        },
+        {
           "title": "美股收盘：标普500和纳指再创新高",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E6%94%B6%E7%9B%98%EF%BC%9A%E6%A0%87%E6%99%AE500%E5%92%8C%E7%BA%B3%E6%8C%87%E5%86%8D%E5%88%9B%E6%96%B0%E9%AB%98",
           "source": "百度热搜",
@@ -1194,6 +1286,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时24分 ~ 08时28分]"
+        },
+        {
+          "title": "拼多多美股盘前跌近4%，公司第一季度营收和调整后每ADS收益均不及预期。",
+          "url": "https://wallstreetcn.com/livenews/3110038",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时09分"
         },
         {
           "title": "金十图示：2026年05月26日（周二）美股热门股票行情一览（美股收盘）",
@@ -1235,7 +1338,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时04分"
         },
@@ -1246,9 +1349,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时04分"
+        },
+        {
+          "title": "拼多多(PDD.O)美股盘前跌超3.3%，消息面上，公司2026年Q1营收1062亿元，上年同期956.7亿元。",
+          "url": "https://flash.jin10.com/detail/20260527183308629800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时09分"
         }
       ]
     },
@@ -1374,7 +1488,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时04分"
         }
