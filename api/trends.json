@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-27T11:03:37.107636+08:00",
-  "total_titles_processed": 970,
+  "generated_at": "2026-05-27T13:27:56.766133+08:00",
+  "total_titles_processed": 1128,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 42,
+      "match_count": 46,
       "titles": [
         {
           "title": "停火协议形同废纸！伊朗开火，回击美国空袭，小哈梅内伊：中东地区国家将不再庇护美军",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时04分 ~ 11时03分]"
+          "appearance_count": 12,
+          "time_info": "[01时04分 ~ 13时27分]"
         },
         {
           "title": "伊朗外交部：美国公然违反停火协议",
@@ -55,8 +55,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时04分 ~ 11时03分]"
+          "appearance_count": 12,
+          "time_info": "[01时04分 ~ 13时27分]"
         },
         {
           "title": "伊朗任命谈判团队发言人，专家：展现外交灵活性",
@@ -121,6 +121,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时04分 ~ 08时28分]"
+        },
+        {
+          "title": "伊朗大不里士国际机场恢复运营",
+          "url": "https://flash.jin10.com/detail/20260527125126650800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时27分"
         },
         {
           "title": "伊朗总统：已准备好达成“有尊严的”框架协议",
@@ -289,6 +300,18 @@
           "time_info": "[02时46分 ~ 03时39分]"
         },
         {
+          "title": "王毅谈当前伊朗局势僵局",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33242584",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时03分 ~ 13时27分]"
+        },
+        {
           "title": "伊朗局势“迷雾重重”震荡市场，新兴市场货币集体下挫",
           "url": "https://wallstreetcn.com/livenews/3109651",
           "source": "华尔街见闻-快讯",
@@ -337,13 +360,24 @@
           "time_info": "[08时28分 ~ 09时40分]"
         },
         {
+          "title": "伊朗大不里士国际机场恢复运营",
+          "url": "https://wallstreetcn.com/livenews/3109841",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时27分"
+        },
+        {
           "title": "世界杯伊朗男足仅比赛日跨境赴美",
           "url": "https://s.weibo.com/weibo?q=%23%E4%B8%96%E7%95%8C%E6%9D%AF%E4%BC%8A%E6%9C%97%E7%94%B7%E8%B6%B3%E4%BB%85%E6%AF%94%E8%B5%9B%E6%97%A5%E8%B7%A8%E5%A2%83%E8%B5%B4%E7%BE%8E%23&t=31&band_rank=8&Refer=top",
           "source": "微博",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时03分"
         },
@@ -436,6 +470,17 @@
           "time_info": "01时05分"
         },
         {
+          "title": "伊朗民航组织宣布全国10个机场将实现24小时运营",
+          "url": "https://flash.jin10.com/detail/20260527121045082800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时27分"
+        },
+        {
           "title": "伊朗处决一名替以色列刺探情报的男性间谍。（伊朗媒体Mizan）",
           "url": "https://wallstreetcn.com/livenews/3109614",
           "source": "华尔街见闻-快讯",
@@ -447,15 +492,15 @@
           "time_info": "03时39分"
         },
         {
-          "title": "王毅谈当前伊朗局势僵局",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33242584",
-          "source": "澎湃新闻",
+          "title": "伊朗民航组织宣布全国10个机场将实现24小时运营",
+          "url": "https://wallstreetcn.com/livenews/3109828",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            19
+            18
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时03分"
+          "time_info": "13时27分"
         },
         {
           "title": "伊朗大不里士国际机场重新开放。（努尔新闻）",
@@ -497,7 +542,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时03分"
         }
@@ -505,7 +550,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 28,
+      "match_count": 30,
       "titles": [
         {
           "title": "释新闻｜美伊谈判冲刺阶段，特朗普为何突然提起《亚伯拉罕协议》？",
@@ -515,11 +560,12 @@
             18,
             17,
             16,
-            11
+            11,
+            9
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时04分 ~ 11时03分]"
+          "appearance_count": 12,
+          "time_info": "[01时04分 ~ 13时27分]"
         },
         {
           "title": "特朗普提了一个非分要求",
@@ -530,8 +576,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时28分 ~ 11时03分]"
+          "appearance_count": 4,
+          "time_info": "[08时28分 ~ 13时27分]"
+        },
+        {
+          "title": "特朗普体检后称“结果非常完美”，下个月将迎来80岁生日",
+          "url": "https://news.ifeng.com/c/8tSnrdWGnY5",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时27分"
         },
         {
           "title": "据AXIOS网站：美国总统特朗普任命邦迪加入白宫人工智能委员会。",
@@ -827,6 +884,17 @@
           "time_info": "09时40分"
         },
         {
+          "title": "国台办回应特朗普称将和赖清德谈军售",
+          "url": "https://www.toutiao.com/trending/7643605127043399699/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时27分"
+        },
+        {
           "title": "特朗普任命美国前司法部长邦迪进入白宫AI小组。（Axios）",
           "url": "https://wallstreetcn.com/livenews/3109712",
           "source": "华尔街见闻-快讯",
@@ -867,8 +935,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时24分 ~ 11时03分]"
+          "appearance_count": 5,
+          "time_info": "[07时24分 ~ 13时27分]"
         },
         {
           "title": "【早报】暴涨超19%，美股存储芯片巨头市值首破万亿；兆易创新、沪电股份等热门股发布重要公告",
@@ -879,8 +947,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时24分 ~ 11时03分]"
+          "appearance_count": 5,
+          "time_info": "[07时24分 ~ 13时27分]"
         },
         {
           "title": "新兴市场ETF收涨超3.8%，领跑美股大类资产类ETF，布油基金跌超3.4%",
