@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-27T19:09:16.124397+08:00",
-  "total_titles_processed": 1557,
+  "generated_at": "2026-05-27T21:02:43.365387+08:00",
+  "total_titles_processed": 1703,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 67,
+      "match_count": 75,
       "titles": [
         {
           "title": "停火协议形同废纸！伊朗开火，回击美国空袭，小哈梅内伊：中东地区国家将不再庇护美军",
@@ -108,6 +108,33 @@
           "time_info": "[01时04分 ~ 05时32分]"
         },
         {
+          "title": "王毅谈当前伊朗局势僵局",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33242584",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            12,
+            11,
+            6,
+            5,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时03分 ~ 21时02分]"
+        },
+        {
+          "title": "伊朗情报部：敌方正通过“软战争”向伊朗施压",
+          "url": "https://news.ifeng.com/c/8tTK6rP01M9",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时08分 ~ 21时02分]"
+        },
+        {
           "title": "伊朗官员：美国将在所有战线停火60天",
           "url": "https://news.ifeng.com/c/8tTBSVzined",
           "source": "凤凰网",
@@ -117,21 +144,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[19时08分 ~ 19时09分]"
-        },
-        {
-          "title": "王毅谈当前伊朗局势僵局",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33242584",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            12,
-            11,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时03分 ~ 19时09分]"
         },
         {
           "title": "美国对伊朗实施打击，打击目标包括导弹发射阵地以及正试图布设水雷的伊朗船只，美国为何在停火期发动打击？",
@@ -149,15 +161,26 @@
           "time_info": "[01时04分 ~ 08时28分]"
         },
         {
-          "title": "伊朗情报部：敌方正通过“软战争”向伊朗施压",
-          "url": "https://news.ifeng.com/c/8tTK6rP01M9",
+          "title": "伊朗官员称美国将在所有战线停火60天",
+          "url": "https://news.ifeng.com/c/8tTBSVzined",
           "source": "凤凰网",
           "ranks": [
-            3
+            1
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时08分 ~ 19时09分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时02分"
+        },
+        {
+          "title": "伊媒：文件披露，美军事力量将撤出伊朗周边",
+          "url": "https://news.ifeng.com/c/8tTRdrF2SL8",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时02分"
         },
         {
           "title": "伊朗大不里士国际机场恢复运营",
@@ -191,6 +214,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时28分"
+        },
+        {
+          "title": "伊朗：美方承诺在所有战线停火60天，战争重新爆发的可能性\"低\"",
+          "url": "https://wallstreetcn.com/articles/3773227",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时08分 ~ 21时02分]"
         },
         {
           "title": "伊朗官员：美国处于“请求”与伊朗达成协议的地位",
@@ -265,6 +300,19 @@
           "time_info": "[02时46分 ~ 03时39分]"
         },
         {
+          "title": "伊朗称美将在所有战线停火60天",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E7%A7%B0%E7%BE%8E%E5%B0%86%E5%9C%A8%E6%89%80%E6%9C%89%E6%88%98%E7%BA%BF%E5%81%9C%E7%81%AB60%E5%A4%A9",
+          "source": "百度热搜",
+          "ranks": [
+            14,
+            17,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时04分 ~ 21时02分]"
+        },
+        {
           "title": "伊朗公布击落美MQ-9死神无人机画面",
           "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%85%AC%E5%B8%83%E5%87%BB%E8%90%BD%E7%BE%8EMQ-9%E6%AD%BB%E7%A5%9E%E6%97%A0%E4%BA%BA%E6%9C%BA%E7%94%BB%E9%9D%A2",
           "source": "百度热搜",
@@ -276,18 +324,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[08时28分 ~ 11时03分]"
-        },
-        {
-          "title": "伊朗称美将在所有战线停火60天",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E7%A7%B0%E7%BE%8E%E5%B0%86%E5%9C%A8%E6%89%80%E6%9C%89%E6%88%98%E7%BA%BF%E5%81%9C%E7%81%AB60%E5%A4%A9",
-          "source": "百度热搜",
-          "ranks": [
-            14,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时04分 ~ 19时09分]"
         },
         {
           "title": "伊朗总统：已准备好达成框架协议",
@@ -311,17 +347,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时46分 ~ 03时39分]"
-        },
-        {
-          "title": "伊朗：美方承诺在所有战线停火60天，战争重新爆发的可能性\"低\"",
-          "url": "https://wallstreetcn.com/articles/3773227",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时08分 ~ 19时09分]"
         },
         {
           "title": "据黎巴嫩电视台Al-Mayadeen：伊朗议会议长卡利巴夫的顾问表示，如果美国“玩文字游戏”，德黑兰将退出谈判。",
@@ -430,6 +455,17 @@
           "time_info": "15时21分"
         },
         {
+          "title": "一份协议如何让双方“宣布胜利”？美国提出新要求，伊朗有两个目标",
+          "url": "https://wallstreetcn.com/articles/3773194",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时02分"
+        },
+        {
           "title": "世界杯伊朗男足仅比赛日跨境赴美",
           "url": "https://s.weibo.com/weibo?q=%23%E4%B8%96%E7%95%8C%E6%9D%AF%E4%BC%8A%E6%9C%97%E7%94%B7%E8%B6%B3%E4%BB%85%E6%AF%94%E8%B5%9B%E6%97%A5%E8%B7%A8%E5%A2%83%E8%B5%B4%E7%BE%8E%23&t=31&band_rank=8&Refer=top",
           "source": "微博",
@@ -452,6 +488,17 @@
           "time_info": "03时39分"
         },
         {
+          "title": "伊美谅解备忘录初步非正式文件内容披露：伊朗将于一个月内恢复霍尔木兹海峡商业船只通行量",
+          "url": "https://wallstreetcn.com/livenews/3110063",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时02分"
+        },
+        {
           "title": "美国政府被马斯克掐咽喉：五角大楼与SpaceX就伊朗战争期间“星链”涨价问题爆发激烈争执",
           "url": "https://wallstreetcn.com/livenews/3109568",
           "source": "华尔街见闻-快讯",
@@ -461,6 +508,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时05分"
+        },
+        {
+          "title": "美国锁定伊朗新目标 为恢复打击做准备",
+          "url": "https://flash.jin10.com/detail/20260527205021807800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时02分"
         },
         {
           "title": "伊朗革命卫队声称正在对霍尔木兹海峡实施“智能控制”，并警告称，任何在该水道的侵略行为将遭到“毁灭性”回应，进一步强化了德黑兰在维护该战略要道主权上的立场。",
@@ -483,6 +541,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时05分"
+        },
+        {
+          "title": "欧洲央行副行长金多斯：6月会议必须考虑伊朗战争对经济增长的影响",
+          "url": "https://wallstreetcn.com/livenews/3110077",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时02分"
         },
         {
           "title": "高盛：伊朗局势紧张之际，美元货币对正步调一致地共振走势",
@@ -535,7 +604,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时09分"
         },
@@ -634,7 +703,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时09分"
         },
@@ -648,6 +717,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时05分"
+        },
+        {
+          "title": "伊朗称敌对国家船只仍被禁止通过霍尔木兹海峡",
+          "url": "https://wallstreetcn.com/livenews/3110061",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时02分"
         },
         {
           "title": "伊朗支付超7万亿土曼“药品支持计划”相关欠款",
@@ -678,7 +758,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时09分"
         },
@@ -689,7 +769,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时09分"
         },
@@ -749,6 +829,17 @@
           "time_info": "11时03分"
         },
         {
+          "title": "欧洲斯托克600石油与天然气指数触及盘中低点，现跌3.4%；伊朗方面表示与美国的协议草案将重新开放霍尔木兹海峡航运。",
+          "url": "https://flash.jin10.com/detail/20260527203141372800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时02分"
+        },
+        {
           "title": "【伊朗革命卫队官员：伊美战争重启可能性“低”】据伊朗塔斯尼姆通讯社27日报道，伊朗伊斯兰革命卫队海军官员穆罕默德·阿克巴尔扎德表示，与美国重新发生战争的可能性“低”，但伊朗武装力量已“装满弹匣”做好准备。（新华社）",
           "url": "https://wallstreetcn.com/livenews/3109928",
           "source": "华尔街见闻-快讯",
@@ -785,7 +876,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 30,
+      "match_count": 31,
       "titles": [
         {
           "title": "释新闻｜美伊谈判冲刺阶段，特朗普为何突然提起《亚伯拉罕协议》？",
@@ -815,8 +906,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时27分 ~ 19时09分]"
+          "appearance_count": 6,
+          "time_info": "[13时27分 ~ 21时02分]"
         },
         {
           "title": "特朗普提了一个非分要求",
@@ -829,6 +920,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[08时28分 ~ 17时04分]"
+        },
+        {
+          "title": "特朗普要求多国签《亚伯拉罕协议》，专家：警惕“美式陷阱”",
+          "url": "https://news.ifeng.com/c/8tTPXgoAD0P",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时02分"
         },
         {
           "title": "据AXIOS网站：美国总统特朗普任命邦迪加入白宫人工智能委员会。",
@@ -1149,7 +1251,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 18,
+      "match_count": 24,
       "titles": [
         {
           "title": "美股收盘：标普纳指再创新高 美光科技暴涨19%",
@@ -1189,6 +1291,28 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[07时24分 ~ 15时21分]"
+        },
+        {
+          "title": "WTI原油日内跌幅达6.0%，报88.12美元/桶；布伦特原油跌近5%，报91.98美元/桶。 美股期货走高，纳斯达克100指数期货涨1%，美国联合航空、美国航空、达美航空股价盘前上涨约2%。",
+          "url": "https://wallstreetcn.com/livenews/3110090",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时02分"
+        },
+        {
+          "title": "美股石油股盘前下跌，埃克森美孚跌1.4%，雪佛龙跌1.7%。",
+          "url": "https://wallstreetcn.com/livenews/3110088",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时02分"
         },
         {
           "title": "新兴市场ETF收涨超3.8%，领跑美股大类资产类ETF，布油基金跌超3.4%",
@@ -1288,15 +1412,48 @@
           "time_info": "[07时24分 ~ 08时28分]"
         },
         {
+          "title": "AI热潮推动下，美股期指涨幅扩大，盘前美光涨近10%，石油股下跌，金银油齐跌",
+          "url": "https://wallstreetcn.com/articles/3773196",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时02分"
+        },
+        {
           "title": "拼多多美股盘前跌近4%，公司第一季度营收和调整后每ADS收益均不及预期。",
           "url": "https://wallstreetcn.com/livenews/3110038",
           "source": "华尔街见闻-快讯",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时09分"
+        },
+        {
+          "title": "金十数据整理：每日美股市场要闻速递（2026-05-27）",
+          "url": "https://flash.jin10.com/detail/20260527205332547800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时02分"
+        },
+        {
+          "title": "美光科技美股盘前涨近10%，前一交易日收涨超19%。",
+          "url": "https://wallstreetcn.com/livenews/3110081",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时02分"
         },
         {
           "title": "金十图示：2026年05月26日（周二）美股热门股票行情一览（美股收盘）",
@@ -1360,15 +1517,26 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时09分"
+        },
+        {
+          "title": "Bath & Body Works第一季度调整后每股收益0.32美元，上年同期0.49美元，预估0.29美元。 第一季度每股收益0.90美元，上年同期0.49美元。 第一季度销售净额13.8亿美元，同比下降3.2%，预估13.6亿美元。 第一季度调整后运营收益1.51亿美元，预估1.419亿美元。 Bath & Body Works仍然预测全年调整后每股收益2.40美元至2.65美元。 Bath & Body Works美股盘前跌近1%。",
+          "url": "https://wallstreetcn.com/livenews/3110049",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时02分"
         }
       ]
     },
     {
       "keyword_group": "美债",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "美伊边打边谈，美股开盘半导体股普涨，美光大涨12%，美债收益率回落，金银下挫",
@@ -1380,6 +1548,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时04分 ~ 05时32分]"
+        },
+        {
+          "title": "布伦特原油日内跌幅达4%，报92.78美元/桶。 WTI原油日内跌幅达5.5%，报88.69美元/桶。 现货黄金5分钟内上涨28.58美元/盎司，报4457.7美元/盎司。 美债收益率扩大跌幅，30年期收益率下跌3个基点至4.99%。 欧洲斯托克600指数涨0.6%，刷新日高。 伊朗电视台称获得了非官方的美伊谅解备忘录草案。",
+          "url": "https://wallstreetcn.com/livenews/3110086",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时02分"
         },
         {
           "title": "中日印为何抛售美债",
