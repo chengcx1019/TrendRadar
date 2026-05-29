@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-05-30T03:47:30.283020+08:00",
-  "total_titles_processed": 473,
+  "generated_at": "2026-05-30T04:47:08.964796+08:00",
+  "total_titles_processed": 522,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
+        {
+          "title": "特朗普如何让一个格陵兰激进独立斗士变成“爱国者”",
+          "url": "https://news.ifeng.com/c/8tWtCZfg2nz",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时16分 ~ 04时47分]"
+        },
         {
           "title": "【伊朗知情人士：特朗普言论“真假参半”】据伊朗法尔斯通讯社29日报道，伊朗知情人士驳斥了美国总统特朗普关于可能与伊朗达成协议的言论，称其“真假参半”，试图描绘一场捏造的胜利。“几乎所有人都已清楚，这些说法缺乏可信度。”（新华社）",
           "url": "https://wallstreetcn.com/livenews/3111555",
@@ -18,17 +29,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时17分 ~ 02时02分]"
-        },
-        {
-          "title": "特朗普如何让一个格陵兰激进独立斗士变成“爱国者”",
-          "url": "https://news.ifeng.com/c/8tWtCZfg2nz",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时16分 ~ 03时47分]"
         },
         {
           "title": "特朗普称对伊朗的海上封锁“即将被解除”",
@@ -43,6 +43,42 @@
           "time_info": "[00时17分 ~ 02时02分]"
         },
         {
+          "title": "美国财长贝森特：应当将总统特朗普印到250面值美元上。",
+          "url": "https://wallstreetcn.com/livenews/3111607",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时47分 ~ 04时47分]"
+        },
+        {
+          "title": "法官裁定：特朗普目前不得重新命名肯尼迪中心，也不能以翻新为由将其关闭",
+          "url": "https://wallstreetcn.com/livenews/3111606",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时47分 ~ 04时47分]"
+        },
+        {
+          "title": "美国财长贝森特：我从未偏袒过沃什。特朗普决定任命沃什为美联储主席。",
+          "url": "https://flash.jin10.com/detail/20260530033635502800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时47分 ~ 04时47分]"
+        },
+        {
           "title": "【伊朗消息人士指责特朗普歪曲和回避协议内容】金十数据5月29日讯，据伊朗媒体Fars News：知情人士驳斥了特朗普关于可能与伊朗达成协议的最新说法，称其言论“真假参半”，旨在炮制一场虚假的胜利。如今几乎所有人都已看清，特朗普的这些说法根本站不住脚。据相关报道，这份以“对等承诺”形式起草的协议文本，目前正处于伊朗国内批准程序的最后阶段，尚未做出最终决定。与此形成鲜明对比的是，特朗普却抛出了一些与协议文本条款相悖的议题。与此同时，他却宣称将立即解除封锁。 特朗普对协议核心内容的歪曲包括：1.特朗普声称，伊朗有义务在不收取任何费用的前提下开放霍尔木兹海峡；然而，协议文本中根本不存在此类条款。2.特朗普声称，伊朗将拆除或销毁其核材料。知情人士强调指出，不仅谅解备忘录中毫无此类内容，特朗普的这一说法更是彻头彻尾的无稽之谈。 特朗普刻意回避的协议关键条款：1.特朗普只字未提、却至关重要的一项内容，即关于立即解冻并向伊朗支付120亿美元被冻结资产的先决条件。2.黎巴嫩停火。3.伊朗官员亦强调，最终协议将以伊朗伊斯兰共和国的原则与“红线”为基础。",
           "url": "https://flash.jin10.com/detail/20260529234751463800",
           "source": "金十数据",
@@ -54,17 +90,6 @@
           "time_info": "00时17分"
         },
         {
-          "title": "美国财长贝森特：应当将总统特朗普印到250面值美元上。",
-          "url": "https://wallstreetcn.com/livenews/3111607",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时47分"
-        },
-        {
           "title": "伊朗消息人士否认了特朗普的最新评论",
           "url": "https://flash.jin10.com/detail/20260529234630741800",
           "source": "金十数据",
@@ -74,28 +99,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时17分"
-        },
-        {
-          "title": "法官裁定：特朗普目前不得重新命名肯尼迪中心，也不能以翻新为由将其关闭",
-          "url": "https://wallstreetcn.com/livenews/3111606",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时47分"
-        },
-        {
-          "title": "美国财长贝森特：我从未偏袒过沃什。特朗普决定任命沃什为美联储主席。",
-          "url": "https://flash.jin10.com/detail/20260530033635502800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时47分"
         },
         {
           "title": "据伊朗媒体：伊朗消息人士否认了美国总统特朗普的最新评论。 与美国的协议在伊朗的批准阶段已接近尾声，但尚未做出最终决定。 谅解备忘录（MoU）包括在黎巴嫩停火。",
@@ -115,7 +118,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时47分"
         },
@@ -126,7 +129,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时47分"
         },
@@ -148,7 +151,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时47分"
         },
@@ -181,7 +184,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时47分"
         },
@@ -192,9 +195,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时47分"
+        },
+        {
+          "title": "美媒：特朗普推迟就伊朗相关协议作最终决定",
+          "url": "https://wallstreetcn.com/livenews/3111616",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时47分"
         },
         {
           "title": "美媒：特朗普未就与伊朗达成任何新协议做出决定",
@@ -203,7 +217,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时47分"
         },
@@ -233,7 +247,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 16,
+      "match_count": 20,
       "titles": [
         {
           "title": "伊朗议长：伊朗将通过导弹而非对话使对方让步",
@@ -243,8 +257,21 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时16分 ~ 03时47分]"
+          "appearance_count": 6,
+          "time_info": "[00时16分 ~ 04时47分]"
+        },
+        {
+          "title": "美称敲定“谅解备忘录”遭伊朗否认",
+          "url": "https://www.toutiao.com/trending/7645098099924323890/",
+          "source": "今日头条",
+          "ranks": [
+            23,
+            18,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时16分 ~ 04时47分]"
         },
         {
           "title": "因伊朗战争受困的大型油轮中已有四分之一驶出海峡，不含伊朗相关船舶",
@@ -257,19 +284,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时17分 ~ 02时02分]"
-        },
-        {
-          "title": "美称敲定“谅解备忘录”遭伊朗否认",
-          "url": "https://www.toutiao.com/trending/7645098099924323890/",
-          "source": "今日头条",
-          "ranks": [
-            23,
-            18,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时16分 ~ 03时47分]"
         },
         {
           "title": "【伊知情人士：伊朗尚未就伊美协议作出最终决定】伊朗法尔斯通讯社29日援引知情人士的话说，与美国的协议文本正处于伊朗国内审批的最后阶段，伊方尚未作出最终决定。（新华社）",
@@ -288,11 +302,24 @@
           "url": "https://flash.jin10.com/detail/20260530033805966800",
           "source": "金十数据",
           "ranks": [
-            7
+            7,
+            25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时47分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时47分 ~ 04时47分]"
+        },
+        {
+          "title": "美国财长贝森特：（被问及对伊朗的封锁）任何解除的措施都将逐步进行。关于伊朗存在三种情景：达成协议、未达成协议或采取军事行动。",
+          "url": "https://flash.jin10.com/detail/20260530033749981800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时47分 ~ 04时47分]"
         },
         {
           "title": "伊朗外交部：尚未与美国达成最终协议",
@@ -304,17 +331,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时02分"
-        },
-        {
-          "title": "美国财长贝森特：（被问及对伊朗的封锁）任何解除的措施都将逐步进行。关于伊朗存在三种情景：达成协议、未达成协议或采取军事行动。",
-          "url": "https://flash.jin10.com/detail/20260530033749981800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时47分"
         },
         {
           "title": "伊朗外交部发言人巴加埃：霍尔木兹海峡的管理必须由伊朗和阿曼决定。至今尚未与美国达成任何协议。",
@@ -339,13 +355,46 @@
           "time_info": "02时02分"
         },
         {
+          "title": "伊朗外交部：仍在与美方沟通 尚未达成最终共识",
+          "url": "https://wallstreetcn.com/livenews/3111625",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时47分"
+        },
+        {
+          "title": "据纽约邮报：美国和伊朗将何时敲定谅解备忘录尚不清楚。",
+          "url": "https://flash.jin10.com/detail/20260530035126096800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时47分"
+        },
+        {
+          "title": "伊朗军方在格什姆岛附近击落敌对小型无人机",
+          "url": "https://flash.jin10.com/detail/20260530034847943800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时47分"
+        },
+        {
           "title": "伊朗：击落了美国-以色列一架无人机。（Tasnim）",
           "url": "https://wallstreetcn.com/livenews/3111597",
           "source": "华尔街见闻-快讯",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时47分"
         },
@@ -356,7 +405,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时47分"
         },
@@ -367,9 +416,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时47分"
+        },
+        {
+          "title": "伊朗军方在格什姆岛附近击落敌对小型无人机",
+          "url": "https://wallstreetcn.com/livenews/3111617",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时47分"
         },
         {
           "title": "国际观察组织称，哈萨克斯坦提议，接纳伊朗浓缩铀。（英国金融时报）",
@@ -389,7 +449,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时47分"
         },
@@ -411,7 +471,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时47分"
         }
@@ -419,7 +479,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 5,
+      "match_count": 14,
       "titles": [
         {
           "title": "美伊停火传言搅动市场，美股三大指数收创新高，黄金深V反转，原油震荡走平",
@@ -429,8 +489,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时16分 ~ 03时47分]"
+          "appearance_count": 6,
+          "time_info": "[00时16分 ~ 04时47分]"
         },
         {
           "title": "美伊停火预期提振，美股高开，半导体股普涨，戴尔暴涨33%，油价承压，金银齐涨",
@@ -439,11 +499,12 @@
           "ranks": [
             9,
             8,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时16分 ~ 03时47分]"
+          "appearance_count": 6,
+          "time_info": "[00时16分 ~ 04时47分]"
         },
         {
           "title": "停火预期提振市场 美股期指上涨 戴尔盘前暴涨约34% | 今夜看点",
@@ -453,8 +514,107 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时16分 ~ 03时47分]"
+          "appearance_count": 6,
+          "time_info": "[00时16分 ~ 04时47分]"
+        },
+        {
+          "title": "金十图示：2026年05月29日（周五）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260530040526961800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时47分"
+        },
+        {
+          "title": "周五（5月29日），美股AI软件先驱指数涨7.34%，报122.40点，本周累涨11.32%，5月份累涨23.99%。",
+          "url": "https://wallstreetcn.com/livenews/3111637",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时47分"
+        },
+        {
+          "title": "金十图示：2026年05月29日（周五）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260530040525395800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时47分"
+        },
+        {
+          "title": "周五（5月29日），美股人工智能（AI）赢家指数行1.70%，报424.90点，本周累涨6.44%，5月份累涨19%。",
+          "url": "https://wallstreetcn.com/livenews/3111636",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时47分"
+        },
+        {
+          "title": "周五（5月29日），美股信息科技指数涨2.27%，报437.17点，5月份累涨28.14%。",
+          "url": "https://wallstreetcn.com/livenews/3111635",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时47分"
+        },
+        {
+          "title": "周五（5月29日），美股超大规模云服务商（Hyperscalers）收涨1.28%，报105.80点，5月份累涨7.11%。",
+          "url": "https://wallstreetcn.com/livenews/3111634",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时47分"
+        },
+        {
+          "title": "周五（5月29日），美股存储芯片与硬件供应链指数行1.48%，报210.62点，继续创收盘历史新高，本周（四个交易日）累计上涨11.93%，5月份累涨37.27%。",
+          "url": "https://wallstreetcn.com/livenews/3111628",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时47分"
+        },
+        {
+          "title": "美股收盘：三大股指微涨 标普500指数连涨九周",
+          "url": "https://flash.jin10.com/detail/20260530040220789800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时47分"
+        },
+        {
+          "title": "科技行业ETF收涨超2.2%，领跑美股行业ETF，5月半导体ETF累涨超66%",
+          "url": "https://wallstreetcn.com/livenews/3111624",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时47分"
         },
         {
           "title": "金十图示：2026年05月29日（周五）热门中概股行情一览（美股盘中）",
@@ -482,7 +642,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "18倍PS？Anthropic最新估值达9650亿美元，首超OpenAI！",
@@ -493,8 +653,19 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时16分 ~ 03时47分]"
+          "appearance_count": 6,
+          "time_info": "[00时16分 ~ 04时47分]"
+        },
+        {
+          "title": "据知情人士透露，OpenAI已与包括花旗集团和摩根大通在内的多家银行就其即将进行的首次公开募股事宜进行了沟通。",
+          "url": "https://flash.jin10.com/detail/20260530034751105800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时47分"
         },
         {
           "title": "OpenAI确认推出Rosalind BioDefense Program。",
@@ -521,8 +692,25 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时16分 ~ 03时47分]"
+          "appearance_count": 6,
+          "time_info": "[00时16分 ~ 04时47分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美股七巨头收盘播报｜微软收涨超5.4%，5月份谷歌A涨21.6%",
+          "url": "https://wallstreetcn.com/livenews/3111630",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时47分"
         }
       ]
     },
@@ -537,7 +725,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时47分"
         }
