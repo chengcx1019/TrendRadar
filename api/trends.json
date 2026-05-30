@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-30T18:33:50.216087+08:00",
-  "total_titles_processed": 1277,
+  "generated_at": "2026-05-30T19:29:33.829805+08:00",
+  "total_titles_processed": 1350,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 42,
+      "match_count": 46,
       "titles": [
         {
           "title": "伊朗议长：伊朗将通过导弹而非对话使对方让步",
@@ -26,8 +26,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时15分 ~ 18时33分]"
+          "appearance_count": 8,
+          "time_info": "[13时15分 ~ 19时29分]"
         },
         {
           "title": "美称敲定“谅解备忘录”遭伊朗否认",
@@ -55,17 +55,6 @@
           "time_info": "[14时56分 ~ 17时36分]"
         },
         {
-          "title": "伊朗最高领袖军事顾问：美国正第三次背叛外交",
-          "url": "https://wallstreetcn.com/livenews/3111783",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时33分"
-        },
-        {
           "title": "美国财政部对伊朗实施新制裁",
           "url": "https://flash.jin10.com/detail/20260530081156700800",
           "source": "金十数据",
@@ -88,6 +77,17 @@
           "time_info": "17时36分"
         },
         {
+          "title": "英国海事部门表示，美国对伊朗港口的封锁正在严格执行。霍尔木兹海峡附近船只的船长必须表明其无前往伊朗港口的意图。船只若不服从美国海军在霍尔木兹海峡的命令，将面临危险。",
+          "url": "https://flash.jin10.com/detail/20260530185118096800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时29分"
+        },
+        {
           "title": "美国财长贝森特：如果需要，我们在伊朗问题上还有更多可以做的。",
           "url": "https://flash.jin10.com/detail/20260530033805966800",
           "source": "金十数据",
@@ -98,6 +98,20 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[03时47分 ~ 07时28分]"
+        },
+        {
+          "title": "据伊朗Press TV：伊朗陆军防空部队今天早些时候在格什姆岛上空击落了一架“Orbiter”攻击型无人机。",
+          "url": "https://flash.jin10.com/detail/20260530163415972800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            10,
+            15,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时47分 ~ 19时29分]"
         },
         {
           "title": "美国财长贝森特：（被问及对伊朗的封锁）任何解除的措施都将逐步进行。关于伊朗存在三种情景：达成协议、未达成协议或采取军事行动。",
@@ -189,29 +203,17 @@
           "time_info": "[14时57分 ~ 16时47分]"
         },
         {
-          "title": "据伊朗Press TV：伊朗陆军防空部队今天早些时候在格什姆岛上空击落了一架“Orbiter”攻击型无人机。",
-          "url": "https://flash.jin10.com/detail/20260530163415972800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            10,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时47分 ~ 18时33分]"
-        },
-        {
           "title": "消息人士：伊朗对科威特美军基地的袭击致数名美国人轻伤",
           "url": "https://flash.jin10.com/detail/20260530170907314800",
           "source": "金十数据",
           "ranks": [
             3,
-            8
+            8,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时36分 ~ 18时33分]"
+          "appearance_count": 3,
+          "time_info": "[17时36分 ~ 19时29分]"
         },
         {
           "title": "美国国防部长赫格塞思：我们仍有全球义务，比如确保伊朗无法获得核武器。",
@@ -237,6 +239,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时36分 ~ 18时33分]"
+        },
+        {
+          "title": "伊朗最高领袖军事顾问：美国正第三次背叛外交",
+          "url": "https://wallstreetcn.com/livenews/3111783",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时33分 ~ 19时29分]"
         },
         {
           "title": "美国对伊朗的海上封锁仍然有效。（伊朗塔斯尼姆通讯社）",
@@ -353,6 +367,18 @@
           "time_info": "[00时17分 ~ 02时02分]"
         },
         {
+          "title": "伊朗最高领袖军事顾问：美国正第三次背叛外交",
+          "url": "https://flash.jin10.com/detail/20260530165643081800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时33分 ~ 19时29分]"
+        },
+        {
           "title": "伊朗军方在格什姆岛附近击落敌对小型无人机",
           "url": "https://wallstreetcn.com/livenews/3111617",
           "source": "华尔街见闻-快讯",
@@ -376,15 +402,26 @@
           "time_info": "02时02分"
         },
         {
-          "title": "伊朗最高领袖军事顾问：美国正第三次背叛外交",
-          "url": "https://flash.jin10.com/detail/20260530165643081800",
+          "title": "据伊朗法尔斯通讯社：在过去的24小时内，20艘船在伊朗海军的协调下通过了霍尔木兹海峡。",
+          "url": "https://flash.jin10.com/detail/20260530184239283800",
           "source": "金十数据",
           "ranks": [
-            9
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时33分"
+          "time_info": "19时29分"
+        },
+        {
+          "title": "美军称针对伊朗港口的海上封锁仍在持续",
+          "url": "https://wallstreetcn.com/livenews/3111799",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时29分"
         },
         {
           "title": "伊朗外交部发言人巴加埃：霍尔木兹海峡的管理必须由伊朗和阿曼决定。至今尚未与美国达成任何协议。",
@@ -407,6 +444,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时02分"
+        },
+        {
+          "title": "伊朗国家电视台：过去24小时内有20艘船只穿越霍尔木兹海峡。",
+          "url": "https://wallstreetcn.com/livenews/3111796",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时29分"
         },
         {
           "title": "美国没收伊朗10亿美元加密资产",
@@ -511,7 +559,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 38,
+      "match_count": 40,
       "titles": [
         {
           "title": "特朗普称将作伊朗战事最终决定、霍尔木兹和伊核以外问题已达成一致，伊媒称其言论“真假参半”",
@@ -526,8 +574,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[06时31分 ~ 18时33分]"
+          "appearance_count": 15,
+          "time_info": "[06时31分 ~ 19时29分]"
         },
         {
           "title": "美法官裁定将特朗普名字从肯尼迪中心移除",
@@ -538,8 +586,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时15分 ~ 18时33分]"
+          "appearance_count": 8,
+          "time_info": "[13时15分 ~ 19时29分]"
         },
         {
           "title": "特朗普力挺橄榄球运动员：他长得真帅，真希望我也能长这样",
@@ -549,8 +597,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时56分 ~ 18时33分]"
+          "appearance_count": 7,
+          "time_info": "[14时56分 ~ 19时29分]"
         },
         {
           "title": "特朗普如何让一个格陵兰激进独立斗士变成“爱国者”",
@@ -571,11 +619,12 @@
             13,
             12,
             8,
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时02分 ~ 18时33分]"
+          "appearance_count": 9,
+          "time_info": "[11时02分 ~ 19时29分]"
         },
         {
           "title": "特朗普就结束伊朗战事提出条件，伊朗必须同意永远不拥有核武器，霍尔木兹海峡必须立即开放，伊方会接受吗？",
@@ -586,8 +635,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时56分 ~ 18时33分]"
+          "appearance_count": 7,
+          "time_info": "[14时56分 ~ 19时29分]"
         },
         {
           "title": "美国法官裁定将特朗普名字从肯尼迪中心移除",
@@ -599,6 +648,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时28分"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-05-30）",
+          "url": "https://flash.jin10.com/detail/20260530190753354800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时29分"
         },
         {
           "title": "特朗普签署法令，放宽美国联邦土地准入限制",
@@ -800,6 +860,17 @@
           "time_info": "[04时47分 ~ 05时33分]"
         },
         {
+          "title": "被“除名” 遭停工 特朗普最新回应：震惊 史上最不公对待",
+          "url": "https://wallstreetcn.com/livenews/3111801",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时29分"
+        },
+        {
           "title": "【伊朗消息人士指责特朗普歪曲和回避协议内容】金十数据5月29日讯，据伊朗媒体Fars News：知情人士驳斥了特朗普关于可能与伊朗达成协议的最新说法，称其言论“真假参半”，旨在炮制一场虚假的胜利。如今几乎所有人都已看清，特朗普的这些说法根本站不住脚。据相关报道，这份以“对等承诺”形式起草的协议文本，目前正处于伊朗国内批准程序的最后阶段，尚未做出最终决定。与此形成鲜明对比的是，特朗普却抛出了一些与协议文本条款相悖的议题。与此同时，他却宣称将立即解除封锁。 特朗普对协议核心内容的歪曲包括：1.特朗普声称，伊朗有义务在不收取任何费用的前提下开放霍尔木兹海峡；然而，协议文本中根本不存在此类条款。2.特朗普声称，伊朗将拆除或销毁其核材料。知情人士强调指出，不仅谅解备忘录中毫无此类内容，特朗普的这一说法更是彻头彻尾的无稽之谈。 特朗普刻意回避的协议关键条款：1.特朗普只字未提、却至关重要的一项内容，即关于立即解冻并向伊朗支付120亿美元被冻结资产的先决条件。2.黎巴嫩停火。3.伊朗官员亦强调，最终协议将以伊朗伊斯兰共和国的原则与“红线”为基础。",
           "url": "https://flash.jin10.com/detail/20260529234751463800",
           "source": "金十数据",
@@ -980,8 +1051,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[07时27分 ~ 18时33分]"
+          "appearance_count": 14,
+          "time_info": "[07时27分 ~ 19时29分]"
         },
         {
           "title": "美伊停火传言搅动市场，美股三大指数收创新高，黄金深V反转，原油震荡走平",
@@ -1007,8 +1078,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时16分 ~ 18时33分]"
+          "appearance_count": 22,
+          "time_info": "[00时16分 ~ 19时29分]"
         },
         {
           "title": "美伊停火预期提振，美股高开，半导体股普涨，戴尔暴涨33%，油价承压，金银齐涨",
@@ -1105,6 +1176,21 @@
           "time_info": "06时31分"
         },
         {
+          "title": "美股商业航天股全线重挫",
+          "url": "https://www.douyin.com/hot/2517641",
+          "source": "抖音",
+          "ranks": [
+            9,
+            7,
+            6,
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时54分 ~ 19时29分]"
+        },
+        {
           "title": "美股收盘：三大股指微涨 标普500指数连涨九周",
           "url": "https://flash.jin10.com/detail/20260530040220789800",
           "source": "金十数据",
@@ -1129,18 +1215,16 @@
           "time_info": "[04时47分 ~ 05时33分]"
         },
         {
-          "title": "美股商业航天股全线重挫",
-          "url": "https://www.douyin.com/hot/2517641",
-          "source": "抖音",
+          "title": "连涨9周，自3月低点反弹20%！美股这波反弹之凶猛“历史罕见”",
+          "url": "https://wallstreetcn.com/articles/3773491",
+          "source": "华尔街见闻",
           "ranks": [
-            9,
-            7,
-            6,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时54分 ~ 18时33分]"
+          "appearance_count": 3,
+          "time_info": "[17时36分 ~ 19时29分]"
         },
         {
           "title": "周五（5月29日），美股存储芯片与硬件供应链指数行1.48%，报210.62点，继续创收盘历史新高，本周（四个交易日）累计上涨11.93%，5月份累涨37.27%。",
@@ -1180,18 +1264,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时31分 ~ 08时28分]"
-        },
-        {
-          "title": "连涨9周，自3月低点反弹20%！美股这波反弹之凶猛“历史罕见”",
-          "url": "https://wallstreetcn.com/articles/3773491",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时36分 ~ 18时33分]"
         },
         {
           "title": "金十图示：2026年05月29日（周五）热门中概股行情一览（美股盘中）",
@@ -1260,6 +1332,35 @@
       ]
     },
     {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "华为发表韬 (τ) 定律，实现晶体管密度与系统性能突破，是芯片制造领域另一个 deepseek 时刻吗？",
+          "url": "https://www.zhihu.com/question/2042260682780009473",
+          "source": "知乎",
+          "ranks": [
+            16,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时16分 ~ 08时28分]"
+        },
+        {
+          "title": "为什么无论是 chatgpt 还是 deepseek 都会在 24 点游戏上表现的这么差？",
+          "url": "https://www.zhihu.com/question/2040472846393161206",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时29分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美债",
       "match_count": 2,
       "titles": [
@@ -1287,24 +1388,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时47分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "华为发表韬 (τ) 定律，实现晶体管密度与系统性能突破，是芯片制造领域另一个 deepseek 时刻吗？",
-          "url": "https://www.zhihu.com/question/2042260682780009473",
-          "source": "知乎",
-          "ranks": [
-            16,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时16分 ~ 08时28分]"
         }
       ]
     },
