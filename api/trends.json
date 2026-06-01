@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-01T15:38:59.351553+08:00",
-  "total_titles_processed": 1176,
+  "generated_at": "2026-06-01T17:46:49.524025+08:00",
+  "total_titles_processed": 1336,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 46,
+      "match_count": 51,
       "titles": [
         {
           "title": "伊朗总统已向最高领袖提出辞职？官方回应",
@@ -43,8 +43,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时28分 ~ 15时38分]"
+          "appearance_count": 8,
+          "time_info": "[08时28分 ~ 17时46分]"
         },
         {
           "title": "美国财长贝森特：霍尔木兹海峡必须恢复至（美国和以色列挑起伊朗战争）之前的水平。 海峡关闭直接造成化肥价格上涨。",
@@ -112,7 +112,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时38分"
         },
@@ -123,7 +123,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时38分"
         },
@@ -134,7 +134,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时38分"
         },
@@ -148,6 +148,30 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时04分"
+        },
+        {
+          "title": "中东停火再遭挑战：伊朗打击美军基地 以色列扩大在黎军事行动",
+          "url": "https://www.cls.cn/detail/2386651",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时34分 ~ 17时46分]"
+        },
+        {
+          "title": "伊朗情报机构宣布捣毁一恐怖分子团伙",
+          "url": "https://wallstreetcn.com/livenews/3112326",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时46分"
         },
         {
           "title": "伊媒：伊朗将对可能的谅解文本进行新的修改",
@@ -293,6 +317,19 @@
           "time_info": "[03时29分 ~ 05时20分]"
         },
         {
+          "title": "伊朗宣布打击并摧毁美军目标",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%AE%A3%E5%B8%83%E6%89%93%E5%87%BB%E5%B9%B6%E6%91%A7%E6%AF%81%E7%BE%8E%E5%86%9B%E7%9B%AE%E6%A0%87",
+          "source": "百度热搜",
+          "ranks": [
+            6,
+            12,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时34分 ~ 17时46分]"
+        },
+        {
           "title": "知情人士称伊朗可能将对谅解备忘录文本提出新的修订意见",
           "url": "https://flash.jin10.com/detail/20260601034421559800",
           "source": "金十数据",
@@ -303,18 +340,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时23分 ~ 05时20分]"
-        },
-        {
-          "title": "伊朗宣布打击并摧毁美军目标",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%AE%A3%E5%B8%83%E6%89%93%E5%87%BB%E5%B9%B6%E6%91%A7%E6%AF%81%E7%BE%8E%E5%86%9B%E7%9B%AE%E6%A0%87",
-          "source": "百度热搜",
-          "ranks": [
-            6,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时34分 ~ 15时38分]"
         },
         {
           "title": "美国财长贝森特：伊朗在47年来首次做好了放弃其核计划的准备；我们不会接受无法确保阻止伊朗获得核武器的协议。",
@@ -367,18 +392,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时25分 ~ 02时22分]"
-        },
-        {
-          "title": "中东停火再遭挑战：伊朗打击美军基地 以色列扩大在黎军事行动",
-          "url": "https://www.cls.cn/detail/2386651",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时34分 ~ 15时38分]"
         },
         {
           "title": "伊朗总统府再度否认佩泽希齐扬辞职传闻",
@@ -440,6 +453,17 @@
           "time_info": "[08时28分 ~ 08时29分]"
         },
         {
+          "title": "伊朗议会议长：美国违反停火协议",
+          "url": "https://wallstreetcn.com/livenews/3112320",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时46分"
+        },
+        {
           "title": "美国寻求达成协议，而伊朗需要一个敌人",
           "url": "https://flash.jin10.com/detail/20260601105038841800",
           "source": "金十数据",
@@ -449,6 +473,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时04分"
+        },
+        {
+          "title": "伊朗副外长：只有伊朗和阿曼有权在霍尔木兹海峡“行使主权”",
+          "url": "https://flash.jin10.com/detail/20260601174202780800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时46分"
         },
         {
           "title": "伊朗再度否认总统辞职传闻",
@@ -473,6 +508,17 @@
           "time_info": "07时22分"
         },
         {
+          "title": "伊朗外交部：伊朗武装部队回击美军“侵略行动”",
+          "url": "https://wallstreetcn.com/livenews/3112312",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时46分"
+        },
+        {
           "title": "伊官员称伊朗不会对美退让妥协",
           "url": "https://wallstreetcn.com/livenews/3111985",
           "source": "华尔街见闻-快讯",
@@ -482,6 +528,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
+        },
+        {
+          "title": "伊朗情报机构宣布捣毁一恐怖分子团伙",
+          "url": "https://flash.jin10.com/detail/20260601173527221800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时46分"
         },
         {
           "title": "伊官员称伊朗在核问题上对美方没有任何承诺",
@@ -512,7 +569,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时38分"
         },
@@ -631,8 +688,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时44分 ~ 15时38分]"
+          "appearance_count": 6,
+          "time_info": "[09时44分 ~ 17时46分]"
         },
         {
           "title": "特朗普坚称美伊协议“明确禁止”伊朗拥核",
@@ -769,7 +826,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时38分"
         },
@@ -832,7 +889,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 4,
+      "match_count": 8,
       "titles": [
         {
           "title": "美股三大股指期货周一基本平开。",
@@ -858,6 +915,28 @@
           "time_info": "[00时25分 ~ 06时20分]"
         },
         {
+          "title": "高盛称对冲基金以六个月来的最快速度买入美股",
+          "url": "https://wallstreetcn.com/livenews/3112323",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时46分"
+        },
+        {
+          "title": "华尔街大鳄警告：美股崩盘和衰退已是“定时炸弹”，可转向金银投资！",
+          "url": "https://www.cls.cn/detail/2386791",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时46分"
+        },
+        {
           "title": "英伟达美股夜盘股价上涨2.7%。",
           "url": "https://wallstreetcn.com/livenews/3112174",
           "source": "华尔街见闻-快讯",
@@ -869,6 +948,17 @@
           "time_info": "13时35分"
         },
         {
+          "title": "美光科技美股盘前涨超4%，盘前价格突破1000美元/股。",
+          "url": "https://wallstreetcn.com/livenews/3112292",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时46分"
+        },
+        {
           "title": "李大霄：为何鲜有人提醒美股风险",
           "url": "https://www.toutiao.com/trending/7646060691119410724/",
           "source": "今日头条",
@@ -878,6 +968,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时23分"
+        },
+        {
+          "title": "美股软件股盘前走高涨，IBM上涨5.4%，Adobe上涨4.1%，Salesforce上涨3.5%。",
+          "url": "https://wallstreetcn.com/livenews/3112282",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时46分"
         }
       ]
     },
@@ -970,7 +1071,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时38分"
         }
