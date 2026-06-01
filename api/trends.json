@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-02T02:53:29.118661+08:00",
-  "total_titles_processed": 413,
+  "generated_at": "2026-06-02T04:26:10.288932+08:00",
+  "total_titles_processed": 475,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 27,
+      "match_count": 28,
       "titles": [
         {
           "title": "伊朗暂停与美国对话！“霍尔木兹、曼德海峡双封锁”重新摆上台面",
@@ -16,8 +16,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时03分 ~ 02时53分]"
+          "appearance_count": 4,
+          "time_info": "[00时03分 ~ 04时26分]"
+        },
+        {
+          "title": "抗议以军扩大在黎行动，伊朗据称将暂停与美沟通，计划彻底封锁霍尔木兹海峡",
+          "url": "https://wallstreetcn.com/articles/3773592",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时53分 ~ 04时26分]"
         },
         {
           "title": "国际油价短线拉升，报道：伊朗将暂停与美国沟通，已决定全面封锁霍尔木兹海峡",
@@ -29,17 +40,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时03分"
-        },
-        {
-          "title": "抗议以军扩大在黎行动，伊朗据称将暂停与美沟通，计划彻底封锁霍尔木兹海峡",
-          "url": "https://wallstreetcn.com/articles/3773592",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时53分"
         },
         {
           "title": "调查显示，随着3月伊朗局势冲击消退，英国公众5月通胀预期进一步放缓",
@@ -71,20 +71,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时03分 ~ 02时53分]"
-        },
-        {
-          "title": "伊朗计划彻底封锁霍尔木兹海峡",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E8%AE%A1%E5%88%92%E5%BD%BB%E5%BA%95%E5%B0%81%E9%94%81%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E6%B5%B7%E5%B3%A1",
-          "source": "百度热搜",
-          "ranks": [
-            6,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时03分 ~ 02时53分]"
+          "appearance_count": 4,
+          "time_info": "[00时03分 ~ 04时26分]"
         },
         {
           "title": "伊朗暂停通过中间人同美国的对话，计划彻底封锁霍尔木兹海峡并启动曼德海峡「战线」，中东局势会如何发展？",
@@ -95,8 +83,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时03分 ~ 02时53分]"
+          "appearance_count": 4,
+          "time_info": "[00时03分 ~ 04时26分]"
         },
         {
           "title": "伊朗总统：要么强硬前行，要么牺牲",
@@ -106,20 +94,21 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时03分 ~ 02时53分]"
+          "appearance_count": 4,
+          "time_info": "[00时03分 ~ 04时26分]"
         },
         {
-          "title": "伊朗计划彻底封锁霍尔木兹",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E8%AE%A1%E5%88%92%E5%BD%BB%E5%BA%95%E5%B0%81%E9%94%81%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%23&t=31&band_rank=7&Refer=top",
-          "source": "微博",
+          "title": "伊朗计划彻底封锁霍尔木兹海峡",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E8%AE%A1%E5%88%92%E5%BD%BB%E5%BA%95%E5%B0%81%E9%94%81%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E6%B5%B7%E5%B3%A1",
+          "source": "百度热搜",
           "ranks": [
-            7,
-            28
+            6,
+            10,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时03分 ~ 02时53分]"
+          "appearance_count": 4,
+          "time_info": "[00时03分 ~ 04时26分]"
         },
         {
           "title": "伊朗外交部：美伊谅解备忘录缺不得黎巴嫩停火",
@@ -129,30 +118,32 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时03分 ~ 02时53分]"
+          "appearance_count": 4,
+          "time_info": "[00时03分 ~ 04时26分]"
         },
         {
           "title": "伊朗：彻底封锁霍尔木兹海峡",
           "url": "https://www.douyin.com/hot/2520417",
           "source": "抖音",
           "ranks": [
-            11
+            11,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时03分 ~ 02时53分]"
+          "appearance_count": 4,
+          "time_info": "[00时03分 ~ 04时26分]"
         },
         {
           "title": "美以袭击伊朗进入第 94 天，当前局势如何？哪些信息值得关注？",
           "url": "https://www.zhihu.com/question/2044559354460731245",
           "source": "知乎",
           "ranks": [
-            11
+            11,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时03分 ~ 02时53分]"
+          "appearance_count": 4,
+          "time_info": "[00时03分 ~ 04时26分]"
         },
         {
           "title": "伊朗谈判团队暂停通过中间人同美国对话",
@@ -163,8 +154,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时03分 ~ 02时53分]"
+          "appearance_count": 4,
+          "time_info": "[00时03分 ~ 04时26分]"
         },
         {
           "title": "伊朗暂停通过中间人同美国的对话",
@@ -172,7 +163,32 @@
           "source": "百度热搜",
           "ranks": [
             25,
-            27
+            27,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时03分 ~ 04时26分]"
+        },
+        {
+          "title": "伊朗暂停通过中间人同美国对话",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E6%9A%82%E5%81%9C%E9%80%9A%E8%BF%87%E4%B8%AD%E9%97%B4%E4%BA%BA%E5%90%8C%E7%BE%8E%E5%9B%BD%E5%AF%B9%E8%AF%9D%23&t=31&band_rank=24&Refer=top",
+          "source": "微博",
+          "ranks": [
+            24,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时53分 ~ 04时26分]"
+        },
+        {
+          "title": "伊朗计划彻底封锁霍尔木兹",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E8%AE%A1%E5%88%92%E5%BD%BB%E5%BA%95%E5%B0%81%E9%94%81%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%23&t=31&band_rank=7&Refer=top",
+          "source": "微博",
+          "ranks": [
+            7,
+            28
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -218,7 +234,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时53分"
         },
@@ -240,9 +256,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时53分"
+        },
+        {
+          "title": "据伊朗国家媒体：伊朗革命卫队圣城旅指挥官卡尼表示，以色列在黎巴嫩和加沙的行动将导致抵抗轴心将“曼德海峡的航运状况与霍尔木兹海峡的情况对等看待”。",
+          "url": "https://flash.jin10.com/detail/20260602031955651800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时26分"
         },
         {
           "title": "伊朗国家电视台：如果对黎巴嫩的攻击不停止，伊朗与美国之间停火协议破裂的可能性很高。",
@@ -284,18 +311,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时53分"
-        },
-        {
-          "title": "伊朗暂停通过中间人同美国对话",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E6%9A%82%E5%81%9C%E9%80%9A%E8%BF%87%E4%B8%AD%E9%97%B4%E4%BA%BA%E5%90%8C%E7%BE%8E%E5%9B%BD%E5%AF%B9%E8%AF%9D%23&t=31&band_rank=24&Refer=top",
-          "source": "微博",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时53分"
         },
@@ -306,7 +322,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时53分"
         }
@@ -314,7 +330,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 19,
+      "match_count": 24,
       "titles": [
         {
           "title": "特朗普提出更强硬条款，伊朗：已准备好谈判破裂",
@@ -324,8 +340,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时03分 ~ 02时53分]"
+          "appearance_count": 4,
+          "time_info": "[00时03分 ~ 04时26分]"
         },
         {
           "title": "黎巴嫩议会议长告诉特朗普政府，真主党已准备好与以色列全面停火，并承诺保证停火协议的执行。（Axios）",
@@ -339,26 +355,82 @@
           "time_info": "00时03分"
         },
         {
-          "title": "特朗普：与伊朗的谈判正“快速推进”",
-          "url": "https://flash.jin10.com/detail/20260602014426058800",
-          "source": "金十数据",
+          "title": "特朗普威胁“炸掉阿曼”粗暴又荒诞：美国的强权即是“规则”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33279999",
+          "source": "澎湃新闻",
           "ranks": [
-            11
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时53分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时53分 ~ 04时26分]"
         },
         {
           "title": "特朗普：与伊朗的谈判正“快速推进”",
           "url": "https://wallstreetcn.com/livenews/3112601",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            11,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时53分 ~ 04时26分]"
+        },
+        {
+          "title": "以色列总理内塔尼亚胡：我今晚与特朗普总统通了电话，并告诉他，如果真主党不停止袭击我们的城市和公民，以色列将对贝鲁特的目标发动打击。我们的立场依然坚定不变。与此同时，以色列国防军将继续按计划在黎巴嫩南部开展行动。",
+          "url": "https://flash.jin10.com/detail/20260602033426312800",
+          "source": "金十数据",
+          "ranks": [
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
+          "time_info": "04时26分"
+        },
+        {
+          "title": "美国参议院多数党领袖图恩：白宫尚未就总统特朗普的基金发布任何官方声明。",
+          "url": "https://flash.jin10.com/detail/20260602032044587800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时26分"
+        },
+        {
+          "title": "特朗普：与伊朗的谈判正“快速推进”",
+          "url": "https://flash.jin10.com/detail/20260602014426058800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
           "time_info": "02时53分"
+        },
+        {
+          "title": "美国参议院多数党领袖图恩：希望将美国总统特朗普的“武器化”基金从移民执法支出法案中删除。",
+          "url": "https://flash.jin10.com/detail/20260602031957054800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时26分"
+        },
+        {
+          "title": "以总理告诉特朗普：以军将继续按计划在黎南部开展行动",
+          "url": "https://wallstreetcn.com/livenews/3112638",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时26分"
         },
         {
           "title": "美国总统特朗普：坦率地说，有关与伊朗谈判的问题开始变得无聊了。（CNBC）",
@@ -367,7 +439,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时53分"
         },
@@ -378,7 +450,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时53分"
         },
@@ -389,7 +461,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时53分"
         },
@@ -411,7 +483,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时53分"
         },
@@ -422,7 +494,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时53分"
         },
@@ -433,7 +505,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时53分"
         },
@@ -444,18 +516,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时53分"
-        },
-        {
-          "title": "特朗普威胁“炸掉阿曼”粗暴又荒诞：美国的强权即是“规则”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33279999",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时53分"
         },
@@ -466,9 +527,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时53分"
+        },
+        {
+          "title": "以色列国防部长卡茨：特朗普采纳了我们确立的观点，即向我们的定居点开火就意味着贝鲁特将遭到轰炸。这就是他那番话的含义。",
+          "url": "https://flash.jin10.com/detail/20260602030602833800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时26分"
         },
         {
           "title": "特朗普：不在乎与伊朗的谈判是否结束",
@@ -477,7 +549,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时53分"
         },
@@ -488,7 +560,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时53分"
         },
@@ -499,7 +571,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时53分"
         },
@@ -510,7 +582,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时53分"
         },
@@ -521,15 +593,98 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时53分"
         }
       ]
     },
     {
+      "keyword_group": "chatgpt openai",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "Anthropic已提交IPO申请 OpenAI创始人称不争首家“头衔”",
+          "url": "https://flash.jin10.com/detail/20260602032624584800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时26分"
+        },
+        {
+          "title": "OpenAI：BARN项目预计在租赁期内产生10亿美元的税收收入。",
+          "url": "https://flash.jin10.com/detail/20260602031452989800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时26分"
+        },
+        {
+          "title": "OpenAI：与Related Digital、甲骨文、沃尔布里奇、黑石集团合作，贡献1000万美元用于萨林娱乐中心的改善。",
+          "url": "https://flash.jin10.com/detail/20260602031357524800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时26分"
+        },
+        {
+          "title": "OpenAI在一份声明中针对美国佛罗里达州公诉人的指控表示，它已经为年轻用户制定了保障措施，包括“更具保护性的体验”以及允许父母监控孩子如何使用该工具的工具。 OpenAI表示：“人工智能是一项全新的、强大的技术，我们相信未成年人需要重大的保护，这就是为什么我们实施了行业领先的保护措施和政策。我们深知，仅仅指出这些工作并不能让逝去的孩子复生，但我们致力于将这项工作做好。”",
+          "url": "https://wallstreetcn.com/livenews/3112620",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时26分"
+        },
+        {
+          "title": "OpenAI创始人奥尔特曼：OpenAI将在对公司有利时进行IPO。",
+          "url": "https://flash.jin10.com/detail/20260602024757153800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时26分"
+        },
+        {
+          "title": "OpenAI创始人奥尔特曼：在Anthropic提交上市申请后，他并未关注IPO的时机。",
+          "url": "https://flash.jin10.com/detail/20260602024742744800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时26分"
+        },
+        {
+          "title": "OpenAI被美国佛罗里达州总检察长起诉，与AI的诸多危害有关。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3112532",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时03分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美股",
-      "match_count": 3,
+      "match_count": 6,
       "titles": [
         {
           "title": "伊朗称将全面封锁霍尔木兹，美股低开，IBM涨近9%，ARM大涨12%，美油涨6%",
@@ -539,8 +694,41 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时03分 ~ 02时53分]"
+          "appearance_count": 4,
+          "time_info": "[00时03分 ~ 04时26分]"
+        },
+        {
+          "title": "美股收盘：三大股指创收盘新高 英伟达涨6%",
+          "url": "https://flash.jin10.com/detail/20260602040120884800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时26分"
+        },
+        {
+          "title": "美股光通信概念股Credo股价盘后跌超15%。",
+          "url": "https://wallstreetcn.com/livenews/3112639",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时26分"
+        },
+        {
+          "title": "惠与第二财季调整后每股收益（EPS）为0.79美元，分析师预期0.54美元。 将Elliott Investment Partners的Chris Hsu纳入董事会。 预计全年调整后EPS为3.35-3.45美元，公司原本预计2.30-2.50美元。 惠与（HPE）美股盘后涨28%。",
+          "url": "https://wallstreetcn.com/livenews/3112635",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时26分"
         },
         {
           "title": "英伟达发布PC芯片 AI狂欢席卷全球市场 美股期指上涨 | 今夜看点",
@@ -550,8 +738,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时03分 ~ 02时53分]"
+          "appearance_count": 4,
+          "time_info": "[00时03分 ~ 04时26分]"
         },
         {
           "title": "AI交易火力全开 美股不断创新高",
@@ -567,19 +755,30 @@
       ]
     },
     {
-      "keyword_group": "chatgpt openai",
-      "match_count": 1,
+      "keyword_group": "美元",
+      "match_count": 2,
       "titles": [
         {
-          "title": "OpenAI被美国佛罗里达州总检察长起诉，与AI的诸多危害有关。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/3112532",
+          "title": "美元指数1日上涨",
+          "url": "https://flash.jin10.com/detail/20260602034131741800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时26分"
+        },
+        {
+          "title": "周一（6月1日）纽约尾盘，ICE美元指数上涨0.25%，报99.186点，日内交投区间为98.919-99.385点，北京时间21:03之前维持微幅上涨状态、持稳于99关口附近，之后短线加速上涨，22:03刷新日高。 彭博美元指数涨0.25%，报1201.78点，日内交投区间为1199.26-1203.83点。 美元兑日元涨0.26%，报159.68日元，日内交投区间为159.24-159.76日元。",
+          "url": "https://wallstreetcn.com/livenews/3112622",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            25
+            13
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时03分"
+          "time_info": "04时26分"
         }
       ]
     }
