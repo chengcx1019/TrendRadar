@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-03T08:38:16.652327+08:00",
-  "total_titles_processed": 717,
+  "generated_at": "2026-06-03T09:52:42.242454+08:00",
+  "total_titles_processed": 833,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 45,
+      "match_count": 53,
       "titles": [
         {
           "title": "伊朗公开已故最高领袖哈梅内伊安葬地点",
@@ -54,9 +54,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时38分"
+        },
+        {
+          "title": "伊朗战争最新动态｜美军基地遇袭，伊朗军方强硬声明",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时52分"
         },
         {
           "title": "科威特称拦截来袭导弹 伊朗格什姆岛传爆炸声",
@@ -76,7 +87,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时38分"
         },
@@ -90,6 +101,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时09分"
+        },
+        {
+          "title": "美称击落伊朗袭科威特美军无人机",
+          "url": "https://flash.jin10.com/detail/20260603093722624800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时52分"
         },
         {
           "title": "【伊朗南部格什姆岛传出爆炸声】当地时间6月3日凌晨，据伊朗南部格什姆岛当地居民报告称，听到该地附近传出爆炸声。目前尚不清楚爆炸的具体性质，伊朗官方也暂未就爆炸原因发表评论。（央视）",
@@ -109,7 +131,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时38分"
         },
@@ -131,7 +153,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时38分"
         },
@@ -142,9 +164,21 @@
           "ranks": [
             6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时38分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时38分 ~ 09时52分]"
+        },
+        {
+          "title": "美军否认第五舰队总部遭伊朗击中",
+          "url": "https://wallstreetcn.com/livenews/3113363",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时38分 ~ 09时52分]"
         },
         {
           "title": "伊朗革命卫队：为回应美军袭击 已打击美以船只及美军基地",
@@ -153,20 +187,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时38分"
         },
         {
-          "title": "美军否认第五舰队总部遭伊朗击中",
-          "url": "https://wallstreetcn.com/livenews/3113363",
+          "title": "美国称，击落多架袭击科威特境内部队的伊朗无人机。",
+          "url": "https://wallstreetcn.com/livenews/3113399",
           "source": "华尔街见闻-快讯",
           "ranks": [
             6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时38分"
+          "time_info": "09时52分"
         },
         {
           "title": "美媒曝一名美军飞行员两度被击落：一次友军误击，一次遭伊朗袭击",
@@ -186,7 +220,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时38分"
         },
@@ -208,7 +242,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时38分"
         },
@@ -222,6 +256,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时09分"
+        },
+        {
+          "title": "美军战机袭击伊朗相关油轮，独家录音曝光",
+          "url": "https://wallstreetcn.com/livenews/3113391",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时52分"
+        },
+        {
+          "title": "伊朗称袭击美军第五舰队总部",
+          "url": "https://www.toutiao.com/trending/7646223479754489897/",
+          "source": "今日头条",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时52分"
         },
         {
           "title": "美国国务卿鲁比奥：（关于世界杯）美国决心不让与伊朗革命卫队有关的人士“混进他们的代表团”。",
@@ -252,7 +308,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时38分"
         },
@@ -307,7 +363,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时38分"
         },
@@ -356,6 +412,17 @@
           "time_info": "07时32分"
         },
         {
+          "title": "伊朗革命卫队：为回应美军袭击，已打击美以船只及美军基地",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33296755",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时52分"
+        },
+        {
           "title": "美国中央司令部：6月2日，美军瘫痪了一艘正试图驶向阿拉伯湾某伊朗港口的空载油轮。",
           "url": "https://flash.jin10.com/detail/20260603045204271800",
           "source": "金十数据",
@@ -365,6 +432,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时02分"
+        },
+        {
+          "title": "美战机袭击一艘伊朗相关油轮",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E6%88%98%E6%9C%BA%E8%A2%AD%E5%87%BB%E4%B8%80%E8%89%98%E4%BC%8A%E6%9C%97%E7%9B%B8%E5%85%B3%E6%B2%B9%E8%BD%AE%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时52分"
         },
         {
           "title": "据以色列媒体报道，伊朗法尔斯省达拉布市听传出类似导弹发射的声音。",
@@ -384,7 +462,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时38分"
         },
@@ -417,7 +495,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时38分"
         },
@@ -428,7 +506,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时38分"
         },
@@ -439,9 +517,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时38分"
+        },
+        {
+          "title": "美国军方：（当地时间）今晚，又一波伊朗无人机试图攻击驻科威特的美国军队，但未能击中目标。",
+          "url": "https://flash.jin10.com/detail/20260603092732921800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时52分"
         },
         {
           "title": "美军称对伊朗格什姆岛实施“自卫性”打击 伊朗向邻国发射导弹",
@@ -450,7 +539,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时38分"
         },
@@ -461,7 +550,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时38分"
         },
@@ -483,7 +572,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时38分"
         },
@@ -494,7 +583,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时38分"
         },
@@ -505,7 +594,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时38分"
         }
@@ -525,8 +614,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时31分 ~ 08时38分]"
+          "appearance_count": 8,
+          "time_info": "[01时31分 ~ 09时52分]"
         },
         {
           "title": "美股收盘：三大股指小幅收涨 标普首次突破7600点 AI狂热压倒中东忧虑",
@@ -537,8 +626,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时32分 ~ 08时38分]"
+          "appearance_count": 3,
+          "time_info": "[07时32分 ~ 09时52分]"
         },
         {
           "title": "AI热情力撑美股新高，纳指、标普九连涨，半导体指数大涨近6%，比特币重挫，铜上涨",
@@ -547,9 +636,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时38分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时38分 ~ 09时52分]"
         },
         {
           "title": "美伊前景不明，美股低开，Marvell大涨25%，布油持稳95美元，比特币跌破6.9万美元",
@@ -768,7 +857,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "特朗普操纵“美伊叙事”：先说“不在乎谈判成不成”，后发帖“预计一周内达成协议”，称“以黎停火”，但以色列要继续行动",
@@ -815,8 +904,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时31分 ~ 08时38分]"
+          "appearance_count": 8,
+          "time_info": "[01时31分 ~ 09时52分]"
         },
         {
           "title": "特朗普：“美伊几日前已停止对话”是假新闻 双方对话一直在持续",
@@ -863,6 +952,17 @@
           "time_info": "06时02分"
         },
         {
+          "title": "被特朗普斥“疯了”后，内塔尼亚胡最新强硬表态",
+          "url": "https://news.ifeng.com/c/8tdev8HIju4",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时52分"
+        },
+        {
           "title": "美国总统特朗普：今天继续与伊朗对话。 “美国与伊朗停止对话”这种说法是错误的。",
           "url": "https://wallstreetcn.com/livenews/3113212",
           "source": "华尔街见闻-快讯",
@@ -885,6 +985,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时32分 ~ 08时38分]"
+        },
+        {
+          "title": "特朗普被曝同以总理通话爆粗口",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33288561",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时38分 ~ 09时52分]"
         },
         {
           "title": "美国总统特朗普敦促伊朗做出更坚定的核承诺。（ABC）",
@@ -929,17 +1040,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时02分"
-        },
-        {
-          "title": "特朗普被曝同以总理通话爆粗口",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33288561",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时38分"
         },
         {
           "title": "美国总统特朗普：用于支持非法移民或存储非法移民福利的银行账户将被关闭，资金最终将被扣押和没收，以便归还给纳税人。",
@@ -997,11 +1097,12 @@
           "source": "澎湃新闻",
           "ranks": [
             19,
-            17
+            17,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时32分 ~ 08时38分]"
+          "appearance_count": 3,
+          "time_info": "[07时32分 ~ 09时52分]"
         },
         {
           "title": "据知情人士透露，谷歌母公司Alphabet的股权融资获得超额认购。（彭博）",
@@ -1029,8 +1130,19 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "OpenAI举行“AI上岗”发布会：股票研究、投行路演都能干",
+          "url": "https://www.cls.cn/detail/2388950",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时52分"
+        },
         {
           "title": "OpenAI：ZoomInfo将在企业版Codex（Codex for Work）中提供原生支持。",
           "url": "https://wallstreetcn.com/livenews/3113224",
@@ -1063,6 +1175,45 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时32分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "周二（6月2日）纽约尾盘，美国10年期基准国债收益率跌0.98个基点，报4.4433%，在V形反转行情中、于北京时间19:10刷新日低至4.4217%。 两年期美债收益率涨1.03个基点，报4.0431%，19:06也曾刷新日低至4.0060%。",
+          "url": "https://wallstreetcn.com/livenews/3113308",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时02分"
+        },
+        {
+          "title": "欧央行最新报告：黄金历史性超越美债，成为全球第一大储备资产",
+          "url": "https://wallstreetcn.com/articles/3773688",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时52分"
+        },
+        {
+          "title": "欧洲央行：黄金替代美债成全球官方储备第一大资产",
+          "url": "https://wallstreetcn.com/livenews/3113185",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时31分"
         }
       ]
     },
@@ -1106,34 +1257,6 @@
       ]
     },
     {
-      "keyword_group": "美债",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "周二（6月2日）纽约尾盘，美国10年期基准国债收益率跌0.98个基点，报4.4433%，在V形反转行情中、于北京时间19:10刷新日低至4.4217%。 两年期美债收益率涨1.03个基点，报4.0431%，19:06也曾刷新日低至4.0060%。",
-          "url": "https://wallstreetcn.com/livenews/3113308",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时02分"
-        },
-        {
-          "title": "欧洲央行：黄金替代美债成全球官方储备第一大资产",
-          "url": "https://wallstreetcn.com/livenews/3113185",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时31分"
-        }
-      ]
-    },
-    {
       "keyword_group": "金价",
       "match_count": 1,
       "titles": [
@@ -1142,11 +1265,12 @@
           "url": "https://s.weibo.com/weibo?q=%E5%9B%BD%E5%86%85%E9%87%91%E4%BB%B7%E8%B7%8C%E7%A0%B4980%E5%85%83%E6%AF%8F%E5%85%8B&t=31&band_rank=13&Refer=top",
           "source": "微博",
           "ranks": [
-            13
+            13,
+            14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时38分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时38分 ~ 09时52分]"
         }
       ]
     }
