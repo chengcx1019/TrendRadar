@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-03T19:35:45.269256+08:00",
-  "total_titles_processed": 1549,
+  "generated_at": "2026-06-03T21:29:47.496499+08:00",
+  "total_titles_processed": 1681,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 68,
+      "match_count": 72,
       "titles": [
         {
           "title": "伊朗公开已故最高领袖哈梅内伊安葬地点",
@@ -46,17 +46,6 @@
           "time_info": "[11时04分 ~ 17时33分]"
         },
         {
-          "title": "伊朗在葬礼举行前袭击美军基地，有何意味？",
-          "url": "https://news.ifeng.com/c/8teQvIWc4Ah",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时36分 ~ 15时36分]"
-        },
-        {
           "title": "伊朗革命卫队：为回应美军袭击，已打击美以船只及美军基地",
           "url": "https://m.thepaper.cn/newsDetail_forward_33296755",
           "source": "澎湃新闻",
@@ -69,8 +58,30 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时52分 ~ 19时35分]"
+          "appearance_count": 8,
+          "time_info": "[09时52分 ~ 21时29分]"
+        },
+        {
+          "title": "伊朗在葬礼举行前袭击美军基地，有何意味？",
+          "url": "https://news.ifeng.com/c/8teQvIWc4Ah",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时36分 ~ 15时36分]"
+        },
+        {
+          "title": "伊朗最高领袖批准成立霍尔木兹海峡问题工作组",
+          "url": "https://news.ifeng.com/c/8tekQlYHnoj",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时33分 ~ 21时29分]"
         },
         {
           "title": "伊朗将在3座城市为哈梅内伊举办葬礼",
@@ -98,17 +109,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时04分 ~ 13时36分]"
-        },
-        {
-          "title": "伊朗最高领袖批准成立霍尔木兹海峡问题工作组",
-          "url": "https://news.ifeng.com/c/8tekQlYHnoj",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时33分 ~ 19时35分]"
         },
         {
           "title": "伊朗战争｜美军基地遇袭，伊朗军方发表强势声明",
@@ -221,6 +221,17 @@
           "time_info": "08时38分"
         },
         {
+          "title": "伊朗媒体称霍尔木兹海峡管理草案进入审议阶段",
+          "url": "https://wallstreetcn.com/livenews/3113829",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时29分"
+        },
+        {
           "title": "伊朗称袭击美国第五舰队总部",
           "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E7%A7%B0%E8%A2%AD%E5%87%BB%E7%BE%8E%E5%9B%BD%E7%AC%AC%E4%BA%94%E8%88%B0%E9%98%9F%E6%80%BB%E9%83%A8",
           "source": "百度热搜",
@@ -258,6 +269,17 @@
           "time_info": "[08时38分 ~ 09时52分]"
         },
         {
+          "title": "国际油价一度涨超2%，美军称伊朗在整个中东范围发动袭击",
+          "url": "https://wallstreetcn.com/articles/3773721",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时35分 ~ 21时29分]"
+        },
+        {
           "title": "伊朗革命卫队：为回应美军袭击 已打击美以船只及美军基地",
           "url": "https://flash.jin10.com/detail/20260603075942951800",
           "source": "金十数据",
@@ -267,6 +289,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时38分"
+        },
+        {
+          "title": "IAEA报告：如今伊朗研制核武器的风险高于一年前美以打击伊朗之时",
+          "url": "https://flash.jin10.com/detail/20260603210338312800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时29分"
         },
         {
           "title": "美国称，击落多架袭击科威特境内部队的伊朗无人机。",
@@ -344,17 +377,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时33分"
-        },
-        {
-          "title": "国际油价一度涨超2%，美军称伊朗在整个中东范围发动袭击",
-          "url": "https://wallstreetcn.com/articles/3773721",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时35分"
         },
         {
           "title": "伊朗伊斯兰共和国广播电视台（IRIB）：巴林传出警报声。",
@@ -476,6 +498,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时31分"
+        },
+        {
+          "title": "以色列外交部：真主党是伊朗的代理人、黎巴嫩的悲剧、以色列的威胁。",
+          "url": "https://flash.jin10.com/detail/20260603205105642800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时29分"
         },
         {
           "title": "伊朗外长阿拉格齐：伊朗与沙特外长在电话中讨论了外交努力。",
@@ -720,6 +753,17 @@
           "time_info": "15时36分"
         },
         {
+          "title": "科威特称伊朗袭击致63人受伤",
+          "url": "https://wallstreetcn.com/livenews/3113805",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时29分"
+        },
+        {
           "title": "美国打击伊朗格什姆岛 伊朗报复科威特美军基地",
           "url": "https://flash.jin10.com/detail/20260603073135765800",
           "source": "金十数据",
@@ -778,7 +822,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 34,
+      "match_count": 36,
       "titles": [
         {
           "title": "特朗普操纵“美伊叙事”：先说“不在乎谈判成不成”，后发帖“预计一周内达成协议”，称“以黎停火”，但以色列要继续行动",
@@ -854,6 +898,28 @@
           "time_info": "[13时36分 ~ 15时36分]"
         },
         {
+          "title": "特朗普为何骂内塔尼亚胡“疯了”？",
+          "url": "https://news.ifeng.com/c/8ter8XhY8eS",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时35分 ~ 21时29分]"
+        },
+        {
+          "title": "特朗普任命房屋监管主管兼任情报总监",
+          "url": "https://news.ifeng.com/c/8tetwuxA0Fy",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时35分 ~ 21时29分]"
+        },
+        {
           "title": "被特朗普斥“疯了”后，内塔尼亚胡最新强硬表态",
           "url": "https://news.ifeng.com/c/8tdev8HIju4",
           "source": "凤凰网",
@@ -886,17 +952,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[07时32分 ~ 15时36分]"
-        },
-        {
-          "title": "特朗普为何骂内塔尼亚胡“疯了”？",
-          "url": "https://news.ifeng.com/c/8ter8XhY8eS",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时35分"
         },
         {
           "title": "美国总统特朗普：（与伊朗）结果如何，谁也不知道，但正如我对伊朗所说，“是时候了，无论如何，你们都需要达成协议。”",
@@ -954,15 +1009,18 @@
           "time_info": "17时33分"
         },
         {
-          "title": "特朗普任命房屋监管主管兼任情报总监",
-          "url": "https://news.ifeng.com/c/8tetwuxA0Fy",
-          "source": "凤凰网",
+          "title": "一个想谈一个想打！特朗普破口大骂内塔尼亚胡，美以分歧公开化",
+          "url": "https://wallstreetcn.com/articles/3773725",
+          "source": "华尔街见闻",
           "ranks": [
-            4
+            9,
+            8,
+            7,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时35分"
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时35分 ~ 21时29分]"
         },
         {
           "title": "特朗普最终还是签了，曾忧心这会“让中国领先”",
@@ -974,19 +1032,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[13时36分 ~ 19时35分]"
-        },
-        {
-          "title": "一个想谈一个想打！特朗普破口大骂内塔尼亚胡，美以分歧公开化",
-          "url": "https://wallstreetcn.com/articles/3773725",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时35分 ~ 19时35分]"
         },
         {
           "title": "美国总统特朗普：今天继续与伊朗对话。 “美国与伊朗停止对话”这种说法是错误的。",
@@ -1078,6 +1123,17 @@
           "time_info": "03时09分"
         },
         {
+          "title": "一份报告显示，国际原子能机构（IAEA）在报告中指出核扩散风险，伊朗核风险被认为高于特朗普发动袭击前的水平。",
+          "url": "https://flash.jin10.com/detail/20260603204845458800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时29分"
+        },
+        {
           "title": "据美联社：美国代理司法部长托德·布兰奇表示，在遭到广泛的政治反弹和法庭挫败后，特朗普政府将放弃设立18亿美元基金的计划，该基金旨在“补偿”这位共和党总统的盟友。",
           "url": "https://flash.jin10.com/detail/20260603045046155800",
           "source": "金十数据",
@@ -1095,9 +1151,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时35分"
+        },
+        {
+          "title": "国际原子能机构（IAEA）：伊朗核风险被认为高于特朗普发动袭击前的水平。",
+          "url": "https://wallstreetcn.com/livenews/3113810",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时29分"
         },
         {
           "title": "美国总统特朗普：用于支持非法移民或存储非法移民福利的银行账户将被关闭，资金最终将被扣押和没收，以便归还给纳税人。",
@@ -1117,7 +1184,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时35分"
         },
@@ -1150,7 +1217,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时35分"
         },
@@ -1161,7 +1228,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时35分"
         }
@@ -1169,7 +1236,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 30,
+      "match_count": 34,
       "titles": [
         {
           "title": "AI热情力撑美股新高，纳指、标普九连涨，半导体指数大涨近6%，比特币重挫，铜上涨",
@@ -1179,8 +1246,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时38分 ~ 19时35分]"
+          "appearance_count": 9,
+          "time_info": "[08时38分 ~ 21时29分]"
         },
         {
           "title": "美股收盘：三大股指小幅收涨 标普首次突破7600点 AI狂热压倒中东忧虑",
@@ -1242,6 +1309,19 @@
           "time_info": "17时33分"
         },
         {
+          "title": "大戏即将开演！美股IPO市场今年显著回暖 三大独角兽即将接力登场",
+          "url": "https://www.cls.cn/detail/2389478",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时33分 ~ 21时29分]"
+        },
+        {
           "title": "周二（6月2日），美股AI软件先驱指数跌3.37%，报128.60点。",
           "url": "https://wallstreetcn.com/livenews/3113281",
           "source": "华尔街见闻-快讯",
@@ -1264,18 +1344,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时01分 ~ 06时02分]"
-        },
-        {
-          "title": "大戏即将开演！美股IPO市场今年显著回暖 三大独角兽即将接力登场",
-          "url": "https://www.cls.cn/detail/2389478",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时33分 ~ 19时35分]"
         },
         {
           "title": "周二（6月2日），美股信息科技指数涨2.38%，报461.64点，连续多日创收盘历史新高，5月19日以来累计上涨23.35%。 标普500信息技术/科技板块涨0.92%，报7262.03点，也连续三天创收盘历史新高。",
@@ -1335,6 +1403,17 @@
           "time_info": "01时31分"
         },
         {
+          "title": "美股两个月狂飙16%：历史只出现过4次，最近一次是1987崩盘前！",
+          "url": "https://wallstreetcn.com/articles/3773769",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时29分"
+        },
+        {
           "title": "周二（6月2日），美股存储芯片与硬件供应链指数涨2.07%，报222.31点，连续六个交易日创收盘历史新高。",
           "url": "https://wallstreetcn.com/livenews/3113277",
           "source": "华尔街见闻-快讯",
@@ -1344,6 +1423,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时01分"
+        },
+        {
+          "title": "周三美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3113823",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时29分"
         },
         {
           "title": "美股七巨头收盘播报｜周二（6月2日），美国科技股七巨头（Magnificent 7）指数跌1.03%，报225.46点。 “超大”市值科技股指数跌0.07%，报473.57点。",
@@ -1366,6 +1456,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时33分"
+        },
+        {
+          "title": "美股期指下跌 布油站上98美元 比特币跌破6.7万美元 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2389957",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时29分"
         },
         {
           "title": "网络安全公司NetSkope美股盘后涨3.8%，该公司宣布加入Anthropic的Project Glasswing。",
@@ -1473,7 +1574,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时35分"
         },
@@ -1500,13 +1601,24 @@
           "time_info": "13时36分"
         },
         {
+          "title": "美股股指期货走低，纳指期货转跌，标普500指数期货跌0.24%，道指期货跌0.48%。",
+          "url": "https://wallstreetcn.com/livenews/3113808",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时29分"
+        },
+        {
           "title": "英特尔美股盘前涨超8%，新处理器Xeon 6 Plus亮相，进军AI整机柜市场。",
           "url": "https://wallstreetcn.com/livenews/3113722",
           "source": "华尔街见闻-快讯",
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时35分"
         }
@@ -1514,7 +1626,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "罕见增发！谷歌募资800亿美元砸AI基建，伯克希尔百亿入局",
@@ -1608,6 +1720,17 @@
           "time_info": "13时36分"
         },
         {
+          "title": "德勤与谷歌云及Wiz合作，推出人机协作的人工智能网络防御系统。",
+          "url": "https://flash.jin10.com/detail/20260603210157742800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时29分"
+        },
+        {
           "title": "据知情人士透露，谷歌母公司Alphabet的股权融资获得超额认购。（彭博）",
           "url": "https://wallstreetcn.com/livenews/3113205",
           "source": "华尔街见闻-快讯",
@@ -1656,8 +1779,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时33分 ~ 19时35分]"
+          "appearance_count": 3,
+          "time_info": "[17时33分 ~ 21时29分]"
         },
         {
           "title": "法国总统马克龙邀请OpenAI的CEO Altman参加G7峰会。（CNBC）",
@@ -1666,7 +1789,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时35分"
         },
@@ -1706,59 +1829,8 @@
       ]
     },
     {
-      "keyword_group": "美债",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "欧央行最新报告：黄金历史性超越美债，成为全球第一大储备资产",
-          "url": "https://wallstreetcn.com/articles/3773688",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时52分 ~ 19时35分]"
-        },
-        {
-          "title": "周二（6月2日）纽约尾盘，美国10年期基准国债收益率跌0.98个基点，报4.4433%，在V形反转行情中、于北京时间19:10刷新日低至4.4217%。 两年期美债收益率涨1.03个基点，报4.0431%，19:06也曾刷新日低至4.0060%。",
-          "url": "https://wallstreetcn.com/livenews/3113308",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时02分"
-        },
-        {
-          "title": "超越美债，黄金成为全球官方储备第一大资产",
-          "url": "https://news.ifeng.com/c/8teZCHEvNB0",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时36分"
-        },
-        {
-          "title": "欧洲央行：黄金替代美债成全球官方储备第一大资产",
-          "url": "https://wallstreetcn.com/livenews/3113185",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时31分"
-        }
-      ]
-    },
-    {
       "keyword_group": "金价",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "国内金价跌破980元每克",
@@ -1796,6 +1868,108 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时04分"
+        },
+        {
+          "title": "金价跌破4500美元 短期怎么走",
+          "url": "https://www.toutiao.com/trending/7647094615576677942/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时29分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "欧央行最新报告：黄金历史性超越美债，成为全球第一大储备资产",
+          "url": "https://wallstreetcn.com/articles/3773688",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时52分 ~ 21时29分]"
+        },
+        {
+          "title": "周二（6月2日）纽约尾盘，美国10年期基准国债收益率跌0.98个基点，报4.4433%，在V形反转行情中、于北京时间19:10刷新日低至4.4217%。 两年期美债收益率涨1.03个基点，报4.0431%，19:06也曾刷新日低至4.0060%。",
+          "url": "https://wallstreetcn.com/livenews/3113308",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时02分"
+        },
+        {
+          "title": "超越美债，黄金成为全球官方储备第一大资产",
+          "url": "https://news.ifeng.com/c/8teZCHEvNB0",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时36分"
+        },
+        {
+          "title": "欧洲央行：黄金替代美债成全球官方储备第一大资产",
+          "url": "https://wallstreetcn.com/livenews/3113185",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时31分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "报道：DeepSeek据悉在首轮融资中预计筹资约70亿美元，估值最高可达590亿美元",
+          "url": "https://wallstreetcn.com/livenews/3113520",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时36分"
+        },
+        {
+          "title": "曝DeepSeek首轮融资约70亿美元",
+          "url": "https://www.toutiao.com/trending/7647079043384217115/",
+          "source": "今日头条",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时35分"
+        },
+        {
+          "title": "腾讯云宣布 DeepSeek-V4 系列模型降价，最高降幅达 97.5%，将带来哪些影响？",
+          "url": "https://www.zhihu.com/question/2045220633466725057",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时29分"
         }
       ]
     },
@@ -1835,34 +2009,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时01分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "报道：DeepSeek据悉在首轮融资中预计筹资约70亿美元，估值最高可达590亿美元",
-          "url": "https://wallstreetcn.com/livenews/3113520",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时36分"
-        },
-        {
-          "title": "曝DeepSeek首轮融资约70亿美元",
-          "url": "https://www.toutiao.com/trending/7647079043384217115/",
-          "source": "今日头条",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时35分"
         }
       ]
     }
