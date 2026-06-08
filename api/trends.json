@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-08T07:22:41.167114+08:00",
-  "total_titles_processed": 629,
+  "generated_at": "2026-06-08T08:32:23.103190+08:00",
+  "total_titles_processed": 740,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 76,
+      "match_count": 80,
       "titles": [
         {
           "title": "消息人士：美计划动用伊朗资产修复海湾盟友损失",
@@ -26,30 +26,32 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时28分 ~ 07时22分]"
+          "appearance_count": 13,
+          "time_info": "[00时28分 ~ 08时32分]"
         },
         {
           "title": "伊朗要求解冻240亿美元资产后，美国拟将伊朗资产用于海湾国家重建",
           "url": "https://m.thepaper.cn/newsDetail_forward_33327663",
           "source": "澎湃新闻",
           "ranks": [
-            7
+            7,
+            4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时28分 ~ 07时22分]"
+          "appearance_count": 13,
+          "time_info": "[00时28分 ~ 08时32分]"
         },
         {
           "title": "美国拟动用伊朗被冻结资产赔偿海湾国家损失 或成停火谈判“新刺激”",
           "url": "https://www.cls.cn/detail/2392742",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时28分 ~ 07时22分]"
+          "appearance_count": 13,
+          "time_info": "[00时28分 ~ 08时32分]"
         },
         {
           "title": "世界杯签证问题持续，多国记者及伊朗队成员仍未获赴美签证",
@@ -57,11 +59,12 @@
           "source": "澎湃新闻",
           "ranks": [
             14,
-            16
+            16,
+            12
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时28分 ~ 07时22分]"
+          "appearance_count": 13,
+          "time_info": "[00时28分 ~ 08时32分]"
         },
         {
           "title": "伊朗革命卫队：打击以色列空军基地",
@@ -99,6 +102,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时26分 ~ 07时22分]"
+        },
+        {
+          "title": "一觉醒来，伊朗又和以色列干上了",
+          "url": "https://news.ifeng.com/c/8tmVXBGy9Du",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时32分"
         },
         {
           "title": "伊朗革命卫队表示，以色列军队必须停止对黎巴嫩的攻击；如果以方扩大攻击范围或对伊朗的行动作出回应，将面临“更具毁灭性和更令人懊悔的打击”。",
@@ -173,6 +187,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时29分 ~ 04时25分]"
+        },
+        {
+          "title": "【早报】A股将迎近千亿“红包”；伊朗向以色列发射导弹",
+          "url": "https://www.cls.cn/detail/2393027",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时32分"
         },
         {
           "title": "伊朗国足抵达墨西哥",
@@ -468,6 +493,18 @@
           "time_info": "[05时26分 ~ 07时22分]"
         },
         {
+          "title": "时隔两个月 伊朗向以发动导弹袭击",
+          "url": "https://www.baidu.com/s?wd=%E6%97%B6%E9%9A%94%E4%B8%A4%E4%B8%AA%E6%9C%88+%E4%BC%8A%E6%9C%97%E5%90%91%E4%BB%A5%E5%8F%91%E5%8A%A8%E5%AF%BC%E5%BC%B9%E8%A2%AD%E5%87%BB",
+          "source": "百度热搜",
+          "ranks": [
+            16,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时22分 ~ 08时32分]"
+        },
+        {
           "title": "伊朗外交部：黎巴嫩的停火是四月达成的停火协议的重要组成部分。",
           "url": "https://flash.jin10.com/detail/20260608051144890800",
           "source": "金十数据",
@@ -612,6 +649,17 @@
           "time_info": "[05时26分 ~ 06时22分]"
         },
         {
+          "title": "伊朗向以色列发射多轮导弹",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%90%91%E4%BB%A5%E8%89%B2%E5%88%97%E5%8F%91%E5%B0%84%E5%A4%9A%E8%BD%AE%E5%AF%BC%E5%BC%B9%23&t=31&band_rank=7&Refer=top",
+          "source": "微博",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时32分"
+        },
+        {
           "title": "以色列军方：监测到从伊朗向北部定居点发射的导弹。",
           "url": "https://flash.jin10.com/detail/20260608030332453800",
           "source": "金十数据",
@@ -706,9 +754,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
+        },
+        {
+          "title": "美以围绕伊朗战争分歧加剧之际，美国被曝将以色列间谍威胁升至最高级别",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33329321",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时32分"
         },
         {
           "title": "据伊朗学生通讯社：伊朗外长与沙特外交大臣通电话。",
@@ -717,18 +776,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时22分"
-        },
-        {
-          "title": "时隔两个月 伊朗向以发动导弹袭击",
-          "url": "https://www.baidu.com/s?wd=%E6%97%B6%E9%9A%94%E4%B8%A4%E4%B8%AA%E6%9C%88+%E4%BC%8A%E6%9C%97%E5%90%91%E4%BB%A5%E5%8F%91%E5%8A%A8%E5%AF%BC%E5%BC%B9%E8%A2%AD%E5%87%BB",
-          "source": "百度热搜",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
         },
@@ -750,7 +798,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
         },
@@ -816,7 +864,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
         },
@@ -838,7 +886,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
         },
@@ -849,7 +897,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
         },
@@ -918,13 +966,24 @@
           "time_info": "[01时28分 ~ 07时22分]"
         },
         {
+          "title": "特朗普：我说了算，以色列总理别无选择",
+          "url": "https://news.ifeng.com/c/8tmNZSiGGLp",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时22分 ~ 08时32分]"
+        },
+        {
           "title": "据半岛电视台：以色列第12频道报道称，内塔尼亚胡在通话中试图反对特朗普“不对伊朗进行报复的要求”，但最终还是接受了。",
           "url": "https://flash.jin10.com/detail/20260608065348810800",
           "source": "金十数据",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
         },
@@ -938,17 +997,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时25分"
-        },
-        {
-          "title": "特朗普：我说了算，以色列总理别无选择",
-          "url": "https://news.ifeng.com/c/8tmNZSiGGLp",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时22分"
         },
         {
           "title": "英媒：特朗普考虑购买查戈斯群岛 拟绕过英国直接与毛里求斯交易",
@@ -990,7 +1038,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
         },
@@ -1234,7 +1282,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
         },
@@ -1256,7 +1304,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
         },
@@ -1267,7 +1315,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
         },
@@ -1278,7 +1326,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
         },
@@ -1289,7 +1337,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
         },
@@ -1300,7 +1348,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
         },
@@ -1425,11 +1473,12 @@
           "url": "https://www.cls.cn/detail/2392638",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时28分 ~ 07时22分]"
+          "appearance_count": 13,
+          "time_info": "[00时28分 ~ 08时32分]"
         },
         {
           "title": "短期美股科技股调整，风险如何应对？十大券商策略来了",
@@ -1442,8 +1491,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时28分 ~ 07时22分]"
+          "appearance_count": 13,
+          "time_info": "[00时28分 ~ 08时32分]"
         },
         {
           "title": "美股黑色星期五调整的本质是什么？如何影响A股？",
@@ -1452,11 +1501,12 @@
           "ranks": [
             10,
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时28分 ~ 07时22分]"
+          "appearance_count": 13,
+          "time_info": "[00时28分 ~ 08时32分]"
         },
         {
           "title": "如何看待美股黑色星期五？如何影响A股？",
@@ -1467,8 +1517,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时28分 ~ 07时22分]"
+          "appearance_count": 13,
+          "time_info": "[00时28分 ~ 08时32分]"
         },
         {
           "title": "现货黄金、美股股指期货小幅拉升，WTI原油小幅下挫。",
@@ -1477,7 +1527,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
         },
@@ -1488,7 +1538,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
         },
@@ -1499,7 +1549,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
         },
@@ -1531,19 +1581,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时28分 ~ 07时22分]"
+          "appearance_count": 13,
+          "time_info": "[00时28分 ~ 08时32分]"
         },
         {
           "title": "\"聊天已死\"！ChatGPT最大改版来了，OpenAI要造\"超级应用\"",
           "url": "https://wallstreetcn.com/articles/3774032",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时28分 ~ 07时22分]"
+          "appearance_count": 13,
+          "time_info": "[00时28分 ~ 08时32分]"
         }
       ]
     },
@@ -1560,8 +1611,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时28分 ~ 07时22分]"
+          "appearance_count": 13,
+          "time_info": "[00时28分 ~ 08时32分]"
         }
       ]
     },
