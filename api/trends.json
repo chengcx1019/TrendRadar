@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-13T15:14:53.456616+08:00",
-  "total_titles_processed": 1016,
+  "generated_at": "2026-06-13T17:02:31.506135+08:00",
+  "total_titles_processed": 1115,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 81,
+      "match_count": 83,
       "titles": [
         {
           "title": "伊朗发布“头骨世界杯”海报",
@@ -45,8 +45,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时29分 ~ 15时14分]"
+          "appearance_count": 3,
+          "time_info": "[13时29分 ~ 17时02分]"
         },
         {
           "title": "霍尔木兹将重开？伊朗曝光14点协议草案",
@@ -451,6 +451,31 @@
           "time_info": "[01时46分 ~ 03时38分]"
         },
         {
+          "title": "美军称伊朗发射多架单向攻击无人机",
+          "url": "https://wallstreetcn.com/livenews/3119115",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            14,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时29分 ~ 17时02分]"
+        },
+        {
+          "title": "伊朗外长披露伊美谅解备忘录草案部分内容",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33372202",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时29分 ~ 17时02分]"
+        },
+        {
           "title": "伊朗外长：伊朗仅接受在境内“稀释处理”浓缩铀库存",
           "url": "https://wallstreetcn.com/livenews/3119061",
           "source": "华尔街见闻-快讯",
@@ -464,28 +489,15 @@
           "time_info": "[04时43分 ~ 06时31分]"
         },
         {
-          "title": "美军称伊朗发射多架单向攻击无人机",
-          "url": "https://wallstreetcn.com/livenews/3119115",
-          "source": "华尔街见闻-快讯",
+          "title": "多名伊朗国足代表团成员签证被拒，美国回应",
+          "url": "https://news.ifeng.com/c/8tvGP2lQey4",
+          "source": "凤凰网",
           "ranks": [
-            11,
-            14
+            6
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时29分 ~ 15时14分]"
-        },
-        {
-          "title": "伊朗外长披露伊美谅解备忘录草案部分内容",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33372202",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时29分 ~ 15时14分]"
+          "time_info": "[15时14分 ~ 17时02分]"
         },
         {
           "title": "美国内政部长伯格姆谈伊朗谈判：市场反应积极并不意外。",
@@ -498,6 +510,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时43分 ~ 05时32分]"
+        },
+        {
+          "title": "伊朗外长：伊朗仅接受在境内“稀释处理”浓缩铀库存",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33372320",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时14分 ~ 17时02分]"
         },
         {
           "title": "伊朗外长：美国在谅解备忘录中承诺不发动战争，霍尔木兹海峡相关服务将收费",
@@ -536,17 +559,6 @@
           "time_info": "[04时43分 ~ 05时32分]"
         },
         {
-          "title": "多名伊朗国足代表团成员签证被拒，美国回应",
-          "url": "https://news.ifeng.com/c/8tvGP2lQey4",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时14分"
-        },
-        {
           "title": "美国政府高级官员：一些伊朗强硬派希望破坏协议。",
           "url": "https://flash.jin10.com/detail/20260613012446661800",
           "source": "金十数据",
@@ -578,6 +590,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时37分"
+        },
+        {
+          "title": "世界杯伊朗队训练场旁发现腐尸",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%96%E7%95%8C%E6%9D%AF%E4%BC%8A%E6%9C%97%E9%98%9F%E8%AE%AD%E7%BB%83%E5%9C%BA%E6%97%81%E5%8F%91%E7%8E%B0%E8%85%90%E5%B0%B8",
+          "source": "百度热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时02分"
         },
         {
           "title": "伊朗外交部：伊方正在审议谅解备忘录草案",
@@ -622,6 +645,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时34分"
+        },
+        {
+          "title": "“美伊协议即将达成”叙事回归，但伊朗拒绝放弃霍尔木兹海峡“筹码”",
+          "url": "https://wallstreetcn.com/articles/3774540",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时02分"
         },
         {
           "title": "美国政府高级官员：伊朗方面有一些人并不喜欢这项协议。我们认为这种反对意见相当有限。",
@@ -765,17 +799,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时37分"
-        },
-        {
-          "title": "伊朗外长：伊朗仅接受在境内“稀释处理”浓缩铀库存",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33372320",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时14分"
         },
         {
           "title": "美国政府高级官员：根据伊朗的履约情况，将有大幅制裁减免。",
@@ -978,11 +1001,12 @@
           "ranks": [
             5,
             4,
-            2
+            2,
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时30分 ~ 15时14分]"
+          "appearance_count": 7,
+          "time_info": "[06时30分 ~ 17时02分]"
         },
         {
           "title": "美股收盘：SpaceX首秀升19%市值破2万亿 三大指数集体上涨",
@@ -993,8 +1017,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时29分 ~ 15时14分]"
+          "appearance_count": 5,
+          "time_info": "[07时29分 ~ 17时02分]"
         },
         {
           "title": "SpaceX上市引发“虹吸效应” 美股太空概念集体跳水",
@@ -1007,8 +1031,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时30分 ~ 15时14分]"
+          "appearance_count": 7,
+          "time_info": "[06时30分 ~ 17时02分]"
         },
         {
           "title": "周五（6月12日），美股存储芯片与硬件供应链指数涨3.91%，报233.15点，美股早盘显著上涨，北京时间22:00以来持续交投于2340点附近、高位窄幅震荡，本周累计上涨17.34%。 成分股普遍走高，希捷科技涨7.25%，西部数据涨6.35%，泰瑞达、闪迪至少涨5.24%，应用材料、Rambus、拉姆研究至少涨1.18%，美光科技则收跌1.43%。",
@@ -1254,11 +1278,12 @@
           "url": "https://news.ifeng.com/c/8tuxrPNiEYB",
           "source": "凤凰网",
           "ranks": [
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时29分 ~ 15时14分]"
+          "appearance_count": 3,
+          "time_info": "[13时29分 ~ 17时02分]"
         },
         {
           "title": "特朗普否认伊媒披露的美伊协议草案：与双方书面协议毫无关系",
@@ -1268,8 +1293,33 @@
             13
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时29分 ~ 17时02分]"
+        },
+        {
+          "title": "特朗普说打死委内瑞拉一黑帮团伙头目",
+          "url": "https://wallstreetcn.com/livenews/3119112",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            17,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时29分 ~ 17时02分]"
+        },
+        {
+          "title": "美法院驳回上诉 维持肯尼迪中心移除特朗普名字裁决",
+          "url": "https://flash.jin10.com/detail/20260613135132785800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            27
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时29分 ~ 15时14分]"
+          "time_info": "[15时14分 ~ 17时02分]"
         },
         {
           "title": "据伊朗媒体Fars News：伊朗外长被指控为迎合特朗普路线而损害伊朗谈判立场。",
@@ -1278,18 +1328,6 @@
           "ranks": [
             14,
             26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时29分 ~ 15时14分]"
-        },
-        {
-          "title": "特朗普说打死委内瑞拉一黑帮团伙头目",
-          "url": "https://wallstreetcn.com/livenews/3119112",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            17
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -1306,17 +1344,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时46分 ~ 02时37分]"
-        },
-        {
-          "title": "美法院驳回上诉 维持肯尼迪中心移除特朗普名字裁决",
-          "url": "https://flash.jin10.com/detail/20260613135132785800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时14分"
         },
         {
           "title": "提醒：美国总统特朗普在自家社交媒体平台上张贴伊朗外长关于两国“协议”（谅解备忘录/MoU）社交媒体帖子的截图。",
