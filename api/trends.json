@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-14T19:42:53.436325+08:00",
-  "total_titles_processed": 1168,
+  "generated_at": "2026-06-14T20:35:23.180687+08:00",
+  "total_titles_processed": 1233,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 59,
+      "match_count": 65,
       "titles": [
         {
           "title": "巴基斯坦总理称预计美伊协议将在24小时内敲定，伊朗火速否认",
@@ -186,6 +186,30 @@
           "time_info": "[00时28分 ~ 08时31分]"
         },
         {
+          "title": "伊朗宣布7月为哈梅内伊举行葬礼，预计有超1500万人参加",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33375256",
+          "source": "澎湃新闻",
+          "ranks": [
+            7,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时03分 ~ 20时35分]"
+        },
+        {
+          "title": "美被曝同意伊朗稀释浓缩铀库存",
+          "url": "https://wallstreetcn.com/articles/3774614",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时57分 ~ 20时35分]"
+        },
+        {
           "title": "伊朗已故最高领袖将于7月9日下葬",
           "url": "https://www.toutiao.com/trending/7650457789692825107/",
           "source": "今日头条",
@@ -229,6 +253,17 @@
           "time_info": "[00时28分 ~ 05时27分]"
         },
         {
+          "title": "“美军如果强抢伊朗浓缩铀，全球经济或遭灾难性打击”",
+          "url": "https://news.ifeng.com/c/8twsuCs6tU9",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时57分 ~ 20时35分]"
+        },
+        {
           "title": "伊朗官员：如达成谅解 霍尔木兹海峡将恢复通行",
           "url": "https://flash.jin10.com/detail/20260614054056472800",
           "source": "金十数据",
@@ -241,17 +276,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[06时22分 ~ 11时04分]"
-        },
-        {
-          "title": "美被曝同意伊朗稀释浓缩铀库存",
-          "url": "https://wallstreetcn.com/articles/3774614",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时57分 ~ 19时42分]"
         },
         {
           "title": "伊朗驻墨西哥大使表示，伊朗人民期待美国的善意和相互尊重。",
@@ -284,18 +308,6 @@
           "time_info": "[04时27分 ~ 09时46分]"
         },
         {
-          "title": "美被曝同意伊朗稀释浓缩铀库存",
-          "url": "https://wallstreetcn.com/livenews/3119221",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时57分 ~ 19时42分]"
-        },
-        {
           "title": "录音显示伊朗革命卫队警告船只勿通行霍尔木兹海峡",
           "url": "https://wallstreetcn.com/livenews/3119184",
           "source": "华尔街见闻-快讯",
@@ -312,40 +324,53 @@
           "time_info": "[11时04分 ~ 19时42分]"
         },
         {
-          "title": "伊朗宣布7月为哈梅内伊举行葬礼，预计有超1500万人参加",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33375256",
-          "source": "澎湃新闻",
-          "ranks": [
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时03分 ~ 19时42分]"
-        },
-        {
-          "title": "“美军如果强抢伊朗浓缩铀，全球经济或遭灾难性打击”",
-          "url": "https://news.ifeng.com/c/8twsuCs6tU9",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时57分 ~ 19时42分]"
-        },
-        {
           "title": "知情人士：伊朗尚未就谅解备忘录作出最终决定",
           "url": "https://wallstreetcn.com/livenews/3119212",
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
             5,
-            7
+            7,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时04分 ~ 20时35分]"
+        },
+        {
+          "title": "美被曝同意伊朗稀释浓缩铀库存",
+          "url": "https://wallstreetcn.com/livenews/3119221",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            3,
+            14
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[17时04分 ~ 19时42分]"
+          "time_info": "[18时57分 ~ 20时35分]"
+        },
+        {
+          "title": "伊朗披露美伊谈判备忘录细节",
+          "url": "https://news.ifeng.com/c/8txGeQ5OLJm",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时35分"
+        },
+        {
+          "title": "伊朗议员：对伊美谅解备忘录的部分批评失实",
+          "url": "https://wallstreetcn.com/livenews/3119235",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时35分"
         },
         {
           "title": "据伊朗媒体报道，民众举行示威，要求议会议长卡利巴夫和外长阿拉格齐辞职，以表达对该协议的反对。",
@@ -369,11 +394,37 @@
             4,
             9,
             11,
-            13
+            13,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时32分 ~ 20时35分]"
+        },
+        {
+          "title": "伊朗议员：对伊美谅解备忘录的部分批评失实",
+          "url": "https://flash.jin10.com/detail/20260614201829299800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时35分"
+        },
+        {
+          "title": "卡塔尔代表团与伊朗官员举行会谈",
+          "url": "https://wallstreetcn.com/livenews/3119210",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            6,
+            8,
+            19
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[15时32分 ~ 19时42分]"
+          "time_info": "[17时04分 ~ 20时35分]"
         },
         {
           "title": "据伊朗学生通讯社：埃及外长与美国驻西亚特使通电话，讨论了有关德黑兰与华盛顿谈判的最新进展。",
@@ -402,19 +453,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[05时27分 ~ 09时46分]"
-        },
-        {
-          "title": "卡塔尔代表团与伊朗官员举行会谈",
-          "url": "https://wallstreetcn.com/livenews/3119210",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            6,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时04分 ~ 19时42分]"
         },
         {
           "title": "录音显示伊朗革命卫队警告船只勿通行霍尔木兹海峡",
@@ -602,6 +640,18 @@
           "time_info": "[00时28分 ~ 01时31分]"
         },
         {
+          "title": "伊朗谈判团队顾问披露拟议谅解备忘录细节",
+          "url": "https://flash.jin10.com/detail/20260614190653737800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时42分 ~ 20时35分]"
+        },
+        {
           "title": "据伊朗法尔斯通讯社：伊朗外交部发言人表示，释放伊朗被冻结的资金是协议的重要组成部分。",
           "url": "https://flash.jin10.com/detail/20260613234625047800",
           "source": "金十数据",
@@ -662,17 +712,6 @@
           "time_info": "[18时57分 ~ 19时42分]"
         },
         {
-          "title": "伊朗谈判团队顾问披露拟议谅解备忘录细节",
-          "url": "https://flash.jin10.com/detail/20260614190653737800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时42分"
-        },
-        {
           "title": "伊朗球员问美国记者安全问题",
           "url": "https://search.bilibili.com/all?keyword=%E4%BC%8A%E6%9C%97%E7%90%83%E5%91%98%E9%97%AE%E7%BE%8E%E5%9B%BD%E8%AE%B0%E8%80%85%E5%AE%89%E5%85%A8%E9%97%AE%E9%A2%98",
           "source": "bilibili 热搜",
@@ -704,6 +743,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时04分"
+        },
+        {
+          "title": "据伊朗塔斯尼姆通讯社：巴基斯坦外长与土耳其外长进行了通话，双方讨论了美伊和平谈判。",
+          "url": "https://flash.jin10.com/detail/20260614193130672800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时35分"
+        },
+        {
+          "title": "伊朗官员称以色列政权为“疯狗”，必须加以控制",
+          "url": "https://flash.jin10.com/detail/20260614192959541800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时35分"
         },
         {
           "title": "伊朗外交部：伊美潜在谅解仅为继续对话 非最终协议",
@@ -759,12 +820,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时28分"
+        },
+        {
+          "title": "美被曝同意伊朗稀释浓缩铀库存",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E8%A2%AB%E6%9B%9D%E5%90%8C%E6%84%8F%E4%BC%8A%E6%9C%97%E7%A8%80%E9%87%8A%E6%B5%93%E7%BC%A9%E9%93%80%E5%BA%93%E5%AD%98%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时35分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 30,
+      "match_count": 31,
       "titles": [
         {
           "title": "特朗普：美伊协议计划于周日签署 霍尔木兹海峡随后立即开放",
@@ -777,8 +849,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[08时31分 ~ 19时42分]"
+          "appearance_count": 11,
+          "time_info": "[08时31分 ~ 20时35分]"
         },
         {
           "title": "美伊协议何时签署？特朗普说14日，伊朗否认，“霍尔木兹海峡是否“免费”重开”也各执一词",
@@ -788,11 +860,12 @@
             9,
             6,
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时04分 ~ 19时42分]"
+          "appearance_count": 9,
+          "time_info": "[11时04分 ~ 20时35分]"
         },
         {
           "title": "特朗普姓名被从肯尼迪中心外墙移除",
@@ -851,6 +924,20 @@
           "time_info": "[00时28分 ~ 13时32分]"
         },
         {
+          "title": "自说自话？美媒细数特朗普曾39次说与伊朗“谈好了”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33375825",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            11,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[13时32分 ~ 20时35分]"
+        },
+        {
           "title": "美伊协议何时签署 特朗普说14日 伊朗否认",
           "url": "https://wallstreetcn.com/livenews/3119179",
           "source": "华尔街见闻-快讯",
@@ -898,19 +985,6 @@
           "time_info": "[03时31分 ~ 08时31分]"
         },
         {
-          "title": "自说自话？美媒细数特朗普曾39次说与伊朗“谈好了”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33375825",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            11,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时32分 ~ 19时42分]"
-        },
-        {
           "title": "国际原子能机构前总干事批评特朗普：试图让美伊新协议显得优于伊核协议",
           "url": "https://flash.jin10.com/detail/20260614051019663800",
           "source": "金十数据",
@@ -953,6 +1027,17 @@
           "time_info": "[01时31分 ~ 04时27分]"
         },
         {
+          "title": "白宫上演特技摩托车秀，庆祝特朗普80大寿",
+          "url": "https://v.ifeng.com/c/8twfTkgsM7l",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时03分 ~ 20时35分]"
+        },
+        {
           "title": "特朗普将在G7峰会期间会晤中东伙伴",
           "url": "https://flash.jin10.com/detail/20260614000131278800",
           "source": "金十数据",
@@ -977,17 +1062,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时31分 ~ 03时31分]"
-        },
-        {
-          "title": "白宫上演特技摩托车秀，庆祝特朗普80大寿",
-          "url": "https://v.ifeng.com/c/8twfTkgsM7l",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时03分 ~ 19时42分]"
         },
         {
           "title": "特朗普社交媒体发文：明天将签署协议，霍尔木兹海峡即刻开放",
@@ -1128,6 +1202,17 @@
           "time_info": "[08时31分 ~ 09时46分]"
         },
         {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-06-14）",
+          "url": "https://flash.jin10.com/detail/20260614192509763800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时35分"
+        },
+        {
           "title": "以色列官员：以色列总理内塔尼亚胡与美国总统特朗普关系良好，盟友之间难免会出现分歧，这些分歧能够被克服。",
           "url": "https://flash.jin10.com/detail/20260614173808225800",
           "source": "金十数据",
@@ -1177,8 +1262,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时31分 ~ 19时42分]"
+          "appearance_count": 7,
+          "time_info": "[15时31分 ~ 20时35分]"
         },
         {
           "title": "金价飙升 豪华表成“炼金”原料",
@@ -1192,6 +1277,17 @@
           "time_info": "[15时31分 ~ 17时04分]"
         },
         {
+          "title": "金价跌至900元关口 大妈又来抄底了",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E8%B7%8C%E8%87%B3900%E5%85%83%E5%85%B3%E5%8F%A3+%E5%A4%A7%E5%A6%88%E5%8F%88%E6%9D%A5%E6%8A%84%E5%BA%95%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时57分 ~ 20时35分]"
+        },
+        {
           "title": "金价跌至900元关口，大妈又来抄底了",
           "url": "https://finance.ifeng.com/c/8twgIbNI5vX",
           "source": "凤凰网",
@@ -1201,17 +1297,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时31分 ~ 15时32分]"
-        },
-        {
-          "title": "金价跌至900元关口 大妈又来抄底了",
-          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E8%B7%8C%E8%87%B3900%E5%85%83%E5%85%B3%E5%8F%A3+%E5%A4%A7%E5%A6%88%E5%8F%88%E6%9D%A5%E6%8A%84%E5%BA%95%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时57分 ~ 19时42分]"
         }
       ]
     },
@@ -1225,11 +1310,12 @@
           "source": "财联社热门",
           "ranks": [
             5,
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时46分 ~ 19时42分]"
+          "appearance_count": 10,
+          "time_info": "[09时46分 ~ 20时35分]"
         },
         {
           "title": "SpaceX上市幕后大戏：抢跑OpenAI、疯狂并购装资产，华尔街全程被牵着鼻子走",
@@ -1275,8 +1361,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时28分 ~ 19时42分]"
+          "appearance_count": 20,
+          "time_info": "[00时28分 ~ 20时35分]"
         },
         {
           "title": "美伊协议曙光重燃，原油两连跌，美股指全线收涨、债汇承压，SpaceX首日大涨19%",
@@ -1304,6 +1390,23 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时28分 ~ 08时31分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "谷歌官宣3万字路线图：1亿人类水平的AI就是ASI！",
+          "url": "https://wallstreetcn.com/articles/3774610",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时35分"
         }
       ]
     }
