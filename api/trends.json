@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-17T06:40:40.179054+08:00",
-  "total_titles_processed": 534,
+  "generated_at": "2026-06-17T07:31:34.929257+08:00",
+  "total_titles_processed": 596,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 28,
+      "match_count": 30,
       "titles": [
         {
           "title": "伊朗队赛前获准在美国过夜，赛后却被勒令立即离开，如何看待此事？风波背后折射出美伊关系怎样的冰与火？",
@@ -13,11 +13,12 @@
           "source": "知乎",
           "ranks": [
             1,
-            3
+            3,
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时40分 ~ 06时40分]"
+          "appearance_count": 7,
+          "time_info": "[01时40分 ~ 07时31分]"
         },
         {
           "title": "翻脸不认球,美国驱赶伊朗队",
@@ -28,8 +29,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时40分 ~ 06时40分]"
+          "appearance_count": 7,
+          "time_info": "[01时40分 ~ 07时31分]"
         },
         {
           "title": "美国勒令伊朗队立刻离境，为何此时突然变脸？",
@@ -39,8 +40,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时40分 ~ 06时40分]"
+          "appearance_count": 7,
+          "time_info": "[01时40分 ~ 07时31分]"
         },
         {
           "title": "伊朗2比2新西兰，本届世界杯“亚洲球队”保持不败",
@@ -48,11 +49,12 @@
           "source": "澎湃新闻",
           "ranks": [
             6,
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时40分 ~ 06时40分]"
+          "appearance_count": 7,
+          "time_info": "[01时40分 ~ 07时31分]"
         },
         {
           "title": "美国或赔偿伊朗3千亿",
@@ -63,8 +65,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时40分 ~ 06时40分]"
+          "appearance_count": 7,
+          "time_info": "[01时40分 ~ 07时31分]"
         },
         {
           "title": "两度扳平!伊朗2-2新西兰",
@@ -75,8 +77,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时40分 ~ 06时40分]"
+          "appearance_count": 7,
+          "time_info": "[01时40分 ~ 07时31分]"
         },
         {
           "title": "伊朗队突然被勒令离开美国",
@@ -91,8 +93,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时40分 ~ 06时40分]"
+          "appearance_count": 7,
+          "time_info": "[01时40分 ~ 07时31分]"
         },
         {
           "title": "伊朗队主帅：球队突然被勒令立即离开美国，此前获准在美过夜",
@@ -100,11 +102,47 @@
           "source": "澎湃新闻",
           "ranks": [
             17,
-            16
+            16,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时40分 ~ 07时31分]"
+        },
+        {
+          "title": "刚完赛就被勒令离开美国！伊朗队主帅抱怨球队在世界杯受压迫",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33389989",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            18,
+            15
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[01时40分 ~ 06时40分]"
+          "time_info": "[03时10分 ~ 07时31分]"
+        },
+        {
+          "title": "海事情报公司称伊朗近两月来首次出口原油",
+          "url": "https://flash.jin10.com/detail/20260617071526827800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时31分"
+        },
+        {
+          "title": "海事情报公司称伊朗近两月来首次出口原油",
+          "url": "https://wallstreetcn.com/livenews/3120551",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时31分"
         },
         {
           "title": "伊朗最高联合军事指挥部：如果以色列不停止对黎巴嫩南部的攻击，就应当预料到伊朗武装部队的强硬回应。",
@@ -116,18 +154,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时10分"
-        },
-        {
-          "title": "刚完赛就被勒令离开美国！伊朗队主帅抱怨球队在世界杯受压迫",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33389989",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时10分 ~ 06时40分]"
         },
         {
           "title": "沙特阿拉比亚电视台发布了伊美14点谅解备忘录的条款，较伊朗迈赫尔通讯社发布版本更为详细。",
@@ -336,7 +362,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 14,
+      "match_count": 16,
       "titles": [
         {
           "title": "美伊达成协议，半导体股领涨美股，道指新高，油价重挫5%，黄金三连涨",
@@ -365,11 +391,12 @@
           "url": "https://www.cls.cn/detail/2401513",
           "source": "财联社热门",
           "ranks": [
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时40分 ~ 06时40分]"
+          "appearance_count": 7,
+          "time_info": "[01时40分 ~ 07时31分]"
         },
         {
           "title": "如何评价经济诺奖得主称马斯克是庞氏骗局， SpaceX 上市让普通投资者被迫买单，会对美股带来什么影响？",
@@ -380,8 +407,31 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时40分 ~ 06时40分]"
+          "appearance_count": 7,
+          "time_info": "[01时40分 ~ 07时31分]"
+        },
+        {
+          "title": "市场静待沃什\"首秀\"，美股指涨跌互现，道指再新高，科技股承压，美油跌近6%",
+          "url": "https://wallstreetcn.com/articles/3774774",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时40分 ~ 07时31分]"
+        },
+        {
+          "title": "美股收盘：资金轮动道指创新高 芯片股回调、工业板块走强",
+          "url": "https://www.cls.cn/detail/2401731",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时31分"
         },
         {
           "title": "金十图示：2026年06月16日（周二）美股热门股票行情一览（美股盘中）",
@@ -393,17 +443,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时40分"
-        },
-        {
-          "title": "市场静待沃什\"首秀\"，美股指涨跌互现，道指再新高，科技股承压，美油跌近6%",
-          "url": "https://wallstreetcn.com/articles/3774774",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时40分"
         },
         {
           "title": "金十图示：2026年06月16日（周二）热门中概股行情一览（美股盘中）",
@@ -455,6 +494,17 @@
           "time_info": "[05时58分 ~ 06时40分]"
         },
         {
+          "title": "【早报】油价大跌；美股芯片股集体下挫，道指创新高；法国队取得开门红",
+          "url": "https://www.cls.cn/detail/2401752",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时31分"
+        },
+        {
           "title": "金十图示：2026年06月16日（周二）热门中概股行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260617040526431800",
           "source": "金十数据",
@@ -502,7 +552,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "特朗普：感谢中俄帮忙",
@@ -512,8 +562,21 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时40分 ~ 06时40分]"
+          "appearance_count": 7,
+          "time_info": "[01时40分 ~ 07时31分]"
+        },
+        {
+          "title": "特朗普大发雷霆后，内塔尼亚胡回应：以军不撤",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33388365",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时40分 ~ 07时31分]"
         },
         {
           "title": "特朗普和马克龙为何为一瓶红酒较劲",
@@ -531,18 +594,6 @@
           "time_info": "[01时40分 ~ 06时40分]"
         },
         {
-          "title": "特朗普大发雷霆后，内塔尼亚胡回应：以军不撤",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33388365",
-          "source": "澎湃新闻",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时40分 ~ 06时40分]"
-        },
-        {
           "title": "泽连斯基向特朗普提议：这样普京更难拒绝",
           "url": "https://news.ifeng.com/c/8tzn14Ioj6Y",
           "source": "凤凰网",
@@ -550,8 +601,30 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时40分 ~ 06时40分]"
+          "appearance_count": 7,
+          "time_info": "[01时40分 ~ 07时31分]"
+        },
+        {
+          "title": "特朗普政府再次推动转移教育部职能",
+          "url": "https://flash.jin10.com/detail/20260617072322613800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时31分"
+        },
+        {
+          "title": "特朗普政府再次推动转移教育部职能",
+          "url": "https://wallstreetcn.com/livenews/3120550",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时31分"
         },
         {
           "title": "特朗普称美伊协议已签署",
@@ -559,11 +632,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             3,
-            30
+            30,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时40分 ~ 06时40分]"
+          "appearance_count": 3,
+          "time_info": "[01时40分 ~ 07时31分]"
         },
         {
           "title": "共和党警告特朗普政府或面临“停摆”，因民主党反对五角大楼大幅增支",
@@ -594,11 +668,12 @@
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E6%B2%A1%E6%9C%89%E7%BE%8E%E5%9B%BD%E4%BB%A5%E8%89%B2%E5%88%97%E6%97%A9%E4%B8%8D%E5%AD%98%E5%9C%A8%E4%BA%86%23&t=31&band_rank=18&Refer=top",
           "source": "微博",
           "ranks": [
-            18
+            18,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时40分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时40分 ~ 07时31分]"
         },
         {
           "title": "德国总理默茨告诉美国总统特朗普：德国准备对“霍尔木兹海峡任务”做出贡献。 相信美国与伊朗的协议能够持续下去。",
@@ -708,11 +783,12 @@
           "ranks": [
             1,
             23,
-            7
+            7,
+            15
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时40分 ~ 06时40分]"
+          "appearance_count": 7,
+          "time_info": "[01时40分 ~ 07时31分]"
         },
         {
           "title": "曝DeepSeek首轮融资梁文锋出资200亿",
@@ -722,11 +798,12 @@
             5,
             18,
             15,
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时40分 ~ 06时40分]"
+          "appearance_count": 7,
+          "time_info": "[01时40分 ~ 07时31分]"
         },
         {
           "title": "DeepSeek首轮融资梁文锋出资200亿",
@@ -737,8 +814,48 @@
             29
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时40分 ~ 07时31分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "长端美债价格涨幅突出，两年期实际收益率涨超6.6个基点",
+          "url": "https://wallstreetcn.com/livenews/3120479",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16,
+            27
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时40分 ~ 03时10分]"
+          "time_info": "[05时01分 ~ 05时58分]"
+        },
+        {
+          "title": "美债期权交易员对美联储利率路径看法分化，聚焦沃什发布会基调",
+          "url": "https://flash.jin10.com/detail/20260617064209134800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时31分"
+        },
+        {
+          "title": "美债期权交易员对美联储利率路径看法分化，聚焦沃什发布会基调",
+          "url": "https://wallstreetcn.com/livenews/3120522",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时31分"
         }
       ]
     },
@@ -797,24 +914,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时58分 ~ 06时40分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "长端美债价格涨幅突出，两年期实际收益率涨超6.6个基点",
-          "url": "https://wallstreetcn.com/livenews/3120479",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时01分 ~ 05时58分]"
         }
       ]
     }
