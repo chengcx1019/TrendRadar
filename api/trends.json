@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-19T03:50:54.061340+08:00",
-  "total_titles_processed": 464,
+  "generated_at": "2026-06-19T04:50:37.676279+08:00",
+  "total_titles_processed": 518,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 28,
+      "match_count": 32,
       "titles": [
         {
           "title": "伊朗称要成为中国真正的伙伴，外交部表态",
@@ -15,19 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时09分 ~ 03时50分]"
-        },
-        {
-          "title": "伊朗议长称霍尔木兹海峡「永远不会回到以前的状态」，伊朗会在霍尔木兹海峡收取「服务费用」，有何影响？",
-          "url": "https://www.zhihu.com/question/2050871601684550857",
-          "source": "知乎",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时09分 ~ 03时50分]"
+          "appearance_count": 4,
+          "time_info": "[01时09分 ~ 04时50分]"
         },
         {
           "title": "透露伊朗最高领袖罕见涉华举动，伊中商会会长答凤凰",
@@ -37,19 +26,32 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时09分 ~ 03时50分]"
+          "appearance_count": 4,
+          "time_info": "[01时09分 ~ 04时50分]"
+        },
+        {
+          "title": "伊朗议长称霍尔木兹海峡「永远不会回到以前的状态」，伊朗会在霍尔木兹海峡收取「服务费用」，有何影响？",
+          "url": "https://www.zhihu.com/question/2050871601684550857",
+          "source": "知乎",
+          "ranks": [
+            3,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时09分 ~ 04时50分]"
         },
         {
           "title": "美国参议院Scott：对与伊朗协议的某些方面存在担忧。",
           "url": "https://wallstreetcn.com/livenews/3121871",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时50分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时50分 ~ 04时50分]"
         },
         {
           "title": "欧盟称解除对伊朗制裁时机未到",
@@ -62,6 +64,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时25分 ~ 03时50分]"
+        },
+        {
+          "title": "伊朗：60天内霍尔木兹海峡过境船只免费通行",
+          "url": "https://wallstreetcn.com/livenews/3121862",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时50分 ~ 04时50分]"
         },
         {
           "title": "伊朗最高领袖将就伊美谅解备忘录表态",
@@ -109,24 +123,13 @@
           "time_info": "02时25分"
         },
         {
-          "title": "伊朗：60天内霍尔木兹海峡过境船只免费通行",
-          "url": "https://wallstreetcn.com/livenews/3121862",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时50分"
-        },
-        {
           "title": "伊朗最高国家安全委员会：清除水雷的措施将在伊斯兰堡谅解备忘录下实施。",
           "url": "https://flash.jin10.com/detail/20260619025038779800",
           "source": "金十数据",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时50分"
         },
@@ -137,7 +140,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时50分"
         },
@@ -148,7 +151,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时50分"
         },
@@ -181,7 +184,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时50分"
         },
@@ -214,7 +217,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时50分"
         },
@@ -225,9 +228,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时50分"
+        },
+        {
+          "title": "据美联社：消息人士称，美国中东事务特使史威特科夫向美国国会议员表示，伊朗将邀请联合国核监督机构前往其核设施进行检查。",
+          "url": "https://flash.jin10.com/detail/20260619035846518800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时50分"
         },
         {
           "title": "伊朗将获准动用60亿美元被冻结资金 仅限购买美国产品",
@@ -285,15 +299,37 @@
           "time_info": "02时25分"
         },
         {
+          "title": "伊朗外长阿拉格齐：将遵循最高领袖的指导，以维护伊朗的权利、尊严和独立。",
+          "url": "https://flash.jin10.com/detail/20260619033949443800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时50分"
+        },
+        {
           "title": "伊朗最高领袖：面对面谈判不意味接受敌方观点，将静候条件落实”",
           "url": "https://wallstreetcn.com/livenews/3121850",
           "source": "华尔街见闻-快讯",
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时50分"
+        },
+        {
+          "title": "伊朗外长阿拉格齐对伊朗最高领袖周四的书面讲话表示欢迎，称外交机构将全力以赴确保伊朗的利益。",
+          "url": "https://flash.jin10.com/detail/20260619033847832800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时50分"
         },
         {
           "title": "美国解除对伊朗海上封锁",
@@ -316,6 +352,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时09分"
+        },
+        {
+          "title": "伊朗称要成为中国真正合作伙伴",
+          "url": "https://www.toutiao.com/trending/7651502265441959942/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时50分"
         }
       ]
     },
@@ -368,6 +415,39 @@
           "time_info": "02时25分"
         },
         {
+          "title": "特朗普：美联储按兵不动也还行，加息难以置信但可能发生，相信沃什",
+          "url": "https://wallstreetcn.com/articles/3774946",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时09分 ~ 04时50分]"
+        },
+        {
+          "title": "为美伊协议辩护，特朗普称“不想看到经济灾难”，不想做“导致1929年崩盘的胡佛”",
+          "url": "https://wallstreetcn.com/articles/3774952",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时09分 ~ 04时50分]"
+        },
+        {
+          "title": "美学者：特朗普凡尔赛签约离谱至极",
+          "url": "https://news.ifeng.com/c/8u3ct1grAdS",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时09分 ~ 04时50分]"
+        },
+        {
           "title": "美国总统特朗普：共和党意识到自己正面临什么了吗？民主党人正步步为营、逐州推进，一路笑纳“战果”。必须立即废除冗长辩论机制和/或通过《拯救美国法案》。",
           "url": "https://flash.jin10.com/detail/20260619021135492800",
           "source": "金十数据",
@@ -416,49 +496,17 @@
           "time_info": "[02时25分 ~ 03时50分]"
         },
         {
-          "title": "特朗普：美联储按兵不动也还行，加息难以置信但可能发生，相信沃什",
-          "url": "https://wallstreetcn.com/articles/3774946",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时09分 ~ 03时50分]"
-        },
-        {
-          "title": "为美伊协议辩护，特朗普称“不想看到经济灾难”，不想做“导致1929年崩盘的胡佛”",
-          "url": "https://wallstreetcn.com/articles/3774952",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时09分 ~ 03时50分]"
-        },
-        {
-          "title": "美学者：特朗普凡尔赛签约离谱至极",
-          "url": "https://news.ifeng.com/c/8u3ct1grAdS",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时09分 ~ 03时50分]"
-        },
-        {
           "title": "特朗普爆料：苹果将与英特尔合作 在美国设计和制造芯片",
           "url": "https://www.cls.cn/detail/2403606",
           "source": "财联社热门",
           "ranks": [
             10,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时09分 ~ 03时50分]"
+          "appearance_count": 4,
+          "time_info": "[01时09分 ~ 04时50分]"
         },
         {
           "title": "美官员称特朗普亲自签署美伊谅解备忘录",
@@ -468,8 +516,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时09分 ~ 03时50分]"
+          "appearance_count": 4,
+          "time_info": "[01时09分 ~ 04时50分]"
         },
         {
           "title": "特朗普：4周耗尽石油储备！美国最大商业原油储存枢纽库存跌至警戒线",
@@ -480,8 +528,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时09分 ~ 03时50分]"
+          "appearance_count": 4,
+          "time_info": "[01时09分 ~ 04时50分]"
         },
         {
           "title": "美以历史上十分罕见！“特朗普可能意识到自己被骗了”",
@@ -491,8 +539,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时09分 ~ 03时50分]"
+          "appearance_count": 4,
+          "time_info": "[01时09分 ~ 04时50分]"
         },
         {
           "title": "特朗普：高市早苗是我的头号粉丝，不信你问她",
@@ -502,8 +550,20 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时09分 ~ 03时50分]"
+          "appearance_count": 4,
+          "time_info": "[01时09分 ~ 04时50分]"
+        },
+        {
+          "title": "特朗普称预计“所有战线都将实现全面停火”",
+          "url": "https://wallstreetcn.com/livenews/3121859",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时50分 ~ 04时50分]"
         },
         {
           "title": "美国总统特朗普：美国致力于实现和平，我们鼓励中东地区的各方继续保持承诺，让我们的谈判顺利推进并取得圆满成果。",
@@ -539,17 +599,6 @@
           "time_info": "02时25分"
         },
         {
-          "title": "特朗普称预计“所有战线都将实现全面停火”",
-          "url": "https://wallstreetcn.com/livenews/3121859",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时50分"
-        },
-        {
           "title": "【万斯称美伊60天谈判期已开始】美国副总统万斯今天（6月18日）在白宫记者会上对媒体表示，由美国总统特朗普和伊朗总统佩泽希齐扬签署的谅解备忘录中规定的 60天谈判窗口期已正式启动。（CCTV国际时讯）",
           "url": "https://wallstreetcn.com/livenews/3121812",
           "source": "华尔街见闻-快讯",
@@ -578,7 +627,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时50分"
         },
@@ -619,7 +668,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 5,
+      "match_count": 10,
       "titles": [
         {
           "title": "美联储鹰派转向，美股债遭“双杀”，SpaceX首度收跌，芯片指数逆市收涨，黄金下挫",
@@ -629,8 +678,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时09分 ~ 03时50分]"
+          "appearance_count": 4,
+          "time_info": "[01时09分 ~ 04时50分]"
         },
         {
           "title": "风险偏好重燃，美股高开，半导体股普涨，英特尔涨9%，SpaceX跌6%，油价跌超2%",
@@ -640,8 +689,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时09分 ~ 03时50分]"
+          "appearance_count": 4,
+          "time_info": "[01时09分 ~ 04时50分]"
         },
         {
           "title": "市场消化美联储鹰派信号 美股期指反弹 英特尔盘前大涨近9% | 今夜看点",
@@ -653,8 +702,63 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时09分 ~ 03时50分]"
+          "appearance_count": 4,
+          "time_info": "[01时09分 ~ 04时50分]"
+        },
+        {
+          "title": "新兴市场ETF收涨超3.2%，与纳指ETF领跑美股大类资产类ETF",
+          "url": "https://wallstreetcn.com/livenews/3121889",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时50分"
+        },
+        {
+          "title": "周四四（6月18日），美股行业ETF多数收涨，半导体ETF涨5.76%，全球科技股指数ETF、科技行业ETF、全球航空业ETF至多涨3.75%，网络股指数ETF涨1.11%，医疗业ETF、金融业ETF则至多收跌0.89%，能源业ETF跌1.65%。",
+          "url": "https://wallstreetcn.com/livenews/3121887",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时50分"
+        },
+        {
+          "title": "金十图示：2026年06月18日（周四）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260619040543323800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时50分"
+        },
+        {
+          "title": "金十图示：2026年06月18日（周四）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260619040541240800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时50分"
+        },
+        {
+          "title": "美股收盘：三大股指集体收涨 SpaceX跌3.5%",
+          "url": "https://flash.jin10.com/detail/20260619040108280800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时50分"
         },
         {
           "title": "金十图示：2026年06月18日（周四）美股热门股票行情一览（美股盘中）",
@@ -681,47 +785,8 @@
       ]
     },
     {
-      "keyword_group": "美元",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "周四（6月18日）纽约尾盘，彭博谷物分类指数跌0.92%，报29.7383点。 CBOT玉米期货跌1%，CBOT小麦期货跌跌1.19%。 CBOT大豆期货跌0.63%，报11.42美元/蒲式耳，豆粕期货跌0.88%，豆油期货跌1.75%。",
-          "url": "https://wallstreetcn.com/livenews/3121872",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时50分"
-        },
-        {
-          "title": "美元指数DXY日内涨超0.50%，现报100.89。",
-          "url": "https://flash.jin10.com/detail/20260619030346669800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时50分"
-        },
-        {
-          "title": "美元指数创13个月新高，两天涨超1.3%",
-          "url": "https://wallstreetcn.com/livenews/3121867",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时50分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美债",
-      "match_count": 2,
+      "match_count": 5,
       "titles": [
         {
           "title": "沃什“首秀”美联储放鹰，三大美股指转跌，美元拉升，美债黄金跳水",
@@ -733,6 +798,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时09分"
+        },
+        {
+          "title": "中国4月减持美债，日本、英国增持美债",
+          "url": "https://flash.jin10.com/detail/20260619040538502800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时50分"
+        },
+        {
+          "title": "日本4月所持美国国债1.2099万亿美元，前值1.1916万亿美元。 4月英国所持美债9375亿美元，前值9269亿美元。 4月中国所持美债6511亿美元，前值6523亿美元。 4月开曼群岛所持美债4716亿美元，前值4594亿美元。 4月比利时所持美债4599亿美元，前值4540亿美元。 4月卢森堡所持美债4311亿美元，前值4320亿美元。 4月加拿大所持美债3971亿美元，前值4394亿美元。 4月法国所持美债3933亿美元，前值3930亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3121881",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时50分"
+        },
+        {
+          "title": "10年期美债收益率在沃什首秀次日回撤超3个基点，两年期实际收益率一度涨穿2%",
+          "url": "https://wallstreetcn.com/livenews/3121874",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时50分"
         },
         {
           "title": "高盛认为沃什的立场将加剧短端美债波动性，使长端曲线更趋平稳",
@@ -748,6 +846,47 @@
       ]
     },
     {
+      "keyword_group": "美元",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "美元指数DXY日内涨超0.50%，现报100.89。",
+          "url": "https://flash.jin10.com/detail/20260619030346669800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时50分"
+        },
+        {
+          "title": "周四（6月18日）纽约尾盘，彭博谷物分类指数跌0.92%，报29.7383点。 CBOT玉米期货跌1%，CBOT小麦期货跌跌1.19%。 CBOT大豆期货跌0.63%，报11.42美元/蒲式耳，豆粕期货跌0.88%，豆油期货跌1.75%。",
+          "url": "https://wallstreetcn.com/livenews/3121872",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时50分 ~ 04时50分]"
+        },
+        {
+          "title": "美元指数创13个月新高，两天涨超1.3%",
+          "url": "https://wallstreetcn.com/livenews/3121867",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时50分 ~ 04时50分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 1,
       "titles": [
@@ -759,8 +898,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时09分 ~ 03时50分]"
+          "appearance_count": 4,
+          "time_info": "[01时09分 ~ 04时50分]"
         }
       ]
     },
@@ -775,7 +914,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时50分"
         }
