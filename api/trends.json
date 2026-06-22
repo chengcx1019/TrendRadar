@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-22T09:48:49.089078+08:00",
-  "total_titles_processed": 791,
+  "generated_at": "2026-06-22T11:05:02.841881+08:00",
+  "total_titles_processed": 901,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 89,
+      "match_count": 93,
       "titles": [
         {
           "title": "美伊谈判在即，伊朗军方宣布关闭霍尔木兹海峡",
@@ -29,8 +29,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时32分 ~ 09时48分]"
+          "appearance_count": 14,
+          "time_info": "[00时32分 ~ 11时05分]"
         },
         {
           "title": "【早报】伊朗谈判代表团已抵达瑞士；荷兰5-1战胜瑞典",
@@ -103,8 +103,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时32分 ~ 09时48分]"
+          "appearance_count": 14,
+          "time_info": "[00时32分 ~ 11时05分]"
         },
         {
           "title": "日企掏钱,伊朗白捡三千亿",
@@ -118,8 +118,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时32分 ~ 09时48分]"
+          "appearance_count": 14,
+          "time_info": "[00时32分 ~ 11时05分]"
         },
         {
           "title": "比利时vs伊朗",
@@ -152,6 +152,31 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[01时31分 ~ 07时28分]"
+        },
+        {
+          "title": "【早报】美油大幅高开，伊朗代表团离开谈判地点；多只科技牛股本周解禁；比利时0-0平伊朗、西班牙获首胜",
+          "url": "https://www.cls.cn/detail/2405023",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时32分 ~ 11时05分]"
+        },
+        {
+          "title": "伊朗门将7次扑救当选全场最佳球员",
+          "url": "https://www.toutiao.com/trending/7653960105330953738/",
+          "source": "今日头条",
+          "ranks": [
+            21,
+            1,
+            4,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[06时25分 ~ 11时05分]"
         },
         {
           "title": "伊朗因球员跑不动多次换人",
@@ -211,17 +236,17 @@
           "time_info": "[04时31分 ~ 07时28分]"
         },
         {
-          "title": "伊朗门将7次扑救当选全场最佳球员",
-          "url": "https://www.toutiao.com/trending/7653960105330953738/",
-          "source": "今日头条",
+          "title": "2026 年世界杯小组赛 G 组，比利时 0-0 伊朗，如何评价本场比赛？",
+          "url": "https://www.zhihu.com/question/2050231638596876231",
+          "source": "知乎",
           "ranks": [
-            21,
-            1,
-            4
+            4,
+            3,
+            6
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[06时25分 ~ 09时48分]"
+          "time_info": "[08时32分 ~ 11时05分]"
         },
         {
           "title": "伊朗代表团拒绝与美方握手合影",
@@ -268,15 +293,15 @@
           "time_info": "[02时28分 ~ 06时25分]"
         },
         {
-          "title": "【早报】美油大幅高开，伊朗代表团离开谈判地点；多只科技牛股本周解禁；比利时0-0平伊朗、西班牙获首胜",
-          "url": "https://www.cls.cn/detail/2405023",
-          "source": "财联社热门",
+          "title": "伊朗总统称有三股力量不愿看到美伊达成协议",
+          "url": "https://news.ifeng.com/c/8u9pLpEy6ZS",
+          "source": "凤凰网",
           "ranks": [
             2
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[08时32分 ~ 09时48分]"
+          "time_info": "[11时04分 ~ 11时05分]"
         },
         {
           "title": "报道：伊朗谈判人员仍在与美国接触，伊媒此前称代表离开瑞士会场",
@@ -292,18 +317,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[02时29分 ~ 06时25分]"
-        },
-        {
-          "title": "2026 年世界杯小组赛 G 组，比利时 0-0 伊朗，如何评价本场比赛？",
-          "url": "https://www.zhihu.com/question/2050231638596876231",
-          "source": "知乎",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时32分 ~ 09时48分]"
         },
         {
           "title": "伊朗谈判团队成员称伊石油制裁豁免草案已敲定",
@@ -338,9 +351,21 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时48分"
+        },
+        {
+          "title": "比利时0-0伊朗",
+          "url": "https://search.bilibili.com/all?keyword=%E6%AF%94%E5%88%A9%E6%97%B60-0%E4%BC%8A%E6%9C%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时28分 ~ 11时05分]"
         },
         {
           "title": "伊朗外交部长：（伊朗）石油和石化出口被豁免，封锁解除，部分冻结资产释放，同时伊朗启动重大重建与发展计划。",
@@ -349,7 +374,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时48分"
         },
@@ -517,6 +542,19 @@
           "time_info": "[05时28分 ~ 07时28分]"
         },
         {
+          "title": "伊朗暂升小组第一",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E6%9A%82%E5%8D%87%E5%B0%8F%E7%BB%84%E7%AC%AC%E4%B8%80%23&t=31&band_rank=6&Refer=top",
+          "source": "微博",
+          "ranks": [
+            6,
+            8,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时32分 ~ 11时05分]"
+        },
+        {
           "title": "伊朗：伊朗石油制裁豁免草案将很快出台",
           "url": "https://flash.jin10.com/detail/20260622004045142800",
           "source": "金十数据",
@@ -540,6 +578,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时32分 ~ 03时31分]"
+        },
+        {
+          "title": "伊朗队再次控诉不公待遇，队医只能在返程飞机上为球员治疗",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33425388",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时32分 ~ 11时05分]"
         },
         {
           "title": "伊朗总统称随着谈判启动，卡塔尔将释放60亿美元资金",
@@ -568,16 +618,16 @@
           "time_info": "[00时32分 ~ 03时31分]"
         },
         {
-          "title": "比利时0-0伊朗",
-          "url": "https://search.bilibili.com/all?keyword=%E6%AF%94%E5%88%A9%E6%97%B60-0%E4%BC%8A%E6%9C%97",
-          "source": "bilibili 热搜",
+          "title": "伊朗队暂居小组第一",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E9%98%9F%E6%9A%82%E5%B1%85%E5%B0%8F%E7%BB%84%E7%AC%AC%E4%B8%80",
+          "source": "百度热搜",
           "ranks": [
-            6,
-            8
+            8,
+            6
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[07时28分 ~ 09时48分]"
+          "time_info": "[09时48分 ~ 11时05分]"
         },
         {
           "title": "以色列总理内塔尼亚胡：他们告诉我不要进入拉法，我进入了拉法。他们告诉我不要打击真主党，我们打击了真主党。他们告诉我不要与伊朗对抗，我们与伊朗对抗了。",
@@ -632,16 +682,28 @@
           "time_info": "[03时31分 ~ 05时28分]"
         },
         {
-          "title": "伊朗暂升小组第一",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E6%9A%82%E5%8D%87%E5%B0%8F%E7%BB%84%E7%AC%AC%E4%B8%80%23&t=31&band_rank=6&Refer=top",
-          "source": "微博",
+          "title": "伊媒：伊朗代表团拒绝继续在瑞士进行伊美谈判",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33426063",
+          "source": "澎湃新闻",
           "ranks": [
-            6,
-            8
+            16,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时32分 ~ 09时48分]"
+          "appearance_count": 3,
+          "time_info": "[09时48分 ~ 11时05分]"
+        },
+        {
+          "title": "比利时0:0伊朗",
+          "url": "https://www.douyin.com/hot/2542821",
+          "source": "抖音",
+          "ranks": [
+            15,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时48分 ~ 11时05分]"
         },
         {
           "title": "据伊朗国家媒体：伊朗谈判团队一名成员表示，关于伊朗被冻结资金释放的执行程序已经启动，卡塔尔代表团参与其中。",
@@ -764,6 +826,18 @@
           "time_info": "[00时32分 ~ 01时31分]"
         },
         {
+          "title": "伊朗：卡塔尔和巴基斯坦将发布伊美达成协议文件",
+          "url": "https://wallstreetcn.com/livenews/3122457",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时48分 ~ 11时05分]"
+        },
+        {
           "title": "据沙特阿拉伯阿拉比亚电视台援引消息人士称：伊朗代表团已离开谈判会场，返回其在瑞士的驻地，但与美国的谈判仍在通过中间方继续进行。",
           "url": "https://flash.jin10.com/detail/20260622012111729800",
           "source": "金十数据",
@@ -787,16 +861,15 @@
           "time_info": "[08时32分 ~ 09时48分]"
         },
         {
-          "title": "伊朗队再次控诉不公待遇，队医只能在返程飞机上为球员治疗",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33425388",
-          "source": "澎湃新闻",
+          "title": "伊朗以中断整个中东能源供应威胁美国",
+          "url": "https://www.toutiao.com/trending/7653319486418534409/",
+          "source": "今日头条",
           "ranks": [
-            17,
-            18
+            17
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[08时32分 ~ 09时48分]"
+          "time_info": "[11时04分 ~ 11时05分]"
         },
         {
           "title": "伊朗当面查美国作业",
@@ -872,18 +945,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时48分"
-        },
-        {
-          "title": "伊朗队暂居小组第一",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E9%98%9F%E6%9A%82%E5%B1%85%E5%B0%8F%E7%BB%84%E7%AC%AC%E4%B8%80",
-          "source": "百度热搜",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时48分"
         },
@@ -910,15 +972,26 @@
           "time_info": "08时32分"
         },
         {
-          "title": "伊朗：卡塔尔和巴基斯坦将发布伊美达成协议文件",
-          "url": "https://wallstreetcn.com/livenews/3122457",
+          "title": "伊朗外交部：伊美达成协议文件",
+          "url": "https://wallstreetcn.com/livenews/3122477",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时05分"
+        },
+        {
+          "title": "伊朗外交部长：结束黎巴嫩冲突取得“重大进展”",
+          "url": "https://wallstreetcn.com/livenews/3122471",
           "source": "华尔街见闻-快讯",
           "ranks": [
             13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时48分"
+          "time_info": "11时05分"
         },
         {
           "title": "美国外交官：伊朗会谈涉及澄清海峡问题的信息传递，包括在黎巴嫩南部执行停火协议，包括就核协议进行的深入讨论。",
@@ -941,28 +1014,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时32分"
-        },
-        {
-          "title": "比利时0:0伊朗",
-          "url": "https://www.douyin.com/hot/2542821",
-          "source": "抖音",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时48分"
-        },
-        {
-          "title": "伊媒：伊朗代表团拒绝继续在瑞士进行伊美谈判",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33426063",
-          "source": "澎湃新闻",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时48分"
         },
         {
           "title": "伊美谈判第一轮已结束 未讨论伊朗核计划问题",
@@ -1037,7 +1088,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时48分"
         },
@@ -1059,7 +1110,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时48分"
         },
@@ -1092,7 +1143,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时48分"
         }
@@ -1100,7 +1151,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 39,
+      "match_count": 41,
       "titles": [
         {
           "title": "万斯：特朗普致力于区域全面停火，希望改善与伊朗人的关系",
@@ -1110,8 +1161,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时32分 ~ 09时48分]"
+          "appearance_count": 14,
+          "time_info": "[00时32分 ~ 11时05分]"
         },
         {
           "title": "事关霍尔木兹！特朗普最新发声 美伊技术层面谈判今日举行",
@@ -1183,6 +1234,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时32分 ~ 06时25分]"
+        },
+        {
+          "title": "特朗普威胁伊朗,美伊谈判暂停",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355324&amp;topic_name=%E7%89%B9%E6%9C%97%E6%99%AE%E5%A8%81%E8%83%81%E4%BC%8A%E6%9C%97%2C%E7%BE%8E%E4%BC%8A%E8%B0%88%E5%88%A4%E6%9A%82%E5%81%9C",
+          "source": "贴吧",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时48分 ~ 11时05分]"
         },
         {
           "title": "美国总统特朗普：与伊朗的谅解备忘录（MoU）仅仅是（之前）停火的延长而已。 伊朗必须阻止在黎巴嫩的代理人（给以色列）制造麻烦。 如果代理人没有被阻止，我们（美国与以色列）将再次袭击伊朗。",
@@ -1273,17 +1335,6 @@
           "time_info": "07时28分"
         },
         {
-          "title": "特朗普威胁伊朗,美伊谈判暂停",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355324&amp;topic_name=%E7%89%B9%E6%9C%97%E6%99%AE%E5%A8%81%E8%83%81%E4%BC%8A%E6%9C%97%2C%E7%BE%8E%E4%BC%8A%E8%B0%88%E5%88%A4%E6%9A%82%E5%81%9C",
-          "source": "贴吧",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时48分"
-        },
-        {
           "title": "美国总统特朗普：北约、意大利都没有捍卫美国。",
           "url": "https://wallstreetcn.com/livenews/3122386",
           "source": "华尔街见闻-快讯",
@@ -1368,6 +1419,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时28分 ~ 07时28分]"
+        },
+        {
+          "title": "特朗普发文威胁伊朗 美伊谈判暂停",
+          "url": "https://www.toutiao.com/trending/7653992819803033138/",
+          "source": "今日头条",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时32分 ~ 11时05分]"
         },
         {
           "title": "德国国防部长：霍尔木兹海峡关闭责任在特朗普",
@@ -1459,6 +1522,18 @@
           "time_info": "[00时32分 ~ 03时31分]"
         },
         {
+          "title": "伊朗代表团暂停伊美谈判，抗议特朗普威胁言论",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33425956",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时32分 ~ 11时05分]"
+        },
+        {
           "title": "美国副总统万斯在伊朗会谈之后表示：问题在于，我们还能在中东实现多少进展。 总统特朗普要求我们翻开新的篇章。 最近数小时取得很大的进展。 预计未来数小时还将取得更多进展。 如果伊朗弃核，美国愿意转变与伊朗人民的关系。 特朗普承诺推动实现该地区全面停火。 两国设法为（美国与伊朗之间的）技术对话制定框架。",
           "url": "https://wallstreetcn.com/livenews/3122351",
           "source": "华尔街见闻-快讯",
@@ -1485,15 +1560,15 @@
           "time_info": "[04时31分 ~ 06时25分]"
         },
         {
-          "title": "特朗普发文威胁伊朗 美伊谈判暂停",
-          "url": "https://www.toutiao.com/trending/7653992819803033138/",
-          "source": "今日头条",
+          "title": "美伊艰难谈判：万斯称“取得巨大进展”，特朗普威胁“谈不好就炸”，伊朗强硬“合照不拍，抗议离场”",
+          "url": "https://wallstreetcn.com/articles/3775145",
+          "source": "华尔街见闻",
           "ranks": [
             6
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[08时32分 ~ 09时48分]"
+          "time_info": "[11时04分 ~ 11时05分]"
         },
         {
           "title": "据黎巴嫩电视台Al-Mayadeen：伊朗代表团不会重返谈判，除非特朗普为其威胁道歉，并且以色列从黎巴嫩南部撤军。",
@@ -1556,16 +1631,15 @@
           "time_info": "[00时32分 ~ 01时31分]"
         },
         {
-          "title": "伊朗代表团暂停伊美谈判，抗议特朗普威胁言论",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33425956",
+          "title": "特朗普称美国或收取中东地区20%的石油收益",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33425530",
           "source": "澎湃新闻",
           "ranks": [
-            16,
-            17
+            20
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[08时32分 ~ 09时48分]"
+          "time_info": "[11时04分 ~ 11时05分]"
         },
         {
           "title": "特朗普再轰《纽约时报》：虚假报道伊朗 简直是叛国！",
@@ -1636,7 +1710,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时48分"
         }
