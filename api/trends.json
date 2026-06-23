@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-23T15:09:45.827462+08:00",
-  "total_titles_processed": 1315,
+  "generated_at": "2026-06-23T17:04:08.566412+08:00",
+  "total_titles_processed": 1469,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 68,
+      "match_count": 76,
       "titles": [
         {
           "title": "王毅会见伊朗最高国家安全委员会副秘书",
@@ -29,8 +29,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时33分 ~ 15时09分]"
+          "appearance_count": 15,
+          "time_info": "[00时33分 ~ 17时04分]"
         },
         {
           "title": "如何看待伊朗队在洛杉矶更衣室留下的感谢信？",
@@ -95,11 +95,12 @@
             17,
             18,
             14,
-            22
+            22,
+            23
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时33分 ~ 15时09分]"
+          "appearance_count": 15,
+          "time_info": "[00时33分 ~ 17时04分]"
         },
         {
           "title": "伊朗队在洛杉矶更衣室留下感谢信",
@@ -128,6 +129,19 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时33分 ~ 05时41分]"
+        },
+        {
+          "title": "伊朗公布首批解冻资金用途",
+          "url": "https://news.ifeng.com/c/8uBeuEEfSWu",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时19分 ~ 17时04分]"
         },
         {
           "title": "日企掏钱,伊朗白捡三千亿",
@@ -177,13 +191,24 @@
           "time_info": "00时33分"
         },
         {
+          "title": "伊朗称导弹和国防不会成为谈判议题",
+          "url": "https://wallstreetcn.com/livenews/3123321",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时04分"
+        },
+        {
           "title": "顽强战平比利时队，伊朗议长、外长发图致敬球队",
           "url": "https://news.ifeng.com/c/8uBnCRJdvtz",
           "source": "凤凰网",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时09分"
         },
@@ -219,6 +244,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时05分"
+        },
+        {
+          "title": "伊朗驻日内瓦联合国大使：伊朗的“红线”是不得再对黎巴嫩发动任何袭击，包括贝鲁特和南部地区。",
+          "url": "https://flash.jin10.com/detail/20260623164515575800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时04分"
         },
         {
           "title": "头条世界杯｜贝兰万德封神！坚硬的不是球门，是这支伊朗的命",
@@ -259,18 +295,6 @@
           "time_info": "[05时41分 ~ 07时34分]"
         },
         {
-          "title": "伊朗公布首批解冻资金用途",
-          "url": "https://news.ifeng.com/c/8uBeuEEfSWu",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时19分 ~ 15时09分]"
-        },
-        {
           "title": "伊朗否认将用解冻资金买美农产品",
           "url": "https://flash.jin10.com/detail/20260623055417183800",
           "source": "金十数据",
@@ -305,6 +329,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时33分 ~ 02时21分]"
+        },
+        {
+          "title": "内塔尼亚胡：只要我还是以色列总理，伊朗就别想拥有核武器",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33428620",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时19分 ~ 17时04分]"
         },
         {
           "title": "伊朗向中方通报伊美谈判最新情况",
@@ -402,16 +438,15 @@
           "time_info": "[07时34分 ~ 08时31分]"
         },
         {
-          "title": "内塔尼亚胡：只要我还是以色列总理，伊朗就别想拥有核武器",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33428620",
-          "source": "澎湃新闻",
+          "title": "美国将放宽对伊朗能源相关交易限制 SpaceX连续三个交易日下跌 | 环球市场",
+          "url": "https://www.cls.cn/detail/2406208",
+          "source": "财联社热门",
           "ranks": [
-            13,
-            12
+            11
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时19分 ~ 15时09分]"
+          "time_info": "[17时03分 ~ 17时04分]"
         },
         {
           "title": "伊朗央行行长：剩余的被冻结资金不一定仅用于基本商品，伊朗将能够购买其他未受制裁的商品。",
@@ -533,6 +568,17 @@
           "time_info": "02时21分"
         },
         {
+          "title": "阿曼苏丹：我们支持美国与伊朗的谈判，以期就所有悬而未决的问题达成和平且最终的解决方案。",
+          "url": "https://flash.jin10.com/detail/20260623164442487800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时04分"
+        },
+        {
           "title": "市场消息：伊朗首席谈判代表卡利巴夫将就加强双边合作、共同努力稳定伊朗管理霍尔木兹海峡的安排进行磋商。",
           "url": "https://flash.jin10.com/detail/20260622235313475800",
           "source": "金十数据",
@@ -566,6 +612,17 @@
           "time_info": "04时05分"
         },
         {
+          "title": "阿曼苏丹：我们支持就恢复霍尔木兹海峡航行及伊朗核问题达成解决方案。",
+          "url": "https://flash.jin10.com/detail/20260623164345251800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时04分"
+        },
+        {
           "title": "社交媒体上的动态显示，伊朗首席谈判代表卡利巴夫前往阿曼。",
           "url": "https://flash.jin10.com/detail/20260622235242390800",
           "source": "金十数据",
@@ -594,7 +651,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时09分"
         },
@@ -687,6 +744,17 @@
           "time_info": "00时33分"
         },
         {
+          "title": "据阿曼国家通讯社：阿曼苏丹与伊朗高级官员讨论恢复霍尔木兹海峡航运事宜。",
+          "url": "https://flash.jin10.com/detail/20260623163923526800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时04分"
+        },
+        {
           "title": "IEA署长：伊朗能源危机将推动全球电气化进程",
           "url": "https://wallstreetcn.com/livenews/3122965",
           "source": "华尔街见闻-快讯",
@@ -704,7 +772,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时09分"
         },
@@ -718,6 +786,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时05分"
+        },
+        {
+          "title": "伊朗驻日内瓦联合国大使：只要美国展现诚意和建设性态度，伊朗将继续谈判。",
+          "url": "https://flash.jin10.com/detail/20260623163819962800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时04分"
         },
         {
           "title": "据伊朗媒体报道，伊朗议会议长卡利巴夫、外长阿拉格齐、美国副总统万斯、卡塔尔首相阿尔萨尼及巴基斯坦总理谢里夫将监督未来的谈判。",
@@ -770,9 +849,20 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时09分"
+        },
+        {
+          "title": "伊朗称目前尚未拟定国际原子能机构检查核设施的计划。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3123292",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时04分"
         },
         {
           "title": "伊朗向中方通报伊美谈判情况",
@@ -792,7 +882,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时09分"
         },
@@ -811,7 +901,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 34,
+      "match_count": 37,
       "titles": [
         {
           "title": "美伊艰难谈判：万斯称“取得巨大进展”，特朗普威胁“谈不好就炸”，伊朗强硬“合照不拍，抗议离场”",
@@ -907,6 +997,18 @@
           "time_info": "[02时21分 ~ 04时05分]"
         },
         {
+          "title": "特朗普宣布美国汽车巨头将开始生产武器，包括巡航导弹和防空系统，释放了哪些信号？将对世界产生哪些影响？",
+          "url": "https://www.zhihu.com/question/2052711074215081192",
+          "source": "知乎",
+          "ranks": [
+            19,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时09分 ~ 17时04分]"
+        },
+        {
           "title": "哥伦比亚右翼大选中险胜，特朗普背书成助力",
           "url": "https://news.ifeng.com/c/8uBgi1AZcfM",
           "source": "凤凰网",
@@ -916,6 +1018,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时19分 ~ 15时09分]"
+        },
+        {
+          "title": "美部长拍特朗普马屁，当场被打脸",
+          "url": "https://news.ifeng.com/c/8uBxMmUnV4m",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时03分 ~ 17时04分]"
         },
         {
           "title": "特朗普政府考虑在美国弗吉尼亚州附近海底开采关键矿产",
@@ -928,6 +1041,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时21分 ~ 04时05分]"
+        },
+        {
+          "title": "特朗普点名英意德差劲",
+          "url": "https://news.ifeng.com/c/8uC00MLRSEF",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时03分 ~ 17时04分]"
         },
         {
           "title": "特朗普政府加码量子战略！设定2028年科研级量子计算机突破目标",
@@ -1169,15 +1293,15 @@
           "time_info": "07时34分"
         },
         {
-          "title": "特朗普宣布美国汽车巨头将开始生产武器，包括巡航导弹和防空系统，释放了哪些信号？将对世界产生哪些影响？",
-          "url": "https://www.zhihu.com/question/2052711074215081192",
-          "source": "知乎",
+          "title": "伊朗驻日内瓦联合国大使：美国总统特朗普的言论使瑞士谈判面临非常严重的风险。",
+          "url": "https://flash.jin10.com/detail/20260623163738045800",
+          "source": "金十数据",
           "ranks": [
             19
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时09分"
+          "time_info": "17时04分"
         },
         {
           "title": "特朗普政府加码量子战略",
@@ -1205,7 +1329,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "美股收盘：三大股指涨跌不一 SpaceX暴跌16% 美光续创历史新高",
@@ -1221,6 +1345,19 @@
           "time_info": "[06时32分 ~ 15时09分]"
         },
         {
+          "title": "美股即将大幅回调20%！资深策略师“捕捉”到六大预警信号",
+          "url": "https://www.cls.cn/detail/2406236",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时38分 ~ 17时04分]"
+        },
+        {
           "title": "美股期指小幅上涨 美光科技盘前涨超4% | 今夜看点",
           "url": "https://www.cls.cn/detail/2405983",
           "source": "财联社热门",
@@ -1233,19 +1370,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时33分 ~ 11时03分]"
-        },
-        {
-          "title": "美股即将大幅回调20%！资深策略师“捕捉”到六大预警信号",
-          "url": "https://www.cls.cn/detail/2406236",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时38分 ~ 15时09分]"
         },
         {
           "title": "美伊达成协议文件，美股盘初涨跌互现，半导体股普涨，油价跌超2%",
@@ -1351,13 +1475,24 @@
           "time_info": "04时05分"
         },
         {
+          "title": "美股盘前：半导体股大跌，半导体相关ETF大跌，SpaceX跌近5%",
+          "url": "https://wallstreetcn.com/livenews/3123298",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时04分"
+        },
+        {
           "title": "美股期货暴跌，大型科技股再度领跌",
           "url": "https://flash.jin10.com/detail/20260623145544902800",
           "source": "金十数据",
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时09分"
         },
@@ -1368,7 +1503,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时09分"
         }
@@ -1376,7 +1511,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "【早报】SpaceX三日暴跌23%；油价下挫、金价收涨；梅西梅开二度，加冕世界杯历史射手王",
@@ -1387,8 +1522,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时30分 ~ 15时09分]"
+          "appearance_count": 8,
+          "time_info": "[08时30分 ~ 17时04分]"
         },
         {
           "title": "金十图示：2026年06月23日（周二）上海金早盘价为906.19元/克，较国际金价(906.18元/克)，高0.01元/克",
@@ -1409,8 +1544,19 @@
             10
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时19分 ~ 17时04分]"
+        },
+        {
+          "title": "金价狂泻30%",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E7%8B%82%E6%B3%BB30%25%23&t=31&band_rank=12&Refer=top",
+          "source": "微博",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时19分 ~ 15时09分]"
+          "time_info": "[17时03分 ~ 17时04分]"
         },
         {
           "title": "金价暴跌黄金该买还是该卖",
@@ -1456,6 +1602,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时19分"
+        },
+        {
+          "title": "美伊局势缓和仍是双刃剑，金价定价权在谁手里？",
+          "url": "https://flash.jin10.com/detail/20260623163720506800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时04分"
         }
       ]
     },
@@ -1522,6 +1679,56 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时21分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "科技巨头下挫拖累美股大盘，芯片股指新高，原油转跌，美债收益率“补涨”",
+          "url": "https://wallstreetcn.com/articles/3775156",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[07时33分 ~ 17时04分]"
+        },
+        {
+          "title": "科技巨头下挫拖累美股大盘，芯片股指、小盘股指逆市新高，原油高开走跌，美债收益率“补涨”",
+          "url": "https://wallstreetcn.com/articles/3775156",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时32分"
+        },
+        {
+          "title": "长周末归来，美债收益率普遍涨超5个基点",
+          "url": "https://wallstreetcn.com/livenews/3123002",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时05分"
+        },
+        {
+          "title": "“空头”末日预言：AI“强弩之末”，美股最快Q3见顶、跌幅30-50%，美版YCC和美债大重组，私募信贷危机待引爆",
+          "url": "https://wallstreetcn.com/articles/3775250",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时03分 ~ 17时04分]"
         }
       ]
     },
@@ -1617,45 +1824,6 @@
       ]
     },
     {
-      "keyword_group": "美债",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "科技巨头下挫拖累美股大盘，芯片股指新高，原油转跌，美债收益率“补涨”",
-          "url": "https://wallstreetcn.com/articles/3775156",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时33分 ~ 15时09分]"
-        },
-        {
-          "title": "科技巨头下挫拖累美股大盘，芯片股指、小盘股指逆市新高，原油高开走跌，美债收益率“补涨”",
-          "url": "https://wallstreetcn.com/articles/3775156",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时32分"
-        },
-        {
-          "title": "长周末归来，美债收益率普遍涨超5个基点",
-          "url": "https://wallstreetcn.com/livenews/3123002",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时05分"
-        }
-      ]
-    },
-    {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 2,
       "titles": [
@@ -1677,11 +1845,12 @@
           "url": "https://www.zhihu.com/question/2044875348719005741",
           "source": "知乎",
           "ranks": [
-            5
+            5,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时09分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时09分 ~ 17时04分]"
         }
       ]
     }
