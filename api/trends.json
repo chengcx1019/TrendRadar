@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-23T17:04:08.566412+08:00",
-  "total_titles_processed": 1469,
+  "generated_at": "2026-06-23T19:02:37.525994+08:00",
+  "total_titles_processed": 1619,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 76,
+      "match_count": 87,
       "titles": [
         {
           "title": "王毅会见伊朗最高国家安全委员会副秘书",
@@ -99,8 +99,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时33分 ~ 17时04分]"
+          "appearance_count": 16,
+          "time_info": "[00时33分 ~ 19时02分]"
         },
         {
           "title": "伊朗队在洛杉矶更衣室留下感谢信",
@@ -140,8 +140,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时19分 ~ 17时04分]"
+          "appearance_count": 5,
+          "time_info": "[13时19分 ~ 19时02分]"
         },
         {
           "title": "日企掏钱,伊朗白捡三千亿",
@@ -197,7 +197,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时04分"
         },
@@ -211,6 +211,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时09分"
+        },
+        {
+          "title": "伊朗总统抵达巴基斯坦进行正式访问。（伊朗国家电视台）",
+          "url": "https://wallstreetcn.com/livenews/3123384",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
         },
         {
           "title": "伊朗总统致敬伊朗国家队",
@@ -252,7 +263,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时04分"
         },
@@ -574,7 +585,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时04分"
         },
@@ -618,7 +629,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时04分"
         },
@@ -678,6 +689,17 @@
           "time_info": "02时21分"
         },
         {
+          "title": "伊朗代表称美伊技术层级会谈“非常顺利”",
+          "url": "https://wallstreetcn.com/livenews/3123377",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
+        },
+        {
           "title": "美总统称若伊朗不遵守协议将采取必要行动",
           "url": "https://wallstreetcn.com/livenews/3123124",
           "source": "华尔街见闻-快讯",
@@ -687,6 +709,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时03分"
+        },
+        {
+          "title": "内塔尼亚胡称与伊朗对抗“尚未结束”",
+          "url": "https://wallstreetcn.com/livenews/3123376",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
         },
         {
           "title": "美国副总统万斯：（谈伊朗）对我们取得的进展感到非常满意。建立机制确保霍尔木兹通道保持开放。",
@@ -709,6 +742,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时03分"
+        },
+        {
+          "title": "伊朗称将继续追究参与侵略伊朗者的责任",
+          "url": "https://wallstreetcn.com/livenews/3123375",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
         },
         {
           "title": "伊朗反驳万斯关于国际原子能机构进入伊朗的说法",
@@ -750,9 +794,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时04分"
+        },
+        {
+          "title": "据巴基斯坦国家电视台：伊朗总统抵达巴基斯坦进行正式访问。",
+          "url": "https://flash.jin10.com/detail/20260623183101502800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
         },
         {
           "title": "IEA署长：伊朗能源危机将推动全球电气化进程",
@@ -794,9 +849,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时04分"
+        },
+        {
+          "title": "伊朗首席谈判代表卡利巴夫：德黑兰与马斯喀特成立了一个联合委员会讨论霍尔木兹海峡问题，具体细节待定。",
+          "url": "https://flash.jin10.com/detail/20260623182818302800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
         },
         {
           "title": "据伊朗媒体报道，伊朗议会议长卡利巴夫、外长阿拉格齐、美国副总统万斯、卡塔尔首相阿尔萨尼及巴基斯坦总理谢里夫将监督未来的谈判。",
@@ -819,6 +885,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时21分"
+        },
+        {
+          "title": "市场消息：伊朗外长阿拉格齐抵达巴基斯坦。",
+          "url": "https://flash.jin10.com/detail/20260623182234824800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
         },
         {
           "title": "据伊朗伊斯兰共和国通讯社（IRNA）：伊朗与国际原子能机构的互动将根据现行程序继续进行。",
@@ -860,7 +937,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时04分"
         },
@@ -876,6 +953,17 @@
           "time_info": "13时19分"
         },
         {
+          "title": "伊朗代表称美伊技术层级会谈“非常顺利”",
+          "url": "https://flash.jin10.com/detail/20260623181908163800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
+        },
+        {
           "title": "伊朗使馆：伊朗总统将访问巴基斯坦",
           "url": "https://wallstreetcn.com/livenews/3123221",
           "source": "华尔街见闻-快讯",
@@ -885,6 +973,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时09分"
+        },
+        {
+          "title": "市场消息：伊朗谈判代表团已从阿曼首都马斯喀特启程返回德黑兰，伊朗议会议长卡利巴夫在此次会晤中与阿曼方面就霍尔木兹海峡新管理安排的稳定化问题进行了讨论。",
+          "url": "https://flash.jin10.com/detail/20260623181750973800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
+        },
+        {
+          "title": "伊朗：近期通过海峡运输了大量石油。",
+          "url": "https://wallstreetcn.com/livenews/3123346",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
+        },
+        {
+          "title": "伊朗称霍尔木兹海峡对商船完全开放。（ISNA）",
+          "url": "https://wallstreetcn.com/livenews/3123343",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
         },
         {
           "title": "伊朗央行行长：没有义务从美国购买农产品",
@@ -901,7 +1022,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 37,
+      "match_count": 38,
       "titles": [
         {
           "title": "美伊艰难谈判：万斯称“取得巨大进展”，特朗普威胁“谈不好就炸”，伊朗强硬“合照不拍，抗议离场”",
@@ -1002,11 +1123,23 @@
           "source": "知乎",
           "ranks": [
             19,
-            12
+            12,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时09分 ~ 19时02分]"
+        },
+        {
+          "title": "美部长拍特朗普马屁，当场被打脸",
+          "url": "https://news.ifeng.com/c/8uBxMmUnV4m",
+          "source": "凤凰网",
+          "ranks": [
+            7
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[15时09分 ~ 17时04分]"
+          "time_info": "[17时03分 ~ 19时02分]"
         },
         {
           "title": "哥伦比亚右翼大选中险胜，特朗普背书成助力",
@@ -1018,17 +1151,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时19分 ~ 15时09分]"
-        },
-        {
-          "title": "美部长拍特朗普马屁，当场被打脸",
-          "url": "https://news.ifeng.com/c/8uBxMmUnV4m",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时03分 ~ 17时04分]"
         },
         {
           "title": "特朗普政府考虑在美国弗吉尼亚州附近海底开采关键矿产",
@@ -1227,6 +1349,17 @@
           "time_info": "02时21分"
         },
         {
+          "title": "特朗普未转向经济议题，共和党内部期待落空",
+          "url": "https://flash.jin10.com/detail/20260623183311095800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
+        },
+        {
           "title": "特朗普称伊朗将同意接受重大武器核查",
           "url": "https://wallstreetcn.com/livenews/3122966",
           "source": "华尔街见闻-快讯",
@@ -1299,7 +1432,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时04分"
         },
@@ -1329,7 +1462,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "美股收盘：三大股指涨跌不一 SpaceX暴跌16% 美光续创历史新高",
@@ -1453,6 +1586,17 @@
           "time_info": "04时05分"
         },
         {
+          "title": "美股指期货盘前集体下跌",
+          "url": "https://www.douyin.com/hot/2544962",
+          "source": "抖音",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
+        },
+        {
           "title": "RBC策略师称美股能够承受美联储进行两次左右的加息",
           "url": "https://wallstreetcn.com/livenews/3122940",
           "source": "华尔街见闻-快讯",
@@ -1481,7 +1625,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时04分"
         },
@@ -1544,8 +1688,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时19分 ~ 17时04分]"
+          "appearance_count": 5,
+          "time_info": "[13时19分 ~ 19时02分]"
         },
         {
           "title": "金价狂泻30%",
@@ -1555,8 +1699,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时03分 ~ 17时04分]"
+          "appearance_count": 3,
+          "time_info": "[17时03分 ~ 19时02分]"
         },
         {
           "title": "金价暴跌黄金该买还是该卖",
@@ -1610,7 +1754,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时04分"
         }
@@ -1618,7 +1762,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "OpenAI、Anthropic左右开弓挖人 谷歌遭遇近一年最惨一跌",
@@ -1659,6 +1803,17 @@
           "time_info": "[05时41分 ~ 06时32分]"
         },
         {
+          "title": "谷歌借助员工校友网络支持AI初创孵化计划",
+          "url": "https://flash.jin10.com/detail/20260623183808986800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
+        },
+        {
           "title": "谷歌Deepmind与24A构建研究领域的合作伙伴。 谷歌公司已经投资该公司。",
           "url": "https://wallstreetcn.com/livenews/3122970",
           "source": "华尔街见闻-快讯",
@@ -1691,11 +1846,12 @@
           "url": "https://wallstreetcn.com/articles/3775156",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时33分 ~ 17时04分]"
+          "appearance_count": 11,
+          "time_info": "[07时33分 ~ 19时02分]"
         },
         {
           "title": "科技巨头下挫拖累美股大盘，芯片股指、小盘股指逆市新高，原油高开走跌，美债收益率“补涨”",
@@ -1724,11 +1880,12 @@
           "url": "https://wallstreetcn.com/articles/3775250",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时03分 ~ 17时04分]"
+          "appearance_count": 3,
+          "time_info": "[17时03分 ~ 19时02分]"
         }
       ]
     },
@@ -1849,8 +2006,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时09分 ~ 17时04分]"
+          "appearance_count": 4,
+          "time_info": "[15时09分 ~ 19时02分]"
         }
       ]
     }
