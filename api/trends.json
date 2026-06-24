@@ -1,13 +1,11 @@
 {
-  "generated_at": "2026-06-24T21:02:26.349328+08:00",
-  "total_titles_processed": 1861,
-  "failed_sources": [
-    "baidu"
-  ],
+  "generated_at": "2026-06-24T21:49:19.921974+08:00",
+  "total_titles_processed": 1943,
+  "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 71,
+      "match_count": 73,
       "titles": [
         {
           "title": "美部长拍特朗普马屁，当场被打脸",
@@ -36,21 +34,6 @@
           "time_info": "[00时05分 ~ 07时24分]"
         },
         {
-          "title": "特朗普提前宣布斯塔默辞职有何意味",
-          "url": "https://www.toutiao.com/trending/7654527066271911478/",
-          "source": "今日头条",
-          "ranks": [
-            25,
-            20,
-            17,
-            22,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时05分 ~ 06时25分]"
-        },
-        {
           "title": "特朗普对石油公司开刀：下令调查哄抬行为，称油价已断崖式下跌",
           "url": "https://news.ifeng.com/c/8uDgRGX21RF",
           "source": "凤凰网",
@@ -59,8 +42,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时59分 ~ 21时02分]"
+          "appearance_count": 5,
+          "time_info": "[18时59分 ~ 21时49分]"
         },
         {
           "title": "盘点｜“G7团结”演不下去了，特朗普如何惹恼多国领导人",
@@ -75,8 +58,23 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时18分 ~ 21时02分]"
+          "appearance_count": 9,
+          "time_info": "[13时18分 ~ 21时49分]"
+        },
+        {
+          "title": "特朗普提前宣布斯塔默辞职有何意味",
+          "url": "https://www.toutiao.com/trending/7654527066271911478/",
+          "source": "今日头条",
+          "ranks": [
+            25,
+            20,
+            17,
+            22,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时05分 ~ 06时25分]"
         },
         {
           "title": "特朗普谈伊朗：伊朗关于国际原子能机构核查的说法是错误的。核查人员将在适当的时候抵达现场。",
@@ -405,6 +403,18 @@
           "time_info": "[03时35分 ~ 04时41分]"
         },
         {
+          "title": "特朗普对福克斯表示：视察人员将获准前往伊朗的铀所在地。 不急于派遣视察人员进入伊朗设施。 伊朗初期将获5亿美元，用于购买美国商品。",
+          "url": "https://wallstreetcn.com/livenews/3124039",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时02分 ~ 21时49分]"
+        },
+        {
           "title": "特朗普向选民打包票：伊朗战争结束后 美国经济将“飞向新高度”！",
           "url": "https://www.cls.cn/detail/2407452",
           "source": "财联社热门",
@@ -507,17 +517,6 @@
           "time_info": "04时41分"
         },
         {
-          "title": "特朗普对福克斯表示：视察人员将获准前往伊朗的铀所在地。 不急于派遣视察人员进入伊朗设施。 伊朗初期将获5亿美元，用于购买美国商品。",
-          "url": "https://wallstreetcn.com/livenews/3124039",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时02分"
-        },
-        {
           "title": "美国参议院投票决定暂停对伊朗的战争，除非特朗普获得国会批准。",
           "url": "https://flash.jin10.com/detail/20260624034400729800",
           "source": "金十数据",
@@ -538,6 +537,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时02分"
+        },
+        {
+          "title": "白宫：特朗普将于周五在华盛顿主持会议。",
+          "url": "https://wallstreetcn.com/livenews/3124067",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时49分"
         },
         {
           "title": "美国总统特朗普：伊朗已通知美国，没有在霍尔木兹海峡收取通行费。",
@@ -623,7 +633,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时02分"
         },
@@ -634,7 +644,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时02分"
         },
@@ -777,7 +787,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时02分"
         },
@@ -791,6 +801,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时39分"
+        },
+        {
+          "title": "美国白宫：美国总统特朗普将于周五在华盛顿特区举行新闻发布会。",
+          "url": "https://flash.jin10.com/detail/20260624211811566800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时49分"
         },
         {
           "title": "美国总统特朗普：伊朗的军事基础设施已彻底摧毁，通胀率已达300%。",
@@ -810,7 +831,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时02分"
         },
@@ -821,7 +842,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时02分"
         }
@@ -829,7 +850,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 53,
+      "match_count": 56,
       "titles": [
         {
           "title": "为期60天，美国暂时解除对伊朗石油制裁，这是过去数十年来第一次！",
@@ -851,11 +872,12 @@
             11,
             6,
             16,
-            12
+            12,
+            10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时37分 ~ 21时02分]"
+          "appearance_count": 11,
+          "time_info": "[09时37分 ~ 21时49分]"
         },
         {
           "title": "伊朗代表：霍尔木兹海峡已免费开放",
@@ -882,8 +904,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时59分 ~ 21时02分]"
+          "appearance_count": 5,
+          "time_info": "[18时59分 ~ 21时49分]"
         },
         {
           "title": "伊朗副外长：尽管国际原子能机构总干事格罗西提出了请求，但在瑞士并未与他举行会晤。此外，也没有关于进入遭袭设施及核材料的具体安排。",
@@ -952,17 +974,6 @@
           "time_info": "17时03分"
         },
         {
-          "title": "国际原子能机构称美伊“口水战”不会阻碍对伊朗的核核查",
-          "url": "https://wallstreetcn.com/livenews/3124046",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时02分"
-        },
-        {
           "title": "嘉年华邮轮：伊朗战事冲击预订业务，下调业绩预期",
           "url": "https://wallstreetcn.com/livenews/3123589",
           "source": "华尔街见闻-快讯",
@@ -973,17 +984,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时34分 ~ 03时35分]"
-        },
-        {
-          "title": "卡塔尔首相位于阿曼，参加伊朗与海湾国家的霍尔木兹问题会谈。（法新社）",
-          "url": "https://wallstreetcn.com/livenews/3124045",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时02分"
         },
         {
           "title": "以色列前总理承认，曾密送星链试图颠覆伊朗政权",
@@ -1010,6 +1010,30 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时05分 ~ 04时41分]"
+        },
+        {
+          "title": "国际原子能机构称美伊“口水战”不会阻碍对伊朗的核核查",
+          "url": "https://wallstreetcn.com/livenews/3124046",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时02分 ~ 21时49分]"
+        },
+        {
+          "title": "卡塔尔首相位于阿曼，参加伊朗与海湾国家的霍尔木兹问题会谈。（法新社）",
+          "url": "https://wallstreetcn.com/livenews/3124045",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时02分 ~ 21时49分]"
         },
         {
           "title": "英国央行官员：伊朗冲突通胀传导效应料弱于乌克兰冲突",
@@ -1069,6 +1093,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时05分 ~ 01时34分]"
+        },
+        {
+          "title": "伊朗总统种树太投入巴总理没拦住",
+          "url": "https://www.toutiao.com/trending/7654472597551205924/",
+          "source": "今日头条",
+          "ranks": [
+            24,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时59分 ~ 21时49分]"
         },
         {
           "title": "伊朗总统：伊美谅解备忘录不涉及导弹问题",
@@ -1220,7 +1256,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时02分"
         },
@@ -1258,6 +1294,17 @@
           "time_info": "04时41分"
         },
         {
+          "title": "美国国务院官员：美国驻科威特大使馆在因伊朗袭击而暂停运作后已恢复运作。",
+          "url": "https://flash.jin10.com/detail/20260624212337503800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时49分"
+        },
+        {
           "title": "美国允许伊朗队下一场比赛前2天入境",
           "url": "https://flash.jin10.com/detail/20260624025630035800",
           "source": "金十数据",
@@ -1275,9 +1322,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时02分"
+        },
+        {
+          "title": "伊朗议长：伊美签署谅解备忘录表明“美国战败”",
+          "url": "https://wallstreetcn.com/livenews/3124057",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时49分"
         },
         {
           "title": "以色列证实向伊朗偷运数万星链",
@@ -1363,7 +1421,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时02分"
         },
@@ -1379,17 +1437,6 @@
           "time_info": "09时37分"
         },
         {
-          "title": "伊朗总统种树太投入巴总理没拦住",
-          "url": "https://www.toutiao.com/trending/7654472597551205924/",
-          "source": "今日头条",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时59分"
-        },
-        {
           "title": "伊朗副外长：进入遭袭核设施及核材料的问题将“完全在与美国达成的最终协议框架内进行审议和解决”。",
           "url": "https://flash.jin10.com/detail/20260624182248611800",
           "source": "金十数据",
@@ -1399,6 +1446,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时59分"
+        },
+        {
+          "title": "伊朗议长：伊美签署谅解备忘录表明“美国战败”",
+          "url": "https://flash.jin10.com/detail/20260624211629200800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时49分"
         },
         {
           "title": "伊朗总统访问巴基斯坦 两国重申加强双边关系与地区和平",
@@ -1437,7 +1495,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 28,
+      "match_count": 33,
       "titles": [
         {
           "title": "美股收盘：AI投资热潮遭重新审视 芯片股重挫拖累纳指跌超2%",
@@ -1517,6 +1575,17 @@
           "time_info": "[09时37分 ~ 17时03分]"
         },
         {
+          "title": "静待美光财报，美股盘前半导体股上扬、美光涨4%，现货黄金跌破4000美元，布油跌超2%",
+          "url": "https://wallstreetcn.com/articles/3775351",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时49分"
+        },
+        {
           "title": "金十图示：2026年06月23日（周二）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260624040555645800",
           "source": "金十数据",
@@ -1526,6 +1595,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时41分"
+        },
+        {
+          "title": "美股盘初：黄金股普跌，SpaceX跌约1%",
+          "url": "https://wallstreetcn.com/livenews/3124074",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时49分"
         },
         {
           "title": "美股集体低开 纳指跌超2%",
@@ -1726,6 +1806,17 @@
           "time_info": "06时25分"
         },
         {
+          "title": "美股期指小幅上涨 科技股反弹迎接美光财报“大考” | 今夜看点",
+          "url": "https://www.cls.cn/detail/2408279",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时49分"
+        },
+        {
           "title": "美股半导体指数初步收跌约7.9%，创6月5日以来最差单日表现。 标普500指数初步收跌1.3%，科技板块跌3.4%，工业、原材料板块至多跌1.9%，房地产、保健、日用消费品板块至多涨1.8%。 纳斯达克100指数初步收跌3.2%，成分股中，闪迪初步收跌13.7%，美光科技跌3.1%，Arm控股跌10.1%，西部数据、美满电子、阿斯麦ADR至少跌约8%，英特尔跌6%，英伟达跌4%，汤森路透涨5.6%，Axon涨5.8%。 IBM初步收涨4.8%，Merck涨3.6%，领跑道指成分股，波音跌1.7%，霍尼韦尔跌2.4%，卡特彼勒跌3.5%，与英伟达表现最差。",
           "url": "https://wallstreetcn.com/livenews/3123625",
           "source": "华尔街见闻-快讯",
@@ -1748,6 +1839,17 @@
           "time_info": "17时03分"
         },
         {
+          "title": "SpaceX美股盘前跌幅扩大至2.7%，至日内低点。",
+          "url": "https://wallstreetcn.com/livenews/3124063",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时49分"
+        },
+        {
           "title": "耐克美股盘后涨2%，该公司任命辉瑞制药高管David M. Denton为首席财务官（CFO），8月17日生效。",
           "url": "https://wallstreetcn.com/livenews/3123650",
           "source": "华尔街见闻-快讯",
@@ -1768,23 +1870,35 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时24分"
+        },
+        {
+          "title": "周三美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3124055",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时49分"
         }
       ]
     },
     {
       "keyword_group": "美债",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "科技热潮降温 ，纳指跌超2%，芯片指数跌近8%，美债美元齐涨，金银下挫",
           "url": "https://wallstreetcn.com/articles/3775262",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[08时25分 ~ 21时02分]"
+          "appearance_count": 12,
+          "time_info": "[08时25分 ~ 21时49分]"
         },
         {
           "title": "科技巨头下挫拖累美股大盘，芯片股指新高，原油转跌，美债收益率“补涨”",
@@ -1867,6 +1981,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时03分"
+        },
+        {
+          "title": "中东冲突缓和之际 美债收益率下滑",
+          "url": "https://flash.jin10.com/detail/20260624211629052800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时49分"
         }
       ]
     },
@@ -1963,8 +2088,19 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "谷歌(GOOG.O)上涨1.3%；公司将取代Verizon Communications成为道琼斯工业平均指数成分股。",
+          "url": "https://flash.jin10.com/detail/20260624213729325800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时49分"
+        },
         {
           "title": "谷歌A(GOOGL.O)美股盘后涨超1%，将取代Verizon(VZ.N)在道琼斯指数中的位置；Verizon(VZ.N)盘后跌0.6%。",
           "url": "https://flash.jin10.com/detail/20260624054152810800",
@@ -2076,11 +2212,12 @@
           "ranks": [
             10,
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时03分 ~ 21时02分]"
+          "appearance_count": 7,
+          "time_info": "[11时03分 ~ 21时49分]"
         },
         {
           "title": "DeepseekV4.1 即将发布，网友期待「降价、打爆国外 AI」，它将如何改变 AI 市场格局？",
@@ -2094,6 +2231,34 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时05分 ~ 02时39分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "美股开盘，道指平开、标普500指数涨0.1%、纳指涨0.15%。博通(AVGO.O)开涨1%，公司宣布与OpenAI发布AI芯片，旨在更快、更经济地运行模型；美光科技(MU.O)开涨0.5%，公司即将公布三季度财报，SpaceX(SPCX.O)开跌0.98%。",
+          "url": "https://flash.jin10.com/detail/20260624213116594800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时49分"
+        },
+        {
+          "title": "OpenAI和博通发布AI芯片，旨在更快、更经济地运行模型",
+          "url": "https://wallstreetcn.com/livenews/3124062",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时49分"
         }
       ]
     }
