@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-25T19:53:13.319003+08:00",
-  "total_titles_processed": 1796,
+  "generated_at": "2026-06-25T20:43:45.451986+08:00",
+  "total_titles_processed": 1864,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 56,
+      "match_count": 58,
       "titles": [
         {
           "title": "特朗普对石油公司开刀：下令调查哄抬行为，称油价已断崖式下跌",
@@ -26,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时07分 ~ 19时53分]"
+          "appearance_count": 6,
+          "time_info": "[15时07分 ~ 20时43分]"
         },
         {
           "title": "盘点｜“G7团结”演不下去了，特朗普如何惹恼多国领导人",
@@ -71,9 +71,23 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时53分"
+        },
+        {
+          "title": "国际足联主席确认特朗普将出席世界杯决赛，并直接向冠军球队颁奖，如何看待这一操作？为啥会打破惯例？",
+          "url": "https://www.zhihu.com/question/2053130730595791572",
+          "source": "知乎",
+          "ranks": [
+            20,
+            14,
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时19分 ~ 20时43分]"
         },
         {
           "title": "美国总统特朗普：伊朗正在做出非常大的让步。",
@@ -111,6 +125,19 @@
           "time_info": "[17时03分 ~ 19时53分]"
         },
         {
+          "title": "再度呼吁降息！特朗普回应拒签住房法案：低利率能解决一切",
+          "url": "https://www.cls.cn/detail/2408936",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时03分 ~ 20时43分]"
+        },
+        {
           "title": "美国官员：特朗普将在补充拨款法案中纳入全年销售含更高乙醇比例汽油的相关内容。",
           "url": "https://flash.jin10.com/detail/20260625041111417800",
           "source": "金十数据",
@@ -142,32 +169,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[09时39分 ~ 15时07分]"
-        },
-        {
-          "title": "国际足联主席确认特朗普将出席世界杯决赛，并直接向冠军球队颁奖，如何看待这一操作？为啥会打破惯例？",
-          "url": "https://www.zhihu.com/question/2053130730595791572",
-          "source": "知乎",
-          "ranks": [
-            20,
-            14,
-            13,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时19分 ~ 19时53分]"
-        },
-        {
-          "title": "再度呼吁降息！特朗普回应拒签住房法案：低利率能解决一切",
-          "url": "https://www.cls.cn/detail/2408936",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时03分 ~ 19时53分]"
         },
         {
           "title": "美国总统特朗普：与国会参议院共和党成员的午餐会情况不错。 （兜售）石油价格（下跌）和就业数据。 伊朗同意我想要的一切。",
@@ -332,9 +333,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时53分"
+        },
+        {
+          "title": "美国国务卿鲁比奥：特朗普对一些盟友“非常不满”",
+          "url": "https://wallstreetcn.com/livenews/3124658",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时43分"
         },
         {
           "title": "特朗普：委内瑞拉强震造成惨重死亡",
@@ -368,6 +380,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时42分"
+        },
+        {
+          "title": "美国国务卿鲁比奥：伊拉克领导人已与特朗普交谈，正看到积极信号。 不清楚重建基金将如何安排。 我们可以在乌克兰冲突中发挥任何建设性作用。",
+          "url": "https://wallstreetcn.com/livenews/3124651",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时43分"
         },
         {
           "title": "美媒：就涉伊朗问题，特朗普与共和党籍议员比尔·卡西迪当面发生激烈争吵",
@@ -431,7 +454,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时53分"
         },
@@ -648,7 +671,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 34,
+      "match_count": 36,
       "titles": [
         {
           "title": "美媒担忧：白宫想用制裁逼伊朗让步，却把人民币“送”上桌",
@@ -670,8 +693,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时39分 ~ 19时53分]"
+          "appearance_count": 10,
+          "time_info": "[09时39分 ~ 20时43分]"
         },
         {
           "title": "美国国务卿鲁比奥：负责伊朗事务的技术小组将于本月晚些时候重返。",
@@ -699,17 +722,6 @@
           "time_info": "[00时42分 ~ 05时29分]"
         },
         {
-          "title": "美国国务卿鲁比奥：对委内瑞拉采取的是全政府层面的应对措施。 与海湾国家进行了非常好的会晤。 海湾国家对霍尔木兹海峡通行收费的支持度为零。 我们不会做任何损害海湾伙伴利益的事情。 （就伊朗支持代理人的问题作出回应）伊朗谅解备忘录涉及不干涉他国内政的问题。 我们关注的是行动，而非伊朗的言辞。 “费用”和“通行费”是一回事。霍尔木兹海峡的收费体系根本不可行。 委内瑞拉首先需要的是搜救援助。 不知晓卡塔尔持有的伊朗资金被转移一事。 海合会（GCC）会议上未讨论3000亿美元基金事宜。",
-          "url": "https://wallstreetcn.com/livenews/3124643",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时53分"
-        },
-        {
           "title": "鲁比奥称美国不会不惜一切代价同伊朗达成协议",
           "url": "https://wallstreetcn.com/livenews/3124607",
           "source": "华尔街见闻-快讯",
@@ -722,6 +734,18 @@
           "time_info": "[18时55分 ~ 19时53分]"
         },
         {
+          "title": "美国国务卿鲁比奥：对委内瑞拉采取的是全政府层面的应对措施。 与海湾国家进行了非常好的会晤。 海湾国家对霍尔木兹海峡通行收费的支持度为零。 我们不会做任何损害海湾伙伴利益的事情。 （就伊朗支持代理人的问题作出回应）伊朗谅解备忘录涉及不干涉他国内政的问题。 我们关注的是行动，而非伊朗的言辞。 “费用”和“通行费”是一回事。霍尔木兹海峡的收费体系根本不可行。 委内瑞拉首先需要的是搜救援助。 不知晓卡塔尔持有的伊朗资金被转移一事。 海合会（GCC）会议上未讨论3000亿美元基金事宜。",
+          "url": "https://wallstreetcn.com/livenews/3124643",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时53分 ~ 20时43分]"
+        },
+        {
           "title": "美国国务卿卢比奥：霍尔木兹海峡不会收取费用。 （美国与伊朗的）技术团队将恢复对话，我相信会在6月30日（重新对话）。 技术性磋商是工作人员层面的。",
           "url": "https://wallstreetcn.com/livenews/3124146",
           "source": "华尔街见闻-快讯",
@@ -732,6 +756,19 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时42分 ~ 01时36分]"
+        },
+        {
+          "title": "世界杯生死战前伊朗队被迫滞留机场",
+          "url": "https://www.toutiao.com/trending/7655006558115512326/",
+          "source": "今日头条",
+          "ranks": [
+            18,
+            21,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时03分 ~ 20时43分]"
         },
         {
           "title": "美总统称或无法查明谁袭击了伊朗小学",
@@ -758,18 +795,6 @@
           "time_info": "[05时29分 ~ 06时27分]"
         },
         {
-          "title": "世界杯生死战前伊朗队被迫滞留机场",
-          "url": "https://www.toutiao.com/trending/7655006558115512326/",
-          "source": "今日头条",
-          "ranks": [
-            18,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时03分 ~ 18时55分]"
-        },
-        {
           "title": "美国国务卿鲁比奥：我们期望伊朗履行其义务。",
           "url": "https://flash.jin10.com/detail/20260625000845131800",
           "source": "金十数据",
@@ -790,6 +815,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时42分"
+        },
+        {
+          "title": "伊朗外长与阿曼外长通话讨论霍尔木兹海峡通航进展",
+          "url": "https://wallstreetcn.com/livenews/3124655",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时43分"
+        },
+        {
+          "title": "贝森特：伊朗谈判纳入美元结算要求，经济增长有望年内重返3%",
+          "url": "https://wallstreetcn.com/articles/3775417",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时43分"
         },
         {
           "title": "据法新社援引一位知情外交官的消息报道，鉴于伊朗此前对邻国发动袭击，沙特正准备主办一场旨在实现伊朗与海湾阿拉伯国家和解的峰会。",
@@ -842,7 +889,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时53分"
         },
@@ -864,7 +911,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时53分"
         },
@@ -919,7 +966,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时53分"
         },
@@ -996,7 +1043,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时53分"
         },
@@ -1007,7 +1054,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时53分"
         },
@@ -1029,7 +1076,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时53分"
         }
@@ -1164,6 +1211,18 @@
           "time_info": "[04时33分 ~ 05时29分]"
         },
         {
+          "title": "黑莓第一财季营收1.529亿美元，预估1.368亿美元。 第一财季经调整基本每股收益0.040美元，预估0.03美元。 第一财季经调整毛利率78.6％，预估76.9％。 黑莓预计全年营收5.94亿美元至6.21亿美元，市场预估6.019亿美元。 黑莓预计全年调整后EBITDA 1.19亿美元至1.39亿美元。 黑莓预计全年经调整基本每股收益0.16美元至0.20美元，市场预估0.18美元。 黑莓美股盘前涨超8%。",
+          "url": "https://wallstreetcn.com/livenews/3124628",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时53分 ~ 20时43分]"
+        },
+        {
           "title": "IBM美股盘前涨超6%，公司推出全球首款亚1纳米芯片技术",
           "url": "https://wallstreetcn.com/livenews/3124593",
           "source": "华尔街见闻-快讯",
@@ -1184,17 +1243,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时42分"
-        },
-        {
-          "title": "黑莓第一财季营收1.529亿美元，预估1.368亿美元。 第一财季经调整基本每股收益0.040美元，预估0.03美元。 第一财季经调整毛利率78.6％，预估76.9％。 黑莓预计全年营收5.94亿美元至6.21亿美元，市场预估6.019亿美元。 黑莓预计全年调整后EBITDA 1.19亿美元至1.39亿美元。 黑莓预计全年经调整基本每股收益0.16美元至0.20美元，市场预估0.18美元。 黑莓美股盘前涨超8%。",
-          "url": "https://wallstreetcn.com/livenews/3124628",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时53分"
         },
         {
           "title": "美光科技(MU.O)美股盘后涨超2%。",
@@ -1276,11 +1324,12 @@
             19,
             18,
             17,
-            15
+            15,
+            14
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[08时30分 ~ 19时53分]"
+          "appearance_count": 10,
+          "time_info": "[08时30分 ~ 20时43分]"
         },
         {
           "title": "贵金属全线暴跌金价失守4000美元关口 日本大举押注AI与半导体 | 环球市场",
@@ -1326,11 +1375,12 @@
           "source": "澎湃新闻",
           "ranks": [
             20,
-            18
+            18,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时55分 ~ 19时53分]"
+          "appearance_count": 4,
+          "time_info": "[18时55分 ~ 20时43分]"
         },
         {
           "title": "金价回落刺激刚需消费回暖",
@@ -1406,6 +1456,17 @@
           "time_info": "[02时33分 ~ 03时32分]"
         },
         {
+          "title": "SpaceX 暴跌 16% 股份逼近挂牌价，谷歌狂跌 5%，为何科技股开始下跌？未来走向可能如何？",
+          "url": "https://www.zhihu.com/question/2053015352347293676",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时52分 ~ 20时43分]"
+        },
+        {
           "title": "STT与塔塔通信德里数据中心起火：客户担忧数十年数据丢失，谷歌云受波及",
           "url": "https://wallstreetcn.com/livenews/3124168",
           "source": "华尔街见闻-快讯",
@@ -1442,17 +1503,6 @@
           "time_info": "[03时32分 ~ 04时33分]"
         },
         {
-          "title": "SpaceX 暴跌 16% 股份逼近挂牌价，谷歌狂跌 5%，为何科技股开始下跌？未来走向可能如何？",
-          "url": "https://www.zhihu.com/question/2053015352347293676",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时52分 ~ 19时53分]"
-        },
-        {
           "title": "谷歌(GOOG.O)跌幅扩大至0.8%，消息称谷歌将Gemini 3.5 Pro大模型发布时间推迟至7月，因为他们还在花更多时间收集早期测试者的反馈并调整模型。",
           "url": "https://flash.jin10.com/detail/20260625024331473800",
           "source": "金十数据",
@@ -1473,6 +1523,57 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时32分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "科技热潮降温 ，纳指跌超2%，芯片指数跌近8%，美债美元齐涨，金银下挫",
+          "url": "https://wallstreetcn.com/articles/3775262",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时42分 ~ 07时24分]"
+        },
+        {
+          "title": "科技股承压，美股指涨跌互现，美债美元齐涨，黄金暴跌，美光盘后暴涨12%",
+          "url": "https://wallstreetcn.com/articles/3775351",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时27分 ~ 07时24分]"
+        },
+        {
+          "title": "美国PCE数据表现温和后，美债抹去多数跌幅。",
+          "url": "https://flash.jin10.com/detail/20260625203528462800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时43分"
+        },
+        {
+          "title": "中长期美债收益率跌超10个基点",
+          "url": "https://wallstreetcn.com/livenews/3124265",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时27分 ~ 07时24分]"
         }
       ]
     },
@@ -1516,48 +1617,8 @@
       ]
     },
     {
-      "keyword_group": "美债",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "科技热潮降温 ，纳指跌超2%，芯片指数跌近8%，美债美元齐涨，金银下挫",
-          "url": "https://wallstreetcn.com/articles/3775262",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时42分 ~ 07时24分]"
-        },
-        {
-          "title": "科技股承压，美股指涨跌互现，美债美元齐涨，黄金暴跌，美光盘后暴涨12%",
-          "url": "https://wallstreetcn.com/articles/3775351",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时27分 ~ 07时24分]"
-        },
-        {
-          "title": "中长期美债收益率跌超10个基点",
-          "url": "https://wallstreetcn.com/livenews/3124265",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时27分 ~ 07时24分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "美元",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "周三（6月24日）纽约尾盘，ICE美元指数张0.18%，报101.592点，日内交投区间为101.356-101.800点，亚太盘初以来持续走高，北京时间21:09逼近2025年5月12日顶部101.977点、当年3月26日顶部104.683点。 彭博美元指数涨0.27%，报1226.97点，日内交投区间为1223.32-1228.36点，21:12也曾逼近2025年11月21日顶部1228.98点。",
@@ -1581,6 +1642,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时33分"
+        },
+        {
+          "title": "美元指数DXY短线走低十余点，最新报101.64。",
+          "url": "https://flash.jin10.com/detail/20260625203205814800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时43分"
         }
       ]
     }
