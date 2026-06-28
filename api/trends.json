@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-29T06:21:10.713824+08:00",
-  "total_titles_processed": 491,
+  "generated_at": "2026-06-29T07:22:34.218974+08:00",
+  "total_titles_processed": 546,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "财联社热门",
           "ranks": [
             4,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时25分 ~ 06时21分]"
+          "appearance_count": 12,
+          "time_info": "[00时25分 ~ 07时22分]"
         },
         {
           "title": "伊朗锡里克地区传出爆炸声，美军称再对伊实施打击",
@@ -39,8 +40,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时25分 ~ 06时21分]"
+          "appearance_count": 12,
+          "time_info": "[00时25分 ~ 07时22分]"
         },
         {
           "title": "周末要闻汇总：前5月电子行业利润翻倍；美国再对伊朗实施军事打击",
@@ -51,19 +52,20 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时25分 ~ 06时21分]"
+          "appearance_count": 12,
+          "time_info": "[00时25分 ~ 07时22分]"
         },
         {
           "title": "阿根廷奥地利阿尔及利亚三队出线，伊朗被淘汰了",
           "url": "https://m.thepaper.cn/newsDetail_forward_33470581",
           "source": "澎湃新闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时25分 ~ 06时21分]"
+          "appearance_count": 12,
+          "time_info": "[00时25分 ~ 07时22分]"
         },
         {
           "title": "伊朗补刀,韩国队命悬一线",
@@ -74,8 +76,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时25分 ~ 06时21分]"
+          "appearance_count": 12,
+          "time_info": "[00时25分 ~ 07时22分]"
         },
         {
           "title": "伊朗最后时刻无缘淘汰赛，一图速览世界杯32强",
@@ -83,11 +85,12 @@
           "source": "澎湃新闻",
           "ranks": [
             15,
-            16
+            16,
+            17
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时25分 ~ 06时21分]"
+          "appearance_count": 12,
+          "time_info": "[00时25分 ~ 07时22分]"
         },
         {
           "title": "伊朗队球员哭诉：这届世界杯是场灾难",
@@ -100,8 +103,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时25分 ~ 06时21分]"
+          "appearance_count": 11,
+          "time_info": "[01时25分 ~ 07时22分]"
         },
         {
           "title": "伊拉克在反腐行动中拘留的官员包括负责分销事务的副石油部长，美以发动伊朗战争后曾制裁该官员",
@@ -111,11 +114,12 @@
             1,
             5,
             9,
-            16
+            16,
+            26
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时25分 ~ 06时21分]"
+          "appearance_count": 8,
+          "time_info": "[00时25分 ~ 07时22分]"
         },
         {
           "title": "伊朗队队长怒斥国际足联",
@@ -146,13 +150,26 @@
           "time_info": "[00时25分 ~ 06时21分]"
         },
         {
+          "title": "美国和伊朗即将举行的谈判已被取消。（以色列i24NEWS）",
+          "url": "https://wallstreetcn.com/livenews/3125699",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            14,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[02时22分 ~ 07时22分]"
+        },
+        {
           "title": "德国外长：我与阿联酋副总理就海湾地区的未来安全安排以及邻国伊朗带来的风险进行了富有成效的交流。我们一致认为，霍尔木兹海峡的航行自由绝不能受到损害，近期针对巴林和科威特的袭击行为是不可接受的。",
           "url": "https://flash.jin10.com/detail/20260629053242125800",
           "source": "金十数据",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时21分"
         },
@@ -166,18 +183,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时26分"
-        },
-        {
-          "title": "美国和伊朗即将举行的谈判已被取消。（以色列i24NEWS）",
-          "url": "https://wallstreetcn.com/livenews/3125699",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时22分 ~ 06时21分]"
         },
         {
           "title": "伊朗外长与伊拉克总理举行会谈",
@@ -318,6 +323,18 @@
           "time_info": "[04时25分 ~ 05时23分]"
         },
         {
+          "title": "伊朗官员：受遭袭事件影响，伊方缺席28日的美伊技术性谈判",
+          "url": "https://wallstreetcn.com/livenews/3125716",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时21分 ~ 07时22分]"
+        },
+        {
           "title": "伊朗球员道歉 说着说着哭了",
           "url": "https://s.weibo.com/weibo?q=%E4%BC%8A%E6%9C%97%E7%90%83%E5%91%98%E9%81%93%E6%AD%89%20%E8%AF%B4%E7%9D%80%E8%AF%B4%E7%9D%80%E5%93%AD%E4%BA%86&t=31&band_rank=16&Refer=top",
           "source": "微博",
@@ -327,17 +344,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时20分 ~ 06时21分]"
-        },
-        {
-          "title": "伊朗官员：受遭袭事件影响，伊方缺席28日的美伊技术性谈判",
-          "url": "https://wallstreetcn.com/livenews/3125716",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时21分"
         },
         {
           "title": "美常驻联合国代表：伊朗要么选择负责任，要么选择毁灭",
@@ -386,8 +392,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时25分 ~ 06时21分]"
+          "appearance_count": 12,
+          "time_info": "[00时25分 ~ 07时22分]"
         },
         {
           "title": "专访｜前白宫科技顾问：特朗普政策逆风，难阻美国清洁能源的市场扩张",
@@ -397,8 +403,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时25分 ~ 06时21分]"
+          "appearance_count": 12,
+          "time_info": "[00时25分 ~ 07时22分]"
         },
         {
           "title": "特朗普发扛地球AI照，伊以都不服！",
@@ -408,8 +414,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时25分 ~ 06时21分]"
+          "appearance_count": 12,
+          "time_info": "[00时25分 ~ 07时22分]"
         },
         {
           "title": "美伊又开打，特朗普威胁：伊朗未来或将不复存在",
@@ -420,8 +426,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时25分 ~ 06时21分]"
+          "appearance_count": 12,
+          "time_info": "[00时25分 ~ 07时22分]"
         },
         {
           "title": "美军连续第二天空袭伊朗，特朗普威胁伊朗或将不复存在，局势会再度持续升温吗？美方此轮袭击想达成哪些目标？",
@@ -435,19 +441,20 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时25分 ~ 06时21分]"
+          "appearance_count": 12,
+          "time_info": "[00时25分 ~ 07时22分]"
         },
         {
           "title": "特朗普称美军打击伊朗导弹和无人机储存地点",
           "url": "https://m.thepaper.cn/newsDetail_forward_33470245",
           "source": "澎湃新闻",
           "ranks": [
-            13
+            13,
+            11
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时25分 ~ 06时21分]"
+          "appearance_count": 12,
+          "time_info": "[00时25分 ~ 07时22分]"
         },
         {
           "title": "美国众议长约翰逊：下周一将移交住房立法草案给总统特朗普。（福克斯新闻）",
@@ -516,6 +523,46 @@
       ]
     },
     {
+      "keyword_group": "美股",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "美股近一个月触发7次，“兴登堡预兆”有多准？A股准确率高达92%！",
+          "url": "https://wallstreetcn.com/articles/3775701",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时25分 ~ 07时22分]"
+        },
+        {
+          "title": "美股三大股指期货盘初小幅拉升，纳指期货现涨0.4%。",
+          "url": "https://flash.jin10.com/detail/20260629060352549800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时22分"
+        },
+        {
+          "title": "美股股指期货周一小幅低开，其中纳指期货跌0.2%。",
+          "url": "https://flash.jin10.com/detail/20260629060021389800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时22分"
+        }
+      ]
+    },
+    {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 2,
       "titles": [
@@ -529,8 +576,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时25分 ~ 06时21分]"
+          "appearance_count": 12,
+          "time_info": "[00时25分 ~ 07时22分]"
         },
         {
           "title": "豆包和DeepSeek的博弈",
@@ -559,26 +606,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时25分 ~ 06时21分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美股近一个月触发7次，“兴登堡预兆”有多准？A股准确率高达92%！",
-          "url": "https://wallstreetcn.com/articles/3775701",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时25分 ~ 06时21分]"
+          "appearance_count": 12,
+          "time_info": "[00时25分 ~ 07时22分]"
         }
       ]
     }
