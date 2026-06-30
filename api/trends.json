@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-30T22:50:22.815899+08:00",
-  "total_titles_processed": 2004,
+  "generated_at": "2026-06-30T23:48:48.808685+08:00",
+  "total_titles_processed": 2089,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 50,
+      "match_count": 53,
       "titles": [
         {
           "title": "伊朗副外长：本周在多哈进行伊美技术性谈判不属实",
@@ -51,8 +51,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时03分 ~ 22时50分]"
+          "appearance_count": 9,
+          "time_info": "[17时03分 ~ 23时48分]"
         },
         {
           "title": "伊朗称未来几天内没有与美方开展任何谈判的计划",
@@ -68,6 +68,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时54分 ~ 05时31分]"
+        },
+        {
+          "title": "伊朗：未来几天暂无与美方会晤计划",
+          "url": "https://news.ifeng.com/c/8uNt8EVi3KV",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时50分 ~ 23时48分]"
         },
         {
           "title": "卡塔尔外交部发言人：美国与伊朗的“技术会议”并未停止。",
@@ -108,15 +119,15 @@
           "time_info": "[01时54分 ~ 07时21分]"
         },
         {
-          "title": "伊朗：未来几天暂无与美方会晤计划",
-          "url": "https://news.ifeng.com/c/8uNt8EVi3KV",
-          "source": "凤凰网",
+          "title": "以色列总理内塔尼亚胡：以色列和黎巴嫩一致认为，真主党和伊朗必须离开。",
+          "url": "https://wallstreetcn.com/livenews/3126900",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时50分"
+          "time_info": "23时48分"
         },
         {
           "title": "据伊朗媒体：伊朗驻多哈大使馆驳斥美国总统的毫无根据的指控，宣布德黑兰与华盛顿在卡塔尔的会谈准备尚未开始。",
@@ -142,6 +153,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时54分 ~ 04时36分]"
+        },
+        {
+          "title": "据华尔街日报：知情人士表示，伊朗革命卫队已告知调解方，如果在多哈会谈中无法获得伊朗对霍尔木兹海峡拥有唯一控制权的保证，将再次关闭这条航道。革命卫队还要求美国及其他国家放弃让船只经由靠近阿曼一侧海峡南部水域航行的计划。",
+          "url": "https://flash.jin10.com/detail/20260630233048770800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时48分"
         },
         {
           "title": "伊朗副外长：我们已告知阿曼方面，需要重新划定霍尔木兹海峡的通航航线，双方将就此举行技术性会谈。 伊朗反对任何船只通过德黑兰未指定的霍尔木兹海峡航线，并将设法阻止此类通行。",
@@ -322,6 +344,17 @@
           "time_info": "21时34分"
         },
         {
+          "title": "据华尔街日报：据熟悉谈判情况的官员透露，伊朗内部的权力斗争正威胁着美伊和平谈判：文职领导人寻求解冻数十亿美元的资产，而强硬派军方官员则力图掌控霍尔木兹海峡。",
+          "url": "https://flash.jin10.com/detail/20260630232647857800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时48分"
+        },
+        {
           "title": "据伊朗国家媒体：两名革命卫队成员在伊朗西部遭不明枪手袭击身亡。",
           "url": "https://flash.jin10.com/detail/20260630125106486800",
           "source": "金十数据",
@@ -493,7 +526,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时50分"
         },
@@ -559,7 +592,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时50分"
         },
@@ -589,7 +622,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 47,
+      "match_count": 50,
       "titles": [
         {
           "title": "特朗普坚称美伊周二会谈 科技板块起势反弹 | 今夜看点",
@@ -625,11 +658,35 @@
           "ranks": [
             10,
             8,
-            7
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时39分 ~ 23时48分]"
+        },
+        {
+          "title": "遭特朗普讽刺后，英首相最热人选拒绝美国邀请",
+          "url": "https://news.ifeng.com/c/8uNYuN5imVw",
+          "source": "凤凰网",
+          "ranks": [
+            10
           ],
           "is_new": false,
           "appearance_count": 9,
-          "time_info": "[09时39分 ~ 22时50分]"
+          "time_info": "[17时03分 ~ 23时48分]"
+        },
+        {
+          "title": "“我不在乎中期选举”：特朗普惹恼共和党议员",
+          "url": "https://news.ifeng.com/c/8uNrdCXnoF5",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时39分 ~ 23时48分]"
         },
         {
           "title": "美伊和谈前景不明！特朗普坚称今日举行会谈 伊方连连否认",
@@ -643,29 +700,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[11时02分 ~ 17时04分]"
-        },
-        {
-          "title": "遭特朗普讽刺后，英首相最热人选拒绝美国邀请",
-          "url": "https://news.ifeng.com/c/8uNYuN5imVw",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时03分 ~ 22时50分]"
-        },
-        {
-          "title": "“我不在乎中期选举”：特朗普惹恼共和党议员",
-          "url": "https://news.ifeng.com/c/8uNrdCXnoF5",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时39分 ~ 22时50分]"
         },
         {
           "title": "美媒：SpaceX与美国政府讨论向“特朗普账户”捐赠股票事宜",
@@ -975,6 +1009,17 @@
           "time_info": "07时21分"
         },
         {
+          "title": "美最高法院驳回特朗普的限制“出生公民权”行政令",
+          "url": "https://wallstreetcn.com/livenews/3126889",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时48分"
+        },
+        {
           "title": "美国总统特朗普：最高法院今天的裁决赋予总统解雇部分独立联邦机构官员的权力，这是过去100年来总统权力最大的一次扩张，也是在这一关键时刻作出的一项具有里程碑意义的裁决。",
           "url": "https://flash.jin10.com/detail/20260630025055671800",
           "source": "金十数据",
@@ -995,6 +1040,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "21时34分"
+        },
+        {
+          "title": "美国总统特朗普称赞最高法院关于政治支出的裁决。",
+          "url": "https://wallstreetcn.com/livenews/3126888",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时48分"
         },
         {
           "title": "特朗普警告汽油零售商必须立即降价 目标价瞄准2.5美元/加仑",
@@ -1085,6 +1141,17 @@
           "time_info": "11时03分"
         },
         {
+          "title": "美国最高法院推翻总统特朗普限制出生公民权的措施。",
+          "url": "https://wallstreetcn.com/livenews/3126877",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时48分"
+        },
+        {
           "title": "美国总统特朗普：（关于多哈会晤）这或许很重要，我们将拭目以待。",
           "url": "https://flash.jin10.com/detail/20260630032736175800",
           "source": "金十数据",
@@ -1135,7 +1202,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时50分"
         }
@@ -1229,7 +1296,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时50分"
         },
@@ -1370,6 +1437,18 @@
           "time_info": "[01时54分 ~ 03时33分]"
         },
         {
+          "title": "美股冲击近6年最强季度表现 美伊代表齐赴多哈 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2413394",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时34分 ~ 23时48分]"
+        },
+        {
           "title": "美股收盘：纳指涨2%，西部数据大涨11%",
           "url": "https://flash.jin10.com/detail/20260630040102209800",
           "source": "金十数据",
@@ -1380,6 +1459,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时36分 ~ 05时31分]"
+        },
+        {
+          "title": "AI热情驱动，美股指走高，太阳能板块普涨，日元创40年新低，金银油齐涨",
+          "url": "https://wallstreetcn.com/articles/3775797",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时50分 ~ 23时48分]"
         },
         {
           "title": "美股出现罕见信号，“入熊”概率高达67%！",
@@ -1393,15 +1484,15 @@
           "time_info": "[17时03分 ~ 17时04分]"
         },
         {
-          "title": "美股冲击近6年最强季度表现 美伊代表齐赴多哈 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2413394",
-          "source": "财联社热门",
+          "title": "大摩警告：美股半导体或迎顶点",
+          "url": "https://www.douyin.com/hot/2553354",
+          "source": "抖音",
           "ranks": [
-            11
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[21时34分 ~ 22时50分]"
+          "time_info": "[22时50分 ~ 23时48分]"
         },
         {
           "title": "美股收盘 热门中概股普涨",
@@ -1413,28 +1504,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时29分 ~ 09时39分]"
-        },
-        {
-          "title": "AI热情驱动，美股指走高，太阳能板块普涨，日元创40年新低，金银油齐涨",
-          "url": "https://wallstreetcn.com/articles/3775797",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时50分"
-        },
-        {
-          "title": "大摩警告：美股半导体或迎顶点",
-          "url": "https://www.douyin.com/hot/2553354",
-          "source": "抖音",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时50分"
         },
         {
           "title": "周二美股盘前你需要了解的全球要闻",
@@ -1531,7 +1600,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时50分"
         }
@@ -1539,7 +1608,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "科技股力撑美股反弹，标普纳指终结五连跌，谷歌涨5%，油价反弹，日元跌至40年低位",
@@ -1550,8 +1619,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[08时29分 ~ 22时50分]"
+          "appearance_count": 16,
+          "time_info": "[08时29分 ~ 23时48分]"
         },
         {
           "title": "谷歌母公司支持旨在助推太空产业的金融科技公司",
@@ -1575,6 +1644,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时38分"
+        },
+        {
+          "title": "谷歌公司：在Google Slides中使用Gemini生成多页演示文稿。",
+          "url": "https://wallstreetcn.com/livenews/3126892",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时48分"
         },
         {
           "title": "FactSet：公司将与谷歌云推出新的金融运营代理。",
@@ -1637,8 +1717,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时03分 ~ 22时50分]"
+          "appearance_count": 9,
+          "time_info": "[17时03分 ~ 23时48分]"
         },
         {
           "title": "DeepSeek V4定档7月中旬，峰谷API定价同步落地",
@@ -1688,6 +1768,18 @@
       "match_count": 4,
       "titles": [
         {
+          "title": "OpenAI研发出新方案，可将推理成本减半",
+          "url": "https://wallstreetcn.com/livenews/3126866",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时50分 ~ 23时48分]"
+        },
+        {
           "title": "分析师：OpenAI或于今年启动IPO 无需等到2027年",
           "url": "https://flash.jin10.com/detail/20260630055543411800",
           "source": "金十数据",
@@ -1705,18 +1797,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时50分"
-        },
-        {
-          "title": "OpenAI研发出新方案，可将推理成本减半",
-          "url": "https://wallstreetcn.com/livenews/3126866",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时50分"
         },
@@ -1727,7 +1808,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时50分"
         }
@@ -1839,7 +1920,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时50分"
         }
