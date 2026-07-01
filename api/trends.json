@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-01T19:03:56.370066+08:00",
-  "total_titles_processed": 1623,
+  "generated_at": "2026-07-01T20:53:52.001965+08:00",
+  "total_titles_processed": 1773,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 38,
+      "match_count": 39,
       "titles": [
         {
           "title": "“我不在乎中期选举”：特朗普惹恼共和党议员",
@@ -358,7 +358,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时03分"
         },
@@ -418,6 +418,17 @@
           "time_info": "01时34分"
         },
         {
+          "title": "白宫经济顾问哈塞特：提高利率将是一个错误。 新任美联储主席沃什不得不应付一些棘手问题，工作艰巨。 部分美联储官员可能出于针对特朗普的目的作出政策投票。",
+          "url": "https://wallstreetcn.com/livenews/3127387",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时53分"
+        },
+        {
           "title": "美最高法院驳回特朗普的限制“出生公民权”行政令",
           "url": "https://wallstreetcn.com/livenews/3126889",
           "source": "华尔街见闻-快讯",
@@ -443,7 +454,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 35,
+      "match_count": 36,
       "titles": [
         {
           "title": "伊朗：未来几天暂无与美方会晤计划",
@@ -496,7 +507,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时03分"
         },
@@ -677,7 +688,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时03分"
         },
@@ -732,7 +743,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时03分"
         },
@@ -792,6 +803,17 @@
           "time_info": "17时04分"
         },
         {
+          "title": "伊朗称将适时启动伊美最终协议谈判",
+          "url": "https://wallstreetcn.com/livenews/3127397",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时53分"
+        },
+        {
           "title": "伊朗议会议长卡利巴夫：伊朗目前召开的会议旨在履行谅解备忘录中的承诺。",
           "url": "https://flash.jin10.com/detail/20260701024548830800",
           "source": "金十数据",
@@ -839,7 +861,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 30,
+      "match_count": 31,
       "titles": [
         {
           "title": "美股收盘：三大指数齐升道指刷新高 费城半导体指数半年翻倍",
@@ -880,6 +902,19 @@
           "time_info": "[00时42分 ~ 11时04分]"
         },
         {
+          "title": "“炒币”高手特朗普！官方披露2025年加密货币业务斩获超10亿美元，重仓美股科技巨头",
+          "url": "https://wallstreetcn.com/articles/3775893",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[11时03分 ~ 20时53分]"
+        },
+        {
           "title": "AI热情驱动，美股指走高，太阳能板块普涨，日元创40年新低，金银油齐涨",
           "url": "https://wallstreetcn.com/articles/3775797",
           "source": "华尔街见闻",
@@ -891,17 +926,17 @@
           "time_info": "[00时42分 ~ 05时31分]"
         },
         {
-          "title": "“炒币”高手特朗普！官方披露2025年加密货币业务斩获超10亿美元，重仓美股科技巨头",
-          "url": "https://wallstreetcn.com/articles/3775893",
-          "source": "华尔街见闻",
+          "title": "人工智能领域“权力更迭”：美股三大芯片股市值Q2增加约2万亿美元",
+          "url": "https://www.cls.cn/detail/2413957",
+          "source": "财联社热门",
           "ranks": [
-            8,
-            9,
-            7
+            7,
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时03分 ~ 19时03分]"
+          "appearance_count": 3,
+          "time_info": "[17时04分 ~ 20时53分]"
         },
         {
           "title": "耐克美股盘后跌幅扩大至6.6%。",
@@ -939,18 +974,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时36分 ~ 06时27分]"
-        },
-        {
-          "title": "人工智能领域“权力更迭”：美股三大芯片股市值Q2增加约2万亿美元",
-          "url": "https://www.cls.cn/detail/2413957",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时04分 ~ 19时03分]"
         },
         {
           "title": "周二（6月30日），美股行业ETF多数收涨，半导体ETF涨3.78%，全球科技股指数ETF、科技行业ETF至少涨2.76%，医疗业ETF、日常消费品ETF、公用事业ETF、日常消费品ETF跌1.29%-1.54%。 上半年，半导体ETF累计上涨82.13%，全球科技股指数ETF、科技行业ETF至少涨32.66%，能源业ETF、工业ETF至少涨20.04%，金融业ETF、可选消费ETF、网络股指数ETF则至多累跌1.66%。",
@@ -1037,6 +1060,18 @@
           "time_info": "[00时42分 ~ 01时34分]"
         },
         {
+          "title": "美股盘前三大股指期货下跌",
+          "url": "https://www.douyin.com/hot/2554626",
+          "source": "抖音",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时03分 ~ 20时53分]"
+        },
+        {
           "title": "耐克美股盘后跌幅扩大至6.6%，虽然最新季度业绩超出预期，但其提振作用被公司高管谨慎的言论所抵消。 该公司即将离任的首席财务官Matt Friend表示，耐克对产品去库存的举措“仍然面临挑战”，而首席执行官Elliott Hill指出营收增长面临“不利因素”。",
           "url": "https://wallstreetcn.com/livenews/3126991",
           "source": "华尔街见闻-快讯",
@@ -1047,6 +1082,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时27分 ~ 07时27分]"
+        },
+        {
+          "title": "市场等待沃什讲话与非农数据，美股盘前存储芯片股走低，康宁跌超4%，黄金再跌1%",
+          "url": "https://wallstreetcn.com/articles/3775932",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时53分"
         },
         {
           "title": "美股光通信板块盘前持续走低，康宁跌超4%，迈威尔科技跌近3%，Coherent、Lumentum跌超2%。",
@@ -1069,17 +1115,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时44分"
-        },
-        {
-          "title": "美股盘前三大股指期货下跌",
-          "url": "https://www.douyin.com/hot/2554626",
-          "source": "抖音",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时03分"
         },
         {
           "title": "美股“七巨头”指数6月下跌8.9%，创2025年3月以来最差单月表现。",
@@ -1110,7 +1145,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时03分"
         },
@@ -1268,6 +1303,57 @@
       ]
     },
     {
+      "keyword_group": "美元",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "美元指数在6月份涨超2.2%",
+          "url": "https://wallstreetcn.com/livenews/3126960",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时36分 ~ 05时31分]"
+        },
+        {
+          "title": "ADP数据公布后，美元指数DXY短线小幅走低，报101.42，现货黄金波动不大，报4024.8美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260701201600125800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时53分"
+        },
+        {
+          "title": "美元指数30日上涨",
+          "url": "https://flash.jin10.com/detail/20260701040422983800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时36分"
+        },
+        {
+          "title": "ADP数据公布前，现货金银小幅回落，分别报4023美元/盎司和58.68美元/盎司，美元指数DXY小幅走强，报101.42。",
+          "url": "https://flash.jin10.com/detail/20260701200915724800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时53分"
+        }
+      ]
+    },
+    {
       "keyword_group": "chatgpt openai",
       "match_count": 3,
       "titles": [
@@ -1308,6 +1394,87 @@
       ]
     },
     {
+      "keyword_group": "金价",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "金价",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=4&Refer=top",
+          "source": "微博",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时53分"
+        },
+        {
+          "title": "世界黄金协会：亚洲投资者（及消费者）在价格发现和金价走向中日益重要",
+          "url": "https://wallstreetcn.com/livenews/3127404",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时53分"
+        },
+        {
+          "title": "金价大跌后未来怎么走",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E5%A4%A7%E8%B7%8C%E5%90%8E%E6%9C%AA%E6%9D%A5%E6%80%8E%E4%B9%88%E8%B5%B0",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时03分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "AI热情驱动美股收涨，道指续收新高，标普纳指创史上最佳季度之一，美债跌",
+          "url": "https://wallstreetcn.com/articles/3775797",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[07时26分 ~ 20时53分]"
+        },
+        {
+          "title": "6月份两年期美债实际收益率涨超77个基点，二季度两年期收益率涨超35个基点",
+          "url": "https://wallstreetcn.com/livenews/3126968",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时36分 ~ 05时31分]"
+        },
+        {
+          "title": "美国国债收益率在ADP就业数据公布后略微回落，10年期美债收益率最新上涨6.31个基点，报4.485%。",
+          "url": "https://flash.jin10.com/detail/20260701201812572800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时53分"
+        }
+      ]
+    },
+    {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 2,
       "titles": [
@@ -1331,88 +1498,12 @@
           "url": "https://www.zhihu.com/question/2054320593491715458",
           "source": "知乎",
           "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时03分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "AI热情驱动美股收涨，道指续收新高，标普纳指创史上最佳季度之一，美债跌",
-          "url": "https://wallstreetcn.com/articles/3775797",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[07时26分 ~ 19时03分]"
-        },
-        {
-          "title": "6月份两年期美债实际收益率涨超77个基点，二季度两年期收益率涨超35个基点",
-          "url": "https://wallstreetcn.com/livenews/3126968",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            22
+            19,
+            15
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[04时36分 ~ 05时31分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "美元指数在6月份涨超2.2%",
-          "url": "https://wallstreetcn.com/livenews/3126960",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时36分 ~ 05时31分]"
-        },
-        {
-          "title": "美元指数30日上涨",
-          "url": "https://flash.jin10.com/detail/20260701040422983800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时36分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "金价大跌后未来怎么走",
-          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E5%A4%A7%E8%B7%8C%E5%90%8E%E6%9C%AA%E6%9D%A5%E6%80%8E%E4%B9%88%E8%B5%B0",
-          "source": "百度热搜",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时03分"
+          "time_info": "[19时03分 ~ 20时53分]"
         }
       ]
     }
