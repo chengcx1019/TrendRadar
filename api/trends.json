@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-01T08:32:04.621386+08:00",
-  "total_titles_processed": 826,
+  "generated_at": "2026-07-01T09:44:59.111323+08:00",
+  "total_titles_processed": 924,
   "failed_sources": [],
   "trends": [
     {
@@ -34,11 +34,12 @@
           "url": "https://v.ifeng.com/c/8uNtTRMWXNr",
           "source": "凤凰网",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时31分 ~ 08时32分]"
+          "appearance_count": 3,
+          "time_info": "[08时31分 ~ 09时44分]"
         },
         {
           "title": "美国总统特朗普：国会应立即着手推动终止出生公民权。",
@@ -155,6 +156,28 @@
           "time_info": "[06时27分 ~ 07时27分]"
         },
         {
+          "title": "特朗普政府，遭全美半数州集体起诉",
+          "url": "https://news.ifeng.com/c/8uO4jG3X5zq",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时31分 ~ 09时44分]"
+        },
+        {
+          "title": "特朗普在最高法院输了，为什么又扯上中国？",
+          "url": "https://news.ifeng.com/c/8uOgMuQGNSM",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时31分 ~ 09时44分]"
+        },
+        {
           "title": "信披：特朗普对苹果、英伟达持股分别至少500万美元",
           "url": "https://wallstreetcn.com/livenews/3126986",
           "source": "华尔街见闻-快讯",
@@ -166,17 +189,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时31分 ~ 07时27分]"
-        },
-        {
-          "title": "特朗普政府，遭全美半数州集体起诉",
-          "url": "https://news.ifeng.com/c/8uO4jG3X5zq",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时31分 ~ 08时32分]"
         },
         {
           "title": "美国总统特朗普：中期选举大会预计将于9月9日至10日进行。",
@@ -201,17 +213,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时31分 ~ 06时27分]"
-        },
-        {
-          "title": "特朗普在最高法院输了，为什么又扯上中国？",
-          "url": "https://news.ifeng.com/c/8uOgMuQGNSM",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时31分 ~ 08时32分]"
         },
         {
           "title": "市场消息：美国总统特朗普提交2025年度财务披露报告，披露其通过加密货币获得数亿美元收入。",
@@ -288,7 +289,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时32分"
         },
@@ -310,7 +311,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时32分"
         },
@@ -714,7 +715,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 23,
+      "match_count": 24,
       "titles": [
         {
           "title": "美股冲击近6年最强季度表现 美伊代表齐赴多哈 | 今夜看点",
@@ -725,19 +726,32 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时42分 ~ 08时32分]"
+          "appearance_count": 14,
+          "time_info": "[00时42分 ~ 09时44分]"
         },
         {
           "title": "美股收盘：三大指数齐升道指刷新高 费城半导体指数半年翻倍",
           "url": "https://www.cls.cn/detail/2413598",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时26分 ~ 08时32分]"
+          "appearance_count": 5,
+          "time_info": "[07时26分 ~ 09时44分]"
+        },
+        {
+          "title": "【早报】多只A股公司业绩大增；美股存储概念半年涨超3倍；黄金、原油收跌；法国、挪威晋级世界杯16强",
+          "url": "https://www.cls.cn/detail/2413612",
+          "source": "财联社热门",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时31分 ~ 09时44分]"
         },
         {
           "title": "AI热情驱动，美股指走高，太阳能板块普涨，日元创40年新低，金银油齐涨",
@@ -749,17 +763,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时42分 ~ 05时31分]"
-        },
-        {
-          "title": "【早报】多只A股公司业绩大增；美股存储概念半年涨超3倍；黄金、原油收跌；法国、挪威晋级世界杯16强",
-          "url": "https://www.cls.cn/detail/2413612",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时31分 ~ 08时32分]"
         },
         {
           "title": "耐克美股盘后跌幅扩大至6.6%。",
@@ -848,6 +851,17 @@
           "time_info": "[06时27分 ~ 07时27分]"
         },
         {
+          "title": "大摩警告：美股半导体或迎顶点",
+          "url": "https://www.douyin.com/hot/2553354",
+          "source": "抖音",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时42分 ~ 09时44分]"
+        },
+        {
           "title": "芝商所：将于7月27日推出覆盖50多只美股的单股期货产品。",
           "url": "https://flash.jin10.com/detail/20260701044747249800",
           "source": "金十数据",
@@ -884,15 +898,15 @@
           "time_info": "[06时27分 ~ 07时27分]"
         },
         {
-          "title": "大摩警告：美股半导体或迎顶点",
-          "url": "https://www.douyin.com/hot/2553354",
-          "source": "抖音",
+          "title": "A股氟化工板块盘初拉升，三美股份涨停，昊华科技、联创股份、金石资源、永和股份、巍华新材等跟涨。",
+          "url": "https://flash.jin10.com/detail/20260701093236524800",
+          "source": "金十数据",
           "ranks": [
             9
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时42分"
+          "time_info": "09时44分"
         },
         {
           "title": "美股“七巨头”指数6月下跌8.9%，创2025年3月以来最差单月表现。",
@@ -1071,8 +1085,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时26分 ~ 08时32分]"
+          "appearance_count": 5,
+          "time_info": "[07时26分 ~ 09时44分]"
         },
         {
           "title": "6月份两年期美债实际收益率涨超77个基点，二季度两年期收益率涨超35个基点",
