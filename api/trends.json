@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-10T22:13:52.075685+08:00",
-  "total_titles_processed": 1495,
+  "generated_at": "2026-08-10T23:50:58.614625+08:00",
+  "total_titles_processed": 1611,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 40,
+      "match_count": 52,
       "titles": [
         {
           "title": "万斯称美伊冲突仍处于“博弈中段”，美军“寻找出口”，伊朗开出“重开海峡6大条件”",
@@ -31,6 +31,18 @@
           "time_info": "[00时22分 ~ 08时56分]"
         },
         {
+          "title": "伊朗高层变动，最高领袖发出新任命",
+          "url": "https://news.ifeng.com/c/8vSqCKLbBLT",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[08时56分 ~ 23时50分]"
+        },
+        {
           "title": "伊朗最高领袖与总统会谈，重点讨论了这几个问题",
           "url": "https://news.ifeng.com/c/8vS3pS8BvYm",
           "source": "凤凰网",
@@ -42,18 +54,6 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[00时22分 ~ 11时07分]"
-        },
-        {
-          "title": "伊朗高层变动，最高领袖发出新任命",
-          "url": "https://news.ifeng.com/c/8vSqCKLbBLT",
-          "source": "凤凰网",
-          "ranks": [
-            1,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时56分 ~ 22时13分]"
         },
         {
           "title": "伊朗最高领袖与总统会谈",
@@ -71,17 +71,6 @@
           "time_info": "[00时22分 ~ 18时58分]"
         },
         {
-          "title": "伊朗最高领袖与总统会谈",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96%E4%B8%8E%E6%80%BB%E7%BB%9F%E4%BC%9A%E8%B0%88",
-          "source": "百度热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时22分 ~ 07时21分]"
-        },
-        {
           "title": "伊朗密集更换高层，释放何种信号？",
           "url": "https://news.ifeng.com/c/8vTT2C4rKru",
           "source": "凤凰网",
@@ -90,8 +79,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时08分 ~ 22时13分]"
+          "appearance_count": 7,
+          "time_info": "[17时08分 ~ 23时50分]"
         },
         {
           "title": "伊朗的5个条件，美国是否会照单全收？",
@@ -101,8 +90,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时08分 ~ 22时13分]"
+          "appearance_count": 7,
+          "time_info": "[17时08分 ~ 23时50分]"
         },
         {
           "title": "伊朗最高安全官员换人，雷扎伊何许人也？",
@@ -112,8 +101,19 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时58分 ~ 22时13分]"
+          "appearance_count": 6,
+          "time_info": "[18时58分 ~ 23时50分]"
+        },
+        {
+          "title": "伊朗最高领袖与总统会谈",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96%E4%B8%8E%E6%80%BB%E7%BB%9F%E4%BC%9A%E8%B0%88",
+          "source": "百度热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时22分 ~ 07时21分]"
         },
         {
           "title": "俄媒称伊朗布什尔核电站新机组建设仍在继续",
@@ -139,6 +139,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时56分"
+        },
+        {
+          "title": "伊朗最高领袖对武装部队进行新任命",
+          "url": "https://wallstreetcn.com/livenews/3147599",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时50分"
         },
         {
           "title": "伊朗在谈判关键时刻撤换最高安全官员",
@@ -378,6 +389,39 @@
           "time_info": "20时44分"
         },
         {
+          "title": "伊朗最高领袖将任命数名高级指挥官",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96%E5%B0%86%E4%BB%BB%E5%91%BD%E6%95%B0%E5%90%8D%E9%AB%98%E7%BA%A7%E6%8C%87%E6%8C%A5%E5%AE%98",
+          "source": "百度热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时50分"
+        },
+        {
+          "title": "伊朗总统：美以袭击依赖AI数据 但所有“算计”均被挫败",
+          "url": "https://flash.jin10.com/detail/20260810230305320800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时50分"
+        },
+        {
+          "title": "伊朗：霍尔木兹海峡局势取决于美方的行为",
+          "url": "https://flash.jin10.com/detail/20260810230128590800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时50分"
+        },
+        {
           "title": "伊朗最高领袖与总统会谈",
           "url": "https://www.douyin.com/hot/2603545",
           "source": "抖音",
@@ -387,6 +431,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时22分"
+        },
+        {
+          "title": "伊朗最高领袖将任命数名高级军事指挥官",
+          "url": "https://wallstreetcn.com/livenews/3147590",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时50分"
+        },
+        {
+          "title": "市场消息：伊朗外交部发言人表示，针对伊朗实施的海上封锁是对伊朗的侵略行径。",
+          "url": "https://flash.jin10.com/detail/20260810225708420800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时50分"
         },
         {
           "title": "战略专家警告：伊朗袭击暴露美军漏洞，美军海外资产面临毁灭风险！",
@@ -400,6 +466,39 @@
           "time_info": "08时56分"
         },
         {
+          "title": "市场消息：伊朗外交部发言人表示，霍尔木兹海峡局势取决于美方的行为，以及美方如何扭转其违规做法。",
+          "url": "https://flash.jin10.com/detail/20260810225646997800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时50分"
+        },
+        {
+          "title": "巴基斯坦外交部：伊朗外长同巴基斯坦外长讨论地区与国际局势。 双方就地区及国际事态交换看法，重点围绕地区局势演变以及维护和平稳定的各项努力。 巴外长与阿拉格齐复盘巴、土、沙三方《麦加协议》的各项条款，并着重强调该协议对促进地区和平安全的目标。",
+          "url": "https://wallstreetcn.com/livenews/3147587",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时50分"
+        },
+        {
+          "title": "市场消息：伊朗外交部发言人表示，与阿曼的谈判进展顺利，但也有人试图阻挠这一进程。",
+          "url": "https://flash.jin10.com/detail/20260810225611129800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时50分"
+        },
+        {
           "title": "伊朗总统：与最高领袖的会议持续了7-8小时。",
           "url": "https://flash.jin10.com/detail/20260810201128279800",
           "source": "金十数据",
@@ -409,6 +508,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时44分"
+        },
+        {
+          "title": "市场消息：伊朗即将发布由最高统帅签发的多位高级军事指挥官的任命。",
+          "url": "https://flash.jin10.com/detail/20260810225542972800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时50分"
         },
         {
           "title": "伊朗军方称美军敢来就斩断他们的脚",
@@ -455,6 +565,17 @@
           "time_info": "17时08分"
         },
         {
+          "title": "伊朗革命卫队总司令祝贺新任最高国家安全委员会秘书",
+          "url": "https://wallstreetcn.com/livenews/3147576",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时50分"
+        },
+        {
           "title": "伊朗正在改写霍尔木兹航线？",
           "url": "https://flash.jin10.com/detail/20260810163601223800",
           "source": "金十数据",
@@ -486,12 +607,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时08分"
+        },
+        {
+          "title": "巴基斯坦与伊朗外长通话 就地区局势交换意见",
+          "url": "https://wallstreetcn.com/livenews/3147570",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时50分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 27,
+      "match_count": 28,
       "titles": [
         {
           "title": "特朗普宣布：将向关键矿产和电池项目投资30亿美元",
@@ -526,8 +658,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时58分 ~ 22时13分]"
+          "appearance_count": 6,
+          "time_info": "[18时58分 ~ 23时50分]"
         },
         {
           "title": "鲁比奥一句“别回头”，特朗普：这画不错，我要带走",
@@ -550,8 +682,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时56分 ~ 22时13分]"
+          "appearance_count": 9,
+          "time_info": "[08时56分 ~ 23时50分]"
         },
         {
           "title": "特朗普这是此地无银三百两吗？",
@@ -562,8 +694,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时56分 ~ 22时13分]"
+          "appearance_count": 9,
+          "time_info": "[08时56分 ~ 23时50分]"
         },
         {
           "title": "新闻蒸馏器｜内塔尼亚胡公开拒绝美国15点加沙计划，与特朗普罕见摊牌",
@@ -576,8 +708,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时08分 ~ 22时13分]"
+          "appearance_count": 7,
+          "time_info": "[17时08分 ~ 23时50分]"
+        },
+        {
+          "title": "美媒焦虑：特朗普这招伤不了中国，买单的将是盟友和自己",
+          "url": "https://news.ifeng.com/c/8vTIjJmGwAk",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时08分 ~ 23时50分]"
         },
         {
           "title": "美媒：特朗普暂缓对伊动武，称正“低调处理”伊朗问题",
@@ -608,15 +751,18 @@
           "time_info": "[05时22分 ~ 07时21分]"
         },
         {
-          "title": "美媒焦虑：特朗普这招伤不了中国，买单的将是盟友和自己",
-          "url": "https://news.ifeng.com/c/8vTIjJmGwAk",
-          "source": "凤凰网",
+          "title": "伊朗称“目前伊美没有进行任何谈判”，特朗普表态“正在低调处理”",
+          "url": "https://wallstreetcn.com/articles/3779034",
+          "source": "华尔街见闻",
           "ranks": [
-            11
+            9,
+            8,
+            7,
+            10
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[17时08分 ~ 22时13分]"
+          "time_info": "[18时58分 ~ 23时50分]"
         },
         {
           "title": "特朗普宣布威尔·沙夫将出任总统助理兼白宫法律顾问",
@@ -628,19 +774,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时56分"
-        },
-        {
-          "title": "伊朗称“目前伊美没有进行任何谈判”，特朗普表态“正在低调处理”",
-          "url": "https://wallstreetcn.com/articles/3779034",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时58分 ~ 22时13分]"
         },
         {
           "title": "前美国安全官员警告：特朗普正按“独裁者剧本”行事，美国安全堪忧",
@@ -757,7 +890,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时13分"
         },
@@ -771,6 +904,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时58分"
+        },
+        {
+          "title": "释疑｜总在开盘前喊停？从两万五千条交易数据，看特朗普投资“玄学”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33561179",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时50分"
         },
         {
           "title": "特朗普周一行程",
@@ -820,7 +964,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "韩媒：SK海力士拟推710亿美元股东回报方案，40%用于回购股票，相当于美股发行规模",
@@ -880,6 +1024,18 @@
           "time_info": "18时58分"
         },
         {
+          "title": "美股开盘三大指数下挫，纳指跌0.1%，英特尔跌约3%，霍尔木兹谈判僵局推升油价，黄金维持高位",
+          "url": "https://wallstreetcn.com/articles/3779052",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时13分 ~ 23时50分]"
+        },
+        {
           "title": "美股股指期货周一开盘涨跌不一，纳指期货涨0.16%，道指期货跌0.14%。",
           "url": "https://flash.jin10.com/detail/20260810060135599800",
           "source": "金十数据",
@@ -915,15 +1071,15 @@
           "time_info": "[20时43分 ~ 20时44分]"
         },
         {
-          "title": "美股开盘三大指数下挫，纳指跌0.1%，英特尔跌约3%，霍尔木兹谈判僵局推升油价，黄金维持高位",
-          "url": "https://wallstreetcn.com/articles/3779052",
-          "source": "华尔街见闻",
+          "title": "美股CAPE升至42倍，未来十年会变成“失去的十年”吗？",
+          "url": "https://flash.jin10.com/detail/20260810230305789800",
+          "source": "金十数据",
           "ranks": [
-            7
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时13分"
+          "time_info": "23时50分"
         },
         {
           "title": "美股盘初：纳指跌0.1%，英特尔跌约3%，Meta涨约1%",
@@ -932,7 +1088,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时13分"
         },
@@ -943,7 +1099,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时13分"
         },
@@ -987,7 +1143,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时13分"
         },
@@ -998,7 +1154,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时13分"
         }
@@ -1094,7 +1250,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时13分"
         }
@@ -1110,11 +1266,12 @@
           "source": "华尔街见闻",
           "ranks": [
             4,
-            3
+            3,
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时08分 ~ 22时13分]"
+          "appearance_count": 7,
+          "time_info": "[17时08分 ~ 23时50分]"
         }
       ]
     },
